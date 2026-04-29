@@ -1,0 +1,217 @@
+{
+  "_ticker": "FDX",
+  "_quarter": "Q2-2026",
+  "_call_date": "2025-12-18",
+  "primary_model": "qwen3:14b",
+  "secondary_model": "gemma3:4b",
+  "primary": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.9,
+    "wins": [
+      {
+        "label": "Strong Q2 Performance",
+        "severity": 5,
+        "evidence": "We delivered strong results, high single-digit revenue growth, margin expansion and high teens adjusted EPS growth."
+      },
+      {
+        "label": "Network Resilience",
+        "severity": 4,
+        "evidence": "We demonstrated the resilience and flexibility we have built into our network and our ongoing efforts to reduce structural costs are leading to significant improvements in profitability."
+      },
+      {
+        "label": "Raised EPS Outlook",
+        "severity": 5,
+        "evidence": "Given the strength of our Q2 results and our updated assumptions for the second half, we are raising our adjusted EPS outlook to $17.80 to $19."
+      },
+      {
+        "label": "B2B Growth",
+        "severity": 4,
+        "evidence": "Nearly half of our revenue growth was driven by B2B services, an important enabler of increased profitability."
+      },
+      {
+        "label": "Spinoff Progress",
+        "severity": 3,
+        "evidence": "FedEx Freight's entire executive leadership team is now in place, and the team is moving quickly to prepare for the separation."
+      }
+    ],
+    "risks": [
+      {
+        "label": "MD-11 Grounding Impact",
+        "severity": 4,
+        "evidence": "The grounding of our MD-11 fleet pressured our Q2 adjusted operating income by about $25 million."
+      },
+      {
+        "label": "LTL Industry Weakness",
+        "severity": 4,
+        "evidence": "Freight results remain pressured, driven primarily by lower volumes, partially offset by higher weight and revenue per shipment."
+      },
+      {
+        "label": "Global Trade Policy Uncertainty",
+        "severity": 3,
+        "evidence": "The impact of global trade policy changes continues to create headwinds for our business."
+      },
+      {
+        "label": "Spinoff Costs",
+        "severity": 3,
+        "evidence": "We expect $100 million of the $300 million impact to be due to separation costs."
+      },
+      {
+        "label": "Variable Incentive Compensation",
+        "severity": 3,
+        "evidence": "We have embedded a higher accrual for variable incentive compensation in our revised outlook."
+      }
+    ],
+    "themes": [
+      "network transformation",
+      "b2b growth",
+      "spinoff",
+      "margin expansion",
+      "global trade policy"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.25,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Strong Q2 Performance",
+        "severity": 4,
+        "evidence": "Revenue was up 7% year-over-year, margin expansion and high teens adjusted EPS growth."
+      },
+      {
+        "label": "Network 2.0 Progress",
+        "severity": 3,
+        "evidence": "24% of eligible average daily volume flowing through Network 2.0 optimized facilities."
+      },
+      {
+        "label": "B2B Growth",
+        "severity": 4,
+        "evidence": "Nearly half of FEC revenue growth was driven by B2B services."
+      },
+      {
+        "label": "Yield Management",
+        "severity": 5,
+        "evidence": "U.S. domestic package yield was up over 5%, driven by higher revenue growth."
+      },
+      {
+        "label": "Strategic Collaboration with ServiceNow",
+        "severity": 3,
+        "evidence": "Launched a global AI program to help teams innovate faster and solve challenges more effectively."
+      }
+    ],
+    "risks": [
+      {
+        "label": "LTL Market Pressure",
+        "severity": 4,
+        "evidence": "FedEx Freight adjusted operating income declined by $70 million and adjusted operating margin contracted 3 percentage points."
+      },
+      {
+        "label": "International Export Headwind",
+        "severity": 3,
+        "evidence": "International export volumes declined, driven again by lower volumes on the China to U.S. lane."
+      },
+      {
+        "label": "MD-11 Groundings Impact",
+        "severity": 5,
+        "evidence": "Q2 adjusted operating income impacted by approximately $25 million due to the MD-11 groundings."
+      },
+      {
+        "label": "Global Trade Policy Changes",
+        "severity": 4,
+        "evidence": "Multiple headwinds including the unexpected grounding of our MD-11 fleet, nationwide air traffic constraints, weakness in the industrial economy and of course, the impact of global trade policy changes."
+      },
+      {
+        "label": "Uncertainty in LTL Industry",
+        "severity": 3,
+        "evidence": "Continued pressure on average daily shipments in the LTL business."
+      }
+    ],
+    "themes": [
+      "transformation",
+      "network optimization",
+      "yield management",
+      "digital innovation",
+      "strategic spin-off"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 0.25,
+    "risks_jaccard": 0.0,
+    "themes_jaccard": 0.0,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.6,
+    "agreement_score": 0.22499999999999998,
+    "agreement_confidence": 0.09
+  },
+  "chosen": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.9,
+    "wins": [
+      {
+        "label": "Strong Q2 Performance",
+        "severity": 5,
+        "evidence": "We delivered strong results, high single-digit revenue growth, margin expansion and high teens adjusted EPS growth."
+      },
+      {
+        "label": "Network Resilience",
+        "severity": 4,
+        "evidence": "We demonstrated the resilience and flexibility we have built into our network and our ongoing efforts to reduce structural costs are leading to significant improvements in profitability."
+      },
+      {
+        "label": "Raised EPS Outlook",
+        "severity": 5,
+        "evidence": "Given the strength of our Q2 results and our updated assumptions for the second half, we are raising our adjusted EPS outlook to $17.80 to $19."
+      },
+      {
+        "label": "B2B Growth",
+        "severity": 4,
+        "evidence": "Nearly half of our revenue growth was driven by B2B services, an important enabler of increased profitability."
+      },
+      {
+        "label": "Spinoff Progress",
+        "severity": 3,
+        "evidence": "FedEx Freight's entire executive leadership team is now in place, and the team is moving quickly to prepare for the separation."
+      }
+    ],
+    "risks": [
+      {
+        "label": "MD-11 Grounding Impact",
+        "severity": 4,
+        "evidence": "The grounding of our MD-11 fleet pressured our Q2 adjusted operating income by about $25 million."
+      },
+      {
+        "label": "LTL Industry Weakness",
+        "severity": 4,
+        "evidence": "Freight results remain pressured, driven primarily by lower volumes, partially offset by higher weight and revenue per shipment."
+      },
+      {
+        "label": "Global Trade Policy Uncertainty",
+        "severity": 3,
+        "evidence": "The impact of global trade policy changes continues to create headwinds for our business."
+      },
+      {
+        "label": "Spinoff Costs",
+        "severity": 3,
+        "evidence": "We expect $100 million of the $300 million impact to be due to separation costs."
+      },
+      {
+        "label": "Variable Incentive Compensation",
+        "severity": 3,
+        "evidence": "We have embedded a higher accrual for variable incentive compensation in our revised outlook."
+      }
+    ],
+    "themes": [
+      "network transformation",
+      "b2b growth",
+      "spinoff",
+      "margin expansion",
+      "global trade policy"
+    ]
+  }
+}

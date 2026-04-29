@@ -1,0 +1,217 @@
+{
+  "_ticker": "C",
+  "_quarter": "Q2-2025",
+  "_call_date": "2025-07-15",
+  "primary_model": "qwen3:14b",
+  "secondary_model": "gemma3:4b",
+  "primary": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "Strong Q2 Performance",
+        "severity": 5,
+        "evidence": "This morning, we reported another very good quarter with net income of $4 billion, earnings per share of $1.96 with an ROTCE of 8.7%. Revenues were up 8% and 3 of our 5 businesses had record second quarter revenues."
+      },
+      {
+        "label": "Services Business Momentum",
+        "severity": 5,
+        "evidence": "Services continues to show why this high-returning business with 23% ROTCE for the quarter is our crown jewel. Revenue was up 8%, with robust growth in both loans and deposits."
+      },
+      {
+        "label": "Markets Business Growth",
+        "severity": 5,
+        "evidence": "Markets revenues were up 16%, the best second quarter since 2020. In fixed income, the flows we saw in rates and currencies were particularly strong, backed by client momentum."
+      },
+      {
+        "label": "Wealth Business Performance",
+        "severity": 4,
+        "evidence": "Wealth delivered a pretax margin of 29% as revenues were up 20%, with each line of business growing significantly and noninterest revenue up 17%."
+      },
+      {
+        "label": "Capital Return to Shareholders",
+        "severity": 4,
+        "evidence": "During the quarter, we returned over $3 billion in capital to our common shareholders, which includes $2 billion in share repurchases."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Macro Uncertainty",
+        "severity": 3,
+        "evidence": "We did see inflows slow this quarter as clients were cautious amidst macro uncertainty."
+      },
+      {
+        "label": "Transformation Costs",
+        "severity": 3,
+        "evidence": "We expect to see some of the increase in transformation expenses in '25 will trend down over time."
+      },
+      {
+        "label": "Regulatory Uncertainty",
+        "severity": 2,
+        "evidence": "There is still some uncertainty as to what the SCB will ultimately be, the reduction will be, depending on whether it's an average of the last 2 years or not."
+      },
+      {
+        "label": "Credit Risk",
+        "severity": 2,
+        "evidence": "We have a net ACL build of $333 million, primarily related to transfer risk associated with our clients' activities in Russia."
+      },
+      {
+        "label": "Stranded Costs",
+        "severity": 2,
+        "evidence": "There's still about $1.2 billion left [of stranded costs] that will trend down over the next couple of years."
+      }
+    ],
+    "themes": [
+      "strong q2 results",
+      "transformation progress",
+      "capital return",
+      "business growth",
+      "digital innovation"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.65,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "bullish",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Strong Q2 Results",
+        "severity": 4,
+        "evidence": "Net income of $4 billion, earnings per share of $1.96 with an ROTCE of 8.7%"
+      },
+      {
+        "label": "Record Revenues",
+        "severity": 5,
+        "evidence": "3 of our 5 businesses had record second quarter revenues"
+      },
+      {
+        "label": "Positive Operating Leverage",
+        "severity": 4,
+        "evidence": "We again had positive operating leverage at each business and the group level"
+      },
+      {
+        "label": "Services Crown Jewel",
+        "severity": 5,
+        "evidence": "Services continues to show why this high-returning business with 23% ROTCE for the quarter is our crown jewel"
+      },
+      {
+        "label": "Markets Performance",
+        "severity": 4,
+        "evidence": "Markets revenues were up 16%, the best second quarter since 2020"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Macroeconomic Uncertainty",
+        "severity": 3,
+        "evidence": "And with that, I\u2019ll turn it over to Jane. And with that, I\u2019ll turn it over to Jane."
+      },
+      {
+        "label": "Potential for Tariffs",
+        "severity": 4,
+        "evidence": "Well, it\u2019s proven to be more resilient than most of us anticipated. But we aren't dropping our guard as we begin the second half of the year. We expect to see goods prices to start ticking up over the summer as tariffs take effect"
+      },
+      {
+        "label": "Client Caution",
+        "severity": 3,
+        "evidence": "And we have seen pauses in CapEx and hiring amongst our client base."
+      },
+      {
+        "label": "Regulatory Scrutiny",
+        "severity": 4,
+        "evidence": "And so there, you can see that the net build in the quarter is associated with the transfer risk in Russia."
+      },
+      {
+        "label": "Stablecoin Competition",
+        "severity": 3,
+        "evidence": "If you keep in mind, right now, stablecoins, about 88% of all stablecoin transactions are used to settle crypto trades."
+      }
+    ],
+    "themes": [
+      "financial performance",
+      "strategic transformation",
+      "digital assets",
+      "risk management",
+      "capital allocation"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 0.0,
+    "risks_jaccard": 0.0,
+    "themes_jaccard": 0.0,
+    "guidance_match": 0.0,
+    "sentiment_gap": 0.19999999999999996,
+    "agreement_score": 0.0,
+    "agreement_confidence": 0.0
+  },
+  "chosen": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "Strong Q2 Performance",
+        "severity": 5,
+        "evidence": "This morning, we reported another very good quarter with net income of $4 billion, earnings per share of $1.96 with an ROTCE of 8.7%. Revenues were up 8% and 3 of our 5 businesses had record second quarter revenues."
+      },
+      {
+        "label": "Services Business Momentum",
+        "severity": 5,
+        "evidence": "Services continues to show why this high-returning business with 23% ROTCE for the quarter is our crown jewel. Revenue was up 8%, with robust growth in both loans and deposits."
+      },
+      {
+        "label": "Markets Business Growth",
+        "severity": 5,
+        "evidence": "Markets revenues were up 16%, the best second quarter since 2020. In fixed income, the flows we saw in rates and currencies were particularly strong, backed by client momentum."
+      },
+      {
+        "label": "Wealth Business Performance",
+        "severity": 4,
+        "evidence": "Wealth delivered a pretax margin of 29% as revenues were up 20%, with each line of business growing significantly and noninterest revenue up 17%."
+      },
+      {
+        "label": "Capital Return to Shareholders",
+        "severity": 4,
+        "evidence": "During the quarter, we returned over $3 billion in capital to our common shareholders, which includes $2 billion in share repurchases."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Macro Uncertainty",
+        "severity": 3,
+        "evidence": "We did see inflows slow this quarter as clients were cautious amidst macro uncertainty."
+      },
+      {
+        "label": "Transformation Costs",
+        "severity": 3,
+        "evidence": "We expect to see some of the increase in transformation expenses in '25 will trend down over time."
+      },
+      {
+        "label": "Regulatory Uncertainty",
+        "severity": 2,
+        "evidence": "There is still some uncertainty as to what the SCB will ultimately be, the reduction will be, depending on whether it's an average of the last 2 years or not."
+      },
+      {
+        "label": "Credit Risk",
+        "severity": 2,
+        "evidence": "We have a net ACL build of $333 million, primarily related to transfer risk associated with our clients' activities in Russia."
+      },
+      {
+        "label": "Stranded Costs",
+        "severity": 2,
+        "evidence": "There's still about $1.2 billion left [of stranded costs] that will trend down over the next couple of years."
+      }
+    ],
+    "themes": [
+      "strong q2 results",
+      "transformation progress",
+      "capital return",
+      "business growth",
+      "digital innovation"
+    ]
+  }
+}

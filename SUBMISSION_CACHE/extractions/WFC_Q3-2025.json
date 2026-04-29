@@ -1,0 +1,234 @@
+{
+  "_ticker": "WFC",
+  "_quarter": "Q3-2025",
+  "_call_date": "2025-10-14",
+  "backend": "anthropic",
+  "primary_model": "gemma3:4b",
+  "secondary_model": "gemma3:4b",
+  "single_call_mode": true,
+  "primary": {
+    "overall_sentiment": 0.72,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Strong Q3 Financial Results",
+        "severity": 4,
+        "evidence": "net income and diluted earnings per share, both up from a year ago and the second quarter. Revenue increased 5% from a year ago with growth in both net interest income and strong fee-based revenue"
+      },
+      {
+        "label": "Asset Cap Lifted - Growth Unlocked",
+        "severity": 5,
+        "evidence": "Our total assets at the end of the third quarter were over $2 trillion for the first time in the company's history. We have grown our trading-related assets in the corporate and investment banking, which are up 50% since the end of 2023"
+      },
+      {
+        "label": "Investment Banking Market Share Gains",
+        "severity": 4,
+        "evidence": "In investment banking, we have gained over 120 basis points of share in the U.S. since 2022, the most of any investment bank. investment banking fees increasing 25% from a year ago"
+      },
+      {
+        "label": "Improved Credit Performance",
+        "severity": 3,
+        "evidence": "Our credit performance was strong and continued to improve. Our net loan charge-off ratio declined 9 basis points from a year ago and 4 basis points from the second quarter"
+      },
+      {
+        "label": "Significant Expense Reduction & Efficiency",
+        "severity": 4,
+        "evidence": "By the end of this year, we expect to have achieved approximately $15 billion of gross expense saves. Our headcount has declined from a peak of approximately 276,000 in second quarter 2020 to approximately 211,000 in the third quarter 2025, down 24%"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Credit Card Growth Drag on Near-Term Earnings",
+        "severity": 2,
+        "evidence": "growing credit card portfolios are a drag on earnings and returns until approximately the third year before starting to add to earnings"
+      },
+      {
+        "label": "Consumer Business Returns Below Industry",
+        "severity": 3,
+        "evidence": "Our consumer businesses are currently generating returns below the industry"
+      },
+      {
+        "label": "Commercial Real Estate Office Losses Expected",
+        "severity": 2,
+        "evidence": "Office valuations continue to stabilize. And although we expect additional losses, which could be lumpy, they should be well within our expectations"
+      },
+      {
+        "label": "ROTCE Target Dependent on Multiple Factors",
+        "severity": 2,
+        "evidence": "Our new ROTCE target is obviously dependent on a variety of factors, including interest rates, the broader macroeconomic environment and the regulatory environment"
+      },
+      {
+        "label": "Commercial Bank Utilization Rates Remain Flat",
+        "severity": 2,
+        "evidence": "What we're not seeing is growth in the commercial bank yet. And really, that's just because the utilization rates and the revolvers continue to be pretty stable"
+      }
+    ],
+    "themes": [
+      "asset_cap_removal",
+      "return_on_equity_improvement",
+      "capital_return",
+      "investment_banking_growth",
+      "efficiency_initiatives",
+      "loan_growth_acceleration",
+      "credit_quality",
+      "us_focused_strategy",
+      "wealth_management_expansion",
+      "digital_transformation"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.72,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Strong Q3 Financial Results",
+        "severity": 4,
+        "evidence": "net income and diluted earnings per share, both up from a year ago and the second quarter. Revenue increased 5% from a year ago with growth in both net interest income and strong fee-based revenue"
+      },
+      {
+        "label": "Asset Cap Lifted - Growth Unlocked",
+        "severity": 5,
+        "evidence": "Our total assets at the end of the third quarter were over $2 trillion for the first time in the company's history. We have grown our trading-related assets in the corporate and investment banking, which are up 50% since the end of 2023"
+      },
+      {
+        "label": "Investment Banking Market Share Gains",
+        "severity": 4,
+        "evidence": "In investment banking, we have gained over 120 basis points of share in the U.S. since 2022, the most of any investment bank. investment banking fees increasing 25% from a year ago"
+      },
+      {
+        "label": "Improved Credit Performance",
+        "severity": 3,
+        "evidence": "Our credit performance was strong and continued to improve. Our net loan charge-off ratio declined 9 basis points from a year ago and 4 basis points from the second quarter"
+      },
+      {
+        "label": "Significant Expense Reduction & Efficiency",
+        "severity": 4,
+        "evidence": "By the end of this year, we expect to have achieved approximately $15 billion of gross expense saves. Our headcount has declined from a peak of approximately 276,000 in second quarter 2020 to approximately 211,000 in the third quarter 2025, down 24%"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Credit Card Growth Drag on Near-Term Earnings",
+        "severity": 2,
+        "evidence": "growing credit card portfolios are a drag on earnings and returns until approximately the third year before starting to add to earnings"
+      },
+      {
+        "label": "Consumer Business Returns Below Industry",
+        "severity": 3,
+        "evidence": "Our consumer businesses are currently generating returns below the industry"
+      },
+      {
+        "label": "Commercial Real Estate Office Losses Expected",
+        "severity": 2,
+        "evidence": "Office valuations continue to stabilize. And although we expect additional losses, which could be lumpy, they should be well within our expectations"
+      },
+      {
+        "label": "ROTCE Target Dependent on Multiple Factors",
+        "severity": 2,
+        "evidence": "Our new ROTCE target is obviously dependent on a variety of factors, including interest rates, the broader macroeconomic environment and the regulatory environment"
+      },
+      {
+        "label": "Commercial Bank Utilization Rates Remain Flat",
+        "severity": 2,
+        "evidence": "What we're not seeing is growth in the commercial bank yet. And really, that's just because the utilization rates and the revolvers continue to be pretty stable"
+      }
+    ],
+    "themes": [
+      "asset_cap_removal",
+      "return_on_equity_improvement",
+      "capital_return",
+      "investment_banking_growth",
+      "efficiency_initiatives",
+      "loan_growth_acceleration",
+      "credit_quality",
+      "us_focused_strategy",
+      "wealth_management_expansion",
+      "digital_transformation"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 1.0,
+    "risks_jaccard": 1.0,
+    "themes_jaccard": 1.0,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.0,
+    "agreement_score": 1.0,
+    "agreement_confidence": 1.0
+  },
+  "chosen": {
+    "overall_sentiment": 0.72,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Strong Q3 Financial Results",
+        "severity": 4,
+        "evidence": "net income and diluted earnings per share, both up from a year ago and the second quarter. Revenue increased 5% from a year ago with growth in both net interest income and strong fee-based revenue"
+      },
+      {
+        "label": "Asset Cap Lifted - Growth Unlocked",
+        "severity": 5,
+        "evidence": "Our total assets at the end of the third quarter were over $2 trillion for the first time in the company's history. We have grown our trading-related assets in the corporate and investment banking, which are up 50% since the end of 2023"
+      },
+      {
+        "label": "Investment Banking Market Share Gains",
+        "severity": 4,
+        "evidence": "In investment banking, we have gained over 120 basis points of share in the U.S. since 2022, the most of any investment bank. investment banking fees increasing 25% from a year ago"
+      },
+      {
+        "label": "Improved Credit Performance",
+        "severity": 3,
+        "evidence": "Our credit performance was strong and continued to improve. Our net loan charge-off ratio declined 9 basis points from a year ago and 4 basis points from the second quarter"
+      },
+      {
+        "label": "Significant Expense Reduction & Efficiency",
+        "severity": 4,
+        "evidence": "By the end of this year, we expect to have achieved approximately $15 billion of gross expense saves. Our headcount has declined from a peak of approximately 276,000 in second quarter 2020 to approximately 211,000 in the third quarter 2025, down 24%"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Credit Card Growth Drag on Near-Term Earnings",
+        "severity": 2,
+        "evidence": "growing credit card portfolios are a drag on earnings and returns until approximately the third year before starting to add to earnings"
+      },
+      {
+        "label": "Consumer Business Returns Below Industry",
+        "severity": 3,
+        "evidence": "Our consumer businesses are currently generating returns below the industry"
+      },
+      {
+        "label": "Commercial Real Estate Office Losses Expected",
+        "severity": 2,
+        "evidence": "Office valuations continue to stabilize. And although we expect additional losses, which could be lumpy, they should be well within our expectations"
+      },
+      {
+        "label": "ROTCE Target Dependent on Multiple Factors",
+        "severity": 2,
+        "evidence": "Our new ROTCE target is obviously dependent on a variety of factors, including interest rates, the broader macroeconomic environment and the regulatory environment"
+      },
+      {
+        "label": "Commercial Bank Utilization Rates Remain Flat",
+        "severity": 2,
+        "evidence": "What we're not seeing is growth in the commercial bank yet. And really, that's just because the utilization rates and the revolvers continue to be pretty stable"
+      }
+    ],
+    "themes": [
+      "asset_cap_removal",
+      "return_on_equity_improvement",
+      "capital_return",
+      "investment_banking_growth",
+      "efficiency_initiatives",
+      "loan_growth_acceleration",
+      "credit_quality",
+      "us_focused_strategy",
+      "wealth_management_expansion",
+      "digital_transformation"
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "_ticker": "INTC",
+  "_quarter": "Q4-2024",
+  "_call_date": "2025-01-30",
+  "backend": "anthropic",
+  "primary_model": "gemma3:4b",
+  "secondary_model": "gemma3:4b",
+  "single_call_mode": true,
+  "primary": {
+    "overall_sentiment": -0.15,
+    "sentiment_bucket": "bearish",
+    "guidance_direction": "lowered",
+    "guidance_confidence": 0.72,
+    "wins": [
+      {
+        "label": "Q4 beat on revenue, gross margin, and EPS",
+        "severity": 2,
+        "evidence": "We delivered revenue, gross margin and EPS above our guide"
+      },
+      {
+        "label": "AI PC market leadership with Core Ultra",
+        "severity": 2,
+        "evidence": "The success of Core Ultra across Meteor Lake, Arrow Lake and Lunar Lake has established Intel as the market leader in AI PC CPUs, and we remain on track to ship more than 100 million cumulative systems by the end of 2025"
+      },
+      {
+        "label": "Intel 18A process progress and competitive positioning",
+        "severity": 2,
+        "evidence": "we're confident that we are delivering a competitive process. We're excited by the launch of Panther Lake this year and the internal ramp of Intel 18A in the second half"
+      },
+      {
+        "label": "Government support with $7.86B CHIPS grants",
+        "severity": 2,
+        "evidence": "we sign with the U.S. Department of Commerce a definitive agreement awarding us up to $7.86 billion in grants"
+      },
+      {
+        "label": "Foundry operating loss improvement and EUV mix shift",
+        "severity": 2,
+        "evidence": "EUV wafer revenue grew from 1% of total revenue in 2023 to greater than 5% in 2024"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Significant data center competitive gap vs. AMD",
+        "severity": 4,
+        "evidence": "I'm not happy with where we are today. On the one hand, we have a leading position as the host CPU for AI servers...On the other hand, we're not yet participating in the cloud-based AI data center market in a meaningful way"
+      },
+      {
+        "label": "Q1 2025 revenue guidance decline of 11-18% sequentially",
+        "severity": 4,
+        "evidence": "we're forecasting a revenue range of $11.7 billion to $12.7 billion in the first quarter of 2025, down between 11% to 18% sequentially"
+      },
+      {
+        "label": "Foundry business remains deeply unprofitable with $13B+ operating loss in 2024",
+        "severity": 5,
+        "evidence": "At roughly $18 billion in revenue, Intel Foundry today is larger than all but one external foundry. That's clearly not reflected on our P&L with negative gross margins and a greater than $13 billion operating loss in 2024"
+      },
+      {
+        "label": "Product margin pressure from Lunar Lake cost structure",
+        "severity": 3,
+        "evidence": "Lunar Lake has a higher cost, as you know, because it's got the memory and package. And so we're basically buying that memory and turning around and selling it at the same price, so that's really weighing the margins down on Lunar Lake"
+      },
+      {
+        "label": "Falcon Shores cancelled; AI accelerator strategy reset",
+        "severity": 3,
+        "evidence": "Based on industry feedback, we plan to leverage Falcon Shores as an internal test chip only without bringing it to market"
+      }
+    ],
+    "themes": [
+      "execution_credibility",
+      "competitive_pressure",
+      "foundry_losses",
+      "margin_compression",
+      "ai_market_challenges",
+      "government_support",
+      "cost_reduction",
+      "market_share_defense",
+      "process_technology_progress",
+      "capital_efficiency"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": -0.15,
+    "sentiment_bucket": "bearish",
+    "guidance_direction": "lowered",
+    "guidance_confidence": 0.72,
+    "wins": [
+      {
+        "label": "Q4 beat on revenue, gross margin, and EPS",
+        "severity": 2,
+        "evidence": "We delivered revenue, gross margin and EPS above our guide"
+      },
+      {
+        "label": "AI PC market leadership with Core Ultra",
+        "severity": 2,
+        "evidence": "The success of Core Ultra across Meteor Lake, Arrow Lake and Lunar Lake has established Intel as the market leader in AI PC CPUs, and we remain on track to ship more than 100 million cumulative systems by the end of 2025"
+      },
+      {
+        "label": "Intel 18A process progress and competitive positioning",
+        "severity": 2,
+        "evidence": "we're confident that we are delivering a competitive process. We're excited by the launch of Panther Lake this year and the internal ramp of Intel 18A in the second half"
+      },
+      {
+        "label": "Government support with $7.86B CHIPS grants",
+        "severity": 2,
+        "evidence": "we sign with the U.S. Department of Commerce a definitive agreement awarding us up to $7.86 billion in grants"
+      },
+      {
+        "label": "Foundry operating loss improvement and EUV mix shift",
+        "severity": 2,
+        "evidence": "EUV wafer revenue grew from 1% of total revenue in 2023 to greater than 5% in 2024"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Significant data center competitive gap vs. AMD",
+        "severity": 4,
+        "evidence": "I'm not happy with where we are today. On the one hand, we have a leading position as the host CPU for AI servers...On the other hand, we're not yet participating in the cloud-based AI data center market in a meaningful way"
+      },
+      {
+        "label": "Q1 2025 revenue guidance decline of 11-18% sequentially",
+        "severity": 4,
+        "evidence": "we're forecasting a revenue range of $11.7 billion to $12.7 billion in the first quarter of 2025, down between 11% to 18% sequentially"
+      },
+      {
+        "label": "Foundry business remains deeply unprofitable with $13B+ operating loss in 2024",
+        "severity": 5,
+        "evidence": "At roughly $18 billion in revenue, Intel Foundry today is larger than all but one external foundry. That's clearly not reflected on our P&L with negative gross margins and a greater than $13 billion operating loss in 2024"
+      },
+      {
+        "label": "Product margin pressure from Lunar Lake cost structure",
+        "severity": 3,
+        "evidence": "Lunar Lake has a higher cost, as you know, because it's got the memory and package. And so we're basically buying that memory and turning around and selling it at the same price, so that's really weighing the margins down on Lunar Lake"
+      },
+      {
+        "label": "Falcon Shores cancelled; AI accelerator strategy reset",
+        "severity": 3,
+        "evidence": "Based on industry feedback, we plan to leverage Falcon Shores as an internal test chip only without bringing it to market"
+      }
+    ],
+    "themes": [
+      "execution_credibility",
+      "competitive_pressure",
+      "foundry_losses",
+      "margin_compression",
+      "ai_market_challenges",
+      "government_support",
+      "cost_reduction",
+      "market_share_defense",
+      "process_technology_progress",
+      "capital_efficiency"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 1.0,
+    "risks_jaccard": 1.0,
+    "themes_jaccard": 1.0,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.0,
+    "agreement_score": 1.0,
+    "agreement_confidence": 1.0
+  },
+  "chosen": {
+    "overall_sentiment": -0.15,
+    "sentiment_bucket": "bearish",
+    "guidance_direction": "lowered",
+    "guidance_confidence": 0.72,
+    "wins": [
+      {
+        "label": "Q4 beat on revenue, gross margin, and EPS",
+        "severity": 2,
+        "evidence": "We delivered revenue, gross margin and EPS above our guide"
+      },
+      {
+        "label": "AI PC market leadership with Core Ultra",
+        "severity": 2,
+        "evidence": "The success of Core Ultra across Meteor Lake, Arrow Lake and Lunar Lake has established Intel as the market leader in AI PC CPUs, and we remain on track to ship more than 100 million cumulative systems by the end of 2025"
+      },
+      {
+        "label": "Intel 18A process progress and competitive positioning",
+        "severity": 2,
+        "evidence": "we're confident that we are delivering a competitive process. We're excited by the launch of Panther Lake this year and the internal ramp of Intel 18A in the second half"
+      },
+      {
+        "label": "Government support with $7.86B CHIPS grants",
+        "severity": 2,
+        "evidence": "we sign with the U.S. Department of Commerce a definitive agreement awarding us up to $7.86 billion in grants"
+      },
+      {
+        "label": "Foundry operating loss improvement and EUV mix shift",
+        "severity": 2,
+        "evidence": "EUV wafer revenue grew from 1% of total revenue in 2023 to greater than 5% in 2024"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Significant data center competitive gap vs. AMD",
+        "severity": 4,
+        "evidence": "I'm not happy with where we are today. On the one hand, we have a leading position as the host CPU for AI servers...On the other hand, we're not yet participating in the cloud-based AI data center market in a meaningful way"
+      },
+      {
+        "label": "Q1 2025 revenue guidance decline of 11-18% sequentially",
+        "severity": 4,
+        "evidence": "we're forecasting a revenue range of $11.7 billion to $12.7 billion in the first quarter of 2025, down between 11% to 18% sequentially"
+      },
+      {
+        "label": "Foundry business remains deeply unprofitable with $13B+ operating loss in 2024",
+        "severity": 5,
+        "evidence": "At roughly $18 billion in revenue, Intel Foundry today is larger than all but one external foundry. That's clearly not reflected on our P&L with negative gross margins and a greater than $13 billion operating loss in 2024"
+      },
+      {
+        "label": "Product margin pressure from Lunar Lake cost structure",
+        "severity": 3,
+        "evidence": "Lunar Lake has a higher cost, as you know, because it's got the memory and package. And so we're basically buying that memory and turning around and selling it at the same price, so that's really weighing the margins down on Lunar Lake"
+      },
+      {
+        "label": "Falcon Shores cancelled; AI accelerator strategy reset",
+        "severity": 3,
+        "evidence": "Based on industry feedback, we plan to leverage Falcon Shores as an internal test chip only without bringing it to market"
+      }
+    ],
+    "themes": [
+      "execution_credibility",
+      "competitive_pressure",
+      "foundry_losses",
+      "margin_compression",
+      "ai_market_challenges",
+      "government_support",
+      "cost_reduction",
+      "market_share_defense",
+      "process_technology_progress",
+      "capital_efficiency"
+    ]
+  }
+}

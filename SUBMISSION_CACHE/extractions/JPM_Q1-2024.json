@@ -1,0 +1,234 @@
+{
+  "_ticker": "JPM",
+  "_quarter": "Q1-2024",
+  "_call_date": "2024-04-12",
+  "backend": "anthropic",
+  "primary_model": "gemma3:4b",
+  "secondary_model": "gemma3:4b",
+  "single_call_mode": true,
+  "primary": {
+    "overall_sentiment": 0.62,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.75,
+    "wins": [
+      {
+        "label": "Strong Investment Banking growth",
+        "severity": 2,
+        "evidence": "Firm-wide IB fees were up 18% year-on-year, reflecting particular strength in underwriting fees"
+      },
+      {
+        "label": "Robust net inflows across wealth management",
+        "severity": 2,
+        "evidence": "strong net inflows across AWM as well as in the CCB and Wealth Management business"
+      },
+      {
+        "label": "Solid profitability and capital position",
+        "severity": 2,
+        "evidence": "net income of $13.4 billion, EPS of $4.44 on revenue of $42.5 billion and delivered an ROTCE of 21%"
+      },
+      {
+        "label": "Consumer financial health remains resilient",
+        "severity": 2,
+        "evidence": "Consumers remain financially healthy, supported by a resilient labor market. While cash buffers have largely normalized, balances were still above pre-pandemic levels"
+      },
+      {
+        "label": "Card business momentum with 13% outstandings growth",
+        "severity": 2,
+        "evidence": "Card outstandings were up 13% due to strong account acquisition and the continued normalization of revolve"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Deposit margin compression ongoing",
+        "severity": 4,
+        "evidence": "deposit margin compression and lower deposit balances in CCB. Migration from checking and savings to CDs is sort of the dominant trend that is driving the increase in weighted average rate paid"
+      },
+      {
+        "label": "Markets revenue volatility and pullback risk",
+        "severity": 3,
+        "evidence": "Markets revenue was down $400 million or 5% year-on-year. some meaningful portion of that is likely pulling forward from later in the year"
+      },
+      {
+        "label": "M&A advisory headwinds from regulatory environment",
+        "severity": 4,
+        "evidence": "Advisory business still faces structural headwinds from the regulatory environment. there's the well-known kind of regulatory headwinds there, and that's definitely having a bit of a chilling effect"
+      },
+      {
+        "label": "Macro and geopolitical uncertainties persist",
+        "severity": 4,
+        "evidence": "economic, geopolitical and regulatory uncertainties that we have been talking about for some time remain prominent. I just think the chance of that happen is higher than other people"
+      },
+      {
+        "label": "Credit normalization and charge-off increases",
+        "severity": 3,
+        "evidence": "Net charge-offs were up $116 million predominantly driven by Card. net charge-offs were up $825 million year-on-year predominantly due to continued normalization in Card"
+      }
+    ],
+    "themes": [
+      "deposit_migration",
+      "nii_normalization",
+      "capital_deployment",
+      "investment_banking_recovery",
+      "credit_normalization",
+      "regulatory_headwinds",
+      "geopolitical_uncertainty",
+      "basel_iii_endgame",
+      "consumer_resilience",
+      "markets_volatility"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.62,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.75,
+    "wins": [
+      {
+        "label": "Strong Investment Banking growth",
+        "severity": 2,
+        "evidence": "Firm-wide IB fees were up 18% year-on-year, reflecting particular strength in underwriting fees"
+      },
+      {
+        "label": "Robust net inflows across wealth management",
+        "severity": 2,
+        "evidence": "strong net inflows across AWM as well as in the CCB and Wealth Management business"
+      },
+      {
+        "label": "Solid profitability and capital position",
+        "severity": 2,
+        "evidence": "net income of $13.4 billion, EPS of $4.44 on revenue of $42.5 billion and delivered an ROTCE of 21%"
+      },
+      {
+        "label": "Consumer financial health remains resilient",
+        "severity": 2,
+        "evidence": "Consumers remain financially healthy, supported by a resilient labor market. While cash buffers have largely normalized, balances were still above pre-pandemic levels"
+      },
+      {
+        "label": "Card business momentum with 13% outstandings growth",
+        "severity": 2,
+        "evidence": "Card outstandings were up 13% due to strong account acquisition and the continued normalization of revolve"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Deposit margin compression ongoing",
+        "severity": 4,
+        "evidence": "deposit margin compression and lower deposit balances in CCB. Migration from checking and savings to CDs is sort of the dominant trend that is driving the increase in weighted average rate paid"
+      },
+      {
+        "label": "Markets revenue volatility and pullback risk",
+        "severity": 3,
+        "evidence": "Markets revenue was down $400 million or 5% year-on-year. some meaningful portion of that is likely pulling forward from later in the year"
+      },
+      {
+        "label": "M&A advisory headwinds from regulatory environment",
+        "severity": 4,
+        "evidence": "Advisory business still faces structural headwinds from the regulatory environment. there's the well-known kind of regulatory headwinds there, and that's definitely having a bit of a chilling effect"
+      },
+      {
+        "label": "Macro and geopolitical uncertainties persist",
+        "severity": 4,
+        "evidence": "economic, geopolitical and regulatory uncertainties that we have been talking about for some time remain prominent. I just think the chance of that happen is higher than other people"
+      },
+      {
+        "label": "Credit normalization and charge-off increases",
+        "severity": 3,
+        "evidence": "Net charge-offs were up $116 million predominantly driven by Card. net charge-offs were up $825 million year-on-year predominantly due to continued normalization in Card"
+      }
+    ],
+    "themes": [
+      "deposit_migration",
+      "nii_normalization",
+      "capital_deployment",
+      "investment_banking_recovery",
+      "credit_normalization",
+      "regulatory_headwinds",
+      "geopolitical_uncertainty",
+      "basel_iii_endgame",
+      "consumer_resilience",
+      "markets_volatility"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 1.0,
+    "risks_jaccard": 1.0,
+    "themes_jaccard": 1.0,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.0,
+    "agreement_score": 1.0,
+    "agreement_confidence": 1.0
+  },
+  "chosen": {
+    "overall_sentiment": 0.62,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.75,
+    "wins": [
+      {
+        "label": "Strong Investment Banking growth",
+        "severity": 2,
+        "evidence": "Firm-wide IB fees were up 18% year-on-year, reflecting particular strength in underwriting fees"
+      },
+      {
+        "label": "Robust net inflows across wealth management",
+        "severity": 2,
+        "evidence": "strong net inflows across AWM as well as in the CCB and Wealth Management business"
+      },
+      {
+        "label": "Solid profitability and capital position",
+        "severity": 2,
+        "evidence": "net income of $13.4 billion, EPS of $4.44 on revenue of $42.5 billion and delivered an ROTCE of 21%"
+      },
+      {
+        "label": "Consumer financial health remains resilient",
+        "severity": 2,
+        "evidence": "Consumers remain financially healthy, supported by a resilient labor market. While cash buffers have largely normalized, balances were still above pre-pandemic levels"
+      },
+      {
+        "label": "Card business momentum with 13% outstandings growth",
+        "severity": 2,
+        "evidence": "Card outstandings were up 13% due to strong account acquisition and the continued normalization of revolve"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Deposit margin compression ongoing",
+        "severity": 4,
+        "evidence": "deposit margin compression and lower deposit balances in CCB. Migration from checking and savings to CDs is sort of the dominant trend that is driving the increase in weighted average rate paid"
+      },
+      {
+        "label": "Markets revenue volatility and pullback risk",
+        "severity": 3,
+        "evidence": "Markets revenue was down $400 million or 5% year-on-year. some meaningful portion of that is likely pulling forward from later in the year"
+      },
+      {
+        "label": "M&A advisory headwinds from regulatory environment",
+        "severity": 4,
+        "evidence": "Advisory business still faces structural headwinds from the regulatory environment. there's the well-known kind of regulatory headwinds there, and that's definitely having a bit of a chilling effect"
+      },
+      {
+        "label": "Macro and geopolitical uncertainties persist",
+        "severity": 4,
+        "evidence": "economic, geopolitical and regulatory uncertainties that we have been talking about for some time remain prominent. I just think the chance of that happen is higher than other people"
+      },
+      {
+        "label": "Credit normalization and charge-off increases",
+        "severity": 3,
+        "evidence": "Net charge-offs were up $116 million predominantly driven by Card. net charge-offs were up $825 million year-on-year predominantly due to continued normalization in Card"
+      }
+    ],
+    "themes": [
+      "deposit_migration",
+      "nii_normalization",
+      "capital_deployment",
+      "investment_banking_recovery",
+      "credit_normalization",
+      "regulatory_headwinds",
+      "geopolitical_uncertainty",
+      "basel_iii_endgame",
+      "consumer_resilience",
+      "markets_volatility"
+    ]
+  }
+}

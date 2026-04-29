@@ -1,0 +1,234 @@
+{
+  "_ticker": "JNJ",
+  "_quarter": "Q3-2025",
+  "_call_date": "2025-10-14",
+  "backend": "anthropic",
+  "primary_model": "gemma3:4b",
+  "secondary_model": "gemma3:4b",
+  "single_call_mode": true,
+  "primary": {
+    "overall_sentiment": 0.82,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.92,
+    "wins": [
+      {
+        "label": "Strong Q3 operational sales growth",
+        "severity": 5,
+        "evidence": "In the third quarter, we delivered operational sales growth of 5.4% across our business. In Innovative Medicine, we reported 5.3% operational sales growth and a second consecutive quarter of sales of more than $15 billion."
+      },
+      {
+        "label": "Growth through STELARA LOE",
+        "severity": 5,
+        "evidence": "Some were not convinced we could grow through the loss of exclusivity of STELARA, but we were confident, and we have now unequivocally answered that question. In Q3, we did it by delivering double-digit growth across 11 brands"
+      },
+      {
+        "label": "TREMFYA exceptional growth",
+        "severity": 5,
+        "evidence": "TREMFYA delivered very strong growth of 40.1%. We continue to see share gains across all indications with particularly robust momentum from our IBD launch. We are confident TREMFYA will become a more than $10 billion asset."
+      },
+      {
+        "label": "CARVYKTI record CAR-T launch",
+        "severity": 4,
+        "evidence": "We have now treated more than 8,500 patients globally, making CARVYKTI the most successful CAR-T launch ever. With operational sales growing by more than 80% this quarter, we are increasingly confident in CARVYKTI's $5 billion peak year sales potential."
+      },
+      {
+        "label": "MedTech acceleration",
+        "severity": 4,
+        "evidence": "In MedTech, operational sales growth was even stronger, accelerating to 5.6% with improvements across all businesses."
+      }
+    ],
+    "risks": [
+      {
+        "label": "STELARA biosimilar erosion",
+        "severity": 4,
+        "evidence": "STELARA declined by 42%, driven by the impact of biosimilar competition and Part D redesign"
+      },
+      {
+        "label": "Tax rate increase from legislation",
+        "severity": 3,
+        "evidence": "We are expecting a higher effective tax rate to be in the range of 17.5% to 18% for the full year, with the increase largely due to the recently enacted One Big Beautiful Bill Act"
+      },
+      {
+        "label": "China VBP pressure",
+        "severity": 2,
+        "evidence": "Growth was partially offset by competitive pressures in energy and the negative impact of China VBP across the portfolio"
+      },
+      {
+        "label": "Orthopaedics separation complexity",
+        "severity": 3,
+        "evidence": "We are targeting completion of the separation within 18 to 24 months, subject to the satisfaction of certain conditions. We are mindful of any impact from stranded costs that are typically present in these types of transactions."
+      },
+      {
+        "label": "Continued STELARA headwinds in 2026",
+        "severity": 3,
+        "evidence": "we are still going to face significant erosion with respect to STELARA. There will be additional discounting in the Innovative Medicine portfolio."
+      }
+    ],
+    "themes": [
+      "accelerated_growth_era",
+      "stelara_loe_overcome",
+      "portfolio_optimization",
+      "orthopaedics_separation",
+      "blockbuster_pipeline",
+      "medtech_transformation",
+      "double_digit_brand_growth",
+      "capital_allocation_discipline",
+      "innovation_leadership",
+      "2026_upside_potential"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.82,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.92,
+    "wins": [
+      {
+        "label": "Strong Q3 operational sales growth",
+        "severity": 5,
+        "evidence": "In the third quarter, we delivered operational sales growth of 5.4% across our business. In Innovative Medicine, we reported 5.3% operational sales growth and a second consecutive quarter of sales of more than $15 billion."
+      },
+      {
+        "label": "Growth through STELARA LOE",
+        "severity": 5,
+        "evidence": "Some were not convinced we could grow through the loss of exclusivity of STELARA, but we were confident, and we have now unequivocally answered that question. In Q3, we did it by delivering double-digit growth across 11 brands"
+      },
+      {
+        "label": "TREMFYA exceptional growth",
+        "severity": 5,
+        "evidence": "TREMFYA delivered very strong growth of 40.1%. We continue to see share gains across all indications with particularly robust momentum from our IBD launch. We are confident TREMFYA will become a more than $10 billion asset."
+      },
+      {
+        "label": "CARVYKTI record CAR-T launch",
+        "severity": 4,
+        "evidence": "We have now treated more than 8,500 patients globally, making CARVYKTI the most successful CAR-T launch ever. With operational sales growing by more than 80% this quarter, we are increasingly confident in CARVYKTI's $5 billion peak year sales potential."
+      },
+      {
+        "label": "MedTech acceleration",
+        "severity": 4,
+        "evidence": "In MedTech, operational sales growth was even stronger, accelerating to 5.6% with improvements across all businesses."
+      }
+    ],
+    "risks": [
+      {
+        "label": "STELARA biosimilar erosion",
+        "severity": 4,
+        "evidence": "STELARA declined by 42%, driven by the impact of biosimilar competition and Part D redesign"
+      },
+      {
+        "label": "Tax rate increase from legislation",
+        "severity": 3,
+        "evidence": "We are expecting a higher effective tax rate to be in the range of 17.5% to 18% for the full year, with the increase largely due to the recently enacted One Big Beautiful Bill Act"
+      },
+      {
+        "label": "China VBP pressure",
+        "severity": 2,
+        "evidence": "Growth was partially offset by competitive pressures in energy and the negative impact of China VBP across the portfolio"
+      },
+      {
+        "label": "Orthopaedics separation complexity",
+        "severity": 3,
+        "evidence": "We are targeting completion of the separation within 18 to 24 months, subject to the satisfaction of certain conditions. We are mindful of any impact from stranded costs that are typically present in these types of transactions."
+      },
+      {
+        "label": "Continued STELARA headwinds in 2026",
+        "severity": 3,
+        "evidence": "we are still going to face significant erosion with respect to STELARA. There will be additional discounting in the Innovative Medicine portfolio."
+      }
+    ],
+    "themes": [
+      "accelerated_growth_era",
+      "stelara_loe_overcome",
+      "portfolio_optimization",
+      "orthopaedics_separation",
+      "blockbuster_pipeline",
+      "medtech_transformation",
+      "double_digit_brand_growth",
+      "capital_allocation_discipline",
+      "innovation_leadership",
+      "2026_upside_potential"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 1.0,
+    "risks_jaccard": 1.0,
+    "themes_jaccard": 1.0,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.0,
+    "agreement_score": 1.0,
+    "agreement_confidence": 1.0
+  },
+  "chosen": {
+    "overall_sentiment": 0.82,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.92,
+    "wins": [
+      {
+        "label": "Strong Q3 operational sales growth",
+        "severity": 5,
+        "evidence": "In the third quarter, we delivered operational sales growth of 5.4% across our business. In Innovative Medicine, we reported 5.3% operational sales growth and a second consecutive quarter of sales of more than $15 billion."
+      },
+      {
+        "label": "Growth through STELARA LOE",
+        "severity": 5,
+        "evidence": "Some were not convinced we could grow through the loss of exclusivity of STELARA, but we were confident, and we have now unequivocally answered that question. In Q3, we did it by delivering double-digit growth across 11 brands"
+      },
+      {
+        "label": "TREMFYA exceptional growth",
+        "severity": 5,
+        "evidence": "TREMFYA delivered very strong growth of 40.1%. We continue to see share gains across all indications with particularly robust momentum from our IBD launch. We are confident TREMFYA will become a more than $10 billion asset."
+      },
+      {
+        "label": "CARVYKTI record CAR-T launch",
+        "severity": 4,
+        "evidence": "We have now treated more than 8,500 patients globally, making CARVYKTI the most successful CAR-T launch ever. With operational sales growing by more than 80% this quarter, we are increasingly confident in CARVYKTI's $5 billion peak year sales potential."
+      },
+      {
+        "label": "MedTech acceleration",
+        "severity": 4,
+        "evidence": "In MedTech, operational sales growth was even stronger, accelerating to 5.6% with improvements across all businesses."
+      }
+    ],
+    "risks": [
+      {
+        "label": "STELARA biosimilar erosion",
+        "severity": 4,
+        "evidence": "STELARA declined by 42%, driven by the impact of biosimilar competition and Part D redesign"
+      },
+      {
+        "label": "Tax rate increase from legislation",
+        "severity": 3,
+        "evidence": "We are expecting a higher effective tax rate to be in the range of 17.5% to 18% for the full year, with the increase largely due to the recently enacted One Big Beautiful Bill Act"
+      },
+      {
+        "label": "China VBP pressure",
+        "severity": 2,
+        "evidence": "Growth was partially offset by competitive pressures in energy and the negative impact of China VBP across the portfolio"
+      },
+      {
+        "label": "Orthopaedics separation complexity",
+        "severity": 3,
+        "evidence": "We are targeting completion of the separation within 18 to 24 months, subject to the satisfaction of certain conditions. We are mindful of any impact from stranded costs that are typically present in these types of transactions."
+      },
+      {
+        "label": "Continued STELARA headwinds in 2026",
+        "severity": 3,
+        "evidence": "we are still going to face significant erosion with respect to STELARA. There will be additional discounting in the Innovative Medicine portfolio."
+      }
+    ],
+    "themes": [
+      "accelerated_growth_era",
+      "stelara_loe_overcome",
+      "portfolio_optimization",
+      "orthopaedics_separation",
+      "blockbuster_pipeline",
+      "medtech_transformation",
+      "double_digit_brand_growth",
+      "capital_allocation_discipline",
+      "innovation_leadership",
+      "2026_upside_potential"
+    ]
+  }
+}

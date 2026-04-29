@@ -1,0 +1,234 @@
+{
+  "_ticker": "NKE",
+  "_quarter": "Q4-2025",
+  "_call_date": "2025-06-26",
+  "backend": "anthropic",
+  "primary_model": "gemma3:4b",
+  "secondary_model": "gemma3:4b",
+  "single_call_mode": true,
+  "primary": {
+    "overall_sentiment": -0.15,
+    "sentiment_bucket": "bearish",
+    "guidance_direction": "lowered",
+    "guidance_confidence": 0.72,
+    "wins": [
+      {
+        "label": "Running momentum and innovation",
+        "severity": 2,
+        "evidence": "NIKE running grew high single digits overall for the quarter. The Vomero 18 has already become a $100 million-plus franchise with strong sell-through."
+      },
+      {
+        "label": "Wholesale order book improvement",
+        "severity": 2,
+        "evidence": "our holiday order book is up versus the prior year with growth in North America, EMEA and APLA partially offset by Greater China"
+      },
+      {
+        "label": "Women's basketball expansion",
+        "severity": 2,
+        "evidence": "In basketball, our women's business expanded more than 50% this fiscal year, proving that product demand is catching up to the spike in energy surrounding the women's game."
+      },
+      {
+        "label": "Digital marketplace repositioning progress",
+        "severity": 2,
+        "evidence": "On Digital, we saw a meaningful improvement in markdown rates as well as a higher share of demand at full price in the quarter."
+      },
+      {
+        "label": "New distribution partnerships expanding reach",
+        "severity": 1,
+        "evidence": "We announced a new partnership with Amazon. This fall, they'll carry a select assortment of footwear, apparel and accessories, and NIKE will have a featured brand store on the platform."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Severe tariff headwind impact",
+        "severity": 4,
+        "evidence": "With the new tariff rates in place today, we estimate a gross incremental cost increase to NIKE of approximately $1 billion. For fiscal '26, we expect this financial impact, net of the actions described earlier to be approximately 75 basis points to gross margin, with a greater impact in the first half."
+      },
+      {
+        "label": "Classic footwear franchise decline acceleration",
+        "severity": 4,
+        "evidence": "In Q4, these declines accelerated to more than 30%, representing almost a $1 billion headwind to revenue. Sportswear declined in the quarter, driven by a near 40% reduction in our classic footwear franchises."
+      },
+      {
+        "label": "Greater China recovery uncertainty and timeline",
+        "severity": 4,
+        "evidence": "Greater China executed a deeper reset of inventory relative to our other geographies with higher sales-related reserves, higher discounts and supply reductions. Traffic remains challenged. China will take longer due to the unique characteristics of the marketplace."
+      },
+      {
+        "label": "Gross margin compression in first half FY26",
+        "severity": 3,
+        "evidence": "We expect Q1 gross margins to be down approximately 350 to 425 basis points. This includes approximately 100 basis points negative impact due to the new tariffs based on the rates that are in place today."
+      },
+      {
+        "label": "Digital traffic decline expected to persist",
+        "severity": 3,
+        "evidence": "We continue to expect Digital traffic to be down double digits in fiscal '26 as we reposition NIKE Digital as a full-price model and reduce the mix of our classic footwear franchises."
+      }
+    ],
+    "themes": [
+      "win now repositioning actions",
+      "sport-led strategy and athlete focus",
+      "marketplace cleanup and inventory normalization",
+      "tariff mitigation and cost management",
+      "digital transformation to full-price model",
+      "geographic divergence in recovery pace",
+      "product portfolio rebalancing",
+      "wholesale partnership strengthening",
+      "china market challenges and long-term opportunity",
+      "margin pressure near-term with recovery expected"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": -0.15,
+    "sentiment_bucket": "bearish",
+    "guidance_direction": "lowered",
+    "guidance_confidence": 0.72,
+    "wins": [
+      {
+        "label": "Running momentum and innovation",
+        "severity": 2,
+        "evidence": "NIKE running grew high single digits overall for the quarter. The Vomero 18 has already become a $100 million-plus franchise with strong sell-through."
+      },
+      {
+        "label": "Wholesale order book improvement",
+        "severity": 2,
+        "evidence": "our holiday order book is up versus the prior year with growth in North America, EMEA and APLA partially offset by Greater China"
+      },
+      {
+        "label": "Women's basketball expansion",
+        "severity": 2,
+        "evidence": "In basketball, our women's business expanded more than 50% this fiscal year, proving that product demand is catching up to the spike in energy surrounding the women's game."
+      },
+      {
+        "label": "Digital marketplace repositioning progress",
+        "severity": 2,
+        "evidence": "On Digital, we saw a meaningful improvement in markdown rates as well as a higher share of demand at full price in the quarter."
+      },
+      {
+        "label": "New distribution partnerships expanding reach",
+        "severity": 1,
+        "evidence": "We announced a new partnership with Amazon. This fall, they'll carry a select assortment of footwear, apparel and accessories, and NIKE will have a featured brand store on the platform."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Severe tariff headwind impact",
+        "severity": 4,
+        "evidence": "With the new tariff rates in place today, we estimate a gross incremental cost increase to NIKE of approximately $1 billion. For fiscal '26, we expect this financial impact, net of the actions described earlier to be approximately 75 basis points to gross margin, with a greater impact in the first half."
+      },
+      {
+        "label": "Classic footwear franchise decline acceleration",
+        "severity": 4,
+        "evidence": "In Q4, these declines accelerated to more than 30%, representing almost a $1 billion headwind to revenue. Sportswear declined in the quarter, driven by a near 40% reduction in our classic footwear franchises."
+      },
+      {
+        "label": "Greater China recovery uncertainty and timeline",
+        "severity": 4,
+        "evidence": "Greater China executed a deeper reset of inventory relative to our other geographies with higher sales-related reserves, higher discounts and supply reductions. Traffic remains challenged. China will take longer due to the unique characteristics of the marketplace."
+      },
+      {
+        "label": "Gross margin compression in first half FY26",
+        "severity": 3,
+        "evidence": "We expect Q1 gross margins to be down approximately 350 to 425 basis points. This includes approximately 100 basis points negative impact due to the new tariffs based on the rates that are in place today."
+      },
+      {
+        "label": "Digital traffic decline expected to persist",
+        "severity": 3,
+        "evidence": "We continue to expect Digital traffic to be down double digits in fiscal '26 as we reposition NIKE Digital as a full-price model and reduce the mix of our classic footwear franchises."
+      }
+    ],
+    "themes": [
+      "win now repositioning actions",
+      "sport-led strategy and athlete focus",
+      "marketplace cleanup and inventory normalization",
+      "tariff mitigation and cost management",
+      "digital transformation to full-price model",
+      "geographic divergence in recovery pace",
+      "product portfolio rebalancing",
+      "wholesale partnership strengthening",
+      "china market challenges and long-term opportunity",
+      "margin pressure near-term with recovery expected"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 1.0,
+    "risks_jaccard": 1.0,
+    "themes_jaccard": 1.0,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.0,
+    "agreement_score": 1.0,
+    "agreement_confidence": 1.0
+  },
+  "chosen": {
+    "overall_sentiment": -0.15,
+    "sentiment_bucket": "bearish",
+    "guidance_direction": "lowered",
+    "guidance_confidence": 0.72,
+    "wins": [
+      {
+        "label": "Running momentum and innovation",
+        "severity": 2,
+        "evidence": "NIKE running grew high single digits overall for the quarter. The Vomero 18 has already become a $100 million-plus franchise with strong sell-through."
+      },
+      {
+        "label": "Wholesale order book improvement",
+        "severity": 2,
+        "evidence": "our holiday order book is up versus the prior year with growth in North America, EMEA and APLA partially offset by Greater China"
+      },
+      {
+        "label": "Women's basketball expansion",
+        "severity": 2,
+        "evidence": "In basketball, our women's business expanded more than 50% this fiscal year, proving that product demand is catching up to the spike in energy surrounding the women's game."
+      },
+      {
+        "label": "Digital marketplace repositioning progress",
+        "severity": 2,
+        "evidence": "On Digital, we saw a meaningful improvement in markdown rates as well as a higher share of demand at full price in the quarter."
+      },
+      {
+        "label": "New distribution partnerships expanding reach",
+        "severity": 1,
+        "evidence": "We announced a new partnership with Amazon. This fall, they'll carry a select assortment of footwear, apparel and accessories, and NIKE will have a featured brand store on the platform."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Severe tariff headwind impact",
+        "severity": 4,
+        "evidence": "With the new tariff rates in place today, we estimate a gross incremental cost increase to NIKE of approximately $1 billion. For fiscal '26, we expect this financial impact, net of the actions described earlier to be approximately 75 basis points to gross margin, with a greater impact in the first half."
+      },
+      {
+        "label": "Classic footwear franchise decline acceleration",
+        "severity": 4,
+        "evidence": "In Q4, these declines accelerated to more than 30%, representing almost a $1 billion headwind to revenue. Sportswear declined in the quarter, driven by a near 40% reduction in our classic footwear franchises."
+      },
+      {
+        "label": "Greater China recovery uncertainty and timeline",
+        "severity": 4,
+        "evidence": "Greater China executed a deeper reset of inventory relative to our other geographies with higher sales-related reserves, higher discounts and supply reductions. Traffic remains challenged. China will take longer due to the unique characteristics of the marketplace."
+      },
+      {
+        "label": "Gross margin compression in first half FY26",
+        "severity": 3,
+        "evidence": "We expect Q1 gross margins to be down approximately 350 to 425 basis points. This includes approximately 100 basis points negative impact due to the new tariffs based on the rates that are in place today."
+      },
+      {
+        "label": "Digital traffic decline expected to persist",
+        "severity": 3,
+        "evidence": "We continue to expect Digital traffic to be down double digits in fiscal '26 as we reposition NIKE Digital as a full-price model and reduce the mix of our classic footwear franchises."
+      }
+    ],
+    "themes": [
+      "win now repositioning actions",
+      "sport-led strategy and athlete focus",
+      "marketplace cleanup and inventory normalization",
+      "tariff mitigation and cost management",
+      "digital transformation to full-price model",
+      "geographic divergence in recovery pace",
+      "product portfolio rebalancing",
+      "wholesale partnership strengthening",
+      "china market challenges and long-term opportunity",
+      "margin pressure near-term with recovery expected"
+    ]
+  }
+}

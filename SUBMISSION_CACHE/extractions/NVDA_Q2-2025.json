@@ -1,0 +1,234 @@
+{
+  "_ticker": "NVDA",
+  "_quarter": "Q2-2025",
+  "_call_date": "2024-08-28",
+  "backend": "anthropic",
+  "primary_model": "gemma3:4b",
+  "secondary_model": "gemma3:4b",
+  "single_call_mode": true,
+  "primary": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.92,
+    "wins": [
+      {
+        "label": "Record Q2 revenue and exceptional growth",
+        "severity": 5,
+        "evidence": "Revenue of $30 billion was up 15% sequentially and up 122% year-on-year, and well above our outlook of $28 billion"
+      },
+      {
+        "label": "Data Center dominance with 154% YoY growth",
+        "severity": 5,
+        "evidence": "Data Center revenue of $26.3 billion was a record, up 16% sequentially and up 154% year-on-year"
+      },
+      {
+        "label": "Blackwell production ramp with strong demand",
+        "severity": 5,
+        "evidence": "In Q4, we expect to get several billion dollars in Blackwell revenue. Demand for Blackwell platforms is well above supply"
+      },
+      {
+        "label": "Networking revenue acceleration",
+        "severity": 4,
+        "evidence": "Spectrum-X is well on track to begin a multibillion-dollar product line within a year"
+      },
+      {
+        "label": "Enterprise AI adoption accelerating",
+        "severity": 4,
+        "evidence": "We are working with most of the Fortune 100 companies on AI initiatives across industries and geographies"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Gross margin compression from new products",
+        "severity": 4,
+        "evidence": "GAAP gross margins were 75.1% and non-GAAP gross margins were 75.7%, down sequentially due to a higher mix of new products within Data Center and inventory provisions for low-yielding Blackwell material"
+      },
+      {
+        "label": "China revenue uncertainty and competition",
+        "severity": 3,
+        "evidence": "As a percentage of total Data Center revenue, it remains below levels seen prior to the imposition of export controls. We continue to expect the China market to be very competitive going forward"
+      },
+      {
+        "label": "Blackwell yield and production execution risk",
+        "severity": 3,
+        "evidence": "We executed a change to the Blackwell GPU mask to improve production yields"
+      },
+      {
+        "label": "Customer ROI sustainability concerns",
+        "severity": 3,
+        "evidence": "there's a pretty heated debate in the market on your customers and customers' customers' return on investment and what that means for the sustainability of CapEx going forward"
+      },
+      {
+        "label": "Operating expense growth outpacing revenue",
+        "severity": 2,
+        "evidence": "Full year operating expenses are expected to grow in the mid- to upper 40% range"
+      }
+    ],
+    "themes": [
+      "accelerated_computing_transition",
+      "blackwell_ramp_execution",
+      "data_center_dominance",
+      "generative_ai_momentum",
+      "enterprise_ai_adoption",
+      "networking_expansion",
+      "sovereign_ai_opportunity",
+      "gross_margin_pressure",
+      "supply_chain_integration",
+      "customer_roi_validation"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.92,
+    "wins": [
+      {
+        "label": "Record Q2 revenue and exceptional growth",
+        "severity": 5,
+        "evidence": "Revenue of $30 billion was up 15% sequentially and up 122% year-on-year, and well above our outlook of $28 billion"
+      },
+      {
+        "label": "Data Center dominance with 154% YoY growth",
+        "severity": 5,
+        "evidence": "Data Center revenue of $26.3 billion was a record, up 16% sequentially and up 154% year-on-year"
+      },
+      {
+        "label": "Blackwell production ramp with strong demand",
+        "severity": 5,
+        "evidence": "In Q4, we expect to get several billion dollars in Blackwell revenue. Demand for Blackwell platforms is well above supply"
+      },
+      {
+        "label": "Networking revenue acceleration",
+        "severity": 4,
+        "evidence": "Spectrum-X is well on track to begin a multibillion-dollar product line within a year"
+      },
+      {
+        "label": "Enterprise AI adoption accelerating",
+        "severity": 4,
+        "evidence": "We are working with most of the Fortune 100 companies on AI initiatives across industries and geographies"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Gross margin compression from new products",
+        "severity": 4,
+        "evidence": "GAAP gross margins were 75.1% and non-GAAP gross margins were 75.7%, down sequentially due to a higher mix of new products within Data Center and inventory provisions for low-yielding Blackwell material"
+      },
+      {
+        "label": "China revenue uncertainty and competition",
+        "severity": 3,
+        "evidence": "As a percentage of total Data Center revenue, it remains below levels seen prior to the imposition of export controls. We continue to expect the China market to be very competitive going forward"
+      },
+      {
+        "label": "Blackwell yield and production execution risk",
+        "severity": 3,
+        "evidence": "We executed a change to the Blackwell GPU mask to improve production yields"
+      },
+      {
+        "label": "Customer ROI sustainability concerns",
+        "severity": 3,
+        "evidence": "there's a pretty heated debate in the market on your customers and customers' customers' return on investment and what that means for the sustainability of CapEx going forward"
+      },
+      {
+        "label": "Operating expense growth outpacing revenue",
+        "severity": 2,
+        "evidence": "Full year operating expenses are expected to grow in the mid- to upper 40% range"
+      }
+    ],
+    "themes": [
+      "accelerated_computing_transition",
+      "blackwell_ramp_execution",
+      "data_center_dominance",
+      "generative_ai_momentum",
+      "enterprise_ai_adoption",
+      "networking_expansion",
+      "sovereign_ai_opportunity",
+      "gross_margin_pressure",
+      "supply_chain_integration",
+      "customer_roi_validation"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 1.0,
+    "risks_jaccard": 1.0,
+    "themes_jaccard": 1.0,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.0,
+    "agreement_score": 1.0,
+    "agreement_confidence": 1.0
+  },
+  "chosen": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.92,
+    "wins": [
+      {
+        "label": "Record Q2 revenue and exceptional growth",
+        "severity": 5,
+        "evidence": "Revenue of $30 billion was up 15% sequentially and up 122% year-on-year, and well above our outlook of $28 billion"
+      },
+      {
+        "label": "Data Center dominance with 154% YoY growth",
+        "severity": 5,
+        "evidence": "Data Center revenue of $26.3 billion was a record, up 16% sequentially and up 154% year-on-year"
+      },
+      {
+        "label": "Blackwell production ramp with strong demand",
+        "severity": 5,
+        "evidence": "In Q4, we expect to get several billion dollars in Blackwell revenue. Demand for Blackwell platforms is well above supply"
+      },
+      {
+        "label": "Networking revenue acceleration",
+        "severity": 4,
+        "evidence": "Spectrum-X is well on track to begin a multibillion-dollar product line within a year"
+      },
+      {
+        "label": "Enterprise AI adoption accelerating",
+        "severity": 4,
+        "evidence": "We are working with most of the Fortune 100 companies on AI initiatives across industries and geographies"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Gross margin compression from new products",
+        "severity": 4,
+        "evidence": "GAAP gross margins were 75.1% and non-GAAP gross margins were 75.7%, down sequentially due to a higher mix of new products within Data Center and inventory provisions for low-yielding Blackwell material"
+      },
+      {
+        "label": "China revenue uncertainty and competition",
+        "severity": 3,
+        "evidence": "As a percentage of total Data Center revenue, it remains below levels seen prior to the imposition of export controls. We continue to expect the China market to be very competitive going forward"
+      },
+      {
+        "label": "Blackwell yield and production execution risk",
+        "severity": 3,
+        "evidence": "We executed a change to the Blackwell GPU mask to improve production yields"
+      },
+      {
+        "label": "Customer ROI sustainability concerns",
+        "severity": 3,
+        "evidence": "there's a pretty heated debate in the market on your customers and customers' customers' return on investment and what that means for the sustainability of CapEx going forward"
+      },
+      {
+        "label": "Operating expense growth outpacing revenue",
+        "severity": 2,
+        "evidence": "Full year operating expenses are expected to grow in the mid- to upper 40% range"
+      }
+    ],
+    "themes": [
+      "accelerated_computing_transition",
+      "blackwell_ramp_execution",
+      "data_center_dominance",
+      "generative_ai_momentum",
+      "enterprise_ai_adoption",
+      "networking_expansion",
+      "sovereign_ai_opportunity",
+      "gross_margin_pressure",
+      "supply_chain_integration",
+      "customer_roi_validation"
+    ]
+  }
+}

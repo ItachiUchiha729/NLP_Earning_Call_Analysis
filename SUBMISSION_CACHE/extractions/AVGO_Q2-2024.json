@@ -1,0 +1,217 @@
+{
+  "_ticker": "AVGO",
+  "_quarter": "Q2-2024",
+  "_call_date": "2024-06-12",
+  "primary_model": "qwen3:14b",
+  "secondary_model": "gemma3:4b",
+  "primary": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "AI Revenue Surge",
+        "severity": 5,
+        "evidence": "AI revenue stepped up 280% year-on-year to $3.1 billion."
+      },
+      {
+        "label": "VMware Integration Progress",
+        "severity": 4,
+        "evidence": "The integration of VMware is going very well. Since we acquired VMware, we have modernized the product SKUs from over 8,000 disparate SKUs to 4 core product offerings."
+      },
+      {
+        "label": "Networking Growth",
+        "severity": 5,
+        "evidence": "Networking revenue is expected to grow 40% year-on-year compared to our prior guidance of over 35% growth."
+      },
+      {
+        "label": "VMware Revenue Growth",
+        "severity": 4,
+        "evidence": "VMware revenue in Q1 was $2.1 billion, grew to $2.7 billion in Q2 and will accelerate towards a $4 billion per quarter run rate."
+      },
+      {
+        "label": "Raised Revenue Guidance",
+        "severity": 5,
+        "evidence": "We are raising our fiscal '24 revenue guidance to $51 billion."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Broadband Weakness",
+        "severity": 3,
+        "evidence": "Broadband remains weak on the continued pause in telco and service provider spending."
+      },
+      {
+        "label": "Server Storage Decline",
+        "severity": 3,
+        "evidence": "Server storage revenue is expected to decline around the 20% range year-on-year."
+      },
+      {
+        "label": "Industrial Resale Decline",
+        "severity": 2,
+        "evidence": "Industrial resale is expected to be down double-digit percentage year-on-year."
+      },
+      {
+        "label": "VMware Integration Costs",
+        "severity": 3,
+        "evidence": "Year-to-date, we have incurred about $2 billion of restructuring and integration costs."
+      },
+      {
+        "label": "Debt Management",
+        "severity": 2,
+        "evidence": "We have $74 billion of gross debt, with a weighted average coupon rate of 6.6% for floating rate debt."
+      }
+    ],
+    "themes": [
+      "ai growth",
+      "vmware integration",
+      "networking expansion",
+      "revenue guidance increase",
+      "semiconductor recovery"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.35,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Strong AI Revenue Growth",
+        "severity": 4,
+        "evidence": "Consolidated net revenue was $12.5 billion, up 43% year-on-year as revenue included a full quarter of contribution from VMware. But if we exclude VMware, consolidated revenue was up 12% year-on-year, and this 12% organic growth in revenue was largely driven by AI revenue, which stepped up 280% year-on-year to $3.1 billion"
+      },
+      {
+        "label": "VMware Integration Progress",
+        "severity": 4,
+        "evidence": "The integration of VMware is going very well. Since we acquired VMware, we have modernized the product SKUs from over 8,000 disparate SKUs to 4 core product offerings and simplified the go-to-market flow, eliminating a huge amount of channel conflicts."
+      },
+      {
+        "label": "Networking Demand",
+        "severity": 3,
+        "evidence": "Networking, Q2 revenue of $3.8 billion grew 44% year-on-year, representing 53% of semiconductor revenue. This was again driven by strong demand from hyperscalers for both AI networking and custom accelerators."
+      },
+      {
+        "label": "AI Accelerator Awards",
+        "severity": 3,
+        "evidence": "We have just been awarded the next-generation custom AI accelerators for these hyperscale customers of ours."
+      },
+      {
+        "label": "Increased AI Guidance",
+        "severity": 2,
+        "evidence": "We are raising our fiscal '24 revenue guidance to $51 billion."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Server Storage Decline",
+        "severity": 4,
+        "evidence": "Q2 server storage connectivity revenue was $824 million or 11% of semiconductor revenue, down 27% year-on-year."
+      },
+      {
+        "label": "Broadband Weakness",
+        "severity": 3,
+        "evidence": "Q2 revenue declined 39% year-on-year to $730 million and represented 10% of semiconductor revenue. Broadband remains weak on the continued pause in telco and service provider spending."
+      },
+      {
+        "label": "Industrial Resale Decline",
+        "severity": 2,
+        "evidence": "Q2 industrial rev resale of $234 million declined 10% year-on-year."
+      },
+      {
+        "label": "Uncertainty in AI Market",
+        "severity": 3,
+        "evidence": "The rapid transition of optical interconnects in AI data centers to 800-gigabit bandwidth, which is driving accelerated growth for our DSPs, optical lasers, and PIN diodes."
+      },
+      {
+        "label": "Competition in AI Accelerators",
+        "severity": 4,
+        "evidence": "many of the same customers that you have a very large position in the custom compute. So I'm curious how you think customers are going to do that allocation decision, just broadly what the visibility is."
+      }
+    ],
+    "themes": [
+      "ai growth",
+      "vmware integration",
+      "networking demand",
+      "market recovery",
+      "strategic partnerships"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 0.1111111111111111,
+    "risks_jaccard": 0.42857142857142855,
+    "themes_jaccard": 0.25,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.5,
+    "agreement_score": 0.3744047619047619,
+    "agreement_confidence": 0.18720238095238095
+  },
+  "chosen": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "AI Revenue Surge",
+        "severity": 5,
+        "evidence": "AI revenue stepped up 280% year-on-year to $3.1 billion."
+      },
+      {
+        "label": "VMware Integration Progress",
+        "severity": 4,
+        "evidence": "The integration of VMware is going very well. Since we acquired VMware, we have modernized the product SKUs from over 8,000 disparate SKUs to 4 core product offerings."
+      },
+      {
+        "label": "Networking Growth",
+        "severity": 5,
+        "evidence": "Networking revenue is expected to grow 40% year-on-year compared to our prior guidance of over 35% growth."
+      },
+      {
+        "label": "VMware Revenue Growth",
+        "severity": 4,
+        "evidence": "VMware revenue in Q1 was $2.1 billion, grew to $2.7 billion in Q2 and will accelerate towards a $4 billion per quarter run rate."
+      },
+      {
+        "label": "Raised Revenue Guidance",
+        "severity": 5,
+        "evidence": "We are raising our fiscal '24 revenue guidance to $51 billion."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Broadband Weakness",
+        "severity": 3,
+        "evidence": "Broadband remains weak on the continued pause in telco and service provider spending."
+      },
+      {
+        "label": "Server Storage Decline",
+        "severity": 3,
+        "evidence": "Server storage revenue is expected to decline around the 20% range year-on-year."
+      },
+      {
+        "label": "Industrial Resale Decline",
+        "severity": 2,
+        "evidence": "Industrial resale is expected to be down double-digit percentage year-on-year."
+      },
+      {
+        "label": "VMware Integration Costs",
+        "severity": 3,
+        "evidence": "Year-to-date, we have incurred about $2 billion of restructuring and integration costs."
+      },
+      {
+        "label": "Debt Management",
+        "severity": 2,
+        "evidence": "We have $74 billion of gross debt, with a weighted average coupon rate of 6.6% for floating rate debt."
+      }
+    ],
+    "themes": [
+      "ai growth",
+      "vmware integration",
+      "networking expansion",
+      "revenue guidance increase",
+      "semiconductor recovery"
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "_ticker": "FDX",
+  "_quarter": "Q3-2025",
+  "_call_date": "2025-03-20",
+  "primary_model": "qwen3:14b",
+  "secondary_model": "gemma3:4b",
+  "primary": {
+    "overall_sentiment": 0.3,
+    "sentiment_bucket": "neutral",
+    "guidance_direction": "lowered",
+    "guidance_confidence": 0.8,
+    "wins": [
+      {
+        "label": "DRIVE savings progress",
+        "severity": 4,
+        "evidence": "We achieved $600 million of savings in the quarter."
+      },
+      {
+        "label": "Network 2.0 optimization",
+        "severity": 4,
+        "evidence": "We have optimized 5 U.S. stations since the beginning of the calendar year and expect to optimize 45 more in Q4."
+      },
+      {
+        "label": "Tricolor improvements",
+        "severity": 3,
+        "evidence": "Payloads across our air network are up 9%, with a 5% improvement in density."
+      },
+      {
+        "label": "Health care revenue growth",
+        "severity": 3,
+        "evidence": "We are onboarding nearly $400 million in new annualized health care revenue over the next 90 days."
+      },
+      {
+        "label": "Europe service improvements",
+        "severity": 3,
+        "evidence": "We are seeing the best European service levels we have seen in years, which is driving profitable share growth."
+      }
+    ],
+    "risks": [
+      {
+        "label": "B2B weakness",
+        "severity": 5,
+        "evidence": "Weakness in the industrial economy continued to pressure our higher-margin B2B volumes."
+      },
+      {
+        "label": "Inflationary pressures",
+        "severity": 4,
+        "evidence": "Higher than previously expected inflationary pressures on our cost base."
+      },
+      {
+        "label": "Postal Service contract expiration",
+        "severity": 4,
+        "evidence": "This resulted in a $180 million headwind to adjusted operating income."
+      },
+      {
+        "label": "Severe weather events",
+        "severity": 3,
+        "evidence": "Severe weather headwinds of approximately $70 million relative to last year."
+      },
+      {
+        "label": "Uncertain demand environment",
+        "severity": 3,
+        "evidence": "The current environment is adding uncertainty to demand."
+      }
+    ],
+    "themes": [
+      "cost reduction",
+      "network transformation",
+      "b2b challenges",
+      "inflation",
+      "global trade"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.25,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.75,
+    "wins": [
+      {
+        "label": "Strong Peak Performance",
+        "severity": 4,
+        "evidence": "Raj Subramaniam expressed gratitude to the team for delivering a strong peak within a compressed timeline and managing weather events."
+      },
+      {
+        "label": "Significant DRIVE Savings",
+        "severity": 5,
+        "evidence": "FedEx achieved $600 million of savings in Q3, and expects to achieve $2.2 billion in incremental target for FY '25 and $4 billion of baseline savings."
+      },
+      {
+        "label": "17% Adjusted Operating Income Growth",
+        "severity": 5,
+        "evidence": "FedEx achieved 12% adjusted operating income growth compared to last year, despite headwinds."
+      },
+      {
+        "label": "Network 2.0 Optimization",
+        "severity": 4,
+        "evidence": "FedEx resumed Network 2.0 conversions, optimized 5 U.S. stations, and expects to optimize 45 more in Q4."
+      },
+      {
+        "label": "European Service Level Improvement",
+        "severity": 4,
+        "evidence": "Raj shared details on the encouraging improvement he is seeing in Europe, with simplified technology platform driving operational efficiency and a better customer experience."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Industrial Economy Weakness",
+        "severity": 5,
+        "evidence": "Weakness in the industrial economy continued to pressure B2B volumes and Freight's results."
+      },
+      {
+        "label": "Postal Service Contract Expiration",
+        "severity": 4,
+        "evidence": "The expiration of the U.S. Postal Service contract resulted in a $180 million headwind to adjusted operating income."
+      },
+      {
+        "label": "Severe Weather Events",
+        "severity": 4,
+        "evidence": "Severe weather events resulted in approximately $70 million headwind relative to last year."
+      },
+      {
+        "label": "Uncertain Demand Environment",
+        "severity": 3,
+        "evidence": "The current environment is adding uncertainty to demand, and FedEx is working closely with customers to help them adapt."
+      },
+      {
+        "label": "Inflationary Pressures",
+        "severity": 4,
+        "evidence": "Inflationary pressures on the cost base are expected to be higher than planned, further reducing the FY '25 outlook."
+      }
+    ],
+    "themes": [
+      "network transformation",
+      "cost reduction",
+      "revenue growth",
+      "digitalization",
+      "supply chain resilience"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 0.1111111111111111,
+    "risks_jaccard": 0.6666666666666666,
+    "themes_jaccard": 0.25,
+    "guidance_match": 0.0,
+    "sentiment_gap": 0.04999999999999999,
+    "agreement_score": 0.2958333333333333,
+    "agreement_confidence": 0.2810416666666666
+  },
+  "chosen": {
+    "overall_sentiment": 0.3,
+    "sentiment_bucket": "neutral",
+    "guidance_direction": "lowered",
+    "guidance_confidence": 0.8,
+    "wins": [
+      {
+        "label": "DRIVE savings progress",
+        "severity": 4,
+        "evidence": "We achieved $600 million of savings in the quarter."
+      },
+      {
+        "label": "Network 2.0 optimization",
+        "severity": 4,
+        "evidence": "We have optimized 5 U.S. stations since the beginning of the calendar year and expect to optimize 45 more in Q4."
+      },
+      {
+        "label": "Tricolor improvements",
+        "severity": 3,
+        "evidence": "Payloads across our air network are up 9%, with a 5% improvement in density."
+      },
+      {
+        "label": "Health care revenue growth",
+        "severity": 3,
+        "evidence": "We are onboarding nearly $400 million in new annualized health care revenue over the next 90 days."
+      },
+      {
+        "label": "Europe service improvements",
+        "severity": 3,
+        "evidence": "We are seeing the best European service levels we have seen in years, which is driving profitable share growth."
+      }
+    ],
+    "risks": [
+      {
+        "label": "B2B weakness",
+        "severity": 5,
+        "evidence": "Weakness in the industrial economy continued to pressure our higher-margin B2B volumes."
+      },
+      {
+        "label": "Inflationary pressures",
+        "severity": 4,
+        "evidence": "Higher than previously expected inflationary pressures on our cost base."
+      },
+      {
+        "label": "Postal Service contract expiration",
+        "severity": 4,
+        "evidence": "This resulted in a $180 million headwind to adjusted operating income."
+      },
+      {
+        "label": "Severe weather events",
+        "severity": 3,
+        "evidence": "Severe weather headwinds of approximately $70 million relative to last year."
+      },
+      {
+        "label": "Uncertain demand environment",
+        "severity": 3,
+        "evidence": "The current environment is adding uncertainty to demand."
+      }
+    ],
+    "themes": [
+      "cost reduction",
+      "network transformation",
+      "b2b challenges",
+      "inflation",
+      "global trade"
+    ]
+  }
+}

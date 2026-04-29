@@ -1,0 +1,234 @@
+{
+  "_ticker": "NKE",
+  "_quarter": "Q2-2026",
+  "_call_date": "2025-12-18",
+  "backend": "anthropic",
+  "primary_model": "gemma3:4b",
+  "secondary_model": "gemma3:4b",
+  "single_call_mode": true,
+  "primary": {
+    "overall_sentiment": 0.35,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.65,
+    "wins": [
+      {
+        "label": "North America Strong Recovery",
+        "severity": 1,
+        "evidence": "North America Q2 revenue grew 9%, wholesale grew 24%, and we're seeing momentum extend beyond Running into basketball and training"
+      },
+      {
+        "label": "Running Business Momentum",
+        "severity": 1,
+        "evidence": "Running grew by over 20% for the second quarter in a row, it's up double digits in every channel, including NIKE Direct"
+      },
+      {
+        "label": "Wholesale Return to Growth",
+        "severity": 2,
+        "evidence": "Wholesale grew 8% this quarter, with a growing order book globally in both spring and summer"
+      },
+      {
+        "label": "Marketplace Cleanup Progress",
+        "severity": 2,
+        "evidence": "Classics footwear franchises are on track to decline from peak levels by more than $4 billion by fiscal year-end, inventory is in a healthy and clean position in North America and EMEA"
+      },
+      {
+        "label": "Product Innovation Pipeline",
+        "severity": 2,
+        "evidence": "Order book is improving season on season, booking units in Football are nearly 40% higher than World Cup '22"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Greater China Severe Decline",
+        "severity": 5,
+        "evidence": "Greater China Q2 revenue declined 16%, EBIT declined 49% on a reported basis, we expect headwinds to continue for the balance of the fiscal year"
+      },
+      {
+        "label": "Tariff Headwinds",
+        "severity": 4,
+        "evidence": "We are navigating new structural headwinds from the $1.5 billion of annualized incremental product costs due to higher U.S. tariffs, representing a gross headwind of approximately 320 basis points to gross margin in fiscal '26"
+      },
+      {
+        "label": "Margin Pressure Persists",
+        "severity": 4,
+        "evidence": "Gross margins declined 300 basis points to 40.6%, we see the path back to double-digit EBIT margins but it will take time"
+      },
+      {
+        "label": "NIKE Digital Weakness",
+        "severity": 3,
+        "evidence": "NIKE Digital declining 14% overall, down 16% in North America and down 36% in Greater China"
+      },
+      {
+        "label": "Non-Linear Recovery Timeline",
+        "severity": 3,
+        "evidence": "Our comeback continues to move at different speeds, it won't be a straight line, each brand, sport and geography is recovering on a different time line"
+      }
+    ],
+    "themes": [
+      "turnaround_in_progress",
+      "sport_offense_strategy",
+      "geographic_divergence",
+      "margin_recovery_delayed",
+      "china_reset_required",
+      "wholesale_growth",
+      "running_momentum",
+      "tariff_impact",
+      "inventory_cleanup",
+      "product_innovation"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.35,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.65,
+    "wins": [
+      {
+        "label": "North America Strong Recovery",
+        "severity": 1,
+        "evidence": "North America Q2 revenue grew 9%, wholesale grew 24%, and we're seeing momentum extend beyond Running into basketball and training"
+      },
+      {
+        "label": "Running Business Momentum",
+        "severity": 1,
+        "evidence": "Running grew by over 20% for the second quarter in a row, it's up double digits in every channel, including NIKE Direct"
+      },
+      {
+        "label": "Wholesale Return to Growth",
+        "severity": 2,
+        "evidence": "Wholesale grew 8% this quarter, with a growing order book globally in both spring and summer"
+      },
+      {
+        "label": "Marketplace Cleanup Progress",
+        "severity": 2,
+        "evidence": "Classics footwear franchises are on track to decline from peak levels by more than $4 billion by fiscal year-end, inventory is in a healthy and clean position in North America and EMEA"
+      },
+      {
+        "label": "Product Innovation Pipeline",
+        "severity": 2,
+        "evidence": "Order book is improving season on season, booking units in Football are nearly 40% higher than World Cup '22"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Greater China Severe Decline",
+        "severity": 5,
+        "evidence": "Greater China Q2 revenue declined 16%, EBIT declined 49% on a reported basis, we expect headwinds to continue for the balance of the fiscal year"
+      },
+      {
+        "label": "Tariff Headwinds",
+        "severity": 4,
+        "evidence": "We are navigating new structural headwinds from the $1.5 billion of annualized incremental product costs due to higher U.S. tariffs, representing a gross headwind of approximately 320 basis points to gross margin in fiscal '26"
+      },
+      {
+        "label": "Margin Pressure Persists",
+        "severity": 4,
+        "evidence": "Gross margins declined 300 basis points to 40.6%, we see the path back to double-digit EBIT margins but it will take time"
+      },
+      {
+        "label": "NIKE Digital Weakness",
+        "severity": 3,
+        "evidence": "NIKE Digital declining 14% overall, down 16% in North America and down 36% in Greater China"
+      },
+      {
+        "label": "Non-Linear Recovery Timeline",
+        "severity": 3,
+        "evidence": "Our comeback continues to move at different speeds, it won't be a straight line, each brand, sport and geography is recovering on a different time line"
+      }
+    ],
+    "themes": [
+      "turnaround_in_progress",
+      "sport_offense_strategy",
+      "geographic_divergence",
+      "margin_recovery_delayed",
+      "china_reset_required",
+      "wholesale_growth",
+      "running_momentum",
+      "tariff_impact",
+      "inventory_cleanup",
+      "product_innovation"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 1.0,
+    "risks_jaccard": 1.0,
+    "themes_jaccard": 1.0,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.0,
+    "agreement_score": 1.0,
+    "agreement_confidence": 1.0
+  },
+  "chosen": {
+    "overall_sentiment": 0.35,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.65,
+    "wins": [
+      {
+        "label": "North America Strong Recovery",
+        "severity": 1,
+        "evidence": "North America Q2 revenue grew 9%, wholesale grew 24%, and we're seeing momentum extend beyond Running into basketball and training"
+      },
+      {
+        "label": "Running Business Momentum",
+        "severity": 1,
+        "evidence": "Running grew by over 20% for the second quarter in a row, it's up double digits in every channel, including NIKE Direct"
+      },
+      {
+        "label": "Wholesale Return to Growth",
+        "severity": 2,
+        "evidence": "Wholesale grew 8% this quarter, with a growing order book globally in both spring and summer"
+      },
+      {
+        "label": "Marketplace Cleanup Progress",
+        "severity": 2,
+        "evidence": "Classics footwear franchises are on track to decline from peak levels by more than $4 billion by fiscal year-end, inventory is in a healthy and clean position in North America and EMEA"
+      },
+      {
+        "label": "Product Innovation Pipeline",
+        "severity": 2,
+        "evidence": "Order book is improving season on season, booking units in Football are nearly 40% higher than World Cup '22"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Greater China Severe Decline",
+        "severity": 5,
+        "evidence": "Greater China Q2 revenue declined 16%, EBIT declined 49% on a reported basis, we expect headwinds to continue for the balance of the fiscal year"
+      },
+      {
+        "label": "Tariff Headwinds",
+        "severity": 4,
+        "evidence": "We are navigating new structural headwinds from the $1.5 billion of annualized incremental product costs due to higher U.S. tariffs, representing a gross headwind of approximately 320 basis points to gross margin in fiscal '26"
+      },
+      {
+        "label": "Margin Pressure Persists",
+        "severity": 4,
+        "evidence": "Gross margins declined 300 basis points to 40.6%, we see the path back to double-digit EBIT margins but it will take time"
+      },
+      {
+        "label": "NIKE Digital Weakness",
+        "severity": 3,
+        "evidence": "NIKE Digital declining 14% overall, down 16% in North America and down 36% in Greater China"
+      },
+      {
+        "label": "Non-Linear Recovery Timeline",
+        "severity": 3,
+        "evidence": "Our comeback continues to move at different speeds, it won't be a straight line, each brand, sport and geography is recovering on a different time line"
+      }
+    ],
+    "themes": [
+      "turnaround_in_progress",
+      "sport_offense_strategy",
+      "geographic_divergence",
+      "margin_recovery_delayed",
+      "china_reset_required",
+      "wholesale_growth",
+      "running_momentum",
+      "tariff_impact",
+      "inventory_cleanup",
+      "product_innovation"
+    ]
+  }
+}

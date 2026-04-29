@@ -1,0 +1,217 @@
+{
+  "_ticker": "AVGO",
+  "_quarter": "Q1-2024",
+  "_call_date": "2024-03-07",
+  "primary_model": "qwen3:14b",
+  "secondary_model": "gemma3:4b",
+  "primary": {
+    "overall_sentiment": 0.75,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.9,
+    "wins": [
+      {
+        "label": "Strong AI Revenue Growth",
+        "severity": 5,
+        "evidence": "AI revenue quadrupled year-on-year to $2.3 billion during the quarter, more than offsetting the current cyclical slowdown in enterprise and telcos."
+      },
+      {
+        "label": "Infrastructure Software Growth",
+        "severity": 5,
+        "evidence": "Infrastructure software revenue grew 153% year-on-year to $4.6 billion."
+      },
+      {
+        "label": "Networking Revenue Growth",
+        "severity": 4,
+        "evidence": "Q1 networking revenue of $3.3 billion grew 46% year-on-year."
+      },
+      {
+        "label": "VMware Integration Success",
+        "severity": 4,
+        "evidence": "We expect continued strong bookings at VMware will accelerate revenue growth through the rest of fiscal 2024."
+      },
+      {
+        "label": "Reiterated Guidance",
+        "severity": 3,
+        "evidence": "We reiterate our guidance for consolidated revenue to be $50 billion, which represents 40% year-on-year growth."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Broadband Revenue Decline",
+        "severity": 4,
+        "evidence": "On broadband, Q1 revenue declined 23% year-on-year to $940 million."
+      },
+      {
+        "label": "Server Storage Revenue Decline",
+        "severity": 4,
+        "evidence": "Q1 server storage connectivity revenue was $887 million or 12% of semiconductor revenue, down 29% year-on-year."
+      },
+      {
+        "label": "Cyclical Weakness",
+        "severity": 3,
+        "evidence": "We are seeing a cyclical trough this year for broadband as telco spending continues to weaken."
+      },
+      {
+        "label": "Competitive Pressure",
+        "severity": 3,
+        "evidence": "There is one competitor based in Asia, who continues to be pretty vocal and adamant that one of the future designs at your largest customer, they may have some share."
+      },
+      {
+        "label": "Integration Challenges",
+        "severity": 2,
+        "evidence": "We are seeing weaker demand in the first half but expect recovery in the second half."
+      }
+    ],
+    "themes": [
+      "ai growth",
+      "vmware integration",
+      "networking demand",
+      "cyclical weakness",
+      "infrastructure software"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.25,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Strong AI Revenue Growth",
+        "severity": 4,
+        "evidence": "Consolidated net revenue was $12 billion, up 34% year-on-year as revenue included 10.5 weeks of contribution from VMware."
+      },
+      {
+        "label": "VMware Cloud Foundation (VCF) Momentum",
+        "severity": 5,
+        "evidence": "With respect to infrastructure software, revenue contribution from consolidating VMware drove a sequential jump in revenue by 132%."
+      },
+      {
+        "label": "Custom ASIC Demand",
+        "severity": 4,
+        "evidence": "Networking revenue grew 46% year-on-year, representing 45% of our semiconductor revenue. This was largely driven by strong demand for our custom AI accelerators at our 2 hyperscale customers."
+      },
+      {
+        "label": "Increased AI Revenue Outlook",
+        "severity": 4,
+        "evidence": "Now expect revenue from AI to be much stronger, representing some 35% of semiconductor revenue at over $10 billion."
+      },
+      {
+        "label": "Strong Bookings Growth",
+        "severity": 3,
+        "evidence": "Consolidated bookings in software grew sequentially from less than $600 million to $1.8 billion in Q1 and is expected to grow to over $3 billion in Q2."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Broadband Cyclical Downturn",
+        "severity": 3,
+        "evidence": "Q1 revenue declined 23% year-on-year to $940 million and represented 13% of semiconductor revenue. We are seeing a cyclical trough this year for broadband as telco spending continues to weaken and do not expect improvement until late in the year."
+      },
+      {
+        "label": "Server Storage Decline",
+        "severity": 4,
+        "evidence": "Q1 server storage connectivity revenue was $887 million or 12% of semiconductor revenue, down 29% year-on-year."
+      },
+      {
+        "label": "Wireless Revenue Decline",
+        "severity": 3,
+        "evidence": "Q1 wireless revenue of $2 billion decreased 1% sequentially and declined 4% year-on-year, representing 27% of semiconductor revenue."
+      },
+      {
+        "label": "Uncertainty in Customer Engagement",
+        "severity": 2,
+        "evidence": "As you all may know, the engagement with a North American customer continues to be very deep, strategic and of course, multiyear."
+      },
+      {
+        "label": "Potential Margin Pressure",
+        "severity": 3,
+        "evidence": "Gross margins were 75.4% of revenue in the quarter."
+      }
+    ],
+    "themes": [
+      "ai",
+      "cloud computing",
+      "semiconductor demand",
+      "financial performance",
+      "strategic partnerships"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 0.1111111111111111,
+    "risks_jaccard": 0.0,
+    "themes_jaccard": 0.0,
+    "guidance_match": 0.0,
+    "sentiment_gap": 0.5,
+    "agreement_score": 0.03333333333333333,
+    "agreement_confidence": 0.016666666666666666
+  },
+  "chosen": {
+    "overall_sentiment": 0.75,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.9,
+    "wins": [
+      {
+        "label": "Strong AI Revenue Growth",
+        "severity": 5,
+        "evidence": "AI revenue quadrupled year-on-year to $2.3 billion during the quarter, more than offsetting the current cyclical slowdown in enterprise and telcos."
+      },
+      {
+        "label": "Infrastructure Software Growth",
+        "severity": 5,
+        "evidence": "Infrastructure software revenue grew 153% year-on-year to $4.6 billion."
+      },
+      {
+        "label": "Networking Revenue Growth",
+        "severity": 4,
+        "evidence": "Q1 networking revenue of $3.3 billion grew 46% year-on-year."
+      },
+      {
+        "label": "VMware Integration Success",
+        "severity": 4,
+        "evidence": "We expect continued strong bookings at VMware will accelerate revenue growth through the rest of fiscal 2024."
+      },
+      {
+        "label": "Reiterated Guidance",
+        "severity": 3,
+        "evidence": "We reiterate our guidance for consolidated revenue to be $50 billion, which represents 40% year-on-year growth."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Broadband Revenue Decline",
+        "severity": 4,
+        "evidence": "On broadband, Q1 revenue declined 23% year-on-year to $940 million."
+      },
+      {
+        "label": "Server Storage Revenue Decline",
+        "severity": 4,
+        "evidence": "Q1 server storage connectivity revenue was $887 million or 12% of semiconductor revenue, down 29% year-on-year."
+      },
+      {
+        "label": "Cyclical Weakness",
+        "severity": 3,
+        "evidence": "We are seeing a cyclical trough this year for broadband as telco spending continues to weaken."
+      },
+      {
+        "label": "Competitive Pressure",
+        "severity": 3,
+        "evidence": "There is one competitor based in Asia, who continues to be pretty vocal and adamant that one of the future designs at your largest customer, they may have some share."
+      },
+      {
+        "label": "Integration Challenges",
+        "severity": 2,
+        "evidence": "We are seeing weaker demand in the first half but expect recovery in the second half."
+      }
+    ],
+    "themes": [
+      "ai growth",
+      "vmware integration",
+      "networking demand",
+      "cyclical weakness",
+      "infrastructure software"
+    ]
+  }
+}

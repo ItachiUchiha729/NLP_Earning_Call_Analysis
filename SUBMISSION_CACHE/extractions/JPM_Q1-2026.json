@@ -1,0 +1,231 @@
+{
+  "_ticker": "JPM",
+  "_quarter": "Q1-2026",
+  "_call_date": "2026-04-14",
+  "backend": "anthropic",
+  "primary_model": "gemma3:4b",
+  "secondary_model": "gemma3:4b",
+  "single_call_mode": true,
+  "primary": {
+    "overall_sentiment": 0.35,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.72,
+    "wins": [
+      {
+        "label": "Strong earnings and ROTC",
+        "severity": 1,
+        "evidence": "net income of $16.5 billion and EPS of $5.94 with an ROTC of 23%"
+      },
+      {
+        "label": "Broad-based revenue growth",
+        "severity": 1,
+        "evidence": "Revenue of $15.5 billion was up 10% year-on-year, primarily driven by higher markets revenue, higher asset management and investment banking fees"
+      },
+      {
+        "label": "CIB strong performance",
+        "severity": 1,
+        "evidence": "CIB reported net income of $9 billion. revenue of $23.4 billion was up 19% year-on-year, IB fees were up 28% year-on-year"
+      },
+      {
+        "label": "AWM growth and margins",
+        "severity": 1,
+        "evidence": "AWM reported net income of $1.8 billion with pretax margin of 35%. Long-term net inflows were $54 billion"
+      },
+      {
+        "label": "Consumer resilience",
+        "severity": 1,
+        "evidence": "Consumers and small businesses remain resilient with consumer spend growth continuing above last year's pace"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Regulatory capital burden",
+        "severity": 5,
+        "evidence": "total increase of about $20 billion of G-SIB capital based on our current balance sheet, need to plan for 5.2% in 2028, a 70 basis point increase from the current 4.5% requirement"
+      },
+      {
+        "label": "Expense growth outpacing revenue",
+        "severity": 3,
+        "evidence": "Expenses of $26.9 billion were up 14% year-on-year, largely driven by higher compensation, while revenue was up 10% year-on-year"
+      },
+      {
+        "label": "Geopolitical uncertainty",
+        "severity": 3,
+        "evidence": "developments in the Middle East could have an impact on deal execution and timing"
+      },
+      {
+        "label": "Credit cycle risk",
+        "severity": 3,
+        "evidence": "there's been some weakening in underwriting, not just by private credit elsewhere. And there will be a credit cycle 1 day"
+      },
+      {
+        "label": "Rate sensitivity and NII pressure",
+        "severity": 2,
+        "evidence": "higher NII, driven by the impact of balance sheet growth, predominantly offset by the impact of lower rates"
+      }
+    ],
+    "themes": [
+      "strong_earnings",
+      "regulatory_headwinds",
+      "capital_constraints",
+      "revenue_diversification",
+      "consumer_health",
+      "geopolitical_risk",
+      "credit_cycle_concerns",
+      "deposit_competition",
+      "rate_sensitivity"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.35,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.72,
+    "wins": [
+      {
+        "label": "Strong earnings and ROTC",
+        "severity": 1,
+        "evidence": "net income of $16.5 billion and EPS of $5.94 with an ROTC of 23%"
+      },
+      {
+        "label": "Broad-based revenue growth",
+        "severity": 1,
+        "evidence": "Revenue of $15.5 billion was up 10% year-on-year, primarily driven by higher markets revenue, higher asset management and investment banking fees"
+      },
+      {
+        "label": "CIB strong performance",
+        "severity": 1,
+        "evidence": "CIB reported net income of $9 billion. revenue of $23.4 billion was up 19% year-on-year, IB fees were up 28% year-on-year"
+      },
+      {
+        "label": "AWM growth and margins",
+        "severity": 1,
+        "evidence": "AWM reported net income of $1.8 billion with pretax margin of 35%. Long-term net inflows were $54 billion"
+      },
+      {
+        "label": "Consumer resilience",
+        "severity": 1,
+        "evidence": "Consumers and small businesses remain resilient with consumer spend growth continuing above last year's pace"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Regulatory capital burden",
+        "severity": 5,
+        "evidence": "total increase of about $20 billion of G-SIB capital based on our current balance sheet, need to plan for 5.2% in 2028, a 70 basis point increase from the current 4.5% requirement"
+      },
+      {
+        "label": "Expense growth outpacing revenue",
+        "severity": 3,
+        "evidence": "Expenses of $26.9 billion were up 14% year-on-year, largely driven by higher compensation, while revenue was up 10% year-on-year"
+      },
+      {
+        "label": "Geopolitical uncertainty",
+        "severity": 3,
+        "evidence": "developments in the Middle East could have an impact on deal execution and timing"
+      },
+      {
+        "label": "Credit cycle risk",
+        "severity": 3,
+        "evidence": "there's been some weakening in underwriting, not just by private credit elsewhere. And there will be a credit cycle 1 day"
+      },
+      {
+        "label": "Rate sensitivity and NII pressure",
+        "severity": 2,
+        "evidence": "higher NII, driven by the impact of balance sheet growth, predominantly offset by the impact of lower rates"
+      }
+    ],
+    "themes": [
+      "strong_earnings",
+      "regulatory_headwinds",
+      "capital_constraints",
+      "revenue_diversification",
+      "consumer_health",
+      "geopolitical_risk",
+      "credit_cycle_concerns",
+      "deposit_competition",
+      "rate_sensitivity"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 1.0,
+    "risks_jaccard": 1.0,
+    "themes_jaccard": 1.0,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.0,
+    "agreement_score": 1.0,
+    "agreement_confidence": 1.0
+  },
+  "chosen": {
+    "overall_sentiment": 0.35,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.72,
+    "wins": [
+      {
+        "label": "Strong earnings and ROTC",
+        "severity": 1,
+        "evidence": "net income of $16.5 billion and EPS of $5.94 with an ROTC of 23%"
+      },
+      {
+        "label": "Broad-based revenue growth",
+        "severity": 1,
+        "evidence": "Revenue of $15.5 billion was up 10% year-on-year, primarily driven by higher markets revenue, higher asset management and investment banking fees"
+      },
+      {
+        "label": "CIB strong performance",
+        "severity": 1,
+        "evidence": "CIB reported net income of $9 billion. revenue of $23.4 billion was up 19% year-on-year, IB fees were up 28% year-on-year"
+      },
+      {
+        "label": "AWM growth and margins",
+        "severity": 1,
+        "evidence": "AWM reported net income of $1.8 billion with pretax margin of 35%. Long-term net inflows were $54 billion"
+      },
+      {
+        "label": "Consumer resilience",
+        "severity": 1,
+        "evidence": "Consumers and small businesses remain resilient with consumer spend growth continuing above last year's pace"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Regulatory capital burden",
+        "severity": 5,
+        "evidence": "total increase of about $20 billion of G-SIB capital based on our current balance sheet, need to plan for 5.2% in 2028, a 70 basis point increase from the current 4.5% requirement"
+      },
+      {
+        "label": "Expense growth outpacing revenue",
+        "severity": 3,
+        "evidence": "Expenses of $26.9 billion were up 14% year-on-year, largely driven by higher compensation, while revenue was up 10% year-on-year"
+      },
+      {
+        "label": "Geopolitical uncertainty",
+        "severity": 3,
+        "evidence": "developments in the Middle East could have an impact on deal execution and timing"
+      },
+      {
+        "label": "Credit cycle risk",
+        "severity": 3,
+        "evidence": "there's been some weakening in underwriting, not just by private credit elsewhere. And there will be a credit cycle 1 day"
+      },
+      {
+        "label": "Rate sensitivity and NII pressure",
+        "severity": 2,
+        "evidence": "higher NII, driven by the impact of balance sheet growth, predominantly offset by the impact of lower rates"
+      }
+    ],
+    "themes": [
+      "strong_earnings",
+      "regulatory_headwinds",
+      "capital_constraints",
+      "revenue_diversification",
+      "consumer_health",
+      "geopolitical_risk",
+      "credit_cycle_concerns",
+      "deposit_competition",
+      "rate_sensitivity"
+    ]
+  }
+}

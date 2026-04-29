@@ -1,0 +1,240 @@
+{
+  "_ticker": "JPM",
+  "_quarter": "Q3-2025",
+  "_call_date": "2025-10-14",
+  "backend": "anthropic",
+  "primary_model": "gemma3:4b",
+  "secondary_model": "gemma3:4b",
+  "single_call_mode": true,
+  "primary": {
+    "overall_sentiment": 0.62,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.72,
+    "wins": [
+      {
+        "label": "Strong revenue growth across franchise",
+        "severity": 1,
+        "evidence": "Revenue of $47.1 billion, was up 9% year-on-year, predominantly driven by higher Markets revenue as well as higher fees across asset management, investment banking and payments"
+      },
+      {
+        "label": "Robust investment banking pipeline",
+        "severity": 1,
+        "evidence": "IB fees were up 16% year-on-year, reflecting a pickup in activity across products with particular strength in equity underwriting as the IPO market was active. Our pipeline remains robust and the outlook, along with the market backdrop and client sentiment, continues to be upbeat"
+      },
+      {
+        "label": "Record AWM performance with strong inflows",
+        "severity": 1,
+        "evidence": "Record revenue of $6.1 billion, was up 12% year-on-year. Long-term net inflows were $72 billion for the quarter, led by fixed income and equities. AUM of $4.6 trillion, was up 18% year-on-year"
+      },
+      {
+        "label": "Consumer resilience and credit stability",
+        "severity": 1,
+        "evidence": "Consumers and small businesses remain resilient based on our data. Our credit metrics, including early-stage delinquencies, remain stable and slightly better than expected"
+      },
+      {
+        "label": "Market share leadership in deposits",
+        "severity": 2,
+        "evidence": "We retained our #1 position in retail deposit share in a relatively flat deposit market based on FDIC data, marking our fifth consecutive year leading the industry"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Wholesale credit deterioration and fraud exposure",
+        "severity": 4,
+        "evidence": "charge-offs were slightly elevated as a result of a couple of instances of apparent fraud in certain secured lending facilities. Tricolor represents $170 million of charge-offs in the quarter"
+      },
+      {
+        "label": "Labor market softening and unemployment risk",
+        "severity": 4,
+        "evidence": "While we are closely watching the potentially softening labor market. It's pretty easy to imagine a world where the labor market deteriorates from here. And if that happens, obviously, we're going to see worse consumer credit performance"
+      },
+      {
+        "label": "NDFI lending concentration and underwriting standards",
+        "severity": 4,
+        "evidence": "when you see one cockroach, there are probably more. I suspect when there's a downturn, you will see higher than normal downturn type of credit losses in certain categories. They are not particularly good"
+      },
+      {
+        "label": "NII headwinds from rate cuts and deposit normalization",
+        "severity": 3,
+        "evidence": "The increase in NII driven by the impact of balance sheet growth and mix was offset by the impact of lower rates. we would expect it to be a little bit more muted next year"
+      },
+      {
+        "label": "Expense growth pressures from inflation and competition",
+        "severity": 3,
+        "evidence": "Medical, we spend $3 billion or so in medical. That's going to be up 10% next year. There's a lot of pressure from other people who are paying people quite well: hedge funds, law firms, private equity"
+      }
+    ],
+    "themes": [
+      "strong_revenue_growth",
+      "investment_banking_recovery",
+      "wealth_management_strength",
+      "consumer_resilience",
+      "wholesale_credit_concerns",
+      "ndfi_risk_concentration",
+      "labor_market_uncertainty",
+      "deposit_mix_normalization",
+      "expense_inflation",
+      "regulatory_tailwinds",
+      "capital_deployment",
+      "rate_sensitivity"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.62,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.72,
+    "wins": [
+      {
+        "label": "Strong revenue growth across franchise",
+        "severity": 1,
+        "evidence": "Revenue of $47.1 billion, was up 9% year-on-year, predominantly driven by higher Markets revenue as well as higher fees across asset management, investment banking and payments"
+      },
+      {
+        "label": "Robust investment banking pipeline",
+        "severity": 1,
+        "evidence": "IB fees were up 16% year-on-year, reflecting a pickup in activity across products with particular strength in equity underwriting as the IPO market was active. Our pipeline remains robust and the outlook, along with the market backdrop and client sentiment, continues to be upbeat"
+      },
+      {
+        "label": "Record AWM performance with strong inflows",
+        "severity": 1,
+        "evidence": "Record revenue of $6.1 billion, was up 12% year-on-year. Long-term net inflows were $72 billion for the quarter, led by fixed income and equities. AUM of $4.6 trillion, was up 18% year-on-year"
+      },
+      {
+        "label": "Consumer resilience and credit stability",
+        "severity": 1,
+        "evidence": "Consumers and small businesses remain resilient based on our data. Our credit metrics, including early-stage delinquencies, remain stable and slightly better than expected"
+      },
+      {
+        "label": "Market share leadership in deposits",
+        "severity": 2,
+        "evidence": "We retained our #1 position in retail deposit share in a relatively flat deposit market based on FDIC data, marking our fifth consecutive year leading the industry"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Wholesale credit deterioration and fraud exposure",
+        "severity": 4,
+        "evidence": "charge-offs were slightly elevated as a result of a couple of instances of apparent fraud in certain secured lending facilities. Tricolor represents $170 million of charge-offs in the quarter"
+      },
+      {
+        "label": "Labor market softening and unemployment risk",
+        "severity": 4,
+        "evidence": "While we are closely watching the potentially softening labor market. It's pretty easy to imagine a world where the labor market deteriorates from here. And if that happens, obviously, we're going to see worse consumer credit performance"
+      },
+      {
+        "label": "NDFI lending concentration and underwriting standards",
+        "severity": 4,
+        "evidence": "when you see one cockroach, there are probably more. I suspect when there's a downturn, you will see higher than normal downturn type of credit losses in certain categories. They are not particularly good"
+      },
+      {
+        "label": "NII headwinds from rate cuts and deposit normalization",
+        "severity": 3,
+        "evidence": "The increase in NII driven by the impact of balance sheet growth and mix was offset by the impact of lower rates. we would expect it to be a little bit more muted next year"
+      },
+      {
+        "label": "Expense growth pressures from inflation and competition",
+        "severity": 3,
+        "evidence": "Medical, we spend $3 billion or so in medical. That's going to be up 10% next year. There's a lot of pressure from other people who are paying people quite well: hedge funds, law firms, private equity"
+      }
+    ],
+    "themes": [
+      "strong_revenue_growth",
+      "investment_banking_recovery",
+      "wealth_management_strength",
+      "consumer_resilience",
+      "wholesale_credit_concerns",
+      "ndfi_risk_concentration",
+      "labor_market_uncertainty",
+      "deposit_mix_normalization",
+      "expense_inflation",
+      "regulatory_tailwinds",
+      "capital_deployment",
+      "rate_sensitivity"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 1.0,
+    "risks_jaccard": 1.0,
+    "themes_jaccard": 1.0,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.0,
+    "agreement_score": 1.0,
+    "agreement_confidence": 1.0
+  },
+  "chosen": {
+    "overall_sentiment": 0.62,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.72,
+    "wins": [
+      {
+        "label": "Strong revenue growth across franchise",
+        "severity": 1,
+        "evidence": "Revenue of $47.1 billion, was up 9% year-on-year, predominantly driven by higher Markets revenue as well as higher fees across asset management, investment banking and payments"
+      },
+      {
+        "label": "Robust investment banking pipeline",
+        "severity": 1,
+        "evidence": "IB fees were up 16% year-on-year, reflecting a pickup in activity across products with particular strength in equity underwriting as the IPO market was active. Our pipeline remains robust and the outlook, along with the market backdrop and client sentiment, continues to be upbeat"
+      },
+      {
+        "label": "Record AWM performance with strong inflows",
+        "severity": 1,
+        "evidence": "Record revenue of $6.1 billion, was up 12% year-on-year. Long-term net inflows were $72 billion for the quarter, led by fixed income and equities. AUM of $4.6 trillion, was up 18% year-on-year"
+      },
+      {
+        "label": "Consumer resilience and credit stability",
+        "severity": 1,
+        "evidence": "Consumers and small businesses remain resilient based on our data. Our credit metrics, including early-stage delinquencies, remain stable and slightly better than expected"
+      },
+      {
+        "label": "Market share leadership in deposits",
+        "severity": 2,
+        "evidence": "We retained our #1 position in retail deposit share in a relatively flat deposit market based on FDIC data, marking our fifth consecutive year leading the industry"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Wholesale credit deterioration and fraud exposure",
+        "severity": 4,
+        "evidence": "charge-offs were slightly elevated as a result of a couple of instances of apparent fraud in certain secured lending facilities. Tricolor represents $170 million of charge-offs in the quarter"
+      },
+      {
+        "label": "Labor market softening and unemployment risk",
+        "severity": 4,
+        "evidence": "While we are closely watching the potentially softening labor market. It's pretty easy to imagine a world where the labor market deteriorates from here. And if that happens, obviously, we're going to see worse consumer credit performance"
+      },
+      {
+        "label": "NDFI lending concentration and underwriting standards",
+        "severity": 4,
+        "evidence": "when you see one cockroach, there are probably more. I suspect when there's a downturn, you will see higher than normal downturn type of credit losses in certain categories. They are not particularly good"
+      },
+      {
+        "label": "NII headwinds from rate cuts and deposit normalization",
+        "severity": 3,
+        "evidence": "The increase in NII driven by the impact of balance sheet growth and mix was offset by the impact of lower rates. we would expect it to be a little bit more muted next year"
+      },
+      {
+        "label": "Expense growth pressures from inflation and competition",
+        "severity": 3,
+        "evidence": "Medical, we spend $3 billion or so in medical. That's going to be up 10% next year. There's a lot of pressure from other people who are paying people quite well: hedge funds, law firms, private equity"
+      }
+    ],
+    "themes": [
+      "strong_revenue_growth",
+      "investment_banking_recovery",
+      "wealth_management_strength",
+      "consumer_resilience",
+      "wholesale_credit_concerns",
+      "ndfi_risk_concentration",
+      "labor_market_uncertainty",
+      "deposit_mix_normalization",
+      "expense_inflation",
+      "regulatory_tailwinds",
+      "capital_deployment",
+      "rate_sensitivity"
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "_ticker": "WFC",
+  "_quarter": "Q4-2025",
+  "_call_date": "2026-01-15",
+  "backend": "anthropic",
+  "primary_model": "gemma3:4b",
+  "secondary_model": "gemma3:4b",
+  "single_call_mode": true,
+  "primary": {
+    "overall_sentiment": 0.72,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.78,
+    "wins": [
+      {
+        "label": "Strong earnings growth",
+        "severity": 5,
+        "evidence": "Our net income increased to $21.3 billion and our diluted earnings per share grew 17% from a year ago"
+      },
+      {
+        "label": "Asset cap removal",
+        "severity": 5,
+        "evidence": "The removal of the asset cap by the Federal Reserve was a pivotal moment for the company"
+      },
+      {
+        "label": "ROTCE improvement",
+        "severity": 4,
+        "evidence": "Our ROTCE increased to 15% in 2025...we have a new medium-term ROTCE target of 17% to 18%"
+      },
+      {
+        "label": "Strong loan growth",
+        "severity": 4,
+        "evidence": "Period-end loans grew 5% in the third quarter, the strongest linked quarter growth since the first quarter of 2020"
+      },
+      {
+        "label": "Credit card momentum",
+        "severity": 4,
+        "evidence": "We opened nearly 3 million new credit card accounts in 2025, up 21% from a year ago"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Lower share repurchases",
+        "severity": 3,
+        "evidence": "Given we have many opportunities to grow organically, we currently expect share repurchases to be lower in 2026"
+      },
+      {
+        "label": "Credit card rate cap uncertainty",
+        "severity": 3,
+        "evidence": "it's too early to know because we're not quite sure what the ultimate actions of whether it's the administration or of Congress choose to go down"
+      },
+      {
+        "label": "Office portfolio losses",
+        "severity": 2,
+        "evidence": "Commercial net loan charge-offs increased 4 basis points from the third quarter driven by higher commercial real estate losses predominantly in the office portfolio"
+      },
+      {
+        "label": "Rate headwinds to NII",
+        "severity": 2,
+        "evidence": "You got rates coming down which will be a headwind for NII ex-markets"
+      },
+      {
+        "label": "Lower margin trading assets",
+        "severity": 2,
+        "evidence": "While many of the assets have been added recently are lower margin, they also have lower risk and are less capital intensive"
+      }
+    ],
+    "themes": [
+      "transformation_progress",
+      "balance_sheet_growth",
+      "expense_discipline",
+      "capital_return",
+      "investment_banking_expansion",
+      "credit_quality",
+      "digital_growth",
+      "markets_business_growth",
+      "rotce_improvement",
+      "regulatory_progress"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.72,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.78,
+    "wins": [
+      {
+        "label": "Strong earnings growth",
+        "severity": 5,
+        "evidence": "Our net income increased to $21.3 billion and our diluted earnings per share grew 17% from a year ago"
+      },
+      {
+        "label": "Asset cap removal",
+        "severity": 5,
+        "evidence": "The removal of the asset cap by the Federal Reserve was a pivotal moment for the company"
+      },
+      {
+        "label": "ROTCE improvement",
+        "severity": 4,
+        "evidence": "Our ROTCE increased to 15% in 2025...we have a new medium-term ROTCE target of 17% to 18%"
+      },
+      {
+        "label": "Strong loan growth",
+        "severity": 4,
+        "evidence": "Period-end loans grew 5% in the third quarter, the strongest linked quarter growth since the first quarter of 2020"
+      },
+      {
+        "label": "Credit card momentum",
+        "severity": 4,
+        "evidence": "We opened nearly 3 million new credit card accounts in 2025, up 21% from a year ago"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Lower share repurchases",
+        "severity": 3,
+        "evidence": "Given we have many opportunities to grow organically, we currently expect share repurchases to be lower in 2026"
+      },
+      {
+        "label": "Credit card rate cap uncertainty",
+        "severity": 3,
+        "evidence": "it's too early to know because we're not quite sure what the ultimate actions of whether it's the administration or of Congress choose to go down"
+      },
+      {
+        "label": "Office portfolio losses",
+        "severity": 2,
+        "evidence": "Commercial net loan charge-offs increased 4 basis points from the third quarter driven by higher commercial real estate losses predominantly in the office portfolio"
+      },
+      {
+        "label": "Rate headwinds to NII",
+        "severity": 2,
+        "evidence": "You got rates coming down which will be a headwind for NII ex-markets"
+      },
+      {
+        "label": "Lower margin trading assets",
+        "severity": 2,
+        "evidence": "While many of the assets have been added recently are lower margin, they also have lower risk and are less capital intensive"
+      }
+    ],
+    "themes": [
+      "transformation_progress",
+      "balance_sheet_growth",
+      "expense_discipline",
+      "capital_return",
+      "investment_banking_expansion",
+      "credit_quality",
+      "digital_growth",
+      "markets_business_growth",
+      "rotce_improvement",
+      "regulatory_progress"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 1.0,
+    "risks_jaccard": 1.0,
+    "themes_jaccard": 1.0,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.0,
+    "agreement_score": 1.0,
+    "agreement_confidence": 1.0
+  },
+  "chosen": {
+    "overall_sentiment": 0.72,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.78,
+    "wins": [
+      {
+        "label": "Strong earnings growth",
+        "severity": 5,
+        "evidence": "Our net income increased to $21.3 billion and our diluted earnings per share grew 17% from a year ago"
+      },
+      {
+        "label": "Asset cap removal",
+        "severity": 5,
+        "evidence": "The removal of the asset cap by the Federal Reserve was a pivotal moment for the company"
+      },
+      {
+        "label": "ROTCE improvement",
+        "severity": 4,
+        "evidence": "Our ROTCE increased to 15% in 2025...we have a new medium-term ROTCE target of 17% to 18%"
+      },
+      {
+        "label": "Strong loan growth",
+        "severity": 4,
+        "evidence": "Period-end loans grew 5% in the third quarter, the strongest linked quarter growth since the first quarter of 2020"
+      },
+      {
+        "label": "Credit card momentum",
+        "severity": 4,
+        "evidence": "We opened nearly 3 million new credit card accounts in 2025, up 21% from a year ago"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Lower share repurchases",
+        "severity": 3,
+        "evidence": "Given we have many opportunities to grow organically, we currently expect share repurchases to be lower in 2026"
+      },
+      {
+        "label": "Credit card rate cap uncertainty",
+        "severity": 3,
+        "evidence": "it's too early to know because we're not quite sure what the ultimate actions of whether it's the administration or of Congress choose to go down"
+      },
+      {
+        "label": "Office portfolio losses",
+        "severity": 2,
+        "evidence": "Commercial net loan charge-offs increased 4 basis points from the third quarter driven by higher commercial real estate losses predominantly in the office portfolio"
+      },
+      {
+        "label": "Rate headwinds to NII",
+        "severity": 2,
+        "evidence": "You got rates coming down which will be a headwind for NII ex-markets"
+      },
+      {
+        "label": "Lower margin trading assets",
+        "severity": 2,
+        "evidence": "While many of the assets have been added recently are lower margin, they also have lower risk and are less capital intensive"
+      }
+    ],
+    "themes": [
+      "transformation_progress",
+      "balance_sheet_growth",
+      "expense_discipline",
+      "capital_return",
+      "investment_banking_expansion",
+      "credit_quality",
+      "digital_growth",
+      "markets_business_growth",
+      "rotce_improvement",
+      "regulatory_progress"
+    ]
+  }
+}

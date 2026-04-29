@@ -1,0 +1,234 @@
+{
+  "_ticker": "JNJ",
+  "_quarter": "Q2-2024",
+  "_call_date": "2024-07-17",
+  "backend": "anthropic",
+  "primary_model": "gemma3:4b",
+  "secondary_model": "gemma3:4b",
+  "single_call_mode": true,
+  "primary": {
+    "overall_sentiment": 0.72,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.78,
+    "wins": [
+      {
+        "label": "Innovative Medicine strong growth momentum",
+        "severity": 1,
+        "evidence": "Innovative Medicine sales of $14.5 billion increased 7.8%, with 10 assets delivering double-digit growth"
+      },
+      {
+        "label": "DARZALEX exceptional performance",
+        "severity": 1,
+        "evidence": "DARZALEX growth was 21.3%, primarily driven by share gains of 4.6 points across all lines of therapy and 9.4 points in the frontline setting"
+      },
+      {
+        "label": "Pipeline advancement with major launches ahead",
+        "severity": 2,
+        "evidence": "Anticipated approval and launch of RYBREVANT plus lazertinib in frontline EGFR-positive lung cancer and TREMFYA in IBD, which follows data demonstrating superiority versus STELARA"
+      },
+      {
+        "label": "Strong free cash flow growth",
+        "severity": 2,
+        "evidence": "Free cash flow year-to-date was approximately $7.5 billion compared to $5.5 billion in the prior year period"
+      },
+      {
+        "label": "Strategic acquisitions expanding portfolio",
+        "severity": 2,
+        "evidence": "Deployed approximately $17 billion in strategic value-creating inorganic growth opportunities including Shockwave, Proteologix and NM26"
+      }
+    ],
+    "risks": [
+      {
+        "label": "MedTech growth below expectations",
+        "severity": 3,
+        "evidence": "MedTech business delivered growth that fell below our expectations of growing in the upper range of our markets; now expect growth closer to 6% for 2024"
+      },
+      {
+        "label": "STELARA biosimilar entry headwind",
+        "severity": 3,
+        "evidence": "We continue to anticipate biosimilar entry in Europe later this month. While in the U.S., we expect continued volume growth, largely offset by price declines as we move towards biosimilar entry in 2025"
+      },
+      {
+        "label": "China market volatility and VBP pressure",
+        "severity": 3,
+        "evidence": "Performance in China, which right now is a very volatile market; impact of VBP, which is a government-driven cost containment effort"
+      },
+      {
+        "label": "Acquisition dilution to EPS",
+        "severity": 2,
+        "evidence": "Adjusted operational EPS guidance now includes dilution of $0.68 per share from Shockwave, Proteologix and NM26 transactions"
+      },
+      {
+        "label": "Talc litigation settlement execution risk",
+        "severity": 3,
+        "evidence": "Company committed to pay ovarian claimants present value of approximately $6.5 billion; currently in voting period with last day July 26, requiring 75% vote approval"
+      }
+    ],
+    "themes": [
+      "oncology_leadership",
+      "pipeline_advancement",
+      "biosimilar_headwinds",
+      "china_challenges",
+      "medtech_underperformance",
+      "strategic_m&a",
+      "cash_generation",
+      "guidance_raised",
+      "talc_litigation",
+      "innovation_focus"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.72,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.78,
+    "wins": [
+      {
+        "label": "Innovative Medicine strong growth momentum",
+        "severity": 1,
+        "evidence": "Innovative Medicine sales of $14.5 billion increased 7.8%, with 10 assets delivering double-digit growth"
+      },
+      {
+        "label": "DARZALEX exceptional performance",
+        "severity": 1,
+        "evidence": "DARZALEX growth was 21.3%, primarily driven by share gains of 4.6 points across all lines of therapy and 9.4 points in the frontline setting"
+      },
+      {
+        "label": "Pipeline advancement with major launches ahead",
+        "severity": 2,
+        "evidence": "Anticipated approval and launch of RYBREVANT plus lazertinib in frontline EGFR-positive lung cancer and TREMFYA in IBD, which follows data demonstrating superiority versus STELARA"
+      },
+      {
+        "label": "Strong free cash flow growth",
+        "severity": 2,
+        "evidence": "Free cash flow year-to-date was approximately $7.5 billion compared to $5.5 billion in the prior year period"
+      },
+      {
+        "label": "Strategic acquisitions expanding portfolio",
+        "severity": 2,
+        "evidence": "Deployed approximately $17 billion in strategic value-creating inorganic growth opportunities including Shockwave, Proteologix and NM26"
+      }
+    ],
+    "risks": [
+      {
+        "label": "MedTech growth below expectations",
+        "severity": 3,
+        "evidence": "MedTech business delivered growth that fell below our expectations of growing in the upper range of our markets; now expect growth closer to 6% for 2024"
+      },
+      {
+        "label": "STELARA biosimilar entry headwind",
+        "severity": 3,
+        "evidence": "We continue to anticipate biosimilar entry in Europe later this month. While in the U.S., we expect continued volume growth, largely offset by price declines as we move towards biosimilar entry in 2025"
+      },
+      {
+        "label": "China market volatility and VBP pressure",
+        "severity": 3,
+        "evidence": "Performance in China, which right now is a very volatile market; impact of VBP, which is a government-driven cost containment effort"
+      },
+      {
+        "label": "Acquisition dilution to EPS",
+        "severity": 2,
+        "evidence": "Adjusted operational EPS guidance now includes dilution of $0.68 per share from Shockwave, Proteologix and NM26 transactions"
+      },
+      {
+        "label": "Talc litigation settlement execution risk",
+        "severity": 3,
+        "evidence": "Company committed to pay ovarian claimants present value of approximately $6.5 billion; currently in voting period with last day July 26, requiring 75% vote approval"
+      }
+    ],
+    "themes": [
+      "oncology_leadership",
+      "pipeline_advancement",
+      "biosimilar_headwinds",
+      "china_challenges",
+      "medtech_underperformance",
+      "strategic_m&a",
+      "cash_generation",
+      "guidance_raised",
+      "talc_litigation",
+      "innovation_focus"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 1.0,
+    "risks_jaccard": 1.0,
+    "themes_jaccard": 1.0,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.0,
+    "agreement_score": 1.0,
+    "agreement_confidence": 1.0
+  },
+  "chosen": {
+    "overall_sentiment": 0.72,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.78,
+    "wins": [
+      {
+        "label": "Innovative Medicine strong growth momentum",
+        "severity": 1,
+        "evidence": "Innovative Medicine sales of $14.5 billion increased 7.8%, with 10 assets delivering double-digit growth"
+      },
+      {
+        "label": "DARZALEX exceptional performance",
+        "severity": 1,
+        "evidence": "DARZALEX growth was 21.3%, primarily driven by share gains of 4.6 points across all lines of therapy and 9.4 points in the frontline setting"
+      },
+      {
+        "label": "Pipeline advancement with major launches ahead",
+        "severity": 2,
+        "evidence": "Anticipated approval and launch of RYBREVANT plus lazertinib in frontline EGFR-positive lung cancer and TREMFYA in IBD, which follows data demonstrating superiority versus STELARA"
+      },
+      {
+        "label": "Strong free cash flow growth",
+        "severity": 2,
+        "evidence": "Free cash flow year-to-date was approximately $7.5 billion compared to $5.5 billion in the prior year period"
+      },
+      {
+        "label": "Strategic acquisitions expanding portfolio",
+        "severity": 2,
+        "evidence": "Deployed approximately $17 billion in strategic value-creating inorganic growth opportunities including Shockwave, Proteologix and NM26"
+      }
+    ],
+    "risks": [
+      {
+        "label": "MedTech growth below expectations",
+        "severity": 3,
+        "evidence": "MedTech business delivered growth that fell below our expectations of growing in the upper range of our markets; now expect growth closer to 6% for 2024"
+      },
+      {
+        "label": "STELARA biosimilar entry headwind",
+        "severity": 3,
+        "evidence": "We continue to anticipate biosimilar entry in Europe later this month. While in the U.S., we expect continued volume growth, largely offset by price declines as we move towards biosimilar entry in 2025"
+      },
+      {
+        "label": "China market volatility and VBP pressure",
+        "severity": 3,
+        "evidence": "Performance in China, which right now is a very volatile market; impact of VBP, which is a government-driven cost containment effort"
+      },
+      {
+        "label": "Acquisition dilution to EPS",
+        "severity": 2,
+        "evidence": "Adjusted operational EPS guidance now includes dilution of $0.68 per share from Shockwave, Proteologix and NM26 transactions"
+      },
+      {
+        "label": "Talc litigation settlement execution risk",
+        "severity": 3,
+        "evidence": "Company committed to pay ovarian claimants present value of approximately $6.5 billion; currently in voting period with last day July 26, requiring 75% vote approval"
+      }
+    ],
+    "themes": [
+      "oncology_leadership",
+      "pipeline_advancement",
+      "biosimilar_headwinds",
+      "china_challenges",
+      "medtech_underperformance",
+      "strategic_m&a",
+      "cash_generation",
+      "guidance_raised",
+      "talc_litigation",
+      "innovation_focus"
+    ]
+  }
+}

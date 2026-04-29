@@ -1,0 +1,246 @@
+{
+  "_ticker": "WFC",
+  "_quarter": "Q4-2024",
+  "_call_date": "2025-01-15",
+  "backend": "anthropic",
+  "primary_model": "gemma3:4b",
+  "secondary_model": "gemma3:4b",
+  "single_call_mode": true,
+  "primary": {
+    "overall_sentiment": 0.72,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.78,
+    "wins": [
+      {
+        "label": "Strong earnings growth and ROTCE improvement",
+        "severity": 1,
+        "evidence": "diluted earnings per share was up 11% from a year ago, ROTCE improved to 13.4% in 2024 from 8% in 2020"
+      },
+      {
+        "label": "Regulatory progress with consent order closures",
+        "severity": 1,
+        "evidence": "sixth consent order terminated by regulators since 2019, OCC terminated 2016 sell practices consent order early last year"
+      },
+      {
+        "label": "Credit card business momentum and new product success",
+        "severity": 2,
+        "evidence": "over 2.4 million new credit card accounts opened in 2024, credit card spend up over $17 billion from a year ago, 11 new cards rolled out since 2021"
+      },
+      {
+        "label": "Diversified revenue growth reducing NII reliance",
+        "severity": 2,
+        "evidence": "strong fee-based revenue growth, up 15% from a year ago, largely offset expected decline in net interest income"
+      },
+      {
+        "label": "Capital return acceleration and shareholder returns",
+        "severity": 2,
+        "evidence": "returned $25 billion of capital to shareholders, repurchased approximately $20 billion of common stock, up 64% from a year ago"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Commercial real estate office portfolio weakness",
+        "severity": 4,
+        "evidence": "commercial real estate office fundamentals have not changed and remain weak, commercial net loan charge-offs increased to 30 basis points driven by office portfolio"
+      },
+      {
+        "label": "Net interest income pressure and rate sensitivity",
+        "severity": 3,
+        "evidence": "NII guidance of only 1-3% growth for 2025, rate cuts expected to be slight headwind, balance sheet becoming less rate sensitive"
+      },
+      {
+        "label": "Loan demand weakness and credit tightening impacts",
+        "severity": 3,
+        "evidence": "average loans declined throughout the year, weak loan demand, commercial clients remain cautious with no meaningful change in loan demand in Q4"
+      },
+      {
+        "label": "Cyber risk as primary operational concern",
+        "severity": 3,
+        "evidence": "biggest risk that we spend the most time talking about is cyber at this point, significant investment and resources required"
+      },
+      {
+        "label": "Asset cap constraint limiting balance sheet growth",
+        "severity": 3,
+        "evidence": "asset capital expected to remain in place throughout 2025, limits organic growth opportunities despite excess capital position"
+      }
+    ],
+    "themes": [
+      "regulatory_remediation",
+      "revenue_diversification",
+      "capital_return",
+      "credit_card_growth",
+      "operational_efficiency",
+      "wealth_management_expansion",
+      "investment_banking_growth",
+      "deposit_gathering",
+      "digital_transformation",
+      "risk_management",
+      "commercial_real_estate_weakness",
+      "net_interest_income_pressure",
+      "asset_cap_constraint",
+      "rotce_improvement_path"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.72,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.78,
+    "wins": [
+      {
+        "label": "Strong earnings growth and ROTCE improvement",
+        "severity": 1,
+        "evidence": "diluted earnings per share was up 11% from a year ago, ROTCE improved to 13.4% in 2024 from 8% in 2020"
+      },
+      {
+        "label": "Regulatory progress with consent order closures",
+        "severity": 1,
+        "evidence": "sixth consent order terminated by regulators since 2019, OCC terminated 2016 sell practices consent order early last year"
+      },
+      {
+        "label": "Credit card business momentum and new product success",
+        "severity": 2,
+        "evidence": "over 2.4 million new credit card accounts opened in 2024, credit card spend up over $17 billion from a year ago, 11 new cards rolled out since 2021"
+      },
+      {
+        "label": "Diversified revenue growth reducing NII reliance",
+        "severity": 2,
+        "evidence": "strong fee-based revenue growth, up 15% from a year ago, largely offset expected decline in net interest income"
+      },
+      {
+        "label": "Capital return acceleration and shareholder returns",
+        "severity": 2,
+        "evidence": "returned $25 billion of capital to shareholders, repurchased approximately $20 billion of common stock, up 64% from a year ago"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Commercial real estate office portfolio weakness",
+        "severity": 4,
+        "evidence": "commercial real estate office fundamentals have not changed and remain weak, commercial net loan charge-offs increased to 30 basis points driven by office portfolio"
+      },
+      {
+        "label": "Net interest income pressure and rate sensitivity",
+        "severity": 3,
+        "evidence": "NII guidance of only 1-3% growth for 2025, rate cuts expected to be slight headwind, balance sheet becoming less rate sensitive"
+      },
+      {
+        "label": "Loan demand weakness and credit tightening impacts",
+        "severity": 3,
+        "evidence": "average loans declined throughout the year, weak loan demand, commercial clients remain cautious with no meaningful change in loan demand in Q4"
+      },
+      {
+        "label": "Cyber risk as primary operational concern",
+        "severity": 3,
+        "evidence": "biggest risk that we spend the most time talking about is cyber at this point, significant investment and resources required"
+      },
+      {
+        "label": "Asset cap constraint limiting balance sheet growth",
+        "severity": 3,
+        "evidence": "asset capital expected to remain in place throughout 2025, limits organic growth opportunities despite excess capital position"
+      }
+    ],
+    "themes": [
+      "regulatory_remediation",
+      "revenue_diversification",
+      "capital_return",
+      "credit_card_growth",
+      "operational_efficiency",
+      "wealth_management_expansion",
+      "investment_banking_growth",
+      "deposit_gathering",
+      "digital_transformation",
+      "risk_management",
+      "commercial_real_estate_weakness",
+      "net_interest_income_pressure",
+      "asset_cap_constraint",
+      "rotce_improvement_path"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 1.0,
+    "risks_jaccard": 1.0,
+    "themes_jaccard": 1.0,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.0,
+    "agreement_score": 1.0,
+    "agreement_confidence": 1.0
+  },
+  "chosen": {
+    "overall_sentiment": 0.72,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.78,
+    "wins": [
+      {
+        "label": "Strong earnings growth and ROTCE improvement",
+        "severity": 1,
+        "evidence": "diluted earnings per share was up 11% from a year ago, ROTCE improved to 13.4% in 2024 from 8% in 2020"
+      },
+      {
+        "label": "Regulatory progress with consent order closures",
+        "severity": 1,
+        "evidence": "sixth consent order terminated by regulators since 2019, OCC terminated 2016 sell practices consent order early last year"
+      },
+      {
+        "label": "Credit card business momentum and new product success",
+        "severity": 2,
+        "evidence": "over 2.4 million new credit card accounts opened in 2024, credit card spend up over $17 billion from a year ago, 11 new cards rolled out since 2021"
+      },
+      {
+        "label": "Diversified revenue growth reducing NII reliance",
+        "severity": 2,
+        "evidence": "strong fee-based revenue growth, up 15% from a year ago, largely offset expected decline in net interest income"
+      },
+      {
+        "label": "Capital return acceleration and shareholder returns",
+        "severity": 2,
+        "evidence": "returned $25 billion of capital to shareholders, repurchased approximately $20 billion of common stock, up 64% from a year ago"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Commercial real estate office portfolio weakness",
+        "severity": 4,
+        "evidence": "commercial real estate office fundamentals have not changed and remain weak, commercial net loan charge-offs increased to 30 basis points driven by office portfolio"
+      },
+      {
+        "label": "Net interest income pressure and rate sensitivity",
+        "severity": 3,
+        "evidence": "NII guidance of only 1-3% growth for 2025, rate cuts expected to be slight headwind, balance sheet becoming less rate sensitive"
+      },
+      {
+        "label": "Loan demand weakness and credit tightening impacts",
+        "severity": 3,
+        "evidence": "average loans declined throughout the year, weak loan demand, commercial clients remain cautious with no meaningful change in loan demand in Q4"
+      },
+      {
+        "label": "Cyber risk as primary operational concern",
+        "severity": 3,
+        "evidence": "biggest risk that we spend the most time talking about is cyber at this point, significant investment and resources required"
+      },
+      {
+        "label": "Asset cap constraint limiting balance sheet growth",
+        "severity": 3,
+        "evidence": "asset capital expected to remain in place throughout 2025, limits organic growth opportunities despite excess capital position"
+      }
+    ],
+    "themes": [
+      "regulatory_remediation",
+      "revenue_diversification",
+      "capital_return",
+      "credit_card_growth",
+      "operational_efficiency",
+      "wealth_management_expansion",
+      "investment_banking_growth",
+      "deposit_gathering",
+      "digital_transformation",
+      "risk_management",
+      "commercial_real_estate_weakness",
+      "net_interest_income_pressure",
+      "asset_cap_constraint",
+      "rotce_improvement_path"
+    ]
+  }
+}

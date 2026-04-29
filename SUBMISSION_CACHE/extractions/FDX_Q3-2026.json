@@ -1,0 +1,217 @@
+{
+  "_ticker": "FDX",
+  "_quarter": "Q3-2026",
+  "_call_date": "2026-03-19",
+  "primary_model": "qwen3:14b",
+  "secondary_model": "gemma3:4b",
+  "primary": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "Strong Q3 financial performance",
+        "severity": 5,
+        "evidence": "The team's commitment to make every FedEx experience outstanding and their consistent execution drove our strong Q3 financial performance."
+      },
+      {
+        "label": "Raised FY '26 adjusted earnings outlook",
+        "severity": 5,
+        "evidence": "Given the strength of our consolidated Q3 results and updated assumptions for Q4, we are raising our FY '26 adjusted earnings outlook to $19.30 to $20.10 per diluted share."
+      },
+      {
+        "label": "Margin expansion at FEC",
+        "severity": 4,
+        "evidence": "This marked our sixth consecutive quarter of margin expansion, allowing us to grow adjusted operating income 18%."
+      },
+      {
+        "label": "Network 2.0 progress",
+        "severity": 4,
+        "evidence": "By the end of this month, about 35% of eligible volume will flow through nearly 400 Network 2.0 optimized facilities."
+      },
+      {
+        "label": "Revenue share gains in B2B verticals",
+        "severity": 4,
+        "evidence": "Revenue share gains in our priority B2B verticals were an important driver of our Q3 performance."
+      }
+    ],
+    "risks": [
+      {
+        "label": "LTL industry trends",
+        "severity": 4,
+        "evidence": "Freight results remain pressured as a result of ongoing LTL industry trends, along with increased separation-related expenses."
+      },
+      {
+        "label": "MD-11 fleet grounding",
+        "severity": 3,
+        "evidence": "The MD-11 grounding led to a headwind of $120 million of adjusted operating income in the quarter due to higher operating costs and lost revenue."
+      },
+      {
+        "label": "Separation-related costs",
+        "severity": 3,
+        "evidence": "We incurred approximately $60 million in separation-related costs that were not adjusted out of our results."
+      },
+      {
+        "label": "Fuel price volatility",
+        "severity": 2,
+        "evidence": "Fuel surcharge is indexed to fuel prices published by the U.S. Department of Energy, allowing us to protect profitability during periods of energy price volatility."
+      },
+      {
+        "label": "Global trade policy changes",
+        "severity": 2,
+        "evidence": "We continue to experience headwinds tied to changing global trade policies."
+      }
+    ],
+    "themes": [
+      "network transformation",
+      "b2b growth",
+      "margin expansion",
+      "capex discipline",
+      "spin-off progress"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.45,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Strong Q3 Results",
+        "severity": 4,
+        "evidence": "The team's commitment to make every FedEx experience outstanding and their consistent execution drove our strong Q3 financial performance."
+      },
+      {
+        "label": "Increased Revenue",
+        "severity": 5,
+        "evidence": "Revenue was up 8% year-over-year, driven by yield and volume strength across nearly all our package services."
+      },
+      {
+        "label": "Margin Expansion",
+        "severity": 4,
+        "evidence": "We delivered a 7% increase in adjusted operating income year-over-year as we successfully managed headwinds tied to changing global trade policies, a challenging LTL demand environment and the grounding of our MD-11 fleet."
+      },
+      {
+        "label": "Network 2.0 Progress",
+        "severity": 4,
+        "evidence": "By the end of this month, about 35% of eligible volume will flow through nearly 400 Network 2.0 optimized facilities."
+      },
+      {
+        "label": "Spin-Off Confirmation",
+        "severity": 5,
+        "evidence": "FedEx Freight successfully completed a $3.7 billion debt offering in January, and this was an important milestone as freight intends to dividend the net proceeds to FedEx Corp. in connection with the spin-off."
+      }
+    ],
+    "risks": [
+      {
+        "label": "LTL Industry Pressure",
+        "severity": 5,
+        "evidence": "Yield trended better than expected, which reflects the improving pricing environment, both in U.S. domestic and international, and we'll be focused on continuing this momentum in the fourth quarter."
+      },
+      {
+        "label": "MD-11 Grounding Impact",
+        "severity": 4,
+        "evidence": "Q3 marked the first full quarter with our MD-11 fleet grounded. My sincere thanks go out to our world-class team, including our pilots, network planning and flight operations teams who did an outstanding job adjusting the network under very difficult circumstances to mitigate the operational and financial impacts of the grounding during the peak season."
+      },
+      {
+        "label": "Global Trade Policy Changes",
+        "severity": 4,
+        "evidence": "We continue to flex our air network in response to global trade policy changes. We reduced transpacific outbound Purple and White-tail capacity by approximately 15% and 25%, respectively, during the quarter."
+      },
+      {
+        "label": "Freight Demand Weakness",
+        "severity": 5,
+        "evidence": "In Q3, shipments declined 6%, pressured by lower shipments."
+      },
+      {
+        "label": "Separation Costs",
+        "severity": 4,
+        "evidence": "Specifically, we incurred approximately $60 million in separation-related costs that were not adjusted out of our results."
+      }
+    ],
+    "themes": [
+      "network transformation",
+      "revenue quality",
+      "cost management",
+      "strategic priorities",
+      "global trade"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 0.1111111111111111,
+    "risks_jaccard": 0.1111111111111111,
+    "themes_jaccard": 0.1111111111111111,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.39999999999999997,
+    "agreement_score": 0.24444444444444444,
+    "agreement_confidence": 0.1466666666666667
+  },
+  "chosen": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "Strong Q3 financial performance",
+        "severity": 5,
+        "evidence": "The team's commitment to make every FedEx experience outstanding and their consistent execution drove our strong Q3 financial performance."
+      },
+      {
+        "label": "Raised FY '26 adjusted earnings outlook",
+        "severity": 5,
+        "evidence": "Given the strength of our consolidated Q3 results and updated assumptions for Q4, we are raising our FY '26 adjusted earnings outlook to $19.30 to $20.10 per diluted share."
+      },
+      {
+        "label": "Margin expansion at FEC",
+        "severity": 4,
+        "evidence": "This marked our sixth consecutive quarter of margin expansion, allowing us to grow adjusted operating income 18%."
+      },
+      {
+        "label": "Network 2.0 progress",
+        "severity": 4,
+        "evidence": "By the end of this month, about 35% of eligible volume will flow through nearly 400 Network 2.0 optimized facilities."
+      },
+      {
+        "label": "Revenue share gains in B2B verticals",
+        "severity": 4,
+        "evidence": "Revenue share gains in our priority B2B verticals were an important driver of our Q3 performance."
+      }
+    ],
+    "risks": [
+      {
+        "label": "LTL industry trends",
+        "severity": 4,
+        "evidence": "Freight results remain pressured as a result of ongoing LTL industry trends, along with increased separation-related expenses."
+      },
+      {
+        "label": "MD-11 fleet grounding",
+        "severity": 3,
+        "evidence": "The MD-11 grounding led to a headwind of $120 million of adjusted operating income in the quarter due to higher operating costs and lost revenue."
+      },
+      {
+        "label": "Separation-related costs",
+        "severity": 3,
+        "evidence": "We incurred approximately $60 million in separation-related costs that were not adjusted out of our results."
+      },
+      {
+        "label": "Fuel price volatility",
+        "severity": 2,
+        "evidence": "Fuel surcharge is indexed to fuel prices published by the U.S. Department of Energy, allowing us to protect profitability during periods of energy price volatility."
+      },
+      {
+        "label": "Global trade policy changes",
+        "severity": 2,
+        "evidence": "We continue to experience headwinds tied to changing global trade policies."
+      }
+    ],
+    "themes": [
+      "network transformation",
+      "b2b growth",
+      "margin expansion",
+      "capex discipline",
+      "spin-off progress"
+    ]
+  }
+}

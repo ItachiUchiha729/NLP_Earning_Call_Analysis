@@ -1,0 +1,234 @@
+{
+  "_ticker": "PLTR",
+  "_quarter": "Q3-2024",
+  "_call_date": "2024-11-04",
+  "backend": "anthropic",
+  "primary_model": "gemma3:4b",
+  "secondary_model": "gemma3:4b",
+  "single_call_mode": true,
+  "primary": {
+    "overall_sentiment": 0.92,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "Exceptional revenue acceleration",
+        "severity": 5,
+        "evidence": "Revenue grew 30% year-over-year in Q3 driven by an intensifying AI revolution...U.S. business achieved 44% year-over-year"
+      },
+      {
+        "label": "Strong commercial momentum with high growth rates",
+        "severity": 5,
+        "evidence": "U.S. commercial business momentum continued with 54% year-over-year and 13% sequential revenue growth...customer count grew 77% year-over-year"
+      },
+      {
+        "label": "Record profitability and cash generation",
+        "severity": 5,
+        "evidence": "adjusted operating margin to 38%...generated over $1 billion in adjusted free cash flow for the first time in the company's history"
+      },
+      {
+        "label": "Significant customer wins with rapid ROI",
+        "severity": 4,
+        "evidence": "Trinity Rail, it took just 3 months to get to a functional workflow with a $30 million impact to its bottom line"
+      },
+      {
+        "label": "Government business acceleration and military adoption",
+        "severity": 5,
+        "evidence": "U.S. government business revenue growth accelerated to 40% year-over-year...strongest sequential growth in 15 quarters...Army was the first military department to adopt Maven"
+      }
+    ],
+    "risks": [
+      {
+        "label": "International commercial headwinds",
+        "severity": 3,
+        "evidence": "continued headwinds in Europe and a step down in revenue from a government-sponsored enterprise in the Middle East...7% sequential decline"
+      },
+      {
+        "label": "Strategic commercial contracts declining",
+        "severity": 2,
+        "evidence": "We anticipate fourth quarter 2024 revenue from these customers to decline to between $6 million to $7.5 million compared to $20 million in the fourth quarter of 2023"
+      },
+      {
+        "label": "Commoditization of AI models creating competitive pressure",
+        "severity": 3,
+        "evidence": "We're witnessing the commoditization of cognition with the rapid advancement of AI models...pricing for inference is dropping like a rock"
+      },
+      {
+        "label": "Expense growth acceleration expected",
+        "severity": 2,
+        "evidence": "We continue to expect expenses to ramp through the fourth quarter as we invest in the product pipeline"
+      },
+      {
+        "label": "Potential stock-based compensation acceleration",
+        "severity": 2,
+        "evidence": "we will continue to monitor if we become required to accelerate stock-based compensation expenses if certain market-based vesting criteria are achieved earlier than expected"
+      }
+    ],
+    "themes": [
+      "ai_revolution",
+      "enterprise_autonomy",
+      "production_deployment",
+      "government_defense",
+      "commercial_expansion",
+      "profitability_expansion",
+      "cash_flow_strength",
+      "military_adoption",
+      "application_layer_value",
+      "winner_take_all_economy"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.92,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "Exceptional revenue acceleration",
+        "severity": 5,
+        "evidence": "Revenue grew 30% year-over-year in Q3 driven by an intensifying AI revolution...U.S. business achieved 44% year-over-year"
+      },
+      {
+        "label": "Strong commercial momentum with high growth rates",
+        "severity": 5,
+        "evidence": "U.S. commercial business momentum continued with 54% year-over-year and 13% sequential revenue growth...customer count grew 77% year-over-year"
+      },
+      {
+        "label": "Record profitability and cash generation",
+        "severity": 5,
+        "evidence": "adjusted operating margin to 38%...generated over $1 billion in adjusted free cash flow for the first time in the company's history"
+      },
+      {
+        "label": "Significant customer wins with rapid ROI",
+        "severity": 4,
+        "evidence": "Trinity Rail, it took just 3 months to get to a functional workflow with a $30 million impact to its bottom line"
+      },
+      {
+        "label": "Government business acceleration and military adoption",
+        "severity": 5,
+        "evidence": "U.S. government business revenue growth accelerated to 40% year-over-year...strongest sequential growth in 15 quarters...Army was the first military department to adopt Maven"
+      }
+    ],
+    "risks": [
+      {
+        "label": "International commercial headwinds",
+        "severity": 3,
+        "evidence": "continued headwinds in Europe and a step down in revenue from a government-sponsored enterprise in the Middle East...7% sequential decline"
+      },
+      {
+        "label": "Strategic commercial contracts declining",
+        "severity": 2,
+        "evidence": "We anticipate fourth quarter 2024 revenue from these customers to decline to between $6 million to $7.5 million compared to $20 million in the fourth quarter of 2023"
+      },
+      {
+        "label": "Commoditization of AI models creating competitive pressure",
+        "severity": 3,
+        "evidence": "We're witnessing the commoditization of cognition with the rapid advancement of AI models...pricing for inference is dropping like a rock"
+      },
+      {
+        "label": "Expense growth acceleration expected",
+        "severity": 2,
+        "evidence": "We continue to expect expenses to ramp through the fourth quarter as we invest in the product pipeline"
+      },
+      {
+        "label": "Potential stock-based compensation acceleration",
+        "severity": 2,
+        "evidence": "we will continue to monitor if we become required to accelerate stock-based compensation expenses if certain market-based vesting criteria are achieved earlier than expected"
+      }
+    ],
+    "themes": [
+      "ai_revolution",
+      "enterprise_autonomy",
+      "production_deployment",
+      "government_defense",
+      "commercial_expansion",
+      "profitability_expansion",
+      "cash_flow_strength",
+      "military_adoption",
+      "application_layer_value",
+      "winner_take_all_economy"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 1.0,
+    "risks_jaccard": 1.0,
+    "themes_jaccard": 1.0,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.0,
+    "agreement_score": 1.0,
+    "agreement_confidence": 1.0
+  },
+  "chosen": {
+    "overall_sentiment": 0.92,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "Exceptional revenue acceleration",
+        "severity": 5,
+        "evidence": "Revenue grew 30% year-over-year in Q3 driven by an intensifying AI revolution...U.S. business achieved 44% year-over-year"
+      },
+      {
+        "label": "Strong commercial momentum with high growth rates",
+        "severity": 5,
+        "evidence": "U.S. commercial business momentum continued with 54% year-over-year and 13% sequential revenue growth...customer count grew 77% year-over-year"
+      },
+      {
+        "label": "Record profitability and cash generation",
+        "severity": 5,
+        "evidence": "adjusted operating margin to 38%...generated over $1 billion in adjusted free cash flow for the first time in the company's history"
+      },
+      {
+        "label": "Significant customer wins with rapid ROI",
+        "severity": 4,
+        "evidence": "Trinity Rail, it took just 3 months to get to a functional workflow with a $30 million impact to its bottom line"
+      },
+      {
+        "label": "Government business acceleration and military adoption",
+        "severity": 5,
+        "evidence": "U.S. government business revenue growth accelerated to 40% year-over-year...strongest sequential growth in 15 quarters...Army was the first military department to adopt Maven"
+      }
+    ],
+    "risks": [
+      {
+        "label": "International commercial headwinds",
+        "severity": 3,
+        "evidence": "continued headwinds in Europe and a step down in revenue from a government-sponsored enterprise in the Middle East...7% sequential decline"
+      },
+      {
+        "label": "Strategic commercial contracts declining",
+        "severity": 2,
+        "evidence": "We anticipate fourth quarter 2024 revenue from these customers to decline to between $6 million to $7.5 million compared to $20 million in the fourth quarter of 2023"
+      },
+      {
+        "label": "Commoditization of AI models creating competitive pressure",
+        "severity": 3,
+        "evidence": "We're witnessing the commoditization of cognition with the rapid advancement of AI models...pricing for inference is dropping like a rock"
+      },
+      {
+        "label": "Expense growth acceleration expected",
+        "severity": 2,
+        "evidence": "We continue to expect expenses to ramp through the fourth quarter as we invest in the product pipeline"
+      },
+      {
+        "label": "Potential stock-based compensation acceleration",
+        "severity": 2,
+        "evidence": "we will continue to monitor if we become required to accelerate stock-based compensation expenses if certain market-based vesting criteria are achieved earlier than expected"
+      }
+    ],
+    "themes": [
+      "ai_revolution",
+      "enterprise_autonomy",
+      "production_deployment",
+      "government_defense",
+      "commercial_expansion",
+      "profitability_expansion",
+      "cash_flow_strength",
+      "military_adoption",
+      "application_layer_value",
+      "winner_take_all_economy"
+    ]
+  }
+}

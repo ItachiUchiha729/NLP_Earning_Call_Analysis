@@ -1,0 +1,217 @@
+{
+  "_ticker": "FAST",
+  "_quarter": "Q1-2026",
+  "_call_date": "2026-04-13",
+  "primary_model": "qwen3:14b",
+  "secondary_model": "gemma3:4b",
+  "primary": {
+    "overall_sentiment": 0.75,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Strong sales growth",
+        "severity": 5,
+        "evidence": "We delivered 12.4% daily sales growth, our third consecutive quarter of double-digit growth."
+      },
+      {
+        "label": "Customer engagement and market share gains",
+        "severity": 4,
+        "evidence": "Events like these really demonstrate why we keep gaining market share."
+      },
+      {
+        "label": "Digital adoption and FMI expansion",
+        "severity": 4,
+        "evidence": "We signed close to 7,000 new FMI device agreements, about 110 per day, an 8% increase over last year."
+      },
+      {
+        "label": "Operating margin improvement",
+        "severity": 3,
+        "evidence": "Operating margin improved to 20.3%, up 20 basis points from last year."
+      },
+      {
+        "label": "Strong cash generation",
+        "severity": 3,
+        "evidence": "Operating cash flow was approximately $378 million, representing 111% of net income."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Tariff and pricing uncertainty",
+        "severity": 4,
+        "evidence": "Tariff uncertainty added additional challenges. In many cases, customer conversations and pricing actions took longer than usual."
+      },
+      {
+        "label": "Margin pressure from cost inflation",
+        "severity": 4,
+        "evidence": "We were approximately 40 basis points below our own Q1 gross margin target as pricing actions did not keep up with cost increases."
+      },
+      {
+        "label": "Pricing delays and customer pushback",
+        "severity": 3,
+        "evidence": "The real challenge to the group is we need to have those tough discussions every day."
+      },
+      {
+        "label": "Fuel and transportation cost headwinds",
+        "severity": 2,
+        "evidence": "We also experienced smaller headwinds from fuel and transportation costs."
+      },
+      {
+        "label": "Inventory cost inflation",
+        "severity": 3,
+        "evidence": "The headwind from the inventory conversion is now behind us, but we're getting close."
+      }
+    ],
+    "themes": [
+      "sales growth",
+      "digital adoption",
+      "margin improvement",
+      "tariff uncertainty",
+      "customer engagement"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.25,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Strong Q1 Sales Growth",
+        "severity": 4,
+        "evidence": "Daily sales increased 12.4% to $34.9 million per day for the quarter, our third consecutive quarter of double-digit growth."
+      },
+      {
+        "label": "Increased Share of Wallet",
+        "severity": 3,
+        "evidence": "We gained share through focused execution, winning new business with key accounts, and expanding customer site presence."
+      },
+      {
+        "label": "Strategic Driver Success",
+        "severity": 4,
+        "evidence": "Increasing sales effectiveness, driven by new national account contracts and a healthy number of signings, contributed significantly to growth."
+      },
+      {
+        "label": "Expanded Customer Sites",
+        "severity": 3,
+        "evidence": "Customer sites spending $50,000 plus per month increased 16.3% year-over-year to just over 2,900 sites."
+      },
+      {
+        "label": "International Growth",
+        "severity": 4,
+        "evidence": "International sales grew almost 24% in March, primarily in Europe and Asia, demonstrating continued momentum."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Tariff-Related Margin Pressure",
+        "severity": 5,
+        "evidence": "Approximately 40 basis points of margin pressure was due to tariff-related costs, particularly in branded products."
+      },
+      {
+        "label": "Pricing vs. Cost Challenges",
+        "severity": 4,
+        "evidence": "Difficulty in quickly passing on price increases due to tariff uncertainty and customer negotiations."
+      },
+      {
+        "label": "Macroeconomic Uncertainty",
+        "severity": 3,
+        "evidence": "The industrial environment remains somewhat challenging, with moderate PMI levels and potential headwinds from trade and tariff uncertainty."
+      },
+      {
+        "label": "Inventory Management Complexity",
+        "severity": 4,
+        "evidence": "Managing inventory levels and costs, particularly with slower inventory turnover rates for certain product lines, presented challenges."
+      },
+      {
+        "label": "Competition in Branded Products",
+        "severity": 5,
+        "evidence": "Increased competition in branded products led to pricing challenges and slower adoption of new price increases."
+      }
+    ],
+    "themes": [
+      "sales growth",
+      "margin improvement",
+      "digital transformation",
+      "customer engagement",
+      "international expansion"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 0.0,
+    "risks_jaccard": 0.0,
+    "themes_jaccard": 0.42857142857142855,
+    "guidance_match": 0.0,
+    "sentiment_gap": 0.5,
+    "agreement_score": 0.10714285714285714,
+    "agreement_confidence": 0.05357142857142857
+  },
+  "chosen": {
+    "overall_sentiment": 0.75,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Strong sales growth",
+        "severity": 5,
+        "evidence": "We delivered 12.4% daily sales growth, our third consecutive quarter of double-digit growth."
+      },
+      {
+        "label": "Customer engagement and market share gains",
+        "severity": 4,
+        "evidence": "Events like these really demonstrate why we keep gaining market share."
+      },
+      {
+        "label": "Digital adoption and FMI expansion",
+        "severity": 4,
+        "evidence": "We signed close to 7,000 new FMI device agreements, about 110 per day, an 8% increase over last year."
+      },
+      {
+        "label": "Operating margin improvement",
+        "severity": 3,
+        "evidence": "Operating margin improved to 20.3%, up 20 basis points from last year."
+      },
+      {
+        "label": "Strong cash generation",
+        "severity": 3,
+        "evidence": "Operating cash flow was approximately $378 million, representing 111% of net income."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Tariff and pricing uncertainty",
+        "severity": 4,
+        "evidence": "Tariff uncertainty added additional challenges. In many cases, customer conversations and pricing actions took longer than usual."
+      },
+      {
+        "label": "Margin pressure from cost inflation",
+        "severity": 4,
+        "evidence": "We were approximately 40 basis points below our own Q1 gross margin target as pricing actions did not keep up with cost increases."
+      },
+      {
+        "label": "Pricing delays and customer pushback",
+        "severity": 3,
+        "evidence": "The real challenge to the group is we need to have those tough discussions every day."
+      },
+      {
+        "label": "Fuel and transportation cost headwinds",
+        "severity": 2,
+        "evidence": "We also experienced smaller headwinds from fuel and transportation costs."
+      },
+      {
+        "label": "Inventory cost inflation",
+        "severity": 3,
+        "evidence": "The headwind from the inventory conversion is now behind us, but we're getting close."
+      }
+    ],
+    "themes": [
+      "sales growth",
+      "digital adoption",
+      "margin improvement",
+      "tariff uncertainty",
+      "customer engagement"
+    ]
+  }
+}

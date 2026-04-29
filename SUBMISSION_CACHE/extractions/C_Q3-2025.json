@@ -1,0 +1,217 @@
+{
+  "_ticker": "C",
+  "_quarter": "Q3-2025",
+  "_call_date": "2025-10-14",
+  "primary_model": "qwen3:14b",
+  "secondary_model": "gemma3:4b",
+  "primary": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "Strong Q3 Results",
+        "severity": 5,
+        "evidence": "This morning, we reported another very good quarter with net income of $3.8 billion and earnings per share of $1.86, with an ROTCE of 8%."
+      },
+      {
+        "label": "Improved Operating Leverage",
+        "severity": 4,
+        "evidence": "We continue to generate positive operating leverage for the firm and in each of our 5 businesses."
+      },
+      {
+        "label": "Strategic Investments in Technology",
+        "severity": 4,
+        "evidence": "We are committed to embedding AI into how we work. Nearly 180,000 colleagues in 83 countries now have access to our proprietary AI tools."
+      },
+      {
+        "label": "Client Growth and Retention",
+        "severity": 4,
+        "evidence": "We had record net new investment assets of $18.6 billion in the quarter and client investment assets increasing by 14%."
+      },
+      {
+        "label": "Capital Return to Shareholders",
+        "severity": 4,
+        "evidence": "We returned over $6 billion in capital to our common shareholders during the third quarter."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Regulatory Uncertainty",
+        "severity": 3,
+        "evidence": "We are still waiting for clarity from the Federal Reserve on whether the averaging of SCB results from the previous 2 consecutive years will become effective in the next few months."
+      },
+      {
+        "label": "Economic Volatility",
+        "severity": 3,
+        "evidence": "There are pockets of valuation frothiness in the market, so I hope discipline remains."
+      },
+      {
+        "label": "Credit Risks",
+        "severity": 3,
+        "evidence": "Our reserves continue to incorporate an 8-quarter weighted average unemployment rate of 5.2%, which includes a downside scenario average unemployment rate of nearly 7%."
+      },
+      {
+        "label": "Transformation Costs",
+        "severity": 3,
+        "evidence": "Transformation expense for 2025 is expected to be under $3.5 billion, and it will take time to see the full benefits."
+      },
+      {
+        "label": "Banamex Exit Uncertainty",
+        "severity": 3,
+        "evidence": "The agreement with Fernando Chico Pardo to purchase a 25% equity stake is a very significant step towards the divestiture of Banamex and progresses the overall time line to deconsolidation and beyond."
+      }
+    ],
+    "themes": [
+      "growth",
+      "technology",
+      "capital return",
+      "efficiency",
+      "regulatory compliance"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.35,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Record Third Quarter Results",
+        "severity": 4,
+        "evidence": "Net income of $3.8 billion and earnings per share of $1.86, with an ROTCE of 8%."
+      },
+      {
+        "label": "Adjusted EPS Growth",
+        "severity": 5,
+        "evidence": "Adjusted EPS was $2.24 with an adjusted ROTCE of 9.7% excluding goodwill impairment."
+      },
+      {
+        "label": "Revenue Growth Across Businesses",
+        "severity": 4,
+        "evidence": "Revenues were up 9% and every business had record third quarter revenue and improved returns."
+      },
+      {
+        "label": "Strong Operating Leverage",
+        "severity": 5,
+        "evidence": "The firm continues to generate positive operating leverage for the firm and each of its 5 businesses."
+      },
+      {
+        "label": "Significant Capital Return",
+        "severity": 4,
+        "evidence": "Returned over $6 billion in capital to shareholders during the third quarter."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Macroeconomic Uncertainty",
+        "severity": 3,
+        "evidence": "The macro environment reflects a global economy that has proved more resilient than many anticipated. The U.S. continues to be a pacesetter, driven by consistent consumer spending as well as tech investments in AI and data centers."
+      },
+      {
+        "label": "Market Volatility",
+        "severity": 4,
+        "evidence": "There are pockets of valuation frothiness in the market, so I hope discipline remains."
+      },
+      {
+        "label": "Labor Market Dynamics",
+        "severity": 3,
+        "evidence": "Growth is cooling somewhat and we are keeping an eye on the labor market."
+      },
+      {
+        "label": "Regulatory Scrutiny",
+        "severity": 4,
+        "evidence": "The regulatory environment reflects changes in the reg environment coming from D.C., and I think like everyone we welcome the proposed changes, including recalibration to center on safety and soundness."
+      },
+      {
+        "label": "Banamex Deconsolidation Risks",
+        "severity": 4,
+        "evidence": "The agreement with Fernando Chico Pardo to purchase a 25% equity stake in Banamex."
+      }
+    ],
+    "themes": [
+      "transformation",
+      "digital payments",
+      "revenue growth",
+      "capital returns",
+      "risk management"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 0.0,
+    "risks_jaccard": 0.0,
+    "themes_jaccard": 0.0,
+    "guidance_match": 0.0,
+    "sentiment_gap": 0.5,
+    "agreement_score": 0.0,
+    "agreement_confidence": 0.0
+  },
+  "chosen": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "Strong Q3 Results",
+        "severity": 5,
+        "evidence": "This morning, we reported another very good quarter with net income of $3.8 billion and earnings per share of $1.86, with an ROTCE of 8%."
+      },
+      {
+        "label": "Improved Operating Leverage",
+        "severity": 4,
+        "evidence": "We continue to generate positive operating leverage for the firm and in each of our 5 businesses."
+      },
+      {
+        "label": "Strategic Investments in Technology",
+        "severity": 4,
+        "evidence": "We are committed to embedding AI into how we work. Nearly 180,000 colleagues in 83 countries now have access to our proprietary AI tools."
+      },
+      {
+        "label": "Client Growth and Retention",
+        "severity": 4,
+        "evidence": "We had record net new investment assets of $18.6 billion in the quarter and client investment assets increasing by 14%."
+      },
+      {
+        "label": "Capital Return to Shareholders",
+        "severity": 4,
+        "evidence": "We returned over $6 billion in capital to our common shareholders during the third quarter."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Regulatory Uncertainty",
+        "severity": 3,
+        "evidence": "We are still waiting for clarity from the Federal Reserve on whether the averaging of SCB results from the previous 2 consecutive years will become effective in the next few months."
+      },
+      {
+        "label": "Economic Volatility",
+        "severity": 3,
+        "evidence": "There are pockets of valuation frothiness in the market, so I hope discipline remains."
+      },
+      {
+        "label": "Credit Risks",
+        "severity": 3,
+        "evidence": "Our reserves continue to incorporate an 8-quarter weighted average unemployment rate of 5.2%, which includes a downside scenario average unemployment rate of nearly 7%."
+      },
+      {
+        "label": "Transformation Costs",
+        "severity": 3,
+        "evidence": "Transformation expense for 2025 is expected to be under $3.5 billion, and it will take time to see the full benefits."
+      },
+      {
+        "label": "Banamex Exit Uncertainty",
+        "severity": 3,
+        "evidence": "The agreement with Fernando Chico Pardo to purchase a 25% equity stake is a very significant step towards the divestiture of Banamex and progresses the overall time line to deconsolidation and beyond."
+      }
+    ],
+    "themes": [
+      "growth",
+      "technology",
+      "capital return",
+      "efficiency",
+      "regulatory compliance"
+    ]
+  }
+}

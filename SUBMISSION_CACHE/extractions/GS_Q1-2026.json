@@ -1,0 +1,246 @@
+{
+  "_ticker": "GS",
+  "_quarter": "Q1-2026",
+  "_call_date": "2026-04-13",
+  "backend": "anthropic",
+  "primary_model": "gemma3:4b",
+  "secondary_model": "gemma3:4b",
+  "single_call_mode": true,
+  "primary": {
+    "overall_sentiment": 0.72,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.75,
+    "wins": [
+      {
+        "label": "Record GBM revenues and strong diversification",
+        "severity": 1,
+        "evidence": "Global Banking & Markets produced record revenues of $12.7 billion in the first quarter and generated an ROE of over 22%"
+      },
+      {
+        "label": "Strong M&A leadership and pipeline",
+        "severity": 1,
+        "evidence": "We remain #1 in the league tables for M&A with a lead of $150 billion in announced volumes versus our closest peer. Our backlog closed 2025 at its highest level in 4 years"
+      },
+      {
+        "label": "Robust equity financing growth",
+        "severity": 1,
+        "evidence": "Record Equities financing revenues of $2.6 billion were 59% higher year-over-year with particular strength in Asia amid another record for average prime balances"
+      },
+      {
+        "label": "Consistent AWM inflows and client engagement",
+        "severity": 1,
+        "evidence": "We generated $62 billion in long-term fee-based inflows, including $22 billion in Wealth Management flows. 33rd consecutive quarter of long-term fee-based net inflows"
+      },
+      {
+        "label": "Strong private credit positioning with institutional demand",
+        "severity": 2,
+        "evidence": "40% of first quarter 2026 subscriptions in our GS credit BDC were from institutions, many of whom are first-time investors. Over 80% institutional partners very broad and diverse"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Geopolitical uncertainty and energy price volatility",
+        "severity": 3,
+        "evidence": "Heightened uncertainty in parts of private credit and the conflict in the Middle East. If the resolution of the conflict drags, that probably will be a headwind in some of these areas particularly inflation trends"
+      },
+      {
+        "label": "Private credit industry scrutiny and retail redemptions",
+        "severity": 3,
+        "evidence": "There are obviously heightened redemptions in certain peer managed funds. These peer managed funds have been concentrated in retail outflows as opposed to institutional outflows"
+      },
+      {
+        "label": "Weaker FICC intermediation in rates and mortgages",
+        "severity": 2,
+        "evidence": "Within intermediation, revenues in rates and mortgages were significantly lower versus the first quarter of last year as results were impacted by a tougher market-making backdrop"
+      },
+      {
+        "label": "Sponsor activity and IPO slowdown",
+        "severity": 2,
+        "evidence": "While market conditions tempered execution for IPOs and sponsor activity broadly. IPO activity slowed a little bit, particularly in March"
+      },
+      {
+        "label": "Long credit cycle and potential for elevated losses",
+        "severity": 3,
+        "evidence": "This has been a long period of time without a normal credit cycle, meaning a meaningful slowdown in the economy, or a recession. When credit cycles go on longer, spreads get tighter, market participants get more aggressive to deploy capital"
+      }
+    ],
+    "themes": [
+      "record_profitability",
+      "diversified_franchise",
+      "strong_m&a_leadership",
+      "equity_financing_growth",
+      "asia_expansion",
+      "private_credit_opportunity",
+      "geopolitical_uncertainty",
+      "regulatory_reform_positive",
+      "ai_investment_opportunity",
+      "capital_deployment_strategy",
+      "awm_momentum",
+      "credit_cycle_risk",
+      "sponsor_activity_weakness",
+      "ficc_mixed_performance"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.72,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.75,
+    "wins": [
+      {
+        "label": "Record GBM revenues and strong diversification",
+        "severity": 1,
+        "evidence": "Global Banking & Markets produced record revenues of $12.7 billion in the first quarter and generated an ROE of over 22%"
+      },
+      {
+        "label": "Strong M&A leadership and pipeline",
+        "severity": 1,
+        "evidence": "We remain #1 in the league tables for M&A with a lead of $150 billion in announced volumes versus our closest peer. Our backlog closed 2025 at its highest level in 4 years"
+      },
+      {
+        "label": "Robust equity financing growth",
+        "severity": 1,
+        "evidence": "Record Equities financing revenues of $2.6 billion were 59% higher year-over-year with particular strength in Asia amid another record for average prime balances"
+      },
+      {
+        "label": "Consistent AWM inflows and client engagement",
+        "severity": 1,
+        "evidence": "We generated $62 billion in long-term fee-based inflows, including $22 billion in Wealth Management flows. 33rd consecutive quarter of long-term fee-based net inflows"
+      },
+      {
+        "label": "Strong private credit positioning with institutional demand",
+        "severity": 2,
+        "evidence": "40% of first quarter 2026 subscriptions in our GS credit BDC were from institutions, many of whom are first-time investors. Over 80% institutional partners very broad and diverse"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Geopolitical uncertainty and energy price volatility",
+        "severity": 3,
+        "evidence": "Heightened uncertainty in parts of private credit and the conflict in the Middle East. If the resolution of the conflict drags, that probably will be a headwind in some of these areas particularly inflation trends"
+      },
+      {
+        "label": "Private credit industry scrutiny and retail redemptions",
+        "severity": 3,
+        "evidence": "There are obviously heightened redemptions in certain peer managed funds. These peer managed funds have been concentrated in retail outflows as opposed to institutional outflows"
+      },
+      {
+        "label": "Weaker FICC intermediation in rates and mortgages",
+        "severity": 2,
+        "evidence": "Within intermediation, revenues in rates and mortgages were significantly lower versus the first quarter of last year as results were impacted by a tougher market-making backdrop"
+      },
+      {
+        "label": "Sponsor activity and IPO slowdown",
+        "severity": 2,
+        "evidence": "While market conditions tempered execution for IPOs and sponsor activity broadly. IPO activity slowed a little bit, particularly in March"
+      },
+      {
+        "label": "Long credit cycle and potential for elevated losses",
+        "severity": 3,
+        "evidence": "This has been a long period of time without a normal credit cycle, meaning a meaningful slowdown in the economy, or a recession. When credit cycles go on longer, spreads get tighter, market participants get more aggressive to deploy capital"
+      }
+    ],
+    "themes": [
+      "record_profitability",
+      "diversified_franchise",
+      "strong_m&a_leadership",
+      "equity_financing_growth",
+      "asia_expansion",
+      "private_credit_opportunity",
+      "geopolitical_uncertainty",
+      "regulatory_reform_positive",
+      "ai_investment_opportunity",
+      "capital_deployment_strategy",
+      "awm_momentum",
+      "credit_cycle_risk",
+      "sponsor_activity_weakness",
+      "ficc_mixed_performance"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 1.0,
+    "risks_jaccard": 1.0,
+    "themes_jaccard": 1.0,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.0,
+    "agreement_score": 1.0,
+    "agreement_confidence": 1.0
+  },
+  "chosen": {
+    "overall_sentiment": 0.72,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.75,
+    "wins": [
+      {
+        "label": "Record GBM revenues and strong diversification",
+        "severity": 1,
+        "evidence": "Global Banking & Markets produced record revenues of $12.7 billion in the first quarter and generated an ROE of over 22%"
+      },
+      {
+        "label": "Strong M&A leadership and pipeline",
+        "severity": 1,
+        "evidence": "We remain #1 in the league tables for M&A with a lead of $150 billion in announced volumes versus our closest peer. Our backlog closed 2025 at its highest level in 4 years"
+      },
+      {
+        "label": "Robust equity financing growth",
+        "severity": 1,
+        "evidence": "Record Equities financing revenues of $2.6 billion were 59% higher year-over-year with particular strength in Asia amid another record for average prime balances"
+      },
+      {
+        "label": "Consistent AWM inflows and client engagement",
+        "severity": 1,
+        "evidence": "We generated $62 billion in long-term fee-based inflows, including $22 billion in Wealth Management flows. 33rd consecutive quarter of long-term fee-based net inflows"
+      },
+      {
+        "label": "Strong private credit positioning with institutional demand",
+        "severity": 2,
+        "evidence": "40% of first quarter 2026 subscriptions in our GS credit BDC were from institutions, many of whom are first-time investors. Over 80% institutional partners very broad and diverse"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Geopolitical uncertainty and energy price volatility",
+        "severity": 3,
+        "evidence": "Heightened uncertainty in parts of private credit and the conflict in the Middle East. If the resolution of the conflict drags, that probably will be a headwind in some of these areas particularly inflation trends"
+      },
+      {
+        "label": "Private credit industry scrutiny and retail redemptions",
+        "severity": 3,
+        "evidence": "There are obviously heightened redemptions in certain peer managed funds. These peer managed funds have been concentrated in retail outflows as opposed to institutional outflows"
+      },
+      {
+        "label": "Weaker FICC intermediation in rates and mortgages",
+        "severity": 2,
+        "evidence": "Within intermediation, revenues in rates and mortgages were significantly lower versus the first quarter of last year as results were impacted by a tougher market-making backdrop"
+      },
+      {
+        "label": "Sponsor activity and IPO slowdown",
+        "severity": 2,
+        "evidence": "While market conditions tempered execution for IPOs and sponsor activity broadly. IPO activity slowed a little bit, particularly in March"
+      },
+      {
+        "label": "Long credit cycle and potential for elevated losses",
+        "severity": 3,
+        "evidence": "This has been a long period of time without a normal credit cycle, meaning a meaningful slowdown in the economy, or a recession. When credit cycles go on longer, spreads get tighter, market participants get more aggressive to deploy capital"
+      }
+    ],
+    "themes": [
+      "record_profitability",
+      "diversified_franchise",
+      "strong_m&a_leadership",
+      "equity_financing_growth",
+      "asia_expansion",
+      "private_credit_opportunity",
+      "geopolitical_uncertainty",
+      "regulatory_reform_positive",
+      "ai_investment_opportunity",
+      "capital_deployment_strategy",
+      "awm_momentum",
+      "credit_cycle_risk",
+      "sponsor_activity_weakness",
+      "ficc_mixed_performance"
+    ]
+  }
+}

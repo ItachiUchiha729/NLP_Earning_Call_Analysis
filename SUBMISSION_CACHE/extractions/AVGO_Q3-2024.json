@@ -1,0 +1,217 @@
+{
+  "_ticker": "AVGO",
+  "_quarter": "Q3-2024",
+  "_call_date": "2024-09-05",
+  "primary_model": "qwen3:14b",
+  "secondary_model": "gemma3:4b",
+  "primary": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "Strong AI Revenue Growth",
+        "severity": 5,
+        "evidence": "AI revenue continues to grow and grow strongly."
+      },
+      {
+        "label": "VMware Performance Improvement",
+        "severity": 4,
+        "evidence": "VMware bookings continue to accelerate."
+      },
+      {
+        "label": "Networking Revenue Growth",
+        "severity": 4,
+        "evidence": "Networking revenue of $4 billion grew 43% year-on-year."
+      },
+      {
+        "label": "Improved Guidance for Q4",
+        "severity": 5,
+        "evidence": "We are guiding Q4 consolidated revenue to be approximately $14 billion, which is up 51% year-on-year."
+      },
+      {
+        "label": "Strong EBITDA Margin",
+        "severity": 4,
+        "evidence": "Adjusted EBITDA was $8.2 billion or 63% of revenue."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Broadband Revenue Decline",
+        "severity": 3,
+        "evidence": "Broadband remains weak on a continued pause in telco and service provider spending."
+      },
+      {
+        "label": "Industrial Resales Decline",
+        "severity": 2,
+        "evidence": "Q3 industrial resales of $164 million declined 31% year-on-year."
+      },
+      {
+        "label": "Non-AI Semiconductor Weakness",
+        "severity": 3,
+        "evidence": "Non-AI semiconductor revenue has stabilized but remains below previous levels."
+      },
+      {
+        "label": "Tax Liability from IP Relocation",
+        "severity": 2,
+        "evidence": "Relocation of IP back to the U.S. caused a $4.5 billion tax liability."
+      },
+      {
+        "label": "Supply Constraints",
+        "severity": 2,
+        "evidence": "Supply is quite tight, given the colos packaging and the HBM memory constraints."
+      }
+    ],
+    "themes": [
+      "ai growth",
+      "vmware integration",
+      "networking demand",
+      "semiconductor recovery",
+      "ebitda margin improvement"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.25,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Strong Q3 Financial Performance",
+        "severity": 4,
+        "evidence": "Consolidated net revenue of $13.1 billion was up 47% year-on-year, and operating profit was up 44% year-on-year."
+      },
+      {
+        "label": "AI Revenue Growth",
+        "severity": 5,
+        "evidence": "AI revenue continues to grow and grow strongly; Q4 revenue guidance of over $3.5 billion."
+      },
+      {
+        "label": "VMware Bookings",
+        "severity": 4,
+        "evidence": "More than 15 million CPU cores of VCF booked, representing over 80% of the total VMware products we booked during the quarter."
+      },
+      {
+        "label": "Non-AI Networking Recovery",
+        "severity": 3,
+        "evidence": "Non-AI networking was up actually 17% sequentially even as it was down 41% year-on-year."
+      },
+      {
+        "label": "Increased Guidance",
+        "severity": 4,
+        "evidence": "Broadcom is raising the outlook for its fiscal 2024 revenue to $51.5 billion and adjusted EBITDA for the year to 61.5%."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Economic Uncertainty",
+        "severity": 3,
+        "evidence": "Broadcom reports certain financial measures on a non-GAAP basis. A reconciliation between GAAP and non-GAAP measures is included in the tables attached to today's press release."
+      },
+      {
+        "label": "Competition in AI",
+        "severity": 4,
+        "evidence": "The transformation of the business model of VMware continues to progress very well. In fact, last week, we held a well-attended VMware Explore Conference in Las Vegas, our first as a combined company."
+      },
+      {
+        "label": "Broadband Weakness",
+        "severity": 2,
+        "evidence": "Q3 revenue declined 49% year-on-year to $557 million and represented 8% of semiconductor revenue. Broadband remains weak on a continued pause in telco and service provider spending."
+      },
+      {
+        "label": "Industrial Resale Decline",
+        "severity": 3,
+        "evidence": "Q3 industrial resales of $164 million declined 31% year-on-year."
+      },
+      {
+        "label": "Supply Chain Constraints",
+        "severity": 3,
+        "evidence": "We've gone through your typical down cycle of semiconductors. And we have gone through a down cycle as the ecosystem, as many of our customers, but we're not immune from it, obviously as we try to insulate ourselves from it as much as possible."
+      }
+    ],
+    "themes": [
+      "ai",
+      "semiconductors",
+      "networking",
+      "software",
+      "financial results"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 0.0,
+    "risks_jaccard": 0.0,
+    "themes_jaccard": 0.0,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.6,
+    "agreement_score": 0.15,
+    "agreement_confidence": 0.06
+  },
+  "chosen": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "Strong AI Revenue Growth",
+        "severity": 5,
+        "evidence": "AI revenue continues to grow and grow strongly."
+      },
+      {
+        "label": "VMware Performance Improvement",
+        "severity": 4,
+        "evidence": "VMware bookings continue to accelerate."
+      },
+      {
+        "label": "Networking Revenue Growth",
+        "severity": 4,
+        "evidence": "Networking revenue of $4 billion grew 43% year-on-year."
+      },
+      {
+        "label": "Improved Guidance for Q4",
+        "severity": 5,
+        "evidence": "We are guiding Q4 consolidated revenue to be approximately $14 billion, which is up 51% year-on-year."
+      },
+      {
+        "label": "Strong EBITDA Margin",
+        "severity": 4,
+        "evidence": "Adjusted EBITDA was $8.2 billion or 63% of revenue."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Broadband Revenue Decline",
+        "severity": 3,
+        "evidence": "Broadband remains weak on a continued pause in telco and service provider spending."
+      },
+      {
+        "label": "Industrial Resales Decline",
+        "severity": 2,
+        "evidence": "Q3 industrial resales of $164 million declined 31% year-on-year."
+      },
+      {
+        "label": "Non-AI Semiconductor Weakness",
+        "severity": 3,
+        "evidence": "Non-AI semiconductor revenue has stabilized but remains below previous levels."
+      },
+      {
+        "label": "Tax Liability from IP Relocation",
+        "severity": 2,
+        "evidence": "Relocation of IP back to the U.S. caused a $4.5 billion tax liability."
+      },
+      {
+        "label": "Supply Constraints",
+        "severity": 2,
+        "evidence": "Supply is quite tight, given the colos packaging and the HBM memory constraints."
+      }
+    ],
+    "themes": [
+      "ai growth",
+      "vmware integration",
+      "networking demand",
+      "semiconductor recovery",
+      "ebitda margin improvement"
+    ]
+  }
+}

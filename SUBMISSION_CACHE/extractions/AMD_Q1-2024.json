@@ -1,0 +1,223 @@
+{
+  "_ticker": "AMD",
+  "_quarter": "Q1-2024",
+  "_call_date": "2024-04-30",
+  "primary_model": "qwen3:14b",
+  "secondary_model": "gemma3:4b",
+  "primary": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "Strong Data Center Growth",
+        "severity": 5,
+        "evidence": "Data Center segment revenue grew 80% year-over-year and 2% sequentially to a record $2.3 billion."
+      },
+      {
+        "label": "EPYC Adoption Acceleration",
+        "severity": 5,
+        "evidence": "Enterprise adoption of EPYC CPUs is accelerating, highlighted by deployments with large enterprises, including American Airlines, DBS, Emirates Bank, Shell and STMicro."
+      },
+      {
+        "label": "MI300X GPU Ramp",
+        "severity": 5,
+        "evidence": "MI300 became the fastest-ramping product in AMD history, passing $1 billion in total sales in less than 2 quarters."
+      },
+      {
+        "label": "AI Software Ecosystem Expansion",
+        "severity": 4,
+        "evidence": "We made excellent progress adding upstream support for AMD hardware in the open AI Triton compiler."
+      },
+      {
+        "label": "Ryzen Client Growth",
+        "severity": 4,
+        "evidence": "Client segment revenue was $1.4 billion, an increase of 85% year-over-year, driven by strong demand for our latest-generation Ryzen mobile and desktop processors."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Gaming Segment Decline",
+        "severity": 3,
+        "evidence": "Gaming segment revenue declined 48% year-over-year and 33% sequentially to $922 million."
+      },
+      {
+        "label": "Embedded Segment Weakness",
+        "severity": 3,
+        "evidence": "Embedded segment revenue decreased 46% year-over-year and 20% sequentially to $846 million."
+      },
+      {
+        "label": "Supply Chain Constraints",
+        "severity": 2,
+        "evidence": "We are tight on supply. So there's no question in the near term that if we had more supply, we have demand for that product."
+      },
+      {
+        "label": "Competitive Pressure",
+        "severity": 2,
+        "evidence": "Our nearest competitor has been pretty transparent with their road map, and that extends into '25 and oftentimes '26."
+      },
+      {
+        "label": "Inventory Management",
+        "severity": 2,
+        "evidence": "Customers remain focused on normalizing their inventory levels."
+      }
+    ],
+    "themes": [
+      "ai",
+      "data center",
+      "epyc",
+      "mi300",
+      "ryzen",
+      "rocm",
+      "versal",
+      "turin"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.45,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Record MI300X GPU Revenue",
+        "severity": 4,
+        "evidence": "Data Center segment revenue increased to $5.5 billion. MI300X GPU shipments drove substantial year-over-year growth."
+      },
+      {
+        "label": "Strong EPYC Adoption",
+        "severity": 5,
+        "evidence": "Enterprise adoption of EPYC CPUs is accelerating, highlighted by deployments with large enterprises, including American Airlines, DBS, Emirates Bank, Shell and STMicro."
+      },
+      {
+        "label": "Significant AI Software Improvements",
+        "severity": 4,
+        "evidence": "We made excellent progress adding upstream support for AMD hardware in the open AI Triton compiler, making it even easier to develop highly performant AI software for AMD platforms."
+      },
+      {
+        "label": "MI300X Production Expansion",
+        "severity": 4,
+        "evidence": "MI300x production deployments expanded at Microsoft, Meta and Oracle to power Generative AI training and inferencing."
+      },
+      {
+        "label": "Versal AI Edge Adoption",
+        "severity": 3,
+        "evidence": "Subaru announced they adopted Versal AI Edge series Gen 2 devices to power the next generation of their EyeSight ADAS system."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Competition in Server CPU Market",
+        "severity": 4,
+        "evidence": "A competitor has announced a high core count product in the coming quarter, potentially impacting AMD's market share."
+      },
+      {
+        "label": "Inventory Normalization",
+        "severity": 3,
+        "evidence": "Embedded segment revenue decreased 46% year-over-year as customers remain focused on normalizing their inventory levels."
+      },
+      {
+        "label": "Gaming Segment Decline",
+        "severity": 3,
+        "evidence": "Gaming segment revenue declined 48% year-over-year and 33% sequentially due to a decrease in semi customer and Radeon GPU sales."
+      },
+      {
+        "label": "Supply Chain Constraints",
+        "severity": 4,
+        "evidence": "CoWoS and/or HBM could be a pretty severe constraining factor for you guys."
+      },
+      {
+        "label": "Market Uncertainty",
+        "severity": 2,
+        "evidence": "While the overall demand environment remain mixed, hyperscalers continued adopting fourth-gen EPYC processors to power more of their internal workloads and public instances."
+      }
+    ],
+    "themes": [
+      "ai compute",
+      "data center growth",
+      "gpu technology",
+      "server processors",
+      "innovation"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 0.0,
+    "risks_jaccard": 0.25,
+    "themes_jaccard": 0.0,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.39999999999999997,
+    "agreement_score": 0.22499999999999998,
+    "agreement_confidence": 0.135
+  },
+  "chosen": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "Strong Data Center Growth",
+        "severity": 5,
+        "evidence": "Data Center segment revenue grew 80% year-over-year and 2% sequentially to a record $2.3 billion."
+      },
+      {
+        "label": "EPYC Adoption Acceleration",
+        "severity": 5,
+        "evidence": "Enterprise adoption of EPYC CPUs is accelerating, highlighted by deployments with large enterprises, including American Airlines, DBS, Emirates Bank, Shell and STMicro."
+      },
+      {
+        "label": "MI300X GPU Ramp",
+        "severity": 5,
+        "evidence": "MI300 became the fastest-ramping product in AMD history, passing $1 billion in total sales in less than 2 quarters."
+      },
+      {
+        "label": "AI Software Ecosystem Expansion",
+        "severity": 4,
+        "evidence": "We made excellent progress adding upstream support for AMD hardware in the open AI Triton compiler."
+      },
+      {
+        "label": "Ryzen Client Growth",
+        "severity": 4,
+        "evidence": "Client segment revenue was $1.4 billion, an increase of 85% year-over-year, driven by strong demand for our latest-generation Ryzen mobile and desktop processors."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Gaming Segment Decline",
+        "severity": 3,
+        "evidence": "Gaming segment revenue declined 48% year-over-year and 33% sequentially to $922 million."
+      },
+      {
+        "label": "Embedded Segment Weakness",
+        "severity": 3,
+        "evidence": "Embedded segment revenue decreased 46% year-over-year and 20% sequentially to $846 million."
+      },
+      {
+        "label": "Supply Chain Constraints",
+        "severity": 2,
+        "evidence": "We are tight on supply. So there's no question in the near term that if we had more supply, we have demand for that product."
+      },
+      {
+        "label": "Competitive Pressure",
+        "severity": 2,
+        "evidence": "Our nearest competitor has been pretty transparent with their road map, and that extends into '25 and oftentimes '26."
+      },
+      {
+        "label": "Inventory Management",
+        "severity": 2,
+        "evidence": "Customers remain focused on normalizing their inventory levels."
+      }
+    ],
+    "themes": [
+      "ai",
+      "data center",
+      "epyc",
+      "mi300",
+      "ryzen",
+      "rocm",
+      "versal",
+      "turin"
+    ]
+  }
+}

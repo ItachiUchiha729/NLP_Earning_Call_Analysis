@@ -1,0 +1,217 @@
+{
+  "_ticker": "FDX",
+  "_quarter": "Q3-2024",
+  "_call_date": "2024-03-21",
+  "primary_model": "qwen3:14b",
+  "secondary_model": "gemma3:4b",
+  "primary": {
+    "overall_sentiment": 0.75,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.9,
+    "wins": [
+      {
+        "label": "Operating income growth and margin expansion",
+        "severity": 5,
+        "evidence": "For the third consecutive quarter, we delivered operating income growth and margin expansion in a declining revenue environment."
+      },
+      {
+        "label": "Progress on DRIVE initiative",
+        "severity": 5,
+        "evidence": "We delivered $550 million of benefits from DRIVE, offsetting the impact of revenue declines and cost pressures."
+      },
+      {
+        "label": "Reaffirmation of EPS guidance",
+        "severity": 4,
+        "evidence": "We are reaffirming the midpoint of our fiscal '24 adjusted EPS range while narrowing the range to $17.25 to $18.25."
+      },
+      {
+        "label": "Improved service levels and customer experience",
+        "severity": 4,
+        "evidence": "We delivered the best service offering in the industry and continue to execute on our commercial priorities."
+      },
+      {
+        "label": "Network 2.0 implementation",
+        "severity": 4,
+        "evidence": "We have now implemented Network 2.0 in over 50 locations, with dozens more to follow in calendar 2024."
+      }
+    ],
+    "risks": [
+      {
+        "label": "International trade weakness",
+        "severity": 4,
+        "evidence": "Weakness in global trade continues to constrain demand in our international business, which has remained challenged for longer than expected."
+      },
+      {
+        "label": "Postal Service volume headwind",
+        "severity": 4,
+        "evidence": "The United States Postal Service has reduced volume, despite our service obligations to the USPS remaining fixed."
+      },
+      {
+        "label": "Inflationary pressures",
+        "severity": 3,
+        "evidence": "Express experienced over $200 million of inflationary pressure on a year-over-year basis."
+      },
+      {
+        "label": "Service mix shift",
+        "severity": 3,
+        "evidence": "We're seeing a clear international market shift towards deferred services, which impacts yield and profitability."
+      },
+      {
+        "label": "Uncertain USPS contract negotiations",
+        "severity": 3,
+        "evidence": "Our current contract with the United States Postal Service expires on September 29, and negotiations are ongoing."
+      }
+    ],
+    "themes": [
+      "drive initiative",
+      "network 2.0",
+      "margin expansion",
+      "cost reduction",
+      "service quality"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.35,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Consistent Margin Expansion & Operating Income Growth",
+        "severity": 4,
+        "evidence": "\u201cWe delivered operating income growth and margin expansion in a declining revenue environment. This is a very positive dynamic and a unique one in our industry.\u201d"
+      },
+      {
+        "label": "Drive Initiatives Delivering Savings",
+        "severity": 5,
+        "evidence": "\u201cWe delivered $550 million of benefits from DRIVE, offsetting the impact of revenue declines and cost pressures.\u201d"
+      },
+      {
+        "label": "Ground Segment Performance",
+        "severity": 4,
+        "evidence": "\u201cAt Ground, adjusted operating income increased 14% on 1% revenue growth and adjusted operating margin improved to over 11% in the quarter.\u201d"
+      },
+      {
+        "label": "Network 2.0 Implementation Progress",
+        "severity": 3,
+        "evidence": "\u201cWe rolled out our new surface operations leadership structure. Under this new structure, leaders and their teams will be responsible for all Express and Ground package operations and facilities in their respective divisions, regions and districts.\u201d"
+      },
+      {
+        "label": "Weather Contingency Playbook Effectiveness",
+        "severity": 4,
+        "evidence": "\u201cBy combining the power of digital insights and predictive analytics with our physical network, we effectively mitigated the impact of the January winter storm that hit our Express hub in Memphis, by shifting Memphis down Express volume to ground our freight at the origin location.\u201d"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Declining Revenue",
+        "severity": 5,
+        "evidence": "\u201crevenue declined 2%\u201d"
+      },
+      {
+        "label": "International Export Yield Pressure",
+        "severity": 4,
+        "evidence": "\u201cwe assume a low single-digit percentage decline in revenue for the full year.\u201d"
+      },
+      {
+        "label": "Postal Service Contract Uncertainty",
+        "severity": 4,
+        "evidence": "\u201cOur current contract with the United States Postal Service, expires on September 29. We have made significant progress in negotiations for a new contract that aligns with our ongoing network transformation plan while providing the USPS with the operational reliability and outstanding service we have delivered for them for more than 2 decades.\u201d"
+      },
+      {
+        "label": "E-commerce Shift to Deferred Services",
+        "severity": 3,
+        "evidence": "\u201cWe\u2019re seeing a clear international market shift towards deferred services.\u201d"
+      },
+      {
+        "label": "Inflationary Pressure",
+        "severity": 4,
+        "evidence": "\u201cexperienced over $200 million of inflationary pressure on a year-over-year basis.\u201d"
+      }
+    ],
+    "themes": [
+      "transformation",
+      "cost optimization",
+      "network redesign",
+      "digitalization",
+      "supply chain resilience"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 0.0,
+    "risks_jaccard": 0.0,
+    "themes_jaccard": 0.0,
+    "guidance_match": 0.0,
+    "sentiment_gap": 0.4,
+    "agreement_score": 0.0,
+    "agreement_confidence": 0.0
+  },
+  "chosen": {
+    "overall_sentiment": 0.75,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.9,
+    "wins": [
+      {
+        "label": "Operating income growth and margin expansion",
+        "severity": 5,
+        "evidence": "For the third consecutive quarter, we delivered operating income growth and margin expansion in a declining revenue environment."
+      },
+      {
+        "label": "Progress on DRIVE initiative",
+        "severity": 5,
+        "evidence": "We delivered $550 million of benefits from DRIVE, offsetting the impact of revenue declines and cost pressures."
+      },
+      {
+        "label": "Reaffirmation of EPS guidance",
+        "severity": 4,
+        "evidence": "We are reaffirming the midpoint of our fiscal '24 adjusted EPS range while narrowing the range to $17.25 to $18.25."
+      },
+      {
+        "label": "Improved service levels and customer experience",
+        "severity": 4,
+        "evidence": "We delivered the best service offering in the industry and continue to execute on our commercial priorities."
+      },
+      {
+        "label": "Network 2.0 implementation",
+        "severity": 4,
+        "evidence": "We have now implemented Network 2.0 in over 50 locations, with dozens more to follow in calendar 2024."
+      }
+    ],
+    "risks": [
+      {
+        "label": "International trade weakness",
+        "severity": 4,
+        "evidence": "Weakness in global trade continues to constrain demand in our international business, which has remained challenged for longer than expected."
+      },
+      {
+        "label": "Postal Service volume headwind",
+        "severity": 4,
+        "evidence": "The United States Postal Service has reduced volume, despite our service obligations to the USPS remaining fixed."
+      },
+      {
+        "label": "Inflationary pressures",
+        "severity": 3,
+        "evidence": "Express experienced over $200 million of inflationary pressure on a year-over-year basis."
+      },
+      {
+        "label": "Service mix shift",
+        "severity": 3,
+        "evidence": "We're seeing a clear international market shift towards deferred services, which impacts yield and profitability."
+      },
+      {
+        "label": "Uncertain USPS contract negotiations",
+        "severity": 3,
+        "evidence": "Our current contract with the United States Postal Service expires on September 29, and negotiations are ongoing."
+      }
+    ],
+    "themes": [
+      "drive initiative",
+      "network 2.0",
+      "margin expansion",
+      "cost reduction",
+      "service quality"
+    ]
+  }
+}

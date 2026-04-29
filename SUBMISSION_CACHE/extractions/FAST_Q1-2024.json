@@ -1,0 +1,217 @@
+{
+  "_ticker": "FAST",
+  "_quarter": "Q1-2024",
+  "_call_date": "2024-04-11",
+  "primary_model": "qwen3:14b",
+  "secondary_model": "gemma3:4b",
+  "primary": {
+    "overall_sentiment": 0.2,
+    "sentiment_bucket": "neutral",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.7,
+    "wins": [
+      {
+        "label": "Customer Engagement",
+        "severity": 4,
+        "evidence": "We've had to dramatically expand it. And Holden will touch on some of that in his comments about what that means for the second quarter as far as expenses. But we'll have 50% more people attending this year than we did the last year, and we'll have double the number of people attending this year than we did last year."
+      },
+      {
+        "label": "Onsite Growth",
+        "severity": 3,
+        "evidence": "We had 102 signings during the quarter. So the number of active sites we had operating at the end of the quarter was up about 12% from what it was in the first quarter of last year."
+      },
+      {
+        "label": "FMI Technology",
+        "severity": 3,
+        "evidence": "We signed 105 devices a day, and I believe we've only had one quarter that we've ever done over 100."
+      },
+      {
+        "label": "eCommerce Expansion",
+        "severity": 2,
+        "evidence": "We're approaching 60% of sales. And our anticipation is sometime this year, that number will hit the mid-60s, 66% is our target."
+      },
+      {
+        "label": "PMI Improvement",
+        "severity": 2,
+        "evidence": "we broke above 50 in the month of March."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Weak Demand",
+        "severity": 5,
+        "evidence": "the primary challenge remains poor underlying demand."
+      },
+      {
+        "label": "Margin Pressure",
+        "severity": 4,
+        "evidence": "operating margin in the first quarter of 2024 was 20.6%, down 60 basis points year-over-year."
+      },
+      {
+        "label": "Supply Chain Costs",
+        "severity": 3,
+        "evidence": "the latter 2 items could impact second quarter 2024 operating margins by approximately 30 basis points."
+      },
+      {
+        "label": "Pricing Pressure",
+        "severity": 3,
+        "evidence": "the revenue per device, it's down 1% to 2% from a year ago."
+      },
+      {
+        "label": "End Market Weakness",
+        "severity": 4,
+        "evidence": "fabricated metals and machinery have been challenging for a little while now."
+      }
+    ],
+    "themes": [
+      "demand",
+      "customer engagement",
+      "margin pressure",
+      "supply chain",
+      "growth"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.25,
+    "sentiment_bucket": "neutral",
+    "guidance_direction": "mixed",
+    "guidance_confidence": 0.6,
+    "wins": [
+      {
+        "label": "March PMI Breakout",
+        "severity": 4,
+        "evidence": "After 16 consecutive months of sub-50 Purchasing Manager's Index, we broke above 50 in the month of March."
+      },
+      {
+        "label": "Customer Expo Expansion",
+        "severity": 3,
+        "evidence": "We'll have 50% more people attending this year than we did the last year, and we'll have double the number of people attending this year than we did last year."
+      },
+      {
+        "label": "Onsite Signing Growth",
+        "severity": 4,
+        "evidence": "We signed 105 devices a day, and we've only had one quarter that we've ever done over 100."
+      },
+      {
+        "label": "FMI Technology Growth",
+        "severity": 3,
+        "evidence": "We have 10.5% more devices today than we did a year ago."
+      },
+      {
+        "label": "Increased Fastenal Sales",
+        "severity": 2,
+        "evidence": "Total and daily sales in the first quarter of 2024 were up 1.9%."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Sluggish Demand",
+        "severity": 5,
+        "evidence": "We grew about 2%. Coming into the quarter, we anticipated a number that was probably in that 4% neighborhood."
+      },
+      {
+        "label": "Seasonal Calendar Impact",
+        "severity": 4,
+        "evidence": "The tricky calendar was really a function of January and February are seasonally weaker months for us."
+      },
+      {
+        "label": "Industrial Production Decline",
+        "severity": 4,
+        "evidence": "Industrial production declined slightly in January and February but the components that most directly affect Fastenal such as machinery, were much weaker than the overall index."
+      },
+      {
+        "label": "MRO Fastener Contraction",
+        "severity": 3,
+        "evidence": "Our fastener product line was down 4.4% with contraction in MRO and OEM products."
+      },
+      {
+        "label": "Margin Pressure",
+        "severity": 4,
+        "evidence": "Operating margin in the first quarter of 2024 was 20.6%, down 60 basis points year-over-year."
+      }
+    ],
+    "themes": [
+      "demand slowdown",
+      "supply chain challenges",
+      "customer acquisition",
+      "margin management",
+      "growth initiatives"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 0.0,
+    "risks_jaccard": 0.1111111111111111,
+    "themes_jaccard": 0.0,
+    "guidance_match": 0.0,
+    "sentiment_gap": 0.04999999999999999,
+    "agreement_score": 0.03333333333333333,
+    "agreement_confidence": 0.03166666666666666
+  },
+  "chosen": {
+    "overall_sentiment": 0.2,
+    "sentiment_bucket": "neutral",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.7,
+    "wins": [
+      {
+        "label": "Customer Engagement",
+        "severity": 4,
+        "evidence": "We've had to dramatically expand it. And Holden will touch on some of that in his comments about what that means for the second quarter as far as expenses. But we'll have 50% more people attending this year than we did the last year, and we'll have double the number of people attending this year than we did last year."
+      },
+      {
+        "label": "Onsite Growth",
+        "severity": 3,
+        "evidence": "We had 102 signings during the quarter. So the number of active sites we had operating at the end of the quarter was up about 12% from what it was in the first quarter of last year."
+      },
+      {
+        "label": "FMI Technology",
+        "severity": 3,
+        "evidence": "We signed 105 devices a day, and I believe we've only had one quarter that we've ever done over 100."
+      },
+      {
+        "label": "eCommerce Expansion",
+        "severity": 2,
+        "evidence": "We're approaching 60% of sales. And our anticipation is sometime this year, that number will hit the mid-60s, 66% is our target."
+      },
+      {
+        "label": "PMI Improvement",
+        "severity": 2,
+        "evidence": "we broke above 50 in the month of March."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Weak Demand",
+        "severity": 5,
+        "evidence": "the primary challenge remains poor underlying demand."
+      },
+      {
+        "label": "Margin Pressure",
+        "severity": 4,
+        "evidence": "operating margin in the first quarter of 2024 was 20.6%, down 60 basis points year-over-year."
+      },
+      {
+        "label": "Supply Chain Costs",
+        "severity": 3,
+        "evidence": "the latter 2 items could impact second quarter 2024 operating margins by approximately 30 basis points."
+      },
+      {
+        "label": "Pricing Pressure",
+        "severity": 3,
+        "evidence": "the revenue per device, it's down 1% to 2% from a year ago."
+      },
+      {
+        "label": "End Market Weakness",
+        "severity": 4,
+        "evidence": "fabricated metals and machinery have been challenging for a little while now."
+      }
+    ],
+    "themes": [
+      "demand",
+      "customer engagement",
+      "margin pressure",
+      "supply chain",
+      "growth"
+    ]
+  }
+}

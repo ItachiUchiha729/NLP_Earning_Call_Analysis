@@ -1,0 +1,217 @@
+{
+  "_ticker": "BLK",
+  "_quarter": "Q2-2024",
+  "_call_date": "2024-07-15",
+  "primary_model": "qwen3:14b",
+  "secondary_model": "gemma3:4b",
+  "primary": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "Strong Q2 Performance",
+        "severity": 5,
+        "evidence": "The first half and second quarter of 2024 saw some of BlackRock's strongest performance and highest growth rates of the post-pandemic period."
+      },
+      {
+        "label": "Double-Digit Operating Income Growth",
+        "severity": 5,
+        "evidence": "We delivered double-digit operating income growth and expanded our margin by 160 basis points year-over-year."
+      },
+      {
+        "label": "Record AUM",
+        "severity": 5,
+        "evidence": "We ended the second quarter with record AUM of over $10.6 trillion."
+      },
+      {
+        "label": "Strong Organic Base Fee Growth",
+        "severity": 4,
+        "evidence": "We generated 3% annualized organic base fee growth, our highest second quarter in 3 years."
+      },
+      {
+        "label": "Positive Flows",
+        "severity": 4,
+        "evidence": "BlackRock generated total net inflows of $82 billion in the second quarter."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Single-Client Redemption Impact",
+        "severity": 3,
+        "evidence": "Flows were impacted by an approximately $20 billion active fixed income redemption from a large insurance client linked to M&A activity."
+      },
+      {
+        "label": "Regulatory Uncertainty",
+        "severity": 2,
+        "evidence": "At present, we'd expect our planned acquisition of GIP to close in the third quarter of 2024, subject to regulatory approvals and other customary closing conditions."
+      },
+      {
+        "label": "Market Volatility",
+        "severity": 2,
+        "evidence": "Our actual results may differ from these statements. As you know, BlackRock has filed reports with the SEC, which lists some of the factors that may cause the results of BlackRock to differ materially from what we say today."
+      },
+      {
+        "label": "Uncertain Tax Rate",
+        "severity": 2,
+        "evidence": "The actual effective tax rate may differ because of nonrecurring or discrete items or potential changes in tax legislation."
+      },
+      {
+        "label": "Client Behavior Uncertainty",
+        "severity": 2,
+        "evidence": "We believe investors will re-risk, which should improve flows into equities and credit markets, but this is not guaranteed."
+      }
+    ],
+    "themes": [
+      "organic growth",
+      "private markets",
+      "technology",
+      "etfs",
+      "acquisitions"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.65,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Strong Q2 Core Net Inflows",
+        "severity": 4,
+        "evidence": "Second quarter core net inflows were approximately $150 billion, excluding lower fee episodic M&A and institutional index activities."
+      },
+      {
+        "label": "Record iShares ETF Flows",
+        "severity": 5,
+        "evidence": "Second quarter ETF net inflows of $83 billion were led by fixed income and core equity ETFs, which saw $34 billion and $32 billion of net inflows, respectively."
+      },
+      {
+        "label": "Highest Start to Year in iShares History",
+        "severity": 4,
+        "evidence": "BlackRock's ETF flows were about $150 billion in the first half of 2024, which is the highest start to the year in iShares' history."
+      },
+      {
+        "label": "Significant Growth in Private Markets",
+        "severity": 4,
+        "evidence": "BlackRock\u2019s private markets business generated net inflows of $2 billion."
+      },
+      {
+        "label": "Successful Acquisition of GIP",
+        "severity": 3,
+        "evidence": "BlackRock is expected to close its planned acquisition of Global Infrastructure Partners in the third quarter of 2024."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Large Insurance Client Redemption",
+        "severity": 5,
+        "evidence": "A $20 billion active fixed income redemption from a large insurance client linked to M&A activity impacted flows."
+      },
+      {
+        "label": "Institutional Index Outflows",
+        "severity": 4,
+        "evidence": "Institutional index net outflows of $35 billion were concentrated in low-fee index equities."
+      },
+      {
+        "label": "Interest Rate Sensitivity",
+        "severity": 3,
+        "evidence": "Clients are re-risking due to rising interest rates and potential rate cuts."
+      },
+      {
+        "label": "Market Volatility",
+        "severity": 4,
+        "evidence": "The assassination attempt on former President Trump is abhorrent. I was very relieved he wasn't seriously injured."
+      },
+      {
+        "label": "Economic Uncertainty",
+        "severity": 3,
+        "evidence": "BlackRock assumes no duty and does not undertake to update any forward-looking statements."
+      }
+    ],
+    "themes": [
+      "growth",
+      "private markets",
+      "technology",
+      "innovation",
+      "capital markets"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 0.0,
+    "risks_jaccard": 0.1111111111111111,
+    "themes_jaccard": 0.25,
+    "guidance_match": 0.0,
+    "sentiment_gap": 0.19999999999999996,
+    "agreement_score": 0.09583333333333333,
+    "agreement_confidence": 0.07666666666666666
+  },
+  "chosen": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "Strong Q2 Performance",
+        "severity": 5,
+        "evidence": "The first half and second quarter of 2024 saw some of BlackRock's strongest performance and highest growth rates of the post-pandemic period."
+      },
+      {
+        "label": "Double-Digit Operating Income Growth",
+        "severity": 5,
+        "evidence": "We delivered double-digit operating income growth and expanded our margin by 160 basis points year-over-year."
+      },
+      {
+        "label": "Record AUM",
+        "severity": 5,
+        "evidence": "We ended the second quarter with record AUM of over $10.6 trillion."
+      },
+      {
+        "label": "Strong Organic Base Fee Growth",
+        "severity": 4,
+        "evidence": "We generated 3% annualized organic base fee growth, our highest second quarter in 3 years."
+      },
+      {
+        "label": "Positive Flows",
+        "severity": 4,
+        "evidence": "BlackRock generated total net inflows of $82 billion in the second quarter."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Single-Client Redemption Impact",
+        "severity": 3,
+        "evidence": "Flows were impacted by an approximately $20 billion active fixed income redemption from a large insurance client linked to M&A activity."
+      },
+      {
+        "label": "Regulatory Uncertainty",
+        "severity": 2,
+        "evidence": "At present, we'd expect our planned acquisition of GIP to close in the third quarter of 2024, subject to regulatory approvals and other customary closing conditions."
+      },
+      {
+        "label": "Market Volatility",
+        "severity": 2,
+        "evidence": "Our actual results may differ from these statements. As you know, BlackRock has filed reports with the SEC, which lists some of the factors that may cause the results of BlackRock to differ materially from what we say today."
+      },
+      {
+        "label": "Uncertain Tax Rate",
+        "severity": 2,
+        "evidence": "The actual effective tax rate may differ because of nonrecurring or discrete items or potential changes in tax legislation."
+      },
+      {
+        "label": "Client Behavior Uncertainty",
+        "severity": 2,
+        "evidence": "We believe investors will re-risk, which should improve flows into equities and credit markets, but this is not guaranteed."
+      }
+    ],
+    "themes": [
+      "organic growth",
+      "private markets",
+      "technology",
+      "etfs",
+      "acquisitions"
+    ]
+  }
+}

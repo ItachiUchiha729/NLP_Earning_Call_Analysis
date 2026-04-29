@@ -1,0 +1,217 @@
+{
+  "_ticker": "AVGO",
+  "_quarter": "Q1-2025",
+  "_call_date": "2025-03-06",
+  "primary_model": "qwen3:14b",
+  "secondary_model": "gemma3:4b",
+  "primary": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "AI Revenue Growth",
+        "severity": 5,
+        "evidence": "AI revenue of $4.1 billion was up 77% year-on-year."
+      },
+      {
+        "label": "R&D Investment in AI",
+        "severity": 4,
+        "evidence": "We're pushing the envelope of technology in creating the next generation of accelerators."
+      },
+      {
+        "label": "Hyperscaler Partnerships",
+        "severity": 5,
+        "evidence": "We expect these 3 hyperscale customers will generate a serviceable addressable market or SAM in the range of $60 billion to $90 billion in fiscal 2027."
+      },
+      {
+        "label": "Infrastructure Software Growth",
+        "severity": 4,
+        "evidence": "Infrastructure software revenue of $6.7 billion was up 47% year-on-year."
+      },
+      {
+        "label": "Strong Guidance for Q2",
+        "severity": 4,
+        "evidence": "We expect Q2 AI revenue to grow to $4.4 billion, up 44% year-on-year."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Tariff Uncertainty",
+        "severity": 3,
+        "evidence": "The threat, the noise of tariffs especially on chips hasn't materialized yet, nor do we know how it will be structured."
+      },
+      {
+        "label": "Seasonal Decline in Non-AI Semiconductors",
+        "severity": 2,
+        "evidence": "Non-AI semiconductor revenue was down 9% sequentially on a seasonal decline in wireless."
+      },
+      {
+        "label": "R&D Investment Impact",
+        "severity": 3,
+        "evidence": "We are increasing our R&D investment in leading edge AI in Q2, and accordingly, we expect adjusted EBITDA to be approximately 66%."
+      },
+      {
+        "label": "Inventory Management",
+        "severity": 2,
+        "evidence": "We ended the first quarter with inventory of $1.9 billion, up 8% sequentially to support revenue in future quarters."
+      },
+      {
+        "label": "Uncertainty in Second Half AI Ramp",
+        "severity": 2,
+        "evidence": "We only guide Q2, sorry. Let's not speculate on the second half."
+      }
+    ],
+    "themes": [
+      "ai",
+      "semiconductors",
+      "infrastructure software",
+      "r&d investment",
+      "hyperscaler partnerships"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.35,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Record Revenue Growth",
+        "severity": 4,
+        "evidence": "Total revenue was a record $14.9 billion, up 25% year-on-year"
+      },
+      {
+        "label": "AI Revenue Surge",
+        "severity": 5,
+        "evidence": "Q1 semiconductor revenue was $8.2 billion, up 11% year-on-year. Growth was driven by AI as AI revenue of $4.1 billion was up 77% year-on-year."
+      },
+      {
+        "label": "Hyperscale Partner Investment",
+        "severity": 4,
+        "evidence": "Our hyperscale partners continue to invest aggressively in their next generation frontier models, which do require high-performance accelerators as well as AI data centers with larger clusters."
+      },
+      {
+        "label": "R&D Investment Increase",
+        "severity": 3,
+        "evidence": "We're pushing the envelope of technology in creating the next generation of accelerators. We're tapping out the industry's first 2-nanometer AI XPU packaging 3.5D as we drive towards a 10,000 teraflops XPU."
+      },
+      {
+        "label": "Software Growth",
+        "severity": 4,
+        "evidence": "Q1 infrastructure software revenue of $6.7 billion was up 47% year-on-year and up 15% sequentially, exaggerated though by deals, which slipped from Q2 -- Q4 in Q1."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Non-AI Semiconductor Slowdown",
+        "severity": 4,
+        "evidence": "Revenue of $4.1 billion was down 9% sequentially on a seasonal decline in wireless."
+      },
+      {
+        "label": "Inventory Challenges",
+        "severity": 3,
+        "evidence": "Resales in industrial were down double digits in Q1 and are expected to be down in Q2."
+      },
+      {
+        "label": "Tariff Uncertainty",
+        "severity": 2,
+        "evidence": "I would say it's really too early to know where we all land."
+      },
+      {
+        "label": "Regulatory Impact",
+        "severity": 3,
+        "evidence": "New frontier models and techniques put unexpected pressures on AI systems. It's difficult to serve all classes of models with a single system design point."
+      },
+      {
+        "label": "Market Volatility",
+        "severity": 2,
+        "evidence": "Broadband, which bottomed in Q4 of 2024, showed a double-digit sequential recovery in Q1 and is expected to be up similarly in Q2 and service providers and telcos step up spending."
+      }
+    ],
+    "themes": [
+      "ai",
+      "semiconductors",
+      "networking",
+      "hyperscale",
+      "software"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 0.0,
+    "risks_jaccard": 0.1111111111111111,
+    "themes_jaccard": 0.25,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.5,
+    "agreement_score": 0.24583333333333332,
+    "agreement_confidence": 0.12291666666666666
+  },
+  "chosen": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "AI Revenue Growth",
+        "severity": 5,
+        "evidence": "AI revenue of $4.1 billion was up 77% year-on-year."
+      },
+      {
+        "label": "R&D Investment in AI",
+        "severity": 4,
+        "evidence": "We're pushing the envelope of technology in creating the next generation of accelerators."
+      },
+      {
+        "label": "Hyperscaler Partnerships",
+        "severity": 5,
+        "evidence": "We expect these 3 hyperscale customers will generate a serviceable addressable market or SAM in the range of $60 billion to $90 billion in fiscal 2027."
+      },
+      {
+        "label": "Infrastructure Software Growth",
+        "severity": 4,
+        "evidence": "Infrastructure software revenue of $6.7 billion was up 47% year-on-year."
+      },
+      {
+        "label": "Strong Guidance for Q2",
+        "severity": 4,
+        "evidence": "We expect Q2 AI revenue to grow to $4.4 billion, up 44% year-on-year."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Tariff Uncertainty",
+        "severity": 3,
+        "evidence": "The threat, the noise of tariffs especially on chips hasn't materialized yet, nor do we know how it will be structured."
+      },
+      {
+        "label": "Seasonal Decline in Non-AI Semiconductors",
+        "severity": 2,
+        "evidence": "Non-AI semiconductor revenue was down 9% sequentially on a seasonal decline in wireless."
+      },
+      {
+        "label": "R&D Investment Impact",
+        "severity": 3,
+        "evidence": "We are increasing our R&D investment in leading edge AI in Q2, and accordingly, we expect adjusted EBITDA to be approximately 66%."
+      },
+      {
+        "label": "Inventory Management",
+        "severity": 2,
+        "evidence": "We ended the first quarter with inventory of $1.9 billion, up 8% sequentially to support revenue in future quarters."
+      },
+      {
+        "label": "Uncertainty in Second Half AI Ramp",
+        "severity": 2,
+        "evidence": "We only guide Q2, sorry. Let's not speculate on the second half."
+      }
+    ],
+    "themes": [
+      "ai",
+      "semiconductors",
+      "infrastructure software",
+      "r&d investment",
+      "hyperscaler partnerships"
+    ]
+  }
+}

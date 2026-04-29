@@ -1,0 +1,217 @@
+{
+  "_ticker": "AVGO",
+  "_quarter": "Q2-2025",
+  "_call_date": "2025-06-05",
+  "primary_model": "qwen3:14b",
+  "secondary_model": "gemma3:4b",
+  "primary": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "AI Semiconductor Growth",
+        "severity": 5,
+        "evidence": "AI semiconductor revenue of over $4.4 billion, which is up 46% year-on-year and continues the trajectory of 9 consecutive quarters of strong growth."
+      },
+      {
+        "label": "Tomahawk 6 Switch",
+        "severity": 5,
+        "evidence": "Tomahawk 6 switch just announced this week. This represents the next-generation 102.4 terabits per second switch capacity."
+      },
+      {
+        "label": "Infrastructure Software Growth",
+        "severity": 4,
+        "evidence": "Infrastructure software revenue of $6.6 billion was up 25% year-on-year, above our outlook of $6.5 billion."
+      },
+      {
+        "label": "Strong Guidance for Q3",
+        "severity": 5,
+        "evidence": "We are guiding Q3 consolidated revenue to be approximately $15.8 billion, up 21% year-on-year."
+      },
+      {
+        "label": "XPU Demand Acceleration",
+        "severity": 4,
+        "evidence": "We may actually see an acceleration of XPU demand into the back half of 2026 to meet urgent demand for inference."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Non-AI Semiconductor Weakness",
+        "severity": 3,
+        "evidence": "Non-AI semiconductor revenue of $4 billion was down 5% year-on-year."
+      },
+      {
+        "label": "Gross Margin Pressure",
+        "severity": 3,
+        "evidence": "We expect Q3 consolidated gross margin to be down approximately 130 basis points sequentially."
+      },
+      {
+        "label": "Uncertainty in SAM Growth",
+        "severity": 2,
+        "evidence": "I'm not playing a SAM game here. I'm just giving a trajectory towards where we drew the line on '27 before."
+      },
+      {
+        "label": "Debt Levels",
+        "severity": 2,
+        "evidence": "We ended the second quarter with $69.4 billion of gross principal debt."
+      },
+      {
+        "label": "Export Control Uncertainty",
+        "severity": 1,
+        "evidence": "Nobody can give anybody comfort in this environment, Joe. But rules are changing quite dramatically as trade bilateral trade agreements continue to be negotiated."
+      }
+    ],
+    "themes": [
+      "ai growth",
+      "semiconductor innovation",
+      "infrastructure software",
+      "xpu demand",
+      "networking expansion"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.35,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Record Revenue",
+        "severity": 4,
+        "evidence": "total revenue was a record $15 billion, up 20% year-on-year"
+      },
+      {
+        "label": "Strong AI Semiconductor Growth",
+        "severity": 5,
+        "evidence": "AI semiconductor revenue of over $4.4 billion, which is up 46% year-on-year"
+      },
+      {
+        "label": "Tomahawk 6 Switch Innovation",
+        "severity": 4,
+        "evidence": "Tomahawk 6 switch just announced this week enables clusters of more than 100,000 AI accelerators to be deployed in just 2 tiers instead of 3"
+      },
+      {
+        "label": "VCF Adoption",
+        "severity": 4,
+        "evidence": "Over 87% of 10,000 largest customers have adopted VCF"
+      },
+      {
+        "label": "EBITDA Performance",
+        "severity": 5,
+        "evidence": "Q2 consolidated adjusted EBITDA was $10 billion, up 35% year-on-year"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Non-AI Semiconductor Slowdown",
+        "severity": 3,
+        "evidence": "Revenue of $4 billion was down 5% year-on-year"
+      },
+      {
+        "label": "Wireless Seasonal Decline",
+        "severity": 4,
+        "evidence": "Wireless was down due to seasonality"
+      },
+      {
+        "label": "Industrial Decline",
+        "severity": 3,
+        "evidence": "Industrial was down"
+      },
+      {
+        "label": "Export Controls Uncertainty",
+        "severity": 4,
+        "evidence": "Nobody can give anybody comfort in this environment"
+      },
+      {
+        "label": "Margin Pressure",
+        "severity": 4,
+        "evidence": "Q3 consolidated gross margin to be down approximately 130 basis points sequentially, primarily reflecting a higher mix of XPUs within AI revenue"
+      }
+    ],
+    "themes": [
+      "ai semiconductor",
+      "data center infrastructure",
+      "software-defined networking",
+      "cloud computing",
+      "financial performance"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 0.0,
+    "risks_jaccard": 0.0,
+    "themes_jaccard": 0.0,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.5,
+    "agreement_score": 0.15,
+    "agreement_confidence": 0.075
+  },
+  "chosen": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "AI Semiconductor Growth",
+        "severity": 5,
+        "evidence": "AI semiconductor revenue of over $4.4 billion, which is up 46% year-on-year and continues the trajectory of 9 consecutive quarters of strong growth."
+      },
+      {
+        "label": "Tomahawk 6 Switch",
+        "severity": 5,
+        "evidence": "Tomahawk 6 switch just announced this week. This represents the next-generation 102.4 terabits per second switch capacity."
+      },
+      {
+        "label": "Infrastructure Software Growth",
+        "severity": 4,
+        "evidence": "Infrastructure software revenue of $6.6 billion was up 25% year-on-year, above our outlook of $6.5 billion."
+      },
+      {
+        "label": "Strong Guidance for Q3",
+        "severity": 5,
+        "evidence": "We are guiding Q3 consolidated revenue to be approximately $15.8 billion, up 21% year-on-year."
+      },
+      {
+        "label": "XPU Demand Acceleration",
+        "severity": 4,
+        "evidence": "We may actually see an acceleration of XPU demand into the back half of 2026 to meet urgent demand for inference."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Non-AI Semiconductor Weakness",
+        "severity": 3,
+        "evidence": "Non-AI semiconductor revenue of $4 billion was down 5% year-on-year."
+      },
+      {
+        "label": "Gross Margin Pressure",
+        "severity": 3,
+        "evidence": "We expect Q3 consolidated gross margin to be down approximately 130 basis points sequentially."
+      },
+      {
+        "label": "Uncertainty in SAM Growth",
+        "severity": 2,
+        "evidence": "I'm not playing a SAM game here. I'm just giving a trajectory towards where we drew the line on '27 before."
+      },
+      {
+        "label": "Debt Levels",
+        "severity": 2,
+        "evidence": "We ended the second quarter with $69.4 billion of gross principal debt."
+      },
+      {
+        "label": "Export Control Uncertainty",
+        "severity": 1,
+        "evidence": "Nobody can give anybody comfort in this environment, Joe. But rules are changing quite dramatically as trade bilateral trade agreements continue to be negotiated."
+      }
+    ],
+    "themes": [
+      "ai growth",
+      "semiconductor innovation",
+      "infrastructure software",
+      "xpu demand",
+      "networking expansion"
+    ]
+  }
+}

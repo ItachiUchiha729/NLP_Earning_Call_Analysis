@@ -1,0 +1,234 @@
+{
+  "_ticker": "GS",
+  "_quarter": "Q2-2025",
+  "_call_date": "2025-07-16",
+  "backend": "anthropic",
+  "primary_model": "gemma3:4b",
+  "secondary_model": "gemma3:4b",
+  "single_call_mode": true,
+  "primary": {
+    "overall_sentiment": 0.72,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.78,
+    "wins": [
+      {
+        "label": "Record profitability and capital generation",
+        "severity": 1,
+        "evidence": "net revenues of $14.6 billion, earnings per share of $10.91 and an ROE of 12.8%"
+      },
+      {
+        "label": "M&A momentum accelerating significantly",
+        "severity": 1,
+        "evidence": "announced M&A volumes for the year-to-date are 30% higher year-over-year and 15% greater than the comparable 5-year average"
+      },
+      {
+        "label": "Record financing revenues and wallet share gains",
+        "severity": 1,
+        "evidence": "total financing revenues of $2.8 billion rose 23% versus the prior year, reaching a new record for a sixth consecutive quarter, now comprising over 1/3 of overall FICC and equities revenues"
+      },
+      {
+        "label": "Asset & Wealth Management momentum with record AUS",
+        "severity": 1,
+        "evidence": "assets under supervision rose to a new record of $3.3 trillion, representing our 30th consecutive quarter of long-term fee-based net inflows"
+      },
+      {
+        "label": "Improved capital position and regulatory flexibility",
+        "severity": 1,
+        "evidence": "stress capital buffer to 3.4%, increased capital flexibility will allow us to prioritize deploying resources to support our client needs"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Geopolitical uncertainty and trade policy headwinds",
+        "severity": 3,
+        "evidence": "Geopolitical concerns have intensified in many regions, most notably in the Middle East. Number of trade agreements have yet to materialize and that the ultimate impact on growth from higher tariffs is yet unknown"
+      },
+      {
+        "label": "Challenging harvesting environment for principal investments",
+        "severity": 2,
+        "evidence": "it has not been a robust environment for the harvesting, particularly for private equity type portfolio assets"
+      },
+      {
+        "label": "Potential trading revenue volatility",
+        "severity": 2,
+        "evidence": "there was weakness, for example, in commodities and mortgages. Next quarter, there could be strength in commodities"
+      },
+      {
+        "label": "Regulatory capital regime uncertainty",
+        "severity": 2,
+        "evidence": "the environment remains fluid, and we'll have to understand exactly where we land on what our minimum requirements are and when they take effect"
+      },
+      {
+        "label": "Sticky legacy principal investments difficult to monetize",
+        "severity": 2,
+        "evidence": "when you get to the end of what was a very, very big portfolio, you've got stickier things"
+      }
+    ],
+    "themes": [
+      "strong_earnings_growth",
+      "m_and_a_acceleration",
+      "capital_deployment_flexibility",
+      "wealth_management_momentum",
+      "financing_business_expansion",
+      "geopolitical_risks",
+      "regulatory_reform_tailwinds",
+      "ai_efficiency_opportunity",
+      "dividend_increase_confidence",
+      "client_wallet_share_gains"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.72,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.78,
+    "wins": [
+      {
+        "label": "Record profitability and capital generation",
+        "severity": 1,
+        "evidence": "net revenues of $14.6 billion, earnings per share of $10.91 and an ROE of 12.8%"
+      },
+      {
+        "label": "M&A momentum accelerating significantly",
+        "severity": 1,
+        "evidence": "announced M&A volumes for the year-to-date are 30% higher year-over-year and 15% greater than the comparable 5-year average"
+      },
+      {
+        "label": "Record financing revenues and wallet share gains",
+        "severity": 1,
+        "evidence": "total financing revenues of $2.8 billion rose 23% versus the prior year, reaching a new record for a sixth consecutive quarter, now comprising over 1/3 of overall FICC and equities revenues"
+      },
+      {
+        "label": "Asset & Wealth Management momentum with record AUS",
+        "severity": 1,
+        "evidence": "assets under supervision rose to a new record of $3.3 trillion, representing our 30th consecutive quarter of long-term fee-based net inflows"
+      },
+      {
+        "label": "Improved capital position and regulatory flexibility",
+        "severity": 1,
+        "evidence": "stress capital buffer to 3.4%, increased capital flexibility will allow us to prioritize deploying resources to support our client needs"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Geopolitical uncertainty and trade policy headwinds",
+        "severity": 3,
+        "evidence": "Geopolitical concerns have intensified in many regions, most notably in the Middle East. Number of trade agreements have yet to materialize and that the ultimate impact on growth from higher tariffs is yet unknown"
+      },
+      {
+        "label": "Challenging harvesting environment for principal investments",
+        "severity": 2,
+        "evidence": "it has not been a robust environment for the harvesting, particularly for private equity type portfolio assets"
+      },
+      {
+        "label": "Potential trading revenue volatility",
+        "severity": 2,
+        "evidence": "there was weakness, for example, in commodities and mortgages. Next quarter, there could be strength in commodities"
+      },
+      {
+        "label": "Regulatory capital regime uncertainty",
+        "severity": 2,
+        "evidence": "the environment remains fluid, and we'll have to understand exactly where we land on what our minimum requirements are and when they take effect"
+      },
+      {
+        "label": "Sticky legacy principal investments difficult to monetize",
+        "severity": 2,
+        "evidence": "when you get to the end of what was a very, very big portfolio, you've got stickier things"
+      }
+    ],
+    "themes": [
+      "strong_earnings_growth",
+      "m_and_a_acceleration",
+      "capital_deployment_flexibility",
+      "wealth_management_momentum",
+      "financing_business_expansion",
+      "geopolitical_risks",
+      "regulatory_reform_tailwinds",
+      "ai_efficiency_opportunity",
+      "dividend_increase_confidence",
+      "client_wallet_share_gains"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 1.0,
+    "risks_jaccard": 1.0,
+    "themes_jaccard": 1.0,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.0,
+    "agreement_score": 1.0,
+    "agreement_confidence": 1.0
+  },
+  "chosen": {
+    "overall_sentiment": 0.72,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.78,
+    "wins": [
+      {
+        "label": "Record profitability and capital generation",
+        "severity": 1,
+        "evidence": "net revenues of $14.6 billion, earnings per share of $10.91 and an ROE of 12.8%"
+      },
+      {
+        "label": "M&A momentum accelerating significantly",
+        "severity": 1,
+        "evidence": "announced M&A volumes for the year-to-date are 30% higher year-over-year and 15% greater than the comparable 5-year average"
+      },
+      {
+        "label": "Record financing revenues and wallet share gains",
+        "severity": 1,
+        "evidence": "total financing revenues of $2.8 billion rose 23% versus the prior year, reaching a new record for a sixth consecutive quarter, now comprising over 1/3 of overall FICC and equities revenues"
+      },
+      {
+        "label": "Asset & Wealth Management momentum with record AUS",
+        "severity": 1,
+        "evidence": "assets under supervision rose to a new record of $3.3 trillion, representing our 30th consecutive quarter of long-term fee-based net inflows"
+      },
+      {
+        "label": "Improved capital position and regulatory flexibility",
+        "severity": 1,
+        "evidence": "stress capital buffer to 3.4%, increased capital flexibility will allow us to prioritize deploying resources to support our client needs"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Geopolitical uncertainty and trade policy headwinds",
+        "severity": 3,
+        "evidence": "Geopolitical concerns have intensified in many regions, most notably in the Middle East. Number of trade agreements have yet to materialize and that the ultimate impact on growth from higher tariffs is yet unknown"
+      },
+      {
+        "label": "Challenging harvesting environment for principal investments",
+        "severity": 2,
+        "evidence": "it has not been a robust environment for the harvesting, particularly for private equity type portfolio assets"
+      },
+      {
+        "label": "Potential trading revenue volatility",
+        "severity": 2,
+        "evidence": "there was weakness, for example, in commodities and mortgages. Next quarter, there could be strength in commodities"
+      },
+      {
+        "label": "Regulatory capital regime uncertainty",
+        "severity": 2,
+        "evidence": "the environment remains fluid, and we'll have to understand exactly where we land on what our minimum requirements are and when they take effect"
+      },
+      {
+        "label": "Sticky legacy principal investments difficult to monetize",
+        "severity": 2,
+        "evidence": "when you get to the end of what was a very, very big portfolio, you've got stickier things"
+      }
+    ],
+    "themes": [
+      "strong_earnings_growth",
+      "m_and_a_acceleration",
+      "capital_deployment_flexibility",
+      "wealth_management_momentum",
+      "financing_business_expansion",
+      "geopolitical_risks",
+      "regulatory_reform_tailwinds",
+      "ai_efficiency_opportunity",
+      "dividend_increase_confidence",
+      "client_wallet_share_gains"
+    ]
+  }
+}

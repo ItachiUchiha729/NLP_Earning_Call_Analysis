@@ -1,0 +1,217 @@
+{
+  "_ticker": "AMD",
+  "_quarter": "Q3-2024",
+  "_call_date": "2024-10-29",
+  "primary_model": "qwen3:14b",
+  "secondary_model": "gemma3:4b",
+  "primary": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "Strong Data Center Growth",
+        "severity": 5,
+        "evidence": "Data Center segment revenue increased 122% to a record $3.5 billion."
+      },
+      {
+        "label": "EPYC Adoption Acceleration",
+        "severity": 5,
+        "evidence": "EPYC has become the CPU of choice for the modern data center."
+      },
+      {
+        "label": "AI Software Ecosystem Expansion",
+        "severity": 4,
+        "evidence": "ROCm now provides AI developers with a truly open software alternative that has been deployed and validated at scale."
+      },
+      {
+        "label": "MI300X and MI325X Adoption",
+        "severity": 5,
+        "evidence": "MI300X public cloud instance availability expanded in the quarter with Microsoft, Oracle Cloud and multiple AI specialized cloud providers now offering Instinct instances."
+      },
+      {
+        "label": "Strategic Acquisition of ZT Systems",
+        "severity": 4,
+        "evidence": "We announced a definitive agreement to acquire ZT Systems, one of the leading providers of AI infrastructure."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Gaming Segment Decline",
+        "severity": 3,
+        "evidence": "Gaming segment revenue declined 69% year-over-year to $462 million."
+      },
+      {
+        "label": "Embedded Segment Weakness",
+        "severity": 3,
+        "evidence": "Embedded segment revenue decreased 25% year-over-year to $927 million."
+      },
+      {
+        "label": "Supply Chain Constraints",
+        "severity": 2,
+        "evidence": "The environment will continue to be tight, but we've also planned for significant growth going into 2025."
+      },
+      {
+        "label": "Seasonality in Client Segment",
+        "severity": 2,
+        "evidence": "We would expect some level of seasonality going into the first half of the year."
+      },
+      {
+        "label": "Competitive Pressure",
+        "severity": 2,
+        "evidence": "Our key competitor will take most of the TAM of the AI market."
+      }
+    ],
+    "themes": [
+      "data center growth",
+      "epyc adoption",
+      "ai expansion",
+      "gpu innovation",
+      "strategic acquisitions"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.65,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Record Data Center Revenue",
+        "severity": 4,
+        "evidence": "Revenue coming in above expectations, driven by record Instinct and EPYC product sales and robust demand for our Ryzen PC processors."
+      },
+      {
+        "label": "EPYC CPU Share Gain",
+        "severity": 5,
+        "evidence": "We gained server CPU share in the quarter as enterprise wins accelerated."
+      },
+      {
+        "label": "Cloud Provider Adoption of EPYC",
+        "severity": 4,
+        "evidence": "Cloud providers expanded their use of EPYC CPUs across their infrastructure, and we began the initial ramp of fifth-gen EPYC processors."
+      },
+      {
+        "label": "Cloudflare Genoa-X Adoption",
+        "severity": 4,
+        "evidence": "Cloudflare selected Genoa-X processors with our industry-leading 3D chiplet stacking technology to power their next-generation servers that support twice as many requests per second and deliver 60% higher performance per watt versus their prior generation."
+      },
+      {
+        "label": "EPYC Instance Adoption",
+        "severity": 5,
+        "evidence": "Public cloud instances increased 20% year-over-year to more than 950 as Microsoft, AWS and others launched or expanded their EPYC processor-powered offerings in the quarter. EPYC instance adoption with enterprise customers also grew in the quarter, highlighted by wins with Adobe, Boeing, Micron Nestle, Slack, Synopsys, Tata and others."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Gaming Segment Decline",
+        "severity": 3,
+        "evidence": "Semi-custom sales declined as Microsoft and Sony reduced channel inventory."
+      },
+      {
+        "label": "Embedded Segment Recovery",
+        "severity": 2,
+        "evidence": "Embedded demand continues recovering gradually, led by strength in test and emulation offset by ongoing softness in the industrial market."
+      },
+      {
+        "label": "Market Competition (GPU)",
+        "severity": 4,
+        "evidence": "If you remember, Harsh, our EPYC ramp from Zen 1, Zen 2, Zen 3, Zen 4 we had extremely good product even back in the Rome days, but it does take time to ensure that there is trust built, there is familiarity with the product set."
+      },
+      {
+        "label": "PC Market Seasonality",
+        "severity": 3,
+        "evidence": "I would expect there will be seasonality going into the first half. That's typical in our business."
+      },
+      {
+        "label": "Supply Chain Constraints",
+        "severity": 4,
+        "evidence": "Inventory increased sequentially by $383 million to $5.4 billion, primarily to support the continued ramp of Data Center segment products."
+      }
+    ],
+    "themes": [
+      "data center growth",
+      "epyc adoption",
+      "ai acceleration",
+      "cloud computing",
+      "server infrastructure"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 0.0,
+    "risks_jaccard": 0.25,
+    "themes_jaccard": 0.25,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.19999999999999996,
+    "agreement_score": 0.2875,
+    "agreement_confidence": 0.22999999999999998
+  },
+  "chosen": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "Strong Data Center Growth",
+        "severity": 5,
+        "evidence": "Data Center segment revenue increased 122% to a record $3.5 billion."
+      },
+      {
+        "label": "EPYC Adoption Acceleration",
+        "severity": 5,
+        "evidence": "EPYC has become the CPU of choice for the modern data center."
+      },
+      {
+        "label": "AI Software Ecosystem Expansion",
+        "severity": 4,
+        "evidence": "ROCm now provides AI developers with a truly open software alternative that has been deployed and validated at scale."
+      },
+      {
+        "label": "MI300X and MI325X Adoption",
+        "severity": 5,
+        "evidence": "MI300X public cloud instance availability expanded in the quarter with Microsoft, Oracle Cloud and multiple AI specialized cloud providers now offering Instinct instances."
+      },
+      {
+        "label": "Strategic Acquisition of ZT Systems",
+        "severity": 4,
+        "evidence": "We announced a definitive agreement to acquire ZT Systems, one of the leading providers of AI infrastructure."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Gaming Segment Decline",
+        "severity": 3,
+        "evidence": "Gaming segment revenue declined 69% year-over-year to $462 million."
+      },
+      {
+        "label": "Embedded Segment Weakness",
+        "severity": 3,
+        "evidence": "Embedded segment revenue decreased 25% year-over-year to $927 million."
+      },
+      {
+        "label": "Supply Chain Constraints",
+        "severity": 2,
+        "evidence": "The environment will continue to be tight, but we've also planned for significant growth going into 2025."
+      },
+      {
+        "label": "Seasonality in Client Segment",
+        "severity": 2,
+        "evidence": "We would expect some level of seasonality going into the first half of the year."
+      },
+      {
+        "label": "Competitive Pressure",
+        "severity": 2,
+        "evidence": "Our key competitor will take most of the TAM of the AI market."
+      }
+    ],
+    "themes": [
+      "data center growth",
+      "epyc adoption",
+      "ai expansion",
+      "gpu innovation",
+      "strategic acquisitions"
+    ]
+  }
+}

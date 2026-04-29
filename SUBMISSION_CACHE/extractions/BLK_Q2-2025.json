@@ -1,0 +1,227 @@
+{
+  "_ticker": "BLK",
+  "_quarter": "Q2-2025",
+  "_call_date": "2025-07-15",
+  "primary_model": "qwen3:14b",
+  "secondary_model": "gemma3:4b",
+  "primary": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "Strong organic growth",
+        "severity": 5,
+        "evidence": "We generated 7% organic base fee growth and over $650 billion of net inflows over the last 12 months."
+      },
+      {
+        "label": "Record AUM and revenue growth",
+        "severity": 5,
+        "evidence": "We finished the second quarter with record AUM, record units of trust of $12.5 trillion."
+      },
+      {
+        "label": "Successful acquisitions",
+        "severity": 4,
+        "evidence": "We closed our acquisition of HPS Investment Partners, a major milestone as we evolve towards our ambitions of 30% revenue contribution from private markets and technology by 2030."
+      },
+      {
+        "label": "Positive performance in technology services",
+        "severity": 4,
+        "evidence": "Quarterly technology services revenue and subscription revenue was up 26% compared to a year ago."
+      },
+      {
+        "label": "Strong client engagement",
+        "severity": 4,
+        "evidence": "Clients are eager to put more capital to work with BlackRock."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Market volatility",
+        "severity": 3,
+        "evidence": "Significant intra-month equity market declines in April were also a contributing factor."
+      },
+      {
+        "label": "Performance fee decline",
+        "severity": 3,
+        "evidence": "Performance fees of $94 million decreased from a year ago, reflecting lower performance revenue from private markets."
+      },
+      {
+        "label": "Higher expenses",
+        "severity": 2,
+        "evidence": "Total expense increased 14% year-over-year, reflecting higher compensation, sales asset and account expense and higher G&A."
+      },
+      {
+        "label": "Regulatory uncertainty",
+        "severity": 2,
+        "evidence": "The actual effective tax rate may differ because of nonrecurring or discrete items or potential changes in tax legislation."
+      },
+      {
+        "label": "Integration challenges",
+        "severity": 2,
+        "evidence": "We are in the process of integrating HPS, GIP, and Preqin, which may pose challenges."
+      }
+    ],
+    "themes": [
+      "organic growth",
+      "acquisitions",
+      "technology",
+      "private markets",
+      "etfs",
+      "capital management",
+      "global expansion",
+      "retirement solutions",
+      "digital assets",
+      "institutional clients"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.65,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Strong Q2 Results",
+        "severity": 4,
+        "evidence": "Second quarter revenue of $5.4 billion was 13% higher year-over-year, driven by the impact of organic growth and higher markets on average AUM, base fee is consolidated in the GIP transaction and higher technology services and subscription revenue, which includes the onboarding of Preqin."
+      },
+      {
+        "label": "Record AUM & Net Inflows",
+        "severity": 5,
+        "evidence": "Record AUM, record units of trust of $12.5 trillion. Generated 7% organic base fee growth and over $650 billion of net inflows over the last 12 months."
+      },
+      {
+        "label": "GIP V Success",
+        "severity": 4,
+        "evidence": "GIP V closed above its $25 billion target, making it the largest private market fund raise in the histories of BlackRock and GIP."
+      },
+      {
+        "label": "HPS Integration",
+        "severity": 3,
+        "evidence": "Closing of HPS Investment Partners added $165 billion of client AUM and $118 billion of fee-paying AUM on July 1."
+      },
+      {
+        "label": "Technology Revenue Growth",
+        "severity": 4,
+        "evidence": "Quarterly technology services revenue and subscription revenue was up 26% compared to a year ago."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Low Fee Institutional Redemptions",
+        "severity": 4,
+        "evidence": "Second quarter net inflows of $68 billion were impacted by low fee institutional index redemptions, which saw $48 billion of net outflows."
+      },
+      {
+        "label": "Market & FX Movements",
+        "severity": 3,
+        "evidence": "Estimated base fee run rate approximately 5% higher than total base fees for the second quarter."
+      },
+      {
+        "label": "Performance Fees Decline",
+        "severity": 3,
+        "evidence": "Performance fees of $94 million decreased from a year ago, reflecting lower performance revenue from private markets, liquid alternatives and long-only products."
+      },
+      {
+        "label": "Expense Increases",
+        "severity": 4,
+        "evidence": "Total expense increased 14% year-over-year, reflecting higher compensation, sales asset and account expense and higher G&A."
+      },
+      {
+        "label": "Reliance on Organic Growth",
+        "severity": 2,
+        "evidence": "BlackRock assumes no duty and does not undertake to update any forward-looking statements."
+      }
+    ],
+    "themes": [
+      "growth",
+      "innovation",
+      "private markets",
+      "technology",
+      "global expansion"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 0.0,
+    "risks_jaccard": 0.0,
+    "themes_jaccard": 0.25,
+    "guidance_match": 0.0,
+    "sentiment_gap": 0.19999999999999996,
+    "agreement_score": 0.0625,
+    "agreement_confidence": 0.05
+  },
+  "chosen": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "Strong organic growth",
+        "severity": 5,
+        "evidence": "We generated 7% organic base fee growth and over $650 billion of net inflows over the last 12 months."
+      },
+      {
+        "label": "Record AUM and revenue growth",
+        "severity": 5,
+        "evidence": "We finished the second quarter with record AUM, record units of trust of $12.5 trillion."
+      },
+      {
+        "label": "Successful acquisitions",
+        "severity": 4,
+        "evidence": "We closed our acquisition of HPS Investment Partners, a major milestone as we evolve towards our ambitions of 30% revenue contribution from private markets and technology by 2030."
+      },
+      {
+        "label": "Positive performance in technology services",
+        "severity": 4,
+        "evidence": "Quarterly technology services revenue and subscription revenue was up 26% compared to a year ago."
+      },
+      {
+        "label": "Strong client engagement",
+        "severity": 4,
+        "evidence": "Clients are eager to put more capital to work with BlackRock."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Market volatility",
+        "severity": 3,
+        "evidence": "Significant intra-month equity market declines in April were also a contributing factor."
+      },
+      {
+        "label": "Performance fee decline",
+        "severity": 3,
+        "evidence": "Performance fees of $94 million decreased from a year ago, reflecting lower performance revenue from private markets."
+      },
+      {
+        "label": "Higher expenses",
+        "severity": 2,
+        "evidence": "Total expense increased 14% year-over-year, reflecting higher compensation, sales asset and account expense and higher G&A."
+      },
+      {
+        "label": "Regulatory uncertainty",
+        "severity": 2,
+        "evidence": "The actual effective tax rate may differ because of nonrecurring or discrete items or potential changes in tax legislation."
+      },
+      {
+        "label": "Integration challenges",
+        "severity": 2,
+        "evidence": "We are in the process of integrating HPS, GIP, and Preqin, which may pose challenges."
+      }
+    ],
+    "themes": [
+      "organic growth",
+      "acquisitions",
+      "technology",
+      "private markets",
+      "etfs",
+      "capital management",
+      "global expansion",
+      "retirement solutions",
+      "digital assets",
+      "institutional clients"
+    ]
+  }
+}

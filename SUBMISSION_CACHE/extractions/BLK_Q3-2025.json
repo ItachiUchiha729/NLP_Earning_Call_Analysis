@@ -1,0 +1,159 @@
+{
+  "_ticker": "BLK",
+  "_quarter": "Q3-2025",
+  "_call_date": "2025-10-14",
+  "primary_model": "qwen3:14b",
+  "secondary_model": "gemma3:4b",
+  "primary": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "Strong Organic Base Fee Growth",
+        "severity": 5,
+        "evidence": "We generated $205 billion of net inflows in the third quarter, reflecting 10% annualized organic base fee growth, our highest quarter since 2021."
+      },
+      {
+        "label": "Record AUM and Units of Trust",
+        "severity": 5,
+        "evidence": "We finished the third quarter with record AUM, record units of trust of $13.5 trillion."
+      },
+      {
+        "label": "Successful Acquisitions and Integrations",
+        "severity": 4,
+        "evidence": "Since July 1, we've closed our acquisitions of HPS and ElmTree, announced an $80 billion SMA solution with Citi Wealth and onboarded a $30 billion pension mandate."
+      },
+      {
+        "label": "Diversified Growth Across Franchises",
+        "severity": 4,
+        "evidence": "The momentum we saw in the first half of the year accelerated in the third quarter. Our builds across ETFs private markets, whole portfolio and cash management drove 8% organic base fee growth over the last 12 months."
+      },
+      {
+        "label": "Strong Performance in Digital Assets",
+        "severity": 4,
+        "evidence": "Our digital assets ETPs raised another $17 billion in the third quarter. Our flagship offerings in IBIT and ETHA were among the top 5 inflowing products in the ETP industry."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Private Credit Market Volatility",
+        "severity": 3,
+        "evidence": "The market has grown increasingly anxious given some of the recent dynamics, both related to perhaps growth, amid lower rates and data spreads as well as some of the specific credit names out there."
+      },
+      {
+        "label": "Regulatory Uncertainty in Digital Assets",
+        "severity": 2,
+        "evidence": "The U.S. needs to accelerate regulatory clarity and investments in digital assets innovation."
+      },
+      {
+        "label": "Performance Fee Volatility",
+        "severity": 2,
+        "evidence": "Performance fees of $516 million increased 33% from a year ago, primarily reflecting approximately $270 million of performance fees from HPS."
+      },
+      {
+        "label": "Market Beta Impact on AUM",
+        "severity": 2,
+        "evidence": "Third quarter revenue of $6.5 billion was 25% higher year-over-year, driven by the acquisitions of GIP, Preqin and HPS, organic base fee growth over the trailing 12-month period and the positive impact of market movements on average AUM."
+      },
+      {
+        "label": "Higher Operating Expenses",
+        "severity": 2,
+        "evidence": "Total expense was 26% higher year-over-year, primarily driven by higher compensation, sales asset and account expense and G&A expense."
+      }
+    ],
+    "themes": [
+      "organic_growth",
+      "digital_assets",
+      "private_markets",
+      "acquisitions_integration",
+      "retirement_solutions"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.0,
+    "sentiment_bucket": "neutral",
+    "guidance_direction": "none",
+    "guidance_confidence": 0.0,
+    "wins": [],
+    "risks": [],
+    "themes": []
+  },
+  "agreement": {
+    "wins_jaccard": 0.0,
+    "risks_jaccard": 0.0,
+    "themes_jaccard": 0.0,
+    "guidance_match": 0.0,
+    "sentiment_gap": 0.85,
+    "agreement_score": 0.0,
+    "agreement_confidence": 0.0
+  },
+  "chosen": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "Strong Organic Base Fee Growth",
+        "severity": 5,
+        "evidence": "We generated $205 billion of net inflows in the third quarter, reflecting 10% annualized organic base fee growth, our highest quarter since 2021."
+      },
+      {
+        "label": "Record AUM and Units of Trust",
+        "severity": 5,
+        "evidence": "We finished the third quarter with record AUM, record units of trust of $13.5 trillion."
+      },
+      {
+        "label": "Successful Acquisitions and Integrations",
+        "severity": 4,
+        "evidence": "Since July 1, we've closed our acquisitions of HPS and ElmTree, announced an $80 billion SMA solution with Citi Wealth and onboarded a $30 billion pension mandate."
+      },
+      {
+        "label": "Diversified Growth Across Franchises",
+        "severity": 4,
+        "evidence": "The momentum we saw in the first half of the year accelerated in the third quarter. Our builds across ETFs private markets, whole portfolio and cash management drove 8% organic base fee growth over the last 12 months."
+      },
+      {
+        "label": "Strong Performance in Digital Assets",
+        "severity": 4,
+        "evidence": "Our digital assets ETPs raised another $17 billion in the third quarter. Our flagship offerings in IBIT and ETHA were among the top 5 inflowing products in the ETP industry."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Private Credit Market Volatility",
+        "severity": 3,
+        "evidence": "The market has grown increasingly anxious given some of the recent dynamics, both related to perhaps growth, amid lower rates and data spreads as well as some of the specific credit names out there."
+      },
+      {
+        "label": "Regulatory Uncertainty in Digital Assets",
+        "severity": 2,
+        "evidence": "The U.S. needs to accelerate regulatory clarity and investments in digital assets innovation."
+      },
+      {
+        "label": "Performance Fee Volatility",
+        "severity": 2,
+        "evidence": "Performance fees of $516 million increased 33% from a year ago, primarily reflecting approximately $270 million of performance fees from HPS."
+      },
+      {
+        "label": "Market Beta Impact on AUM",
+        "severity": 2,
+        "evidence": "Third quarter revenue of $6.5 billion was 25% higher year-over-year, driven by the acquisitions of GIP, Preqin and HPS, organic base fee growth over the trailing 12-month period and the positive impact of market movements on average AUM."
+      },
+      {
+        "label": "Higher Operating Expenses",
+        "severity": 2,
+        "evidence": "Total expense was 26% higher year-over-year, primarily driven by higher compensation, sales asset and account expense and G&A expense."
+      }
+    ],
+    "themes": [
+      "organic_growth",
+      "digital_assets",
+      "private_markets",
+      "acquisitions_integration",
+      "retirement_solutions"
+    ]
+  }
+}

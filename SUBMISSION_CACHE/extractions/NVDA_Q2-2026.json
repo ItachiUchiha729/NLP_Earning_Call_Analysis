@@ -1,0 +1,234 @@
+{
+  "_ticker": "NVDA",
+  "_quarter": "Q2-2026",
+  "_call_date": "2025-08-27",
+  "backend": "anthropic",
+  "primary_model": "gemma3:4b",
+  "secondary_model": "gemma3:4b",
+  "single_call_mode": true,
+  "primary": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.92,
+    "wins": [
+      {
+        "label": "Record Q2 Revenue Beat",
+        "severity": 5,
+        "evidence": "Total revenue was $46.7 billion, exceeded our outlook as we grew sequentially across all market platforms"
+      },
+      {
+        "label": "Blackwell Ramp Success",
+        "severity": 5,
+        "evidence": "NVIDIA's Blackwell platform reached record levels, growing sequentially by 17%... producing approximately 1,000 racks per week"
+      },
+      {
+        "label": "Strong Q3 Guidance",
+        "severity": 5,
+        "evidence": "Total revenue is expected to be $54 billion, plus or minus 2%. This represents over $7 billion in sequential growth"
+      },
+      {
+        "label": "Networking Revenue Surge",
+        "severity": 4,
+        "evidence": "Networking delivered record revenue of $7.3 billion... a 46% sequential and 98% year-on-year increase"
+      },
+      {
+        "label": "Gaming Record Performance",
+        "severity": 4,
+        "evidence": "Our gaming revenue was a record $4.3 billion, a 14% sequential increase and a 49% jump year-on-year"
+      }
+    ],
+    "risks": [
+      {
+        "label": "China H20 Uncertainty",
+        "severity": 5,
+        "evidence": "We have not included H20 in our Q3 outlook as we continue to work through geopolitical issues... Data center revenue also grew sequentially despite the $4 billion decline in H20 revenue"
+      },
+      {
+        "label": "USG Revenue Share Requirement",
+        "severity": 3,
+        "evidence": "USG officials have expressed an expectation that the USG will receive 15% of the revenue generated from licensed H20 sales"
+      },
+      {
+        "label": "Rising Operating Expenses",
+        "severity": 3,
+        "evidence": "For the full year, we expect operating expenses to grow in the high 30s range year-over-year, up from our prior expectations of the mid-30s"
+      },
+      {
+        "label": "ASIC Competition",
+        "severity": 3,
+        "evidence": "Several of your large customers already have or are planning many ASIC projects. I think 1 of your ASIC competitors, Broadcom, signaled that they could grow their AI business almost 55%, 60% next year"
+      },
+      {
+        "label": "Power Constraints",
+        "severity": 3,
+        "evidence": "the world, as you mentioned, limiters, it will always likely be power limitations or AI -- building limitations"
+      }
+    ],
+    "themes": [
+      "blackwell ramp acceleration",
+      "reasoning/agentic ai demand surge",
+      "china geopolitical uncertainty",
+      "networking growth driver",
+      "annual product cadence",
+      "ai infrastructure buildout",
+      "physical ai/robotics expansion",
+      "sovereign ai opportunity",
+      "power-limited data centers",
+      "asic competition"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.92,
+    "wins": [
+      {
+        "label": "Record Q2 Revenue Beat",
+        "severity": 5,
+        "evidence": "Total revenue was $46.7 billion, exceeded our outlook as we grew sequentially across all market platforms"
+      },
+      {
+        "label": "Blackwell Ramp Success",
+        "severity": 5,
+        "evidence": "NVIDIA's Blackwell platform reached record levels, growing sequentially by 17%... producing approximately 1,000 racks per week"
+      },
+      {
+        "label": "Strong Q3 Guidance",
+        "severity": 5,
+        "evidence": "Total revenue is expected to be $54 billion, plus or minus 2%. This represents over $7 billion in sequential growth"
+      },
+      {
+        "label": "Networking Revenue Surge",
+        "severity": 4,
+        "evidence": "Networking delivered record revenue of $7.3 billion... a 46% sequential and 98% year-on-year increase"
+      },
+      {
+        "label": "Gaming Record Performance",
+        "severity": 4,
+        "evidence": "Our gaming revenue was a record $4.3 billion, a 14% sequential increase and a 49% jump year-on-year"
+      }
+    ],
+    "risks": [
+      {
+        "label": "China H20 Uncertainty",
+        "severity": 5,
+        "evidence": "We have not included H20 in our Q3 outlook as we continue to work through geopolitical issues... Data center revenue also grew sequentially despite the $4 billion decline in H20 revenue"
+      },
+      {
+        "label": "USG Revenue Share Requirement",
+        "severity": 3,
+        "evidence": "USG officials have expressed an expectation that the USG will receive 15% of the revenue generated from licensed H20 sales"
+      },
+      {
+        "label": "Rising Operating Expenses",
+        "severity": 3,
+        "evidence": "For the full year, we expect operating expenses to grow in the high 30s range year-over-year, up from our prior expectations of the mid-30s"
+      },
+      {
+        "label": "ASIC Competition",
+        "severity": 3,
+        "evidence": "Several of your large customers already have or are planning many ASIC projects. I think 1 of your ASIC competitors, Broadcom, signaled that they could grow their AI business almost 55%, 60% next year"
+      },
+      {
+        "label": "Power Constraints",
+        "severity": 3,
+        "evidence": "the world, as you mentioned, limiters, it will always likely be power limitations or AI -- building limitations"
+      }
+    ],
+    "themes": [
+      "blackwell ramp acceleration",
+      "reasoning/agentic ai demand surge",
+      "china geopolitical uncertainty",
+      "networking growth driver",
+      "annual product cadence",
+      "ai infrastructure buildout",
+      "physical ai/robotics expansion",
+      "sovereign ai opportunity",
+      "power-limited data centers",
+      "asic competition"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 1.0,
+    "risks_jaccard": 1.0,
+    "themes_jaccard": 1.0,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.0,
+    "agreement_score": 1.0,
+    "agreement_confidence": 1.0
+  },
+  "chosen": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.92,
+    "wins": [
+      {
+        "label": "Record Q2 Revenue Beat",
+        "severity": 5,
+        "evidence": "Total revenue was $46.7 billion, exceeded our outlook as we grew sequentially across all market platforms"
+      },
+      {
+        "label": "Blackwell Ramp Success",
+        "severity": 5,
+        "evidence": "NVIDIA's Blackwell platform reached record levels, growing sequentially by 17%... producing approximately 1,000 racks per week"
+      },
+      {
+        "label": "Strong Q3 Guidance",
+        "severity": 5,
+        "evidence": "Total revenue is expected to be $54 billion, plus or minus 2%. This represents over $7 billion in sequential growth"
+      },
+      {
+        "label": "Networking Revenue Surge",
+        "severity": 4,
+        "evidence": "Networking delivered record revenue of $7.3 billion... a 46% sequential and 98% year-on-year increase"
+      },
+      {
+        "label": "Gaming Record Performance",
+        "severity": 4,
+        "evidence": "Our gaming revenue was a record $4.3 billion, a 14% sequential increase and a 49% jump year-on-year"
+      }
+    ],
+    "risks": [
+      {
+        "label": "China H20 Uncertainty",
+        "severity": 5,
+        "evidence": "We have not included H20 in our Q3 outlook as we continue to work through geopolitical issues... Data center revenue also grew sequentially despite the $4 billion decline in H20 revenue"
+      },
+      {
+        "label": "USG Revenue Share Requirement",
+        "severity": 3,
+        "evidence": "USG officials have expressed an expectation that the USG will receive 15% of the revenue generated from licensed H20 sales"
+      },
+      {
+        "label": "Rising Operating Expenses",
+        "severity": 3,
+        "evidence": "For the full year, we expect operating expenses to grow in the high 30s range year-over-year, up from our prior expectations of the mid-30s"
+      },
+      {
+        "label": "ASIC Competition",
+        "severity": 3,
+        "evidence": "Several of your large customers already have or are planning many ASIC projects. I think 1 of your ASIC competitors, Broadcom, signaled that they could grow their AI business almost 55%, 60% next year"
+      },
+      {
+        "label": "Power Constraints",
+        "severity": 3,
+        "evidence": "the world, as you mentioned, limiters, it will always likely be power limitations or AI -- building limitations"
+      }
+    ],
+    "themes": [
+      "blackwell ramp acceleration",
+      "reasoning/agentic ai demand surge",
+      "china geopolitical uncertainty",
+      "networking growth driver",
+      "annual product cadence",
+      "ai infrastructure buildout",
+      "physical ai/robotics expansion",
+      "sovereign ai opportunity",
+      "power-limited data centers",
+      "asic competition"
+    ]
+  }
+}

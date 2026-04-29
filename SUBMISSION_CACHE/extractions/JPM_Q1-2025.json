@@ -1,0 +1,234 @@
+{
+  "_ticker": "JPM",
+  "_quarter": "Q1-2025",
+  "_call_date": "2025-04-11",
+  "backend": "anthropic",
+  "primary_model": "gemma3:4b",
+  "secondary_model": "gemma3:4b",
+  "single_call_mode": true,
+  "primary": {
+    "overall_sentiment": 0.15,
+    "sentiment_bucket": "neutral",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.45,
+    "wins": [
+      {
+        "label": "Strong Markets Performance",
+        "severity": 5,
+        "evidence": "Markets revenue was up $1.7 billion or 21%. Equities was up 48% as the business performed well during a period of elevated volatility"
+      },
+      {
+        "label": "Record Equities Trading",
+        "severity": 5,
+        "evidence": "Total revenue was up 21% year-on-year, reflecting record performance in equities"
+      },
+      {
+        "label": "Strong Capital Position",
+        "severity": 4,
+        "evidence": "We ended the quarter with a CET1 ratio of 15.4%... we have plenty of capital and plenty of liquidity to get through whatever the stormy seas are"
+      },
+      {
+        "label": "AWM Net Inflows",
+        "severity": 4,
+        "evidence": "Long-term net inflows were $54 billion for the quarter, primarily driven by equity and fixed income. In liquidity, we saw net inflows of $36 billion"
+      },
+      {
+        "label": "IB Fees Growth",
+        "severity": 3,
+        "evidence": "IB fees were up 12% year-on-year, and we ranked #1 with wallet share of 9%"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Recession Risk",
+        "severity": 5,
+        "evidence": "our excellent economist, Michael Feroli, I called this morning specifically to ask him how they're looking at their forecast today, and they think it's about 50-50 for a recession"
+      },
+      {
+        "label": "Tariff/Trade Uncertainty",
+        "severity": 5,
+        "evidence": "Obviously, the focus right now is on the future, which is obviously unusually uncertain... there's a lot of issues out there"
+      },
+      {
+        "label": "Credit Reserve Build",
+        "severity": 4,
+        "evidence": "Credit costs were $3.3 billion with net charge-offs of $2.3 billion and a net reserve build of $973 million... weighted average unemployment rate embedded in our allowance is 5.8%, up from 5.5%"
+      },
+      {
+        "label": "IB Pipeline Uncertainty",
+        "severity": 4,
+        "evidence": "In light of market conditions, we are adopting a cautious stance on the investment banking outlook... conversion of the existing pipeline and origination of new activity will require a reduction in the current levels of uncertainty"
+      },
+      {
+        "label": "Deposit Margin Compression",
+        "severity": 3,
+        "evidence": "NII ex Markets was down $430 million or 2%, driven by the impact of lower rates and deposit margin compression as well as lower deposit balances in CCB"
+      }
+    ],
+    "themes": [
+      "recession_risk",
+      "tariff_uncertainty",
+      "strong_trading_performance",
+      "credit_reserve_build",
+      "regulatory_reform",
+      "capital_strength",
+      "macro_uncertainty",
+      "wait_and_see_client_behavior",
+      "cost_efficiency_focus",
+      "market_volatility"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.15,
+    "sentiment_bucket": "neutral",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.45,
+    "wins": [
+      {
+        "label": "Strong Markets Performance",
+        "severity": 5,
+        "evidence": "Markets revenue was up $1.7 billion or 21%. Equities was up 48% as the business performed well during a period of elevated volatility"
+      },
+      {
+        "label": "Record Equities Trading",
+        "severity": 5,
+        "evidence": "Total revenue was up 21% year-on-year, reflecting record performance in equities"
+      },
+      {
+        "label": "Strong Capital Position",
+        "severity": 4,
+        "evidence": "We ended the quarter with a CET1 ratio of 15.4%... we have plenty of capital and plenty of liquidity to get through whatever the stormy seas are"
+      },
+      {
+        "label": "AWM Net Inflows",
+        "severity": 4,
+        "evidence": "Long-term net inflows were $54 billion for the quarter, primarily driven by equity and fixed income. In liquidity, we saw net inflows of $36 billion"
+      },
+      {
+        "label": "IB Fees Growth",
+        "severity": 3,
+        "evidence": "IB fees were up 12% year-on-year, and we ranked #1 with wallet share of 9%"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Recession Risk",
+        "severity": 5,
+        "evidence": "our excellent economist, Michael Feroli, I called this morning specifically to ask him how they're looking at their forecast today, and they think it's about 50-50 for a recession"
+      },
+      {
+        "label": "Tariff/Trade Uncertainty",
+        "severity": 5,
+        "evidence": "Obviously, the focus right now is on the future, which is obviously unusually uncertain... there's a lot of issues out there"
+      },
+      {
+        "label": "Credit Reserve Build",
+        "severity": 4,
+        "evidence": "Credit costs were $3.3 billion with net charge-offs of $2.3 billion and a net reserve build of $973 million... weighted average unemployment rate embedded in our allowance is 5.8%, up from 5.5%"
+      },
+      {
+        "label": "IB Pipeline Uncertainty",
+        "severity": 4,
+        "evidence": "In light of market conditions, we are adopting a cautious stance on the investment banking outlook... conversion of the existing pipeline and origination of new activity will require a reduction in the current levels of uncertainty"
+      },
+      {
+        "label": "Deposit Margin Compression",
+        "severity": 3,
+        "evidence": "NII ex Markets was down $430 million or 2%, driven by the impact of lower rates and deposit margin compression as well as lower deposit balances in CCB"
+      }
+    ],
+    "themes": [
+      "recession_risk",
+      "tariff_uncertainty",
+      "strong_trading_performance",
+      "credit_reserve_build",
+      "regulatory_reform",
+      "capital_strength",
+      "macro_uncertainty",
+      "wait_and_see_client_behavior",
+      "cost_efficiency_focus",
+      "market_volatility"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 1.0,
+    "risks_jaccard": 1.0,
+    "themes_jaccard": 1.0,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.0,
+    "agreement_score": 1.0,
+    "agreement_confidence": 1.0
+  },
+  "chosen": {
+    "overall_sentiment": 0.15,
+    "sentiment_bucket": "neutral",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.45,
+    "wins": [
+      {
+        "label": "Strong Markets Performance",
+        "severity": 5,
+        "evidence": "Markets revenue was up $1.7 billion or 21%. Equities was up 48% as the business performed well during a period of elevated volatility"
+      },
+      {
+        "label": "Record Equities Trading",
+        "severity": 5,
+        "evidence": "Total revenue was up 21% year-on-year, reflecting record performance in equities"
+      },
+      {
+        "label": "Strong Capital Position",
+        "severity": 4,
+        "evidence": "We ended the quarter with a CET1 ratio of 15.4%... we have plenty of capital and plenty of liquidity to get through whatever the stormy seas are"
+      },
+      {
+        "label": "AWM Net Inflows",
+        "severity": 4,
+        "evidence": "Long-term net inflows were $54 billion for the quarter, primarily driven by equity and fixed income. In liquidity, we saw net inflows of $36 billion"
+      },
+      {
+        "label": "IB Fees Growth",
+        "severity": 3,
+        "evidence": "IB fees were up 12% year-on-year, and we ranked #1 with wallet share of 9%"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Recession Risk",
+        "severity": 5,
+        "evidence": "our excellent economist, Michael Feroli, I called this morning specifically to ask him how they're looking at their forecast today, and they think it's about 50-50 for a recession"
+      },
+      {
+        "label": "Tariff/Trade Uncertainty",
+        "severity": 5,
+        "evidence": "Obviously, the focus right now is on the future, which is obviously unusually uncertain... there's a lot of issues out there"
+      },
+      {
+        "label": "Credit Reserve Build",
+        "severity": 4,
+        "evidence": "Credit costs were $3.3 billion with net charge-offs of $2.3 billion and a net reserve build of $973 million... weighted average unemployment rate embedded in our allowance is 5.8%, up from 5.5%"
+      },
+      {
+        "label": "IB Pipeline Uncertainty",
+        "severity": 4,
+        "evidence": "In light of market conditions, we are adopting a cautious stance on the investment banking outlook... conversion of the existing pipeline and origination of new activity will require a reduction in the current levels of uncertainty"
+      },
+      {
+        "label": "Deposit Margin Compression",
+        "severity": 3,
+        "evidence": "NII ex Markets was down $430 million or 2%, driven by the impact of lower rates and deposit margin compression as well as lower deposit balances in CCB"
+      }
+    ],
+    "themes": [
+      "recession_risk",
+      "tariff_uncertainty",
+      "strong_trading_performance",
+      "credit_reserve_build",
+      "regulatory_reform",
+      "capital_strength",
+      "macro_uncertainty",
+      "wait_and_see_client_behavior",
+      "cost_efficiency_focus",
+      "market_volatility"
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "_ticker": "BLK",
+  "_quarter": "Q1-2024",
+  "_call_date": "2024-04-12",
+  "primary_model": "qwen3:14b",
+  "secondary_model": "gemma3:4b",
+  "primary": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "Strong AUM Growth",
+        "severity": 5,
+        "evidence": "BlackRock ended the quarter with record AUM of nearly $10.5 trillion."
+      },
+      {
+        "label": "Positive Net Inflows",
+        "severity": 5,
+        "evidence": "First quarter long-term net inflows of $76 billion continued to lead the industry."
+      },
+      {
+        "label": "Margin Expansion",
+        "severity": 4,
+        "evidence": "First quarter as-adjusted operating margin of 42.2% was up 180 basis points from a year ago."
+      },
+      {
+        "label": "Technology Revenue Growth",
+        "severity": 4,
+        "evidence": "Quarterly technology services revenue was up 11% compared to a year ago."
+      },
+      {
+        "label": "Strong ETF Performance",
+        "severity": 4,
+        "evidence": "ETF net inflows of $67 billion were led by core equity and fixed income ETFs."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Institutional Index Equity Outflows",
+        "severity": 3,
+        "evidence": "Institutional index net outflows of $13 billion were concentrated in low-fee index equities."
+      },
+      {
+        "label": "Cash Management Volatility",
+        "severity": 3,
+        "evidence": "Cash management flows were impacted by approximately $14 billion of net redemptions during the last week of March."
+      },
+      {
+        "label": "Market Uncertainty",
+        "severity": 2,
+        "evidence": "Clients are still cautious due to uncertainty around interest rates and geopolitical events."
+      },
+      {
+        "label": "Fee Rate Pressure",
+        "severity": 2,
+        "evidence": "The relative outperformance of lower-fee U.S. equity markets has led to a lower effective fee rate."
+      },
+      {
+        "label": "Regulatory and Transaction Risks",
+        "severity": 2,
+        "evidence": "The GIP transaction remains subject to regulatory approvals and other customary closing conditions."
+      }
+    ],
+    "themes": [
+      "aum growth",
+      "etfs",
+      "technology",
+      "private markets",
+      "margin expansion",
+      "organic growth",
+      "client consolidation",
+      "infrastructure",
+      "retirement solutions",
+      "aladdin"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.65,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "bullish",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Record AUM Growth",
+        "severity": 4,
+        "evidence": "Nearly $10.5 trillion AUM at the end of the quarter"
+      },
+      {
+        "label": "Strong Net Inflows",
+        "severity": 5,
+        "evidence": "Long-term net inflows of $76 billion in Q1, exceeding industry trends"
+      },
+      {
+        "label": "Margin Expansion",
+        "severity": 4,
+        "evidence": "180 basis points of margin expansion year-over-year"
+      },
+      {
+        "label": "ETF Inflows",
+        "severity": 4,
+        "evidence": "iShares inflows of $67 billion in Q1, leading the market"
+      },
+      {
+        "label": "Bitcoin ETC Demand",
+        "severity": 3,
+        "evidence": "Nearly $20 billion in AUM for the Bitcoin ETC launched in January"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Institutional Index Outflows",
+        "severity": 3,
+        "evidence": "Institutional index net outflows of $13 billion concentrated in low-fee equity funds"
+      },
+      {
+        "label": "Cash Management Redemptions",
+        "severity": 4,
+        "evidence": "Approximately $14 billion of net redemptions during the last week of March due to Good Friday holiday"
+      },
+      {
+        "label": "Market Uncertainty",
+        "severity": 4,
+        "evidence": "Clients' fear and uncertainty driving cash holdings and delaying investment decisions"
+      },
+      {
+        "label": "Competition in Fixed Income ETFs",
+        "severity": 3,
+        "evidence": "European iShares inflows tracking U.S. trends, with competitive dynamics"
+      },
+      {
+        "label": "Interest Rate Sensitivity",
+        "severity": 3,
+        "evidence": "Inverted yield curve and investor demand for yield impacting fixed income flows"
+      }
+    ],
+    "themes": [
+      "growth",
+      "innovation",
+      "asset management",
+      "technology",
+      "private markets"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 0.1111111111111111,
+    "risks_jaccard": 0.1111111111111111,
+    "themes_jaccard": 0.15384615384615385,
+    "guidance_match": 0.0,
+    "sentiment_gap": 0.19999999999999996,
+    "agreement_score": 0.10512820512820513,
+    "agreement_confidence": 0.08410256410256411
+  },
+  "chosen": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "Strong AUM Growth",
+        "severity": 5,
+        "evidence": "BlackRock ended the quarter with record AUM of nearly $10.5 trillion."
+      },
+      {
+        "label": "Positive Net Inflows",
+        "severity": 5,
+        "evidence": "First quarter long-term net inflows of $76 billion continued to lead the industry."
+      },
+      {
+        "label": "Margin Expansion",
+        "severity": 4,
+        "evidence": "First quarter as-adjusted operating margin of 42.2% was up 180 basis points from a year ago."
+      },
+      {
+        "label": "Technology Revenue Growth",
+        "severity": 4,
+        "evidence": "Quarterly technology services revenue was up 11% compared to a year ago."
+      },
+      {
+        "label": "Strong ETF Performance",
+        "severity": 4,
+        "evidence": "ETF net inflows of $67 billion were led by core equity and fixed income ETFs."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Institutional Index Equity Outflows",
+        "severity": 3,
+        "evidence": "Institutional index net outflows of $13 billion were concentrated in low-fee index equities."
+      },
+      {
+        "label": "Cash Management Volatility",
+        "severity": 3,
+        "evidence": "Cash management flows were impacted by approximately $14 billion of net redemptions during the last week of March."
+      },
+      {
+        "label": "Market Uncertainty",
+        "severity": 2,
+        "evidence": "Clients are still cautious due to uncertainty around interest rates and geopolitical events."
+      },
+      {
+        "label": "Fee Rate Pressure",
+        "severity": 2,
+        "evidence": "The relative outperformance of lower-fee U.S. equity markets has led to a lower effective fee rate."
+      },
+      {
+        "label": "Regulatory and Transaction Risks",
+        "severity": 2,
+        "evidence": "The GIP transaction remains subject to regulatory approvals and other customary closing conditions."
+      }
+    ],
+    "themes": [
+      "aum growth",
+      "etfs",
+      "technology",
+      "private markets",
+      "margin expansion",
+      "organic growth",
+      "client consolidation",
+      "infrastructure",
+      "retirement solutions",
+      "aladdin"
+    ]
+  }
+}

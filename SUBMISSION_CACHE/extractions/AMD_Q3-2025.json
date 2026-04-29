@@ -1,0 +1,217 @@
+{
+  "_ticker": "AMD",
+  "_quarter": "Q3-2025",
+  "_call_date": "2025-11-04",
+  "primary_model": "qwen3:14b",
+  "secondary_model": "gemma3:4b",
+  "primary": {
+    "overall_sentiment": 0.92,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "Record Revenue Growth",
+        "severity": 5,
+        "evidence": "Revenue grew 36% year-over-year to $9.2 billion."
+      },
+      {
+        "label": "Strong Data Center Performance",
+        "severity": 5,
+        "evidence": "Data center segment revenue increased 22% year-over-year to a record $4.3 billion."
+      },
+      {
+        "label": "EPYC Adoption Acceleration",
+        "severity": 5,
+        "evidence": "Adoption of 5th Gen EPYC Turin processors accelerated rapidly, accounting for nearly half of overall EPYC revenue in the quarter."
+      },
+      {
+        "label": "AI Business Momentum",
+        "severity": 5,
+        "evidence": "Our data center AI business is entering its next phase of growth with customer momentum building rapidly."
+      },
+      {
+        "label": "Strategic Partnerships",
+        "severity": 5,
+        "evidence": "We announced a comprehensive multiyear agreement with OpenAI to deploy 6 gigawatts of Instinct GPUs."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Supply Chain Constraints",
+        "severity": 3,
+        "evidence": "The ecosystem is very tight, and there is a need to plan closely with supply chain partners to ensure capacity is available."
+      },
+      {
+        "label": "Customer Concentration Risk",
+        "severity": 3,
+        "evidence": "There is a risk around dependency on a single customer, such as OpenAI, for a significant portion of data center GPU revenue."
+      },
+      {
+        "label": "MI308 Shipment Restrictions",
+        "severity": 2,
+        "evidence": "Third quarter financial results do not include any revenue from shipments of the MI308 GPU products to China."
+      },
+      {
+        "label": "Component Availability",
+        "severity": 2,
+        "evidence": "Component issues across interconnected memory may pose challenges for large-scale deployments."
+      },
+      {
+        "label": "Power and Infrastructure Constraints",
+        "severity": 2,
+        "evidence": "Power requirements for early announcements into next year are substantial, and infrastructure may be a gating factor."
+      }
+    ],
+    "themes": [
+      "ai growth",
+      "epyc adoption",
+      "data center expansion",
+      "ryzen performance",
+      "helios platform"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.65,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "bullish",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Record Revenue & Profitability",
+        "severity": 4,
+        "evidence": "Revenue grew 36% year-over-year to $9.2 billion. Net income rose 31%, and free cash flow more than tripled"
+      },
+      {
+        "label": "Strong Data Center Demand",
+        "severity": 5,
+        "evidence": "Data center segment revenue increased 22% year-over-year to a record $4.3 billion led by the ramp of our Instinct MI350 Series GPUs and server share gains."
+      },
+      {
+        "label": "EPYC CPU Dominance",
+        "severity": 4,
+        "evidence": "Server CPU revenue reached an all-time high as adoption of 5th Gen EPYC Turin processors accelerated rapidly, accounting for nearly half of overall EPYC revenue in the quarter."
+      },
+      {
+        "label": "Hyperscaler Adoption of EPYC",
+        "severity": 4,
+        "evidence": "Hyperscalers launched more than 160 EPYC-powered instances in the quarter, including new Turin offerings from Google, Microsoft Azure, Alibaba and others."
+      },
+      {
+        "label": "ROCm 7 Performance Boost",
+        "severity": 3,
+        "evidence": "ROCm 7, our most advanced release to date, delivering up to 4.6x higher inference and 3x higher training performance compared to ROCm 6."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Supply Chain Constraints",
+        "severity": 4,
+        "evidence": "Multiple cloud and AI providers are ramping up MI350 Series GPU deployments, with additional large-scale rollouts on track to ramp over the coming quarters."
+      },
+      {
+        "label": "Competition in AI Market",
+        "severity": 3,
+        "evidence": "OpenAI's decision to use AMD Instinct GPUs for its most sophisticated AI workloads sends a clear signal that our Instinct GPUs and ROCm open software stack deliver the performance and TCO required for the most demanding deployments."
+      },
+      {
+        "label": "MI308 Shipment Restrictions",
+        "severity": 2,
+        "evidence": "Revenue increased 20% sequentially driven by strong growth in the data center, and client and gaming segment and modest growth in the embedded segment. Before I review the balance sheet and the cash flow, as a reminder, we closed the sale of ZT System manufacturing business to Sanmina last week."
+      },
+      {
+        "label": "Complexity of Helios Rack",
+        "severity": 3,
+        "evidence": "Development of both our MI400 Series GPUs and Helios rack is progressing rapidly, supported by deep technical engagements across a growing set of hyperscalers, AI companies and OEM and ODM partners to enable large-scale deployments next year."
+      },
+      {
+        "label": "Embedded Segment Decline",
+        "severity": 3,
+        "evidence": "Embedded segment revenue decreased 8% year-over-year."
+      }
+    ],
+    "themes": [
+      "ai growth",
+      "data center expansion",
+      "server market leadership",
+      "gpu innovation",
+      "software ecosystem"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 0.0,
+    "risks_jaccard": 0.25,
+    "themes_jaccard": 0.25,
+    "guidance_match": 0.0,
+    "sentiment_gap": 0.27,
+    "agreement_score": 0.1375,
+    "agreement_confidence": 0.100375
+  },
+  "chosen": {
+    "overall_sentiment": 0.92,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "Record Revenue Growth",
+        "severity": 5,
+        "evidence": "Revenue grew 36% year-over-year to $9.2 billion."
+      },
+      {
+        "label": "Strong Data Center Performance",
+        "severity": 5,
+        "evidence": "Data center segment revenue increased 22% year-over-year to a record $4.3 billion."
+      },
+      {
+        "label": "EPYC Adoption Acceleration",
+        "severity": 5,
+        "evidence": "Adoption of 5th Gen EPYC Turin processors accelerated rapidly, accounting for nearly half of overall EPYC revenue in the quarter."
+      },
+      {
+        "label": "AI Business Momentum",
+        "severity": 5,
+        "evidence": "Our data center AI business is entering its next phase of growth with customer momentum building rapidly."
+      },
+      {
+        "label": "Strategic Partnerships",
+        "severity": 5,
+        "evidence": "We announced a comprehensive multiyear agreement with OpenAI to deploy 6 gigawatts of Instinct GPUs."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Supply Chain Constraints",
+        "severity": 3,
+        "evidence": "The ecosystem is very tight, and there is a need to plan closely with supply chain partners to ensure capacity is available."
+      },
+      {
+        "label": "Customer Concentration Risk",
+        "severity": 3,
+        "evidence": "There is a risk around dependency on a single customer, such as OpenAI, for a significant portion of data center GPU revenue."
+      },
+      {
+        "label": "MI308 Shipment Restrictions",
+        "severity": 2,
+        "evidence": "Third quarter financial results do not include any revenue from shipments of the MI308 GPU products to China."
+      },
+      {
+        "label": "Component Availability",
+        "severity": 2,
+        "evidence": "Component issues across interconnected memory may pose challenges for large-scale deployments."
+      },
+      {
+        "label": "Power and Infrastructure Constraints",
+        "severity": 2,
+        "evidence": "Power requirements for early announcements into next year are substantial, and infrastructure may be a gating factor."
+      }
+    ],
+    "themes": [
+      "ai growth",
+      "epyc adoption",
+      "data center expansion",
+      "ryzen performance",
+      "helios platform"
+    ]
+  }
+}

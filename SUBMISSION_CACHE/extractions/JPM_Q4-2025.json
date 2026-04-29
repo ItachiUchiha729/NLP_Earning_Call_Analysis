@@ -1,0 +1,234 @@
+{
+  "_ticker": "JPM",
+  "_quarter": "Q4-2025",
+  "_call_date": "2026-01-13",
+  "backend": "anthropic",
+  "primary_model": "gemma3:4b",
+  "secondary_model": "gemma3:4b",
+  "single_call_mode": true,
+  "primary": {
+    "overall_sentiment": 0.45,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.75,
+    "wins": [
+      {
+        "label": "Strong quarterly earnings",
+        "severity": 4,
+        "evidence": "the firm reported net income of $13 billion and EPS of $4.63 with an ROTCE of 18%"
+      },
+      {
+        "label": "Record client growth",
+        "severity": 4,
+        "evidence": "1.7 million net new checking accounts, 10.4 million new card accounts and record households in wealth management"
+      },
+      {
+        "label": "Exceptional AWM flows",
+        "severity": 4,
+        "evidence": "Long-term net inflows were $52 billion for the quarter and $209 billion for the full year, positive across all channels, regions and asset classes"
+      },
+      {
+        "label": "Strong Markets performance",
+        "severity": 4,
+        "evidence": "Equities was up 40% with robust performance across the franchise, particularly in Prime"
+      },
+      {
+        "label": "Consumer resilience",
+        "severity": 3,
+        "evidence": "Consumers and small businesses remain resilient...debit and credit sales volume continued to perform well, up 7% year-on-year"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Credit card rate cap threat",
+        "severity": 5,
+        "evidence": "people will lose access to credit, like on a very, very extensive and broad basis...that would also be bad for us...this is a big business for us"
+      },
+      {
+        "label": "Stablecoin deposit risk",
+        "severity": 4,
+        "evidence": "creation of a parallel banking system that is sort of -- has all the features of banking...without sort of the associated prudential safeguards...clearly, there is some risk for some firms"
+      },
+      {
+        "label": "Geopolitical uncertainty",
+        "severity": 4,
+        "evidence": "Geopolitical is an enormous amount of risk...It's just a big amount of risk that may or may not be -- determine the state of the economy"
+      },
+      {
+        "label": "Elevated expense growth",
+        "severity": 3,
+        "evidence": "we expect 2026 adjusted expense to be about $105 billion...2026 in isolation clearly represents meaningful expense growth in both dollar and percentage terms"
+      },
+      {
+        "label": "Slower deposit growth",
+        "severity": 3,
+        "evidence": "our expectations for consumer deposit growth in 2026 are lower than they had been in our scenario analysis at Investor Day"
+      }
+    ],
+    "themes": [
+      "strong_earnings",
+      "franchise_growth",
+      "regulatory_uncertainty",
+      "credit_card_risks",
+      "investment_spending",
+      "consumer_resilience",
+      "competitive_positioning",
+      "stablecoin_disruption",
+      "geopolitical_risks",
+      "capital_deployment"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.45,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.75,
+    "wins": [
+      {
+        "label": "Strong quarterly earnings",
+        "severity": 4,
+        "evidence": "the firm reported net income of $13 billion and EPS of $4.63 with an ROTCE of 18%"
+      },
+      {
+        "label": "Record client growth",
+        "severity": 4,
+        "evidence": "1.7 million net new checking accounts, 10.4 million new card accounts and record households in wealth management"
+      },
+      {
+        "label": "Exceptional AWM flows",
+        "severity": 4,
+        "evidence": "Long-term net inflows were $52 billion for the quarter and $209 billion for the full year, positive across all channels, regions and asset classes"
+      },
+      {
+        "label": "Strong Markets performance",
+        "severity": 4,
+        "evidence": "Equities was up 40% with robust performance across the franchise, particularly in Prime"
+      },
+      {
+        "label": "Consumer resilience",
+        "severity": 3,
+        "evidence": "Consumers and small businesses remain resilient...debit and credit sales volume continued to perform well, up 7% year-on-year"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Credit card rate cap threat",
+        "severity": 5,
+        "evidence": "people will lose access to credit, like on a very, very extensive and broad basis...that would also be bad for us...this is a big business for us"
+      },
+      {
+        "label": "Stablecoin deposit risk",
+        "severity": 4,
+        "evidence": "creation of a parallel banking system that is sort of -- has all the features of banking...without sort of the associated prudential safeguards...clearly, there is some risk for some firms"
+      },
+      {
+        "label": "Geopolitical uncertainty",
+        "severity": 4,
+        "evidence": "Geopolitical is an enormous amount of risk...It's just a big amount of risk that may or may not be -- determine the state of the economy"
+      },
+      {
+        "label": "Elevated expense growth",
+        "severity": 3,
+        "evidence": "we expect 2026 adjusted expense to be about $105 billion...2026 in isolation clearly represents meaningful expense growth in both dollar and percentage terms"
+      },
+      {
+        "label": "Slower deposit growth",
+        "severity": 3,
+        "evidence": "our expectations for consumer deposit growth in 2026 are lower than they had been in our scenario analysis at Investor Day"
+      }
+    ],
+    "themes": [
+      "strong_earnings",
+      "franchise_growth",
+      "regulatory_uncertainty",
+      "credit_card_risks",
+      "investment_spending",
+      "consumer_resilience",
+      "competitive_positioning",
+      "stablecoin_disruption",
+      "geopolitical_risks",
+      "capital_deployment"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 1.0,
+    "risks_jaccard": 1.0,
+    "themes_jaccard": 1.0,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.0,
+    "agreement_score": 1.0,
+    "agreement_confidence": 1.0
+  },
+  "chosen": {
+    "overall_sentiment": 0.45,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.75,
+    "wins": [
+      {
+        "label": "Strong quarterly earnings",
+        "severity": 4,
+        "evidence": "the firm reported net income of $13 billion and EPS of $4.63 with an ROTCE of 18%"
+      },
+      {
+        "label": "Record client growth",
+        "severity": 4,
+        "evidence": "1.7 million net new checking accounts, 10.4 million new card accounts and record households in wealth management"
+      },
+      {
+        "label": "Exceptional AWM flows",
+        "severity": 4,
+        "evidence": "Long-term net inflows were $52 billion for the quarter and $209 billion for the full year, positive across all channels, regions and asset classes"
+      },
+      {
+        "label": "Strong Markets performance",
+        "severity": 4,
+        "evidence": "Equities was up 40% with robust performance across the franchise, particularly in Prime"
+      },
+      {
+        "label": "Consumer resilience",
+        "severity": 3,
+        "evidence": "Consumers and small businesses remain resilient...debit and credit sales volume continued to perform well, up 7% year-on-year"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Credit card rate cap threat",
+        "severity": 5,
+        "evidence": "people will lose access to credit, like on a very, very extensive and broad basis...that would also be bad for us...this is a big business for us"
+      },
+      {
+        "label": "Stablecoin deposit risk",
+        "severity": 4,
+        "evidence": "creation of a parallel banking system that is sort of -- has all the features of banking...without sort of the associated prudential safeguards...clearly, there is some risk for some firms"
+      },
+      {
+        "label": "Geopolitical uncertainty",
+        "severity": 4,
+        "evidence": "Geopolitical is an enormous amount of risk...It's just a big amount of risk that may or may not be -- determine the state of the economy"
+      },
+      {
+        "label": "Elevated expense growth",
+        "severity": 3,
+        "evidence": "we expect 2026 adjusted expense to be about $105 billion...2026 in isolation clearly represents meaningful expense growth in both dollar and percentage terms"
+      },
+      {
+        "label": "Slower deposit growth",
+        "severity": 3,
+        "evidence": "our expectations for consumer deposit growth in 2026 are lower than they had been in our scenario analysis at Investor Day"
+      }
+    ],
+    "themes": [
+      "strong_earnings",
+      "franchise_growth",
+      "regulatory_uncertainty",
+      "credit_card_risks",
+      "investment_spending",
+      "consumer_resilience",
+      "competitive_positioning",
+      "stablecoin_disruption",
+      "geopolitical_risks",
+      "capital_deployment"
+    ]
+  }
+}

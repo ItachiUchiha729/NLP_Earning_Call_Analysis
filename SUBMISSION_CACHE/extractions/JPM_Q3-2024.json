@@ -1,0 +1,234 @@
+{
+  "_ticker": "JPM",
+  "_quarter": "Q3-2024",
+  "_call_date": "2024-10-11",
+  "backend": "anthropic",
+  "primary_model": "gemma3:4b",
+  "secondary_model": "gemma3:4b",
+  "single_call_mode": true,
+  "primary": {
+    "overall_sentiment": 0.62,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "lowered",
+    "guidance_confidence": 0.75,
+    "wins": [
+      {
+        "label": "Strong Investment Banking momentum",
+        "severity": 2,
+        "evidence": "IB fees were up 31% year-on-year, and we ranked #1 with year-to-date wallet share of 9.1%"
+      },
+      {
+        "label": "Record AWM revenues and flows",
+        "severity": 2,
+        "evidence": "In AWM, we had record quarterly revenues and record long-term flows. Long-term net inflows were $72 billion"
+      },
+      {
+        "label": "Strong capital generation",
+        "severity": 2,
+        "evidence": "The firm reported net income of $12.9 billion, EPS of $4.37 on revenue of $43.3 billion with an ROTCE of 19%"
+      },
+      {
+        "label": "Markets revenue growth",
+        "severity": 2,
+        "evidence": "Markets revenue was up $535 million or 8% year-on-year. Equities was up 27%, reflecting strong performance across regions"
+      },
+      {
+        "label": "Card Services strength",
+        "severity": 2,
+        "evidence": "Card outstandings were up 11% due to strong account acquisition and the continued normalization of revolve"
+      }
+    ],
+    "risks": [
+      {
+        "label": "NII compression expected",
+        "severity": 4,
+        "evidence": "We now expect 2024 NII ex Markets to be approximately $91.5 billion and total NII to be approximately $92.5 billion. The implied fourth quarter guidance shows about 6% sequential decline"
+      },
+      {
+        "label": "Deposit balance headwinds",
+        "severity": 3,
+        "evidence": "Average deposits were down 8% year-on-year and 2% sequentially. In Banking & Wealth Management, revenue was down 11% year-on-year, reflecting deposit margin compression and lower deposits"
+      },
+      {
+        "label": "Rising credit costs in Card",
+        "severity": 3,
+        "evidence": "Net charge-offs were up $590 million year-on-year, predominantly driven by Card. Card net charge-offs were up $520 million year-on-year"
+      },
+      {
+        "label": "Loan demand softness",
+        "severity": 3,
+        "evidence": "In the middle market and large corporate client segments, we continue to see softness in both new loan demand and revolver utilization"
+      },
+      {
+        "label": "Expense growth pressures",
+        "severity": 3,
+        "evidence": "Expenses of $22.6 billion were up $808 million or 4% year-on-year driven by compensation, including revenue-related compensation and growth in employees"
+      }
+    ],
+    "themes": [
+      "nii_compression",
+      "deposit_margin_pressure",
+      "strong_investment_banking",
+      "record_awm_flows",
+      "card_credit_deterioration",
+      "capital_deployment_caution",
+      "loan_demand_softness",
+      "expense_inflation",
+      "direct_lending_expansion",
+      "market_share_gains"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.62,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "lowered",
+    "guidance_confidence": 0.75,
+    "wins": [
+      {
+        "label": "Strong Investment Banking momentum",
+        "severity": 2,
+        "evidence": "IB fees were up 31% year-on-year, and we ranked #1 with year-to-date wallet share of 9.1%"
+      },
+      {
+        "label": "Record AWM revenues and flows",
+        "severity": 2,
+        "evidence": "In AWM, we had record quarterly revenues and record long-term flows. Long-term net inflows were $72 billion"
+      },
+      {
+        "label": "Strong capital generation",
+        "severity": 2,
+        "evidence": "The firm reported net income of $12.9 billion, EPS of $4.37 on revenue of $43.3 billion with an ROTCE of 19%"
+      },
+      {
+        "label": "Markets revenue growth",
+        "severity": 2,
+        "evidence": "Markets revenue was up $535 million or 8% year-on-year. Equities was up 27%, reflecting strong performance across regions"
+      },
+      {
+        "label": "Card Services strength",
+        "severity": 2,
+        "evidence": "Card outstandings were up 11% due to strong account acquisition and the continued normalization of revolve"
+      }
+    ],
+    "risks": [
+      {
+        "label": "NII compression expected",
+        "severity": 4,
+        "evidence": "We now expect 2024 NII ex Markets to be approximately $91.5 billion and total NII to be approximately $92.5 billion. The implied fourth quarter guidance shows about 6% sequential decline"
+      },
+      {
+        "label": "Deposit balance headwinds",
+        "severity": 3,
+        "evidence": "Average deposits were down 8% year-on-year and 2% sequentially. In Banking & Wealth Management, revenue was down 11% year-on-year, reflecting deposit margin compression and lower deposits"
+      },
+      {
+        "label": "Rising credit costs in Card",
+        "severity": 3,
+        "evidence": "Net charge-offs were up $590 million year-on-year, predominantly driven by Card. Card net charge-offs were up $520 million year-on-year"
+      },
+      {
+        "label": "Loan demand softness",
+        "severity": 3,
+        "evidence": "In the middle market and large corporate client segments, we continue to see softness in both new loan demand and revolver utilization"
+      },
+      {
+        "label": "Expense growth pressures",
+        "severity": 3,
+        "evidence": "Expenses of $22.6 billion were up $808 million or 4% year-on-year driven by compensation, including revenue-related compensation and growth in employees"
+      }
+    ],
+    "themes": [
+      "nii_compression",
+      "deposit_margin_pressure",
+      "strong_investment_banking",
+      "record_awm_flows",
+      "card_credit_deterioration",
+      "capital_deployment_caution",
+      "loan_demand_softness",
+      "expense_inflation",
+      "direct_lending_expansion",
+      "market_share_gains"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 1.0,
+    "risks_jaccard": 1.0,
+    "themes_jaccard": 1.0,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.0,
+    "agreement_score": 1.0,
+    "agreement_confidence": 1.0
+  },
+  "chosen": {
+    "overall_sentiment": 0.62,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "lowered",
+    "guidance_confidence": 0.75,
+    "wins": [
+      {
+        "label": "Strong Investment Banking momentum",
+        "severity": 2,
+        "evidence": "IB fees were up 31% year-on-year, and we ranked #1 with year-to-date wallet share of 9.1%"
+      },
+      {
+        "label": "Record AWM revenues and flows",
+        "severity": 2,
+        "evidence": "In AWM, we had record quarterly revenues and record long-term flows. Long-term net inflows were $72 billion"
+      },
+      {
+        "label": "Strong capital generation",
+        "severity": 2,
+        "evidence": "The firm reported net income of $12.9 billion, EPS of $4.37 on revenue of $43.3 billion with an ROTCE of 19%"
+      },
+      {
+        "label": "Markets revenue growth",
+        "severity": 2,
+        "evidence": "Markets revenue was up $535 million or 8% year-on-year. Equities was up 27%, reflecting strong performance across regions"
+      },
+      {
+        "label": "Card Services strength",
+        "severity": 2,
+        "evidence": "Card outstandings were up 11% due to strong account acquisition and the continued normalization of revolve"
+      }
+    ],
+    "risks": [
+      {
+        "label": "NII compression expected",
+        "severity": 4,
+        "evidence": "We now expect 2024 NII ex Markets to be approximately $91.5 billion and total NII to be approximately $92.5 billion. The implied fourth quarter guidance shows about 6% sequential decline"
+      },
+      {
+        "label": "Deposit balance headwinds",
+        "severity": 3,
+        "evidence": "Average deposits were down 8% year-on-year and 2% sequentially. In Banking & Wealth Management, revenue was down 11% year-on-year, reflecting deposit margin compression and lower deposits"
+      },
+      {
+        "label": "Rising credit costs in Card",
+        "severity": 3,
+        "evidence": "Net charge-offs were up $590 million year-on-year, predominantly driven by Card. Card net charge-offs were up $520 million year-on-year"
+      },
+      {
+        "label": "Loan demand softness",
+        "severity": 3,
+        "evidence": "In the middle market and large corporate client segments, we continue to see softness in both new loan demand and revolver utilization"
+      },
+      {
+        "label": "Expense growth pressures",
+        "severity": 3,
+        "evidence": "Expenses of $22.6 billion were up $808 million or 4% year-on-year driven by compensation, including revenue-related compensation and growth in employees"
+      }
+    ],
+    "themes": [
+      "nii_compression",
+      "deposit_margin_pressure",
+      "strong_investment_banking",
+      "record_awm_flows",
+      "card_credit_deterioration",
+      "capital_deployment_caution",
+      "loan_demand_softness",
+      "expense_inflation",
+      "direct_lending_expansion",
+      "market_share_gains"
+    ]
+  }
+}
