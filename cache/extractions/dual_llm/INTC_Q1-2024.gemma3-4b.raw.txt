@@ -1,0 +1,74 @@
+```json
+{
+  "overall_sentiment": 0.62,
+  "sentiment_bucket": "bullish",
+  "guidance_direction": "reaffirmed",
+  "guidance_confidence": 0.72,
+  "wins": [
+    {
+      "label": "Q1 EPS beat and revenue in line",
+      "severity": 2,
+      "evidence": "delivering revenue in line and EPS above our guidance"
+    },
+    {
+      "label": "Strong AI PC momentum and demand",
+      "severity": 3,
+      "evidence": "Core Ultra ramp, led by Meteor Lake, continues to accelerate beyond our original expectation, with units expected to double sequentially in Q2"
+    },
+    {
+      "label": "Foundry customer wins and pipeline",
+      "severity": 3,
+      "evidence": "signed another meaningful customer on Intel 18A, bringing our total to 6...strong pipeline of nearly 50 test chips"
+    },
+    {
+      "label": "Government support and CHIPS Act funding",
+      "severity": 3,
+      "evidence": "single largest award from the CHIPS and Science Act of more than $45 billion of proposed grants, tax incentives and loans"
+    },
+    {
+      "label": "Process technology leadership progress",
+      "severity": 3,
+      "evidence": "Intel 20A...begins production ramp in the second half of this year...Intel 18A...1.0 PDK this quarter"
+    }
+  ],
+  "risks": [
+    {
+      "label": "First half demand weaker than expected",
+      "severity": 3,
+      "evidence": "first half trends are modestly weaker than we originally anticipated"
+    },
+    {
+      "label": "Foundry operating losses continuing",
+      "severity": 4,
+      "evidence": "The foundry P&L will remain challenged through the year, and we expect operating margins to trough in 2024"
+    },
+    {
+      "label": "Supply constraints limiting AI PC growth",
+      "severity": 2,
+      "evidence": "Q2 client revenue is constrained by wafer-level assembly supply, which is impacting our ability to meet demand"
+    },
+    {
+      "label": "Data center share stabilization uncertain",
+      "severity": 3,
+      "evidence": "We continue to expect share trends to stabilize this year before improving in 2025"
+    },
+    {
+      "label": "Inventory headwinds in Mobileye and Altera",
+      "severity": 2,
+      "evidence": "inventory headwinds impacting Mobileye, Altera and our 5G customers"
+    }
+  ],
+  "themes": [
+    "AI PC leadership",
+    "Process technology catch-up",
+    "Foundry business transformation",
+    "Data center recovery",
+    "Government support",
+    "Cost structure improvement",
+    "Operating model restructuring",
+    "Accelerator momentum (Gaudi)",
+    "Enterprise AI focus",
+    "Inventory normalization"
+  ]
+}
+```

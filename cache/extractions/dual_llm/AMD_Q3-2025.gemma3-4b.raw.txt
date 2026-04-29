@@ -1,0 +1,69 @@
+```json
+{
+    "overall_sentiment": 0.65,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "bullish",
+    "guidance_confidence": 0.85,
+    "wins": [
+        {
+            "label": "Record Revenue & Profitability",
+            "severity": 4,
+            "evidence": "Revenue grew 36% year-over-year to $9.2 billion. Net income rose 31%, and free cash flow more than tripled"
+        },
+        {
+            "label": "Strong Data Center Demand",
+            "severity": 5,
+            "evidence": "Data center segment revenue increased 22% year-over-year to a record $4.3 billion led by the ramp of our Instinct MI350 Series GPUs and server share gains."
+        },
+        {
+            "label": "EPYC CPU Dominance",
+            "severity": 4,
+            "evidence": "Server CPU revenue reached an all-time high as adoption of 5th Gen EPYC Turin processors accelerated rapidly, accounting for nearly half of overall EPYC revenue in the quarter."
+        },
+        {
+            "label": "Hyperscaler Adoption of EPYC",
+            "severity": 4,
+            "evidence": "Hyperscalers launched more than 160 EPYC-powered instances in the quarter, including new Turin offerings from Google, Microsoft Azure, Alibaba and others."
+        },
+        {
+            "label": "ROCm 7 Performance Boost",
+            "severity": 3,
+            "evidence": "ROCm 7, our most advanced release to date, delivering up to 4.6x higher inference and 3x higher training performance compared to ROCm 6."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Supply Chain Constraints",
+            "severity": 4,
+            "evidence": "Multiple cloud and AI providers are ramping up MI350 Series GPU deployments, with additional large-scale rollouts on track to ramp over the coming quarters."
+        },
+        {
+            "label": "Competition in AI Market",
+            "severity": 3,
+            "evidence": "OpenAI's decision to use AMD Instinct GPUs for its most sophisticated AI workloads sends a clear signal that our Instinct GPUs and ROCm open software stack deliver the performance and TCO required for the most demanding deployments."
+        },
+        {
+            "label": "MI308 Shipment Restrictions",
+            "severity": 2,
+            "evidence": "Revenue increased 20% sequentially driven by strong growth in the data center, and client and gaming segment and modest growth in the embedded segment. Before I review the balance sheet and the cash flow, as a reminder, we closed the sale of ZT System manufacturing business to Sanmina last week."
+        },
+        {
+            "label": "Complexity of Helios Rack",
+            "severity": 3,
+            "evidence": "Development of both our MI400 Series GPUs and Helios rack is progressing rapidly, supported by deep technical engagements across a growing set of hyperscalers, AI companies and OEM and ODM partners to enable large-scale deployments next year."
+        },
+        {
+            "label": "Embedded Segment Decline",
+            "severity": 3,
+            "evidence": "Embedded segment revenue decreased 8% year-over-year."
+        }
+    ],
+    "themes": [
+        "AI Growth",
+        "Data Center Expansion",
+        "Server Market Leadership",
+        "GPU Innovation",
+        "Software Ecosystem"
+    ]
+}
+```

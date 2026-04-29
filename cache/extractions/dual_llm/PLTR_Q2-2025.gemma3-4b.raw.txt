@@ -1,0 +1,64 @@
+```json
+{
+  "overall_sentiment": 0.92,
+  "sentiment_bucket": "very_bullish",
+  "guidance_direction": "raised",
+  "guidance_confidence": 0.95,
+  "wins": [
+    {
+      "label": "Exceptional revenue acceleration and scale",
+      "severity": 5,
+      "evidence": "surpassing $1 billion in quarterly revenue for the first time as our overall revenue growth continued to rapidly accelerate to 48% year-over-year growth in Q2"
+    },
+    {
+      "label": "Record profitability with Rule of 40 score",
+      "severity": 5,
+      "evidence": "our Rule of 40 score continued to climb, reaching 94% in Q2, which is up 11 points quarter-over-quarter, particularly noteworthy given the scale of our business"
+    },
+    {
+      "label": "U.S. commercial explosive growth",
+      "severity": 5,
+      "evidence": "U.S. commercial led with 93% year-over-year revenue growth, outpacing our U.S. government revenue growth of 53% year-over-year"
+    },
+    {
+      "label": "Record bookings and customer expansion",
+      "severity": 5,
+      "evidence": "We booked our highest TCV and ACV ever last quarter with $2.3 billion in TCV and $684 million in ACV. We closed a whopping 157 deals worth $1 million or more"
+    },
+    {
+      "label": "Major government contracts and military adoption",
+      "severity": 5,
+      "evidence": "Last week, Palantir was awarded a 10-year enterprise agreement with the Army, totaling up to $10 billion, consolidating 75 contracts into a single contract"
+    }
+  ],
+  "risks": [
+    {
+      "label": "International commercial revenue decline",
+      "severity": 2,
+      "evidence": "Second quarter international commercial revenue declined 3% year-over-year and grew 2% sequentially to $144 million"
+    },
+    {
+      "label": "Strategic commercial contracts declining",
+      "severity": 2,
+      "evidence": "We anticipate third quarter 2025 revenue from these contracts to be between $2 million to $4 million compared to $10 million in the third quarter of 2024"
+    },
+    {
+      "label": "Seasonal expense ramp expected",
+      "severity": 2,
+      "evidence": "we expect a significant ramp in expenses in the third quarter due to the seasonality of new hire starts"
+    }
+  ],
+  "themes": [
+    "AI_production_impact",
+    "enterprise_AI_adoption",
+    "ontology_competitive_moat",
+    "U.S._commercial_acceleration",
+    "government_defense_contracts",
+    "customer_expansion",
+    "profitability_at_scale",
+    "AIP_platform_growth",
+    "manufacturing_optimization",
+    "American_competitiveness"
+  ]
+}
+```

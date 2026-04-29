@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.4,
+    "sentiment_bucket": "neutral",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.75,
+    "wins": [
+        {
+            "label": "Strong cash generation",
+            "severity": 4,
+            "evidence": "We generated $1.43 billion in operating cash for the full year of 2023."
+        },
+        {
+            "label": "Dividend payouts",
+            "severity": 3,
+            "evidence": "We paid out a fifth dividend in December of 2023, putting cash returned to shareholders through dividends at $1.02 billion for the full year."
+        },
+        {
+            "label": "Digital Footprint growth",
+            "severity": 4,
+            "evidence": "Our Digital Footprint ended the year at 58% to 59% of sales."
+        },
+        {
+            "label": "FMI device signing rate",
+            "severity": 3,
+            "evidence": "We signed 95 FMI devices per day on average in 2023."
+        },
+        {
+            "label": "Operating margin improvement",
+            "severity": 3,
+            "evidence": "Operating margin in the fourth quarter of 2023 was 20.1%, up 50 basis points year-to-year."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Sub-50 PMI index",
+            "severity": 5,
+            "evidence": "Since November of 2022, we've seen a sub-50 PMI for 14 consecutive months."
+        },
+        {
+            "label": "Sluggish demand",
+            "severity": 4,
+            "evidence": "Our sales results continue to reflect sluggish demand, with our manufacturing end market growing at moderating rates."
+        },
+        {
+            "label": "Supply chain disruptions",
+            "severity": 3,
+            "evidence": "Shipping costs are starting to tick up again due to global shipping disruptions."
+        },
+        {
+            "label": "Lower Onsite signings",
+            "severity": 4,
+            "evidence": "We had 58 signings in the fourth quarter of '23, which is not a particularly impressive number."
+        },
+        {
+            "label": "Margin drag from product and customer mix",
+            "severity": 3,
+            "evidence": "We had year-over-year margin drag from product and customer mix."
+        }
+    ],
+    "themes": ["supply_chain", "digital_transformation", "dividend_policy", "pmi_impact", "operational_efficiency"]
+}

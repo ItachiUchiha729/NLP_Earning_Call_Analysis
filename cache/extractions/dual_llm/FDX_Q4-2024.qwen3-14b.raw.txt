@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.75,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.9,
+    "wins": [
+        {
+            "label": "Strong Q4 and full year results",
+            "severity": 5,
+            "evidence": "Our fourth quarter performance marks a strong end to a year of successful execution."
+        },
+        {
+            "label": "Margin expansion and operating profit growth",
+            "severity": 5,
+            "evidence": "We delivered year-over-year operating profit growth and margin expansion in every quarter of FY '24."
+        },
+        {
+            "label": "Network transformation progress",
+            "severity": 4,
+            "evidence": "We continue to roll out Network 2.0 and finalizing the transition to One FedEx."
+        },
+        {
+            "label": "Significant cost savings from DRIVE",
+            "severity": 5,
+            "evidence": "We achieved our target of $1.8 billion in structural cost-out in FY '24."
+        },
+        {
+            "label": "Positive revenue growth inflection",
+            "severity": 4,
+            "evidence": "Enterprise level revenue growth inflected positive this quarter as expected."
+        }
+    ],
+    "risks": [
+        {
+            "label": "USPS contract expiration headwinds",
+            "severity": 4,
+            "evidence": "We expect $500 million headwind from the expiration of the U.S. Postal Service contract."
+        },
+        {
+            "label": "International export yield pressure",
+            "severity": 3,
+            "evidence": "International yields were also pressured by an increased capacity in the global air cargo market."
+        },
+        {
+            "label": "Demand environment challenges",
+            "severity": 3,
+            "evidence": "The entire industry faced a challenging demand environment in FY '24."
+        },
+        {
+            "label": "European cost savings delayed",
+            "severity": 3,
+            "evidence": "We expect $125 million to $175 million in annualized benefits beginning in FY '27."
+        },
+        {
+            "label": "Uncertainty in macroeconomic environment",
+            "severity": 2,
+            "evidence": "We remain cautious about the broader macroeconomic environment and its impact on demand."
+        }
+    ],
+    "themes": ["Network transformation", "Cost optimization", "Margin expansion", "Customer service", "Digital innovation"]
+}

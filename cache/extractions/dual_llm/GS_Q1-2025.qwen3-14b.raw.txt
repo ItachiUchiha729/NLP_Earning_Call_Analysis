@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.75,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.85,
+    "wins": [
+        {
+            "label": "Strong Q1 Financial Performance",
+            "severity": 5,
+            "evidence": "In the first quarter, we generated net revenues of $15.1 billion, earnings per share of $14.12, an ROE of 16.9% and an ROTE of 18%."
+        },
+        {
+            "label": "Resilient Business Performance",
+            "severity": 4,
+            "evidence": "Our performance underscores the importance of having a scaled franchise with presence around the world."
+        },
+        {
+            "label": "Record Assets Under Supervision",
+            "severity": 4,
+            "evidence": "Assets under supervision rose to a record of $3.2 trillion."
+        },
+        {
+            "label": "Strong Position in Investment Banking",
+            "severity": 4,
+            "evidence": "We are the #1 M&A adviser globally and have been for the last 20 years."
+        },
+        {
+            "label": "Successful AI Adoption",
+            "severity": 3,
+            "evidence": "We are leveraging AI solutions to scale and transform our engineering capabilities."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Economic Uncertainty",
+            "severity": 5,
+            "evidence": "The prospect of a recession has increased with growing indications that economic activity is slowing down around the world."
+        },
+        {
+            "label": "Trade War Risks",
+            "severity": 4,
+            "evidence": "This uncertainty around the path forward and fears over the potentially escalating effects of a trade war have created material risks to the U.S. and global economy."
+        },
+        {
+            "label": "Market Volatility",
+            "severity": 4,
+            "evidence": "Markets will likely continue to be volatile until we have further clarity."
+        },
+        {
+            "label": "Capital Deployment Uncertainty",
+            "severity": 3,
+            "evidence": "Our ability to execute on these transactions will, of course, be dependent on market conditions."
+        },
+        {
+            "label": "Regulatory Uncertainty",
+            "severity": 3,
+            "evidence": "There is uncertainty around how policies will evolve, and how capital and regulation will be calibrated."
+        }
+    ],
+    "themes": ["global franchise", "AI adoption", "economic uncertainty", "capital management", "M&A leadership"]
+}

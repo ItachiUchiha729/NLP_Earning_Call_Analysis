@@ -1,0 +1,69 @@
+```json
+{
+  "overall_sentiment": 0.25,
+  "sentiment_bucket": "bearish",
+  "guidance_direction": "mixed",
+  "guidance_confidence": 0.6,
+  "wins": [
+    {
+      "label": "Strong Customer Engagement",
+      "severity": 4,
+      "evidence": "Record attendance at the customer expo, particularly from Mexico, indicating strong customer interest and engagement."
+    },
+    {
+      "label": "Improved Daily Sales Rate",
+      "severity": 3,
+      "evidence": "Daily sales growth of approximately 5% in Q1, driven by internal execution improvements."
+    },
+    {
+      "label": "Successful Margin Management",
+      "severity": 4,
+      "evidence": "Ability to defend gross profit percentage despite challenging market conditions and tariff pressures."
+    },
+    {
+      "label": "Increased Digital Footprint",
+      "severity": 3,
+      "evidence": "61% of total sales through digital channels, representing significant growth compared to previous years."
+    },
+    {
+      "label": "Successful FMI Deployment",
+      "severity": 4,
+      "evidence": "Growth of 12.5% in FMI device count, driven by strategic investments and customer engagement."
+    }
+  ],
+  "risks": [
+    {
+      "label": "Tariff Uncertainty",
+      "severity": 5,
+      "evidence": "Significant tariffs on steel and metal products, creating uncertainty and potential cost pressures."
+    },
+    {
+      "label": "Sluggish End Market Demand",
+      "severity": 4,
+      "evidence": "Customer tone shifting to plateauing, indicating a slowdown in overall market demand."
+    },
+    {
+      "label": "Supply Chain Disruptions",
+      "severity": 4,
+      "evidence": "Challenges in sourcing fasteners due to global supply chain disruptions and potential for increased costs."
+    },
+    {
+      "label": "E-commerce Lag",
+      "severity": 3,
+      "evidence": "Low digital footprint (61% of sales) compared to the company's goal of 66-68%, indicating a need for improvement."
+    },
+    {
+      "label": "Mexico Tariffs",
+      "severity": 4,
+      "evidence": "New tariffs on products imported from China, creating potential challenges for Fastenal's operations in Mexico."
+    }
+  ],
+  "themes": [
+    "supply chain",
+    "tariffs",
+    "customer engagement",
+    "digital transformation",
+    "market conditions"
+  ]
+}
+```

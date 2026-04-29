@@ -1,0 +1,69 @@
+```json
+{
+  "overall_sentiment": 0.15,
+  "sentiment_bucket": "bullish",
+  "guidance_direction": "raised",
+  "guidance_confidence": 0.85,
+  "wins": [
+    {
+      "label": "Record TTS Client Wins",
+      "severity": 4,
+      "evidence": "Client wins up 27% and a sustained win-loss rate above 80%."
+    },
+    {
+      "label": "Significant Share Gain in Security Services",
+      "severity": 3,
+      "evidence": "Gained over 100 basis points in share in security services since 2021."
+    },
+    {
+      "label": "Record Year for Services Revenue",
+      "severity": 4,
+      "evidence": "Services revenues were up 16% for the full year despite the impact of the Argentine devaluation."
+    },
+    {
+      "label": "USPB Growth",
+      "severity": 4,
+      "evidence": "Enjoyed our sixth consecutive quarter of growth, and we began to see the early fruits of our investments in key talent in banking."
+    },
+    {
+      "label": "Wealth Assets Growth",
+      "severity": 3,
+      "evidence": "Added an estimated $21 billion in net new assets during the year."
+    }
+  ],
+  "risks": [
+    {
+      "label": "Argentina Devaluation Impact",
+      "severity": 5,
+      "evidence": "A $1.3 billion reserve build related to transfer risk stemming from exposures to Argentina and Russia. A nearly $900 million negative revenue impact as a result of the larger-than-expected devaluation of the Argentine currency."
+    },
+    {
+      "label": "FDIC Assessment",
+      "severity": 4,
+      "evidence": "An FDIC special assessment of approximately $1.7 billion related to regional bank failures in March."
+    },
+    {
+      "label": "Rate Environment Uncertainty",
+      "severity": 3,
+      "evidence": "Expects growth slowing globally with the U.S. well positioned with sand or run-of-the-mill recession should one materialize."
+    },
+    {
+      "label": "NCL Rate Increases",
+      "severity": 4,
+      "evidence": "NCL rates have reached pre-COVID levels, but we continue to be well reserved with a reserve to funded loan ratio of 2.7%."
+    },
+    {
+      "label": "Market Volatility",
+      "severity": 3,
+      "evidence": "Markets was also impacted by the Argentine devaluation. Fixed income results were disappointing as we saw a significant slowdown in December, particularly in rates and FX."
+    }
+  ],
+  "themes": [
+    "Restructuring",
+    "Transformation",
+    "Cost Reduction",
+    "Growth Strategy",
+    "Regulatory Compliance"
+  ]
+}
+```

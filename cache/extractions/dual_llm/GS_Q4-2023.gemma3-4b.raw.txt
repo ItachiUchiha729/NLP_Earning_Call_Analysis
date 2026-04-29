@@ -1,0 +1,74 @@
+```json
+{
+  "overall_sentiment": 0.62,
+  "sentiment_bucket": "bullish",
+  "guidance_direction": "raised",
+  "guidance_confidence": 0.72,
+  "wins": [
+    {
+      "label": "Record alternatives fundraising milestone",
+      "severity": 1,
+      "evidence": "surpassing our $225 billion target a year early...over $250 billion in Alternatives since 2019"
+    },
+    {
+      "label": "Durable revenue growth and diversification",
+      "severity": 1,
+      "evidence": "more durable revenues from financing management and other fees...have grown at 13% CAGR since 2019...make up over 70% of revenues in 2023"
+    },
+    {
+      "label": "Strong financing revenue momentum",
+      "severity": 2,
+      "evidence": "FICC & Equities financing together have grown at a 15% CAGR since 2019 to a new record of nearly $8 billion"
+    },
+    {
+      "label": "Improved M&A backlog and strategic dialogue",
+      "severity": 2,
+      "evidence": "M&A backlog saw a really strong replenishment and improvement in the fourth quarter...level of strategic dialogue has definitely increased"
+    },
+    {
+      "label": "Successful strategic repositioning",
+      "severity": 2,
+      "evidence": "We exited the market's lending business...sold our Personal Financial Management business...announced the sale of GreenSky"
+    }
+  ],
+  "risks": [
+    {
+      "label": "Weak investment banking environment persists",
+      "severity": 3,
+      "evidence": "investment banking is operating at low levels that is an impact overall...it wasn't an A environment for our core business"
+    },
+    {
+      "label": "FICC intermediation weakness",
+      "severity": 3,
+      "evidence": "FICC net revenues were $2 billion in the quarter, down 24% from strong performance last year...clients are quiet"
+    },
+    {
+      "label": "Commercial real estate exposure remains",
+      "severity": 3,
+      "evidence": "roughly half related to CRE...office exposures from an impairment and marks perspective, we're sitting at roughly 50%"
+    },
+    {
+      "label": "Basel III Endgame regulatory uncertainty",
+      "severity": 4,
+      "evidence": "significant concern with the proposed rules...magnitude of these proposed changes would be felt well beyond the banking industry"
+    },
+    {
+      "label": "Principal investment portfolio reduction pace uncertain",
+      "severity": 2,
+      "evidence": "we don't expect portfolio reductions in 2024 to be at the same pace as in 2023...we want to make sure that we manage expectations appropriately"
+    }
+  ],
+  "themes": [
+    "strategic_repositioning",
+    "durable_revenue_growth",
+    "alternatives_success",
+    "financing_expansion",
+    "investment_banking_recovery",
+    "regulatory_uncertainty",
+    "cre_headwinds",
+    "operating_leverage",
+    "capital_allocation",
+    "efficiency_improvement"
+  ]
+}
+```

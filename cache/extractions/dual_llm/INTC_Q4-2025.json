@@ -1,0 +1,234 @@
+{
+  "_ticker": "INTC",
+  "_quarter": "Q4-2025",
+  "_call_date": "2026-01-22",
+  "backend": "anthropic",
+  "primary_model": "gemma3:4b",
+  "secondary_model": "gemma3:4b",
+  "single_call_mode": true,
+  "primary": {
+    "overall_sentiment": 0.62,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "lowered",
+    "guidance_confidence": 0.75,
+    "wins": [
+      {
+        "label": "Q4 beat across metrics",
+        "severity": 2,
+        "evidence": "Revenue, gross margin and EPS were all above our guidance"
+      },
+      {
+        "label": "Strong AI-driven demand",
+        "severity": 2,
+        "evidence": "AI PC units grew 16%, DCAI was up 15%, reflecting strong demand for traditional server compute"
+      },
+      {
+        "label": "Core Ultra Series 3 momentum",
+        "severity": 2,
+        "evidence": "Delivered 3 SKUs ahead of expectations, powering over 200 notebook designs with up to 27 hours battery life"
+      },
+      {
+        "label": "Custom ASIC business growth",
+        "severity": 2,
+        "evidence": "Custom ASIC business grew more than 50% in 2025, 26% sequentially and reached an annualized revenue run rate greater than $1 billion in Q4"
+      },
+      {
+        "label": "Advanced packaging opportunities",
+        "severity": 2,
+        "evidence": "Early customer engagements suggest opportunities well north of $1 billion on advanced packaging, way more exciting than expected"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Supply constraints limiting growth",
+        "severity": 4,
+        "evidence": "Revenue would have been meaningfully higher if we had more supply; supply constraints are most acute in Q1"
+      },
+      {
+        "label": "Yields below target",
+        "severity": 3,
+        "evidence": "While yields are in line with our internal plans, they are still below what I want them to be"
+      },
+      {
+        "label": "Q1 2026 revenue decline",
+        "severity": 3,
+        "evidence": "Forecasting Q1 revenue range of $11.7 billion to $12.7 billion, at the lower end of seasonal Q1"
+      },
+      {
+        "label": "Gross margin pressure",
+        "severity": 3,
+        "evidence": "Gross margin down sequentially due to lower revenue, increased 18A volumes and product mix; 34.5% is by no means an acceptable level"
+      },
+      {
+        "label": "Component pricing headwinds",
+        "severity": 3,
+        "evidence": "Industry-wide supply for key components like DRAM, NAND and substrates has come under increasing pressure; rising component pricing could limit revenue opportunity"
+      }
+    ],
+    "themes": [
+      "ai infrastructure demand",
+      "supply constraints",
+      "foundry strategy",
+      "yield improvement",
+      "gross margin recovery",
+      "x86 momentum",
+      "advanced packaging",
+      "custom asics",
+      "14a/18a process nodes",
+      "data center prioritization"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.62,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "lowered",
+    "guidance_confidence": 0.75,
+    "wins": [
+      {
+        "label": "Q4 beat across metrics",
+        "severity": 2,
+        "evidence": "Revenue, gross margin and EPS were all above our guidance"
+      },
+      {
+        "label": "Strong AI-driven demand",
+        "severity": 2,
+        "evidence": "AI PC units grew 16%, DCAI was up 15%, reflecting strong demand for traditional server compute"
+      },
+      {
+        "label": "Core Ultra Series 3 momentum",
+        "severity": 2,
+        "evidence": "Delivered 3 SKUs ahead of expectations, powering over 200 notebook designs with up to 27 hours battery life"
+      },
+      {
+        "label": "Custom ASIC business growth",
+        "severity": 2,
+        "evidence": "Custom ASIC business grew more than 50% in 2025, 26% sequentially and reached an annualized revenue run rate greater than $1 billion in Q4"
+      },
+      {
+        "label": "Advanced packaging opportunities",
+        "severity": 2,
+        "evidence": "Early customer engagements suggest opportunities well north of $1 billion on advanced packaging, way more exciting than expected"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Supply constraints limiting growth",
+        "severity": 4,
+        "evidence": "Revenue would have been meaningfully higher if we had more supply; supply constraints are most acute in Q1"
+      },
+      {
+        "label": "Yields below target",
+        "severity": 3,
+        "evidence": "While yields are in line with our internal plans, they are still below what I want them to be"
+      },
+      {
+        "label": "Q1 2026 revenue decline",
+        "severity": 3,
+        "evidence": "Forecasting Q1 revenue range of $11.7 billion to $12.7 billion, at the lower end of seasonal Q1"
+      },
+      {
+        "label": "Gross margin pressure",
+        "severity": 3,
+        "evidence": "Gross margin down sequentially due to lower revenue, increased 18A volumes and product mix; 34.5% is by no means an acceptable level"
+      },
+      {
+        "label": "Component pricing headwinds",
+        "severity": 3,
+        "evidence": "Industry-wide supply for key components like DRAM, NAND and substrates has come under increasing pressure; rising component pricing could limit revenue opportunity"
+      }
+    ],
+    "themes": [
+      "ai infrastructure demand",
+      "supply constraints",
+      "foundry strategy",
+      "yield improvement",
+      "gross margin recovery",
+      "x86 momentum",
+      "advanced packaging",
+      "custom asics",
+      "14a/18a process nodes",
+      "data center prioritization"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 1.0,
+    "risks_jaccard": 1.0,
+    "themes_jaccard": 1.0,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.0,
+    "agreement_score": 1.0,
+    "agreement_confidence": 1.0
+  },
+  "chosen": {
+    "overall_sentiment": 0.62,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "lowered",
+    "guidance_confidence": 0.75,
+    "wins": [
+      {
+        "label": "Q4 beat across metrics",
+        "severity": 2,
+        "evidence": "Revenue, gross margin and EPS were all above our guidance"
+      },
+      {
+        "label": "Strong AI-driven demand",
+        "severity": 2,
+        "evidence": "AI PC units grew 16%, DCAI was up 15%, reflecting strong demand for traditional server compute"
+      },
+      {
+        "label": "Core Ultra Series 3 momentum",
+        "severity": 2,
+        "evidence": "Delivered 3 SKUs ahead of expectations, powering over 200 notebook designs with up to 27 hours battery life"
+      },
+      {
+        "label": "Custom ASIC business growth",
+        "severity": 2,
+        "evidence": "Custom ASIC business grew more than 50% in 2025, 26% sequentially and reached an annualized revenue run rate greater than $1 billion in Q4"
+      },
+      {
+        "label": "Advanced packaging opportunities",
+        "severity": 2,
+        "evidence": "Early customer engagements suggest opportunities well north of $1 billion on advanced packaging, way more exciting than expected"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Supply constraints limiting growth",
+        "severity": 4,
+        "evidence": "Revenue would have been meaningfully higher if we had more supply; supply constraints are most acute in Q1"
+      },
+      {
+        "label": "Yields below target",
+        "severity": 3,
+        "evidence": "While yields are in line with our internal plans, they are still below what I want them to be"
+      },
+      {
+        "label": "Q1 2026 revenue decline",
+        "severity": 3,
+        "evidence": "Forecasting Q1 revenue range of $11.7 billion to $12.7 billion, at the lower end of seasonal Q1"
+      },
+      {
+        "label": "Gross margin pressure",
+        "severity": 3,
+        "evidence": "Gross margin down sequentially due to lower revenue, increased 18A volumes and product mix; 34.5% is by no means an acceptable level"
+      },
+      {
+        "label": "Component pricing headwinds",
+        "severity": 3,
+        "evidence": "Industry-wide supply for key components like DRAM, NAND and substrates has come under increasing pressure; rising component pricing could limit revenue opportunity"
+      }
+    ],
+    "themes": [
+      "ai infrastructure demand",
+      "supply constraints",
+      "foundry strategy",
+      "yield improvement",
+      "gross margin recovery",
+      "x86 momentum",
+      "advanced packaging",
+      "custom asics",
+      "14a/18a process nodes",
+      "data center prioritization"
+    ]
+  }
+}

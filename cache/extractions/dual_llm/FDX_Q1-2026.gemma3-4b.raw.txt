@@ -1,0 +1,69 @@
+```json
+{
+    "overall_sentiment": 0.25,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+        {
+            "label": "Strong Q1 Results",
+            "severity": 4,
+            "evidence": "Revenue was up 3% year-over-year, driven by strength across our U.S. domestic package services. We achieved our targeted $200 million in transformation-related savings and grew adjusted operating income by 7%."
+        },
+        {
+            "label": "Network 2.0 Progress",
+            "severity": 3,
+            "evidence": "Q1 also marked our best new business quarter in Europe in the last 2 years. Approximately 360 stations have been optimized across the U.S. and Canada, enabling nearly 3 million in average daily volume flowing through Network 2.0 optimized operations."
+        },
+        {
+            "label": "International Export Pivot",
+            "severity": 4,
+            "evidence": "Knowing our strongest international lane would be under pressure. We pivoted the commercial team, and they have done a tremendous job capturing demand out of Southeast Asia and Europe."
+        },
+        {
+            "label": "Health Care Growth",
+            "severity": 4,
+            "evidence": "We grew our U.S. domestic small business revenue by more than 10% year-over-year. This was fueled by focused and targeted sales execution and a close alignment between our sales and our operations teams."
+        },
+        {
+            "label": "Airfreight Performance",
+            "severity": 3,
+            "evidence": "We are a relatively small market share participant from a global airfreight perspective. We are being selective and really focused on premium freight."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Global Trade Headwind",
+            "severity": 5,
+            "evidence": "Significant volatility and uncertainty around the global trade environment. $1 billion headwind due to the global trade environment."
+        },
+        {
+            "label": "U.S. Postal Service Contract Expiration",
+            "severity": 4,
+            "evidence": "The expiration of the Postal Service contract at the end of this month. $160 million headwind to adjusted operating income."
+        },
+        {
+            "label": "Freight Weakness",
+            "severity": 4,
+            "evidence": "Due to the evolving trade environment in the quarter, we experienced a material headwind on our Asia to U.S. lane, largely from China outbound, driving most of the $150 million headwind to adjusted operating income."
+        },
+        {
+            "label": "Industrial Economy Slowdown",
+            "severity": 3,
+            "evidence": "Weakness in the industrial economy and excess capacity in the truckload market continue to pressure our results."
+        },
+        {
+            "label": "De Minis Changes",
+            "severity": 4,
+            "evidence": "With the full removal of the de minimis exemption in the United States late last month, we have been working closely with our customers, helping them maintain effective and efficient access to the vital U.S. market."
+        }
+    ],
+    "themes": [
+        "Transformation",
+        "Network Optimization",
+        "Digital Strategy",
+        "Trade Environment",
+        "Customer Focus"
+    ]
+}
+```

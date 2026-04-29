@@ -1,0 +1,234 @@
+{
+  "_ticker": "INTC",
+  "_quarter": "Q4-2023",
+  "_call_date": "2024-01-25",
+  "backend": "anthropic",
+  "primary_model": "gemma3:4b",
+  "secondary_model": "gemma3:4b",
+  "single_call_mode": true,
+  "primary": {
+    "overall_sentiment": 0.45,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "mixed",
+    "guidance_confidence": 0.65,
+    "wins": [
+      {
+        "label": "Process Technology Execution",
+        "severity": 5,
+        "evidence": "We became the world's first high-volume manufacturer of logic devices using EUV... Intel 3 achieved manufacturing readiness in Q4 as committed"
+      },
+      {
+        "label": "Q4 Beat & Cost Savings",
+        "severity": 4,
+        "evidence": "We delivered solid Q4 results exceeding expectations for the fourth quarter in a row... comfortably meeting our $3 billion cost savings commitment for fiscal year '23"
+      },
+      {
+        "label": "IFS Momentum & Design Wins",
+        "severity": 4,
+        "evidence": "In total, across wafer and advanced packaging, our lifetime deal value for IFS is now over $10 billion, more than doubling from the $4 billion"
+      },
+      {
+        "label": "AI PC Launch Success",
+        "severity": 4,
+        "evidence": "We expect to ship approximately 40 million AIPCs in 2024 alone with more than 230 designs from ultrathin PCs to handheld gaming devices"
+      },
+      {
+        "label": "CCG Strong Performance",
+        "severity": 3,
+        "evidence": "CCG performed very well in Q4, posting the third consecutive quarter of double-digit sequential growth"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Q1 Revenue Decline",
+        "severity": 4,
+        "evidence": "discrete headwinds, including Mobileye, PSG and business exits, among others, are impacting overall revenue, leading to a lower Q1 guide"
+      },
+      {
+        "label": "Mobileye Inventory Correction",
+        "severity": 3,
+        "evidence": "Mobileye is experiencing a sharp inventory correction in Q1"
+      },
+      {
+        "label": "Data Center Q1 Weakness",
+        "severity": 3,
+        "evidence": "We expect Q1 Data Center revenue to decline double-digit percent sequentially before improving through the year"
+      },
+      {
+        "label": "Margin Pressure from Depreciation",
+        "severity": 4,
+        "evidence": "We expect depreciation to grow by approximately $2 billion in 2024, in addition to a significant increase in variable factory start-up costs"
+      },
+      {
+        "label": "Manufacturing P&L Under Pressure",
+        "severity": 4,
+        "evidence": "our manufacturing P&L is under significant pressure as we get back to process leadership and build the infrastructure"
+      }
+    ],
+    "themes": [
+      "idm 2.0 transformation",
+      "5 nodes in 4 years",
+      "foundry momentum",
+      "ai everywhere strategy",
+      "aipc launch",
+      "process leadership",
+      "cost discipline",
+      "q1 headwinds",
+      "sequential improvement",
+      "internal foundry model"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.45,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "mixed",
+    "guidance_confidence": 0.65,
+    "wins": [
+      {
+        "label": "Process Technology Execution",
+        "severity": 5,
+        "evidence": "We became the world's first high-volume manufacturer of logic devices using EUV... Intel 3 achieved manufacturing readiness in Q4 as committed"
+      },
+      {
+        "label": "Q4 Beat & Cost Savings",
+        "severity": 4,
+        "evidence": "We delivered solid Q4 results exceeding expectations for the fourth quarter in a row... comfortably meeting our $3 billion cost savings commitment for fiscal year '23"
+      },
+      {
+        "label": "IFS Momentum & Design Wins",
+        "severity": 4,
+        "evidence": "In total, across wafer and advanced packaging, our lifetime deal value for IFS is now over $10 billion, more than doubling from the $4 billion"
+      },
+      {
+        "label": "AI PC Launch Success",
+        "severity": 4,
+        "evidence": "We expect to ship approximately 40 million AIPCs in 2024 alone with more than 230 designs from ultrathin PCs to handheld gaming devices"
+      },
+      {
+        "label": "CCG Strong Performance",
+        "severity": 3,
+        "evidence": "CCG performed very well in Q4, posting the third consecutive quarter of double-digit sequential growth"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Q1 Revenue Decline",
+        "severity": 4,
+        "evidence": "discrete headwinds, including Mobileye, PSG and business exits, among others, are impacting overall revenue, leading to a lower Q1 guide"
+      },
+      {
+        "label": "Mobileye Inventory Correction",
+        "severity": 3,
+        "evidence": "Mobileye is experiencing a sharp inventory correction in Q1"
+      },
+      {
+        "label": "Data Center Q1 Weakness",
+        "severity": 3,
+        "evidence": "We expect Q1 Data Center revenue to decline double-digit percent sequentially before improving through the year"
+      },
+      {
+        "label": "Margin Pressure from Depreciation",
+        "severity": 4,
+        "evidence": "We expect depreciation to grow by approximately $2 billion in 2024, in addition to a significant increase in variable factory start-up costs"
+      },
+      {
+        "label": "Manufacturing P&L Under Pressure",
+        "severity": 4,
+        "evidence": "our manufacturing P&L is under significant pressure as we get back to process leadership and build the infrastructure"
+      }
+    ],
+    "themes": [
+      "idm 2.0 transformation",
+      "5 nodes in 4 years",
+      "foundry momentum",
+      "ai everywhere strategy",
+      "aipc launch",
+      "process leadership",
+      "cost discipline",
+      "q1 headwinds",
+      "sequential improvement",
+      "internal foundry model"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 1.0,
+    "risks_jaccard": 1.0,
+    "themes_jaccard": 1.0,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.0,
+    "agreement_score": 1.0,
+    "agreement_confidence": 1.0
+  },
+  "chosen": {
+    "overall_sentiment": 0.45,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "mixed",
+    "guidance_confidence": 0.65,
+    "wins": [
+      {
+        "label": "Process Technology Execution",
+        "severity": 5,
+        "evidence": "We became the world's first high-volume manufacturer of logic devices using EUV... Intel 3 achieved manufacturing readiness in Q4 as committed"
+      },
+      {
+        "label": "Q4 Beat & Cost Savings",
+        "severity": 4,
+        "evidence": "We delivered solid Q4 results exceeding expectations for the fourth quarter in a row... comfortably meeting our $3 billion cost savings commitment for fiscal year '23"
+      },
+      {
+        "label": "IFS Momentum & Design Wins",
+        "severity": 4,
+        "evidence": "In total, across wafer and advanced packaging, our lifetime deal value for IFS is now over $10 billion, more than doubling from the $4 billion"
+      },
+      {
+        "label": "AI PC Launch Success",
+        "severity": 4,
+        "evidence": "We expect to ship approximately 40 million AIPCs in 2024 alone with more than 230 designs from ultrathin PCs to handheld gaming devices"
+      },
+      {
+        "label": "CCG Strong Performance",
+        "severity": 3,
+        "evidence": "CCG performed very well in Q4, posting the third consecutive quarter of double-digit sequential growth"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Q1 Revenue Decline",
+        "severity": 4,
+        "evidence": "discrete headwinds, including Mobileye, PSG and business exits, among others, are impacting overall revenue, leading to a lower Q1 guide"
+      },
+      {
+        "label": "Mobileye Inventory Correction",
+        "severity": 3,
+        "evidence": "Mobileye is experiencing a sharp inventory correction in Q1"
+      },
+      {
+        "label": "Data Center Q1 Weakness",
+        "severity": 3,
+        "evidence": "We expect Q1 Data Center revenue to decline double-digit percent sequentially before improving through the year"
+      },
+      {
+        "label": "Margin Pressure from Depreciation",
+        "severity": 4,
+        "evidence": "We expect depreciation to grow by approximately $2 billion in 2024, in addition to a significant increase in variable factory start-up costs"
+      },
+      {
+        "label": "Manufacturing P&L Under Pressure",
+        "severity": 4,
+        "evidence": "our manufacturing P&L is under significant pressure as we get back to process leadership and build the infrastructure"
+      }
+    ],
+    "themes": [
+      "idm 2.0 transformation",
+      "5 nodes in 4 years",
+      "foundry momentum",
+      "ai everywhere strategy",
+      "aipc launch",
+      "process leadership",
+      "cost discipline",
+      "q1 headwinds",
+      "sequential improvement",
+      "internal foundry model"
+    ]
+  }
+}

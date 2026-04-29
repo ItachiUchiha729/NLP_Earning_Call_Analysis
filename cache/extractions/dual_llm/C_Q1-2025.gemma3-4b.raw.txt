@@ -1,0 +1,69 @@
+```json
+{
+  "overall_sentiment": 0.45,
+  "sentiment_bucket": "bullish",
+  "guidance_direction": "bullish",
+  "guidance_confidence": 0.85,
+  "wins": [
+    {
+      "label": "Strong Q1 Results",
+      "severity": 4,
+      "evidence": "Net income of $4.1 billion and earnings per share of $1.96 with an ROTCE of 9.1%."
+    },
+    {
+      "label": "Disciplined Expense Management",
+      "severity": 5,
+      "evidence": "Expenses declined by 5% year-over-year."
+    },
+    {
+      "label": "Positive Operating Leverage",
+      "severity": 4,
+      "evidence": "Maintained a disciplined approach to expenses and delivered positive operating leverage for each of the 5 businesses."
+    },
+    {
+      "label": "Record Revenue in Services",
+      "severity": 4,
+      "evidence": "Services recorded its highest first quarter revenue in a decade."
+    },
+    {
+      "label": "Increased Return on Capital",
+      "severity": 5,
+      "evidence": "Increased both our return on tangible common equity in each business and our return of capital to our shareholders."
+    }
+  ],
+  "risks": [
+    {
+      "label": "Macroeconomic Uncertainty",
+      "severity": 5,
+      "evidence": "The changes underway globally will go beyond trade and tariffs. Prolonged uncertainty generally hurt confidence."
+    },
+    {
+      "label": "Regulatory Changes",
+      "severity": 4,
+      "evidence": "The administration taking a fresh look at regulations across all industries to unlock growth."
+    },
+    {
+      "label": "Credit Risk",
+      "severity": 4,
+      "evidence": "Cost of credit was $2.7 billion, primarily consisting of net credit losses in card as well as a firm-wide net ACL build, reflecting the uncertainty and deterioration in the macroeconomic outlook."
+    },
+    {
+      "label": "Currency Risk",
+      "severity": 3,
+      "evidence": "Mexican peso depreciation impacting Banamex."
+    },
+    {
+      "label": "Interest Rate Risk",
+      "severity": 4,
+      "evidence": "The NII ex market is up 2% to 3%."
+    }
+  ],
+  "themes": [
+    "Strong Financial Performance",
+    "Strategic Transformation",
+    "Global Markets",
+    "Risk Management",
+    "Capital Efficiency"
+  ]
+}
+```

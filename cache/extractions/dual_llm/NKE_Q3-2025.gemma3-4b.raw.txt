@@ -1,0 +1,74 @@
+```json
+{
+  "overall_sentiment": -0.25,
+  "sentiment_bucket": "bearish",
+  "guidance_direction": "lowered",
+  "guidance_confidence": 0.72,
+  "wins": [
+    {
+      "label": "Running category momentum",
+      "severity": 2,
+      "evidence": "Running was a standout field of play for the quarter, growing mid-single digits...Peg 41 is continuing to drive healthy volume in all geos"
+    },
+    {
+      "label": "Brand activation success at major events",
+      "severity": 2,
+      "evidence": "Our NIKE San Francisco flagship store had its best commercial day in 10 years...we saw lines down the block all weekend"
+    },
+    {
+      "label": "Digital repositioning progress",
+      "severity": 2,
+      "evidence": "NIKE Digital in North America went from over 30 promotional days to 0...resulted in a several percentage point improvement in demand at full price"
+    },
+    {
+      "label": "New product innovation traction",
+      "severity": 2,
+      "evidence": "Early seed pairs nearly sold out across the North American marketplace...The first month of sales in 24/7 have exceeded our expectations"
+    },
+    {
+      "label": "Wholesale partner realignment",
+      "severity": 2,
+      "evidence": "we see the declines in Classics Footwear franchises almost being offset by growth in performance dimensions...our partners are coming behind us"
+    }
+  ],
+  "risks": [
+    {
+      "label": "Severe revenue decline and margin compression",
+      "severity": 5,
+      "evidence": "revenues were down 9% on a reported basis and down 7% on a currency-neutral basis...Gross margins declined 330 basis points to 41.5%"
+    },
+    {
+      "label": "Greater China deterioration",
+      "severity": 5,
+      "evidence": "In Greater China, Q3 revenue declined 15%...traffic declined double digits and retail sales underperformed our plan...EBIT declined 42%"
+    },
+    {
+      "label": "Classic franchises inventory overhang",
+      "severity": 4,
+      "evidence": "Air Jordan 1 and Dunk remain elevated with continued actions planned ahead...we intend to drive this mix lower in fiscal '26, with total units planned down double digits"
+    },
+    {
+      "label": "Elevated inventory and liquidation headwinds",
+      "severity": 4,
+      "evidence": "inventory remains elevated across all geographies...we are liquidating inventory...we expect that, that's going to take us several quarters to work through"
+    },
+    {
+      "label": "Q4 guidance weakness and macro uncertainty",
+      "severity": 4,
+      "evidence": "We expect Q4 revenues to be down in the mid-teens range...We expect Q4 gross margins to be down approximately 400 to 500 basis points...geopolitical dynamics, new tariffs, volatile foreign exchange rates"
+    }
+  ],
+  "themes": [
+    "portfolio_transition",
+    "inventory_cleanup",
+    "marketplace_repositioning",
+    "brand_activation",
+    "china_challenges",
+    "margin_pressure",
+    "promotional_reduction",
+    "performance_sports_focus",
+    "wholesale_realignment",
+    "digital_transformation"
+  ]
+}
+```

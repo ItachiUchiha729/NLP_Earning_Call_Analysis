@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.2,
+    "sentiment_bucket": "neutral",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.7,
+    "wins": [
+        {
+            "label": "Technology Advancements",
+            "severity": 4,
+            "evidence": "Our goal was to roll it out in the second quarter for our folks to start using it. We rolled out on June 28. It's out there. Our folks are using it and I had the ability to test it some in early June."
+        },
+        {
+            "label": "Customer Acquisition Progress",
+            "severity": 3,
+            "evidence": "We have a -- a number we've always tracked and it's our core accounts. It was maybe more meaningful statistic when we were branch-based and opening branches. But last year, our core accounts... this year, they're up about 7%."
+        },
+        {
+            "label": "Operational Efficiency",
+            "severity": 3,
+            "evidence": "We're planting flags and we're making the business more resilient and efficient."
+        },
+        {
+            "label": "Digital Footprint Growth",
+            "severity": 2,
+            "evidence": "59.4%, that's taking all of our eCommerce, all of our FMI, eliminating the double counting and saying what percent of our business is going through one of those two."
+        },
+        {
+            "label": "Leadership Improvements",
+            "severity": 3,
+            "evidence": "Jeff has done a wonderful job in the last 12 to 18 months of pulling this thing together."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Pricing Pressure",
+            "severity": 4,
+            "evidence": "We experienced some slippage in price from non-fastener products."
+        },
+        {
+            "label": "Economic Downturn",
+            "severity": 5,
+            "evidence": "We've been sub-50 for 19 of the last 20 months."
+        },
+        {
+            "label": "Margin Compression",
+            "severity": 4,
+            "evidence": "Operating margin in the second quarter of 2024 was 20.2%, down 80 basis points year-to-year."
+        },
+        {
+            "label": "Slow Industrial Production",
+            "severity": 4,
+            "evidence": "Industrial production continues to exhibit modest declines as we saw in April and May."
+        },
+        {
+            "label": "Customer Spending Decline",
+            "severity": 3,
+            "evidence": "Customers are spending less and it shows up in our numbers."
+        }
+    ],
+    "themes": ["technology", "customer acquisition", "economic downturn", "pricing pressure", "operational efficiency"]
+}

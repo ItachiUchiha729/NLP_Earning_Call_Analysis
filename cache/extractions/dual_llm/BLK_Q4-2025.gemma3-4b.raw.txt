@@ -1,0 +1,69 @@
+```json
+{
+  "overall_sentiment": 0.65,
+  "sentiment_bucket": "very_bullish",
+  "guidance_direction": "raised",
+  "guidance_confidence": 0.85,
+  "wins": [
+    {
+      "label": "Strong Net Asset Growth",
+      "severity": 4,
+      "evidence": "Clients awarded BlackRock nearly $700 billion in net new assets in 2025, including $342 billion in the fourth quarter."
+    },
+    {
+      "label": "Record Base Fee Organic Growth",
+      "severity": 5,
+      "evidence": "12% organic base fee growth in the fourth quarter, representing $1.5 billion of net new base fees."
+    },
+    {
+      "label": "High Fee Yields on New Assets",
+      "severity": 4,
+      "evidence": "Fee yields on new asset flows this year are 6 to 7x higher than they were in 2023."
+    },
+    {
+      "label": "Margin Expansion Potential",
+      "severity": 3,
+      "evidence": "Continued growth in private markets and scaled businesses like ETFs and systematic equities will drive margin expansion."
+    },
+    {
+      "label": "Integrated Platform Synergies",
+      "severity": 4,
+      "evidence": "The combined strength of BlackRock, GIP, HPS and Preqin creates significant opportunities for cross-selling and enhanced services."
+    }
+  ],
+  "risks": [
+    {
+      "label": "Credit Risk in Private Credit",
+      "severity": 4,
+      "evidence": "Potential for increased defaults in smaller companies and a return to historical average default rates in the leveraged loan market."
+    },
+    {
+      "label": "Competition in Private Markets",
+      "severity": 3,
+      "evidence": "Increased competition for private market assets, particularly from other institutional investors."
+    },
+    {
+      "label": "Interest Rate Sensitivity",
+      "severity": 4,
+      "evidence": "The impact of falling interest rates on money market yields and investor demand for fixed income strategies."
+    },
+    {
+      "label": "Regulatory Changes",
+      "severity": 3,
+      "evidence": "Potential changes in regulations related to private markets, such as the 401(k) rule changes."
+    },
+    {
+      "label": "Macroeconomic Uncertainty",
+      "severity": 4,
+      "evidence": "The potential impact of a global economic slowdown on asset flows and investment performance."
+    }
+  ],
+  "themes": [
+    "Growth",
+    "Private Markets",
+    "Technology",
+    "Innovation",
+    "Scale"
+  ]
+}
+```

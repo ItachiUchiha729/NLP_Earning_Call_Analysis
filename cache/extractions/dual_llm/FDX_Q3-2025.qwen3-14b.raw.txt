@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.3,
+    "sentiment_bucket": "neutral",
+    "guidance_direction": "lowered",
+    "guidance_confidence": 0.8,
+    "wins": [
+        {
+            "label": "DRIVE savings progress",
+            "severity": 4,
+            "evidence": "We achieved $600 million of savings in the quarter."
+        },
+        {
+            "label": "Network 2.0 optimization",
+            "severity": 4,
+            "evidence": "We have optimized 5 U.S. stations since the beginning of the calendar year and expect to optimize 45 more in Q4."
+        },
+        {
+            "label": "Tricolor improvements",
+            "severity": 3,
+            "evidence": "Payloads across our air network are up 9%, with a 5% improvement in density."
+        },
+        {
+            "label": "Health care revenue growth",
+            "severity": 3,
+            "evidence": "We are onboarding nearly $400 million in new annualized health care revenue over the next 90 days."
+        },
+        {
+            "label": "Europe service improvements",
+            "severity": 3,
+            "evidence": "We are seeing the best European service levels we have seen in years, which is driving profitable share growth."
+        }
+    ],
+    "risks": [
+        {
+            "label": "B2B weakness",
+            "severity": 5,
+            "evidence": "Weakness in the industrial economy continued to pressure our higher-margin B2B volumes."
+        },
+        {
+            "label": "Inflationary pressures",
+            "severity": 4,
+            "evidence": "Higher than previously expected inflationary pressures on our cost base."
+        },
+        {
+            "label": "Postal Service contract expiration",
+            "severity": 4,
+            "evidence": "This resulted in a $180 million headwind to adjusted operating income."
+        },
+        {
+            "label": "Severe weather events",
+            "severity": 3,
+            "evidence": "Severe weather headwinds of approximately $70 million relative to last year."
+        },
+        {
+            "label": "Uncertain demand environment",
+            "severity": 3,
+            "evidence": "The current environment is adding uncertainty to demand."
+        }
+    ],
+    "themes": ["cost reduction", "network transformation", "B2B challenges", "inflation", "global trade"]
+}

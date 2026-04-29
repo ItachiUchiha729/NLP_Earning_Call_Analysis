@@ -1,0 +1,69 @@
+```json
+{
+  "overall_sentiment": 0.25,
+  "sentiment_bucket": "bullish",
+  "guidance_direction": "raised",
+  "guidance_confidence": 0.85,
+  "wins": [
+    {
+      "label": "Freight Margin Improvement",
+      "severity": 4,
+      "evidence": "Freight has maintained its leading market share position for a long time and increased operating profit nearly 25% on average per year over the last 5 years, expanding operating margin by approximately 1,100 basis points."
+    },
+    {
+      "label": "LTL Sales Force Expansion",
+      "severity": 3,
+      "evidence": "We've already begun to build out this team, and we expect to add more than 300 LTL specialists by the time of separation."
+    },
+    {
+      "label": "Network Efficiency Improvements",
+      "severity": 4,
+      "evidence": "Improved Freight and FedEx network efficiencies, focused on accelerating speed, improving coverage, optimizing touches and lowering our cost to serve."
+    },
+    {
+      "label": "FedEx Express Leadership",
+      "severity": 5,
+      "evidence": "We pioneered the Express transportation industry over 50 years ago and remained the industry leader today."
+    },
+    {
+      "label": "DRIVE Savings",
+      "severity": 5,
+      "evidence": "We achieved DRIVE savings of $540 million in Q2."
+    }
+  ],
+  "risks": [
+    {
+      "label": "Industrial Economy Weakness",
+      "severity": 5,
+      "evidence": "The soft global industrial economy, coupled with the competitive pricing environment, constrained our results. The Postal Service contract expiration negatively affected 2 months of the quarter, resulting in additional operating profit headwind."
+    },
+    {
+      "label": "Cyber Week Timing Shift",
+      "severity": 4,
+      "evidence": "Cyber Week timing shift resulted in a $90 million headwind."
+    },
+    {
+      "label": "USPS Contract Headwind",
+      "severity": 4,
+      "evidence": "The Postal Service contract expiration is expected to impact Q3 results."
+    },
+    {
+      "label": "Competition in LTL Market",
+      "severity": 4,
+      "evidence": "Lower average daily shipments, fuel surcharges and weight per shipment continue to be a headwind, largely due to the soft industrial backdrop."
+    },
+    {
+      "label": "International Export Yield Pressure",
+      "severity": 3,
+      "evidence": "Year-over-year declines in international export package yields."
+    }
+  ],
+  "themes": [
+    "separation",
+    "transformation",
+    "value creation",
+    "network optimization",
+    "supply chain"
+  ]
+}
+```

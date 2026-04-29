@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.95,
+    "wins": [
+        {
+            "label": "Strong Data Center Growth",
+            "severity": 5,
+            "evidence": "Data Center segment revenue increased 57% year-over-year to $3.7 billion."
+        },
+        {
+            "label": "EPYC and Ryzen CPU Sales Growth",
+            "severity": 5,
+            "evidence": "EPYC and Ryzen CPU sales grew significantly year-over-year."
+        },
+        {
+            "label": "AI Momentum",
+            "severity": 4,
+            "evidence": "AI business revenue increased by a significant double-digit percentage year-over-year."
+        },
+        {
+            "label": "MI350 Series Adoption",
+            "severity": 4,
+            "evidence": "Customer interest in the MI350 Series is very strong, setting the stage for broad deployment in the second half of this year."
+        },
+        {
+            "label": "Client & Gaming Segment Growth",
+            "severity": 4,
+            "evidence": "Client & Gaming segment revenue increased 28% year-over-year to $2.9 billion."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Export Controls on MI308X",
+            "severity": 4,
+            "evidence": "New export license requirements for MI308 shipments to China are expected to reduce revenue by $700 million in Q2."
+        },
+        {
+            "label": "Inventory Charges",
+            "severity": 3,
+            "evidence": "Non-GAAP gross margin is estimated to be 43% in Q2, inclusive of approximately $800 million in charges for inventory and related reserves."
+        },
+        {
+            "label": "Macro and Regulatory Uncertainties",
+            "severity": 3,
+            "evidence": "Uncertain macroeconomic backdrop and evolving regulatory environment may impact future performance."
+        },
+        {
+            "label": "Embedded Segment Weakness",
+            "severity": 2,
+            "evidence": "Embedded segment revenue decreased 3% year-over-year to $823 million."
+        },
+        {
+            "label": "Gaming Segment Decline",
+            "severity": 2,
+            "evidence": "Gaming revenue decreased 30% year-over-year as higher Radeon graphics sales were more than offset by low semi-custom sales."
+        }
+    ],
+    "themes": ["AI", "Data Center", "EPYC", "Ryzen", "MI350", "Gaming", "Client", "Export Controls", "Inventory Management", "AI Software"]
+}

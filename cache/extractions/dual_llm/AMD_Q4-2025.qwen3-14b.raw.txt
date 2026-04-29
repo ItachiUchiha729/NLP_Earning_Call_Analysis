@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.95,
+    "wins": [
+        {
+            "label": "Strong Revenue Growth",
+            "severity": 5,
+            "evidence": "2025 was a defining year for AMD with record revenue, net income and free cash flow driven by broad-based demand for our high-performance computing and AI products."
+        },
+        {
+            "label": "Data Center Momentum",
+            "severity": 5,
+            "evidence": "Data Center segment revenue increased 39% year-over-year to a record $5.4 billion, led by accelerating Instinct MI350 Series GPU deployments and server share gains."
+        },
+        {
+            "label": "EPYC Leadership",
+            "severity": 4,
+            "evidence": "EPYC has become the processor of choice for the modern data center, delivering leadership performance, efficiency and TCO."
+        },
+        {
+            "label": "AI Software Expansion",
+            "severity": 4,
+            "evidence": "We expanded the ROCm ecosystem in the fourth quarter, enabling customers to deploy Instinct faster and with higher performance across a broader range of workloads."
+        },
+        {
+            "label": "Future Product Roadmap",
+            "severity": 4,
+            "evidence": "Our next-generation Venice CPU extends our leadership across each of these metrics. Customer pull for Venice is very high with engagements underway to support large-scale cloud deployments."
+        }
+    ],
+    "risks": [
+        {
+            "label": "China Market Uncertainty",
+            "severity": 3,
+            "evidence": "We are not forecasting any additional revenue from China just because it's a very dynamic situation."
+        },
+        {
+            "label": "Supply Chain Constraints",
+            "severity": 2,
+            "evidence": "We are working with our supply chain partners to increase supply as well. But from what we see today, I think the overall server situation is strong, and we are increasing supply to address that."
+        },
+        {
+            "label": "Seasonal Decline in Client and Gaming",
+            "severity": 3,
+            "evidence": "We expect fourth quarter non-GAAP gross margin to be approximately 55%. Non-GAAP operating expense to be approximately $3.05 billion."
+        },
+        {
+            "label": "Memory Inflation",
+            "severity": 2,
+            "evidence": "Based on everything that we see today, we're probably seeing the PC TAM down a bit just given some of the inflationary pressures of the commodities pricing, including memory."
+        },
+        {
+            "label": "Competitive Pressure",
+            "severity": 2,
+            "evidence": "There is a great need for high-performance CPUs right now. And that goes towards agentic workloads where when you have these AI processes or AI agents that are spinning off a lot of work."
+        }
+    ],
+    "themes": ["AI", "Data Center", "EPYC", "Instinct", "Ryzen", "Gaming", "Embedded", "Supply Chain", "Margin Expansion", "Product Roadmap"]
+}

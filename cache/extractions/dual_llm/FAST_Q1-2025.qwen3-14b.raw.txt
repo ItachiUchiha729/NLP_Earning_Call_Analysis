@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.3,
+    "sentiment_bucket": "neutral",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.7,
+    "wins": [
+        {
+            "label": "Strong execution and internal momentum",
+            "severity": 4,
+            "evidence": "We've executed at a very high level... and it's shining through in our numbers."
+        },
+        {
+            "label": "Improved customer engagement and attendance at events",
+            "severity": 3,
+            "evidence": "We had a record number of attendees from our business unit in Mexico."
+        },
+        {
+            "label": "Strategic sourcing and supply chain diversification",
+            "severity": 4,
+            "evidence": "We've changed our sourcing patterns in the last 5 years on diversifying where we're sourcing from."
+        },
+        {
+            "label": "Technology adoption and FMI growth",
+            "severity": 4,
+            "evidence": "Over 43% of our revenue today goes through some type of technology platform."
+        },
+        {
+            "label": "Dividend increase and long-term financial planning",
+            "severity": 3,
+            "evidence": "We inched up our dividend from $0.43 to $0.44."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Uncertainty around tariffs and their impact on pricing",
+            "severity": 5,
+            "evidence": "We have limited visibility and share our customers' uncertainty over how current trade policy may impact demand over the course of 2025."
+        },
+        {
+            "label": "E-commerce underperformance and challenges",
+            "severity": 4,
+            "evidence": "We're not great at that piece of the business... we need to get better at the e-commerce side."
+        },
+        {
+            "label": "Sluggish end market demand",
+            "severity": 4,
+            "evidence": "Feedback from regional leadership continues to reflect sluggish end market demand."
+        },
+        {
+            "label": "Higher costs from third-party freight providers and hub vehicle lease costs",
+            "severity": 3,
+            "evidence": "Higher costs from third-party freight providers and higher hub vehicle lease costs, both coming against relatively flat freight revenue."
+        },
+        {
+            "label": "Inventory management challenges",
+            "severity": 3,
+            "evidence": "Inventory growth may remain elevated in 2025 as we continue to navigate tariffs."
+        }
+    ],
+    "themes": ["tariffs", "supply chain", "technology", "dividend", "customer engagement"]
+}

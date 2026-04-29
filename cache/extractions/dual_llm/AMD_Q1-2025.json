@@ -1,0 +1,229 @@
+{
+  "_ticker": "AMD",
+  "_quarter": "Q1-2025",
+  "_call_date": "2025-05-06",
+  "primary_model": "qwen3:14b",
+  "secondary_model": "gemma3:4b",
+  "primary": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "Strong Data Center Growth",
+        "severity": 5,
+        "evidence": "Data Center segment revenue increased 57% year-over-year to $3.7 billion."
+      },
+      {
+        "label": "EPYC and Ryzen CPU Sales Growth",
+        "severity": 5,
+        "evidence": "EPYC and Ryzen CPU sales grew significantly year-over-year."
+      },
+      {
+        "label": "AI Momentum",
+        "severity": 4,
+        "evidence": "AI business revenue increased by a significant double-digit percentage year-over-year."
+      },
+      {
+        "label": "MI350 Series Adoption",
+        "severity": 4,
+        "evidence": "Customer interest in the MI350 Series is very strong, setting the stage for broad deployment in the second half of this year."
+      },
+      {
+        "label": "Client & Gaming Segment Growth",
+        "severity": 4,
+        "evidence": "Client & Gaming segment revenue increased 28% year-over-year to $2.9 billion."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Export Controls on MI308X",
+        "severity": 4,
+        "evidence": "New export license requirements for MI308 shipments to China are expected to reduce revenue by $700 million in Q2."
+      },
+      {
+        "label": "Inventory Charges",
+        "severity": 3,
+        "evidence": "Non-GAAP gross margin is estimated to be 43% in Q2, inclusive of approximately $800 million in charges for inventory and related reserves."
+      },
+      {
+        "label": "Macro and Regulatory Uncertainties",
+        "severity": 3,
+        "evidence": "Uncertain macroeconomic backdrop and evolving regulatory environment may impact future performance."
+      },
+      {
+        "label": "Embedded Segment Weakness",
+        "severity": 2,
+        "evidence": "Embedded segment revenue decreased 3% year-over-year to $823 million."
+      },
+      {
+        "label": "Gaming Segment Decline",
+        "severity": 2,
+        "evidence": "Gaming revenue decreased 30% year-over-year as higher Radeon graphics sales were more than offset by low semi-custom sales."
+      }
+    ],
+    "themes": [
+      "ai",
+      "data center",
+      "epyc",
+      "ryzen",
+      "mi350",
+      "gaming",
+      "client",
+      "export controls",
+      "inventory management",
+      "ai software"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.35,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Strong Q1 Revenue Growth",
+        "severity": 4,
+        "evidence": "Revenue increased 36% year-over-year to $7.4 billion"
+      },
+      {
+        "label": "Data Center CPU Share Gains",
+        "severity": 5,
+        "evidence": "Growth accelerated for the fourth consecutive quarter year-over-year driven by strength in our core businesses and expanding data center and AI momentum."
+      },
+      {
+        "label": "Increased Gross Margin",
+        "severity": 4,
+        "evidence": "Expanded gross margin year-over-year for the fifth straight quarter"
+      },
+      {
+        "label": "Strong Client & Gaming Performance",
+        "severity": 4,
+        "evidence": "Client revenue grew 68% year-over-year, marking our fifth consecutive quarter of revenue share gains."
+      },
+      {
+        "label": "MI350 Series Launch",
+        "severity": 5,
+        "evidence": "We passed key milestones in April to begin manufacturing 5th Gen EPYC at TSMC's new Arizona fab, with first production shipments expected in the second half of 2025."
+      }
+    ],
+    "risks": [
+      {
+        "label": "China Export Controls",
+        "severity": 5,
+        "evidence": "A new export license requirement was put in place for MI308 shipments to China"
+      },
+      {
+        "label": "Macroeconomic Uncertainty",
+        "severity": 4,
+        "evidence": "Despite the uncertain macroeconomic backdrop, our first quarter performance highlights the strength of our differentiated product portfolio and execution"
+      },
+      {
+        "label": "Tariff Impacts",
+        "severity": 3,
+        "evidence": "Growth accelerated for the fourth consecutive quarter year-over-year driven by strength in our core businesses and expanding data center and AI momentum."
+      },
+      {
+        "label": "Competition from ASICs",
+        "severity": 4,
+        "evidence": "Most of your largest customers also have a custom silicon offering."
+      },
+      {
+        "label": "Inventory Levels",
+        "severity": 3,
+        "evidence": "Inventory levels continue to be a factor in the Data Center segment."
+      }
+    ],
+    "themes": [
+      "ai",
+      "data center",
+      "server cpus",
+      "gpus",
+      "client pcs",
+      "gaming",
+      "embedded systems"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 0.0,
+    "risks_jaccard": 0.0,
+    "themes_jaccard": 0.21428571428571427,
+    "guidance_match": 0.0,
+    "sentiment_gap": 0.5,
+    "agreement_score": 0.05357142857142857,
+    "agreement_confidence": 0.026785714285714284
+  },
+  "chosen": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "Strong Data Center Growth",
+        "severity": 5,
+        "evidence": "Data Center segment revenue increased 57% year-over-year to $3.7 billion."
+      },
+      {
+        "label": "EPYC and Ryzen CPU Sales Growth",
+        "severity": 5,
+        "evidence": "EPYC and Ryzen CPU sales grew significantly year-over-year."
+      },
+      {
+        "label": "AI Momentum",
+        "severity": 4,
+        "evidence": "AI business revenue increased by a significant double-digit percentage year-over-year."
+      },
+      {
+        "label": "MI350 Series Adoption",
+        "severity": 4,
+        "evidence": "Customer interest in the MI350 Series is very strong, setting the stage for broad deployment in the second half of this year."
+      },
+      {
+        "label": "Client & Gaming Segment Growth",
+        "severity": 4,
+        "evidence": "Client & Gaming segment revenue increased 28% year-over-year to $2.9 billion."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Export Controls on MI308X",
+        "severity": 4,
+        "evidence": "New export license requirements for MI308 shipments to China are expected to reduce revenue by $700 million in Q2."
+      },
+      {
+        "label": "Inventory Charges",
+        "severity": 3,
+        "evidence": "Non-GAAP gross margin is estimated to be 43% in Q2, inclusive of approximately $800 million in charges for inventory and related reserves."
+      },
+      {
+        "label": "Macro and Regulatory Uncertainties",
+        "severity": 3,
+        "evidence": "Uncertain macroeconomic backdrop and evolving regulatory environment may impact future performance."
+      },
+      {
+        "label": "Embedded Segment Weakness",
+        "severity": 2,
+        "evidence": "Embedded segment revenue decreased 3% year-over-year to $823 million."
+      },
+      {
+        "label": "Gaming Segment Decline",
+        "severity": 2,
+        "evidence": "Gaming revenue decreased 30% year-over-year as higher Radeon graphics sales were more than offset by low semi-custom sales."
+      }
+    ],
+    "themes": [
+      "ai",
+      "data center",
+      "epyc",
+      "ryzen",
+      "mi350",
+      "gaming",
+      "client",
+      "export controls",
+      "inventory management",
+      "ai software"
+    ]
+  }
+}

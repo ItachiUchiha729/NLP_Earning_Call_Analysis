@@ -1,0 +1,69 @@
+```json
+{
+    "overall_sentiment": 0.25,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+        {
+            "label": "Strong Q4 Performance",
+            "severity": 4,
+            "evidence": "Finished with a very strong fourth quarter, which Mark will detail shortly."
+        },
+        {
+            "label": "Net Income Up 40%",
+            "severity": 5,
+            "evidence": "Net income was up nearly 40% to $12.7 billion."
+        },
+        {
+            "label": "Revenue Growth Ex-Divestitures",
+            "severity": 4,
+            "evidence": "Revenues up 5% ex divestitures."
+        },
+        {
+            "label": "Fee Revenue Growth",
+            "severity": 4,
+            "evidence": "Fee revenue was up 17%, and we saw a smaller impact from Argentina's currency devaluation."
+        },
+        {
+            "label": "Expense Efficiency Improvement",
+            "severity": 3,
+            "evidence": "Improved our efficiency ratio by 340 bps whilst increasing investment in our transformation."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Macroeconomic Uncertainty",
+            "severity": 4,
+            "evidence": "2025 doesn’t look that different from ‘24. Policies will certainly impact economic activity, whether in the form of tariffs or taxes."
+        },
+        {
+            "label": "China Growth Slowdown",
+            "severity": 3,
+            "evidence": "China’s growth has been slower than expected, but there is still the prospect of further stimulus."
+        },
+        {
+            "label": "Europe Underperformance",
+            "severity": 2,
+            "evidence": "Europe continues to underachieve."
+        },
+        {
+            "label": "Regulatory Scrutiny",
+            "severity": 4,
+            "evidence": "Last summer’s regulatory actions reinforced the need to review the entire data program and increase investment."
+        },
+        {
+            "label": "Uncertainty in Capital Requirements",
+            "severity": 3,
+            "evidence": "The future of capital rules and therefore, requirements remain uncertain."
+        }
+    ],
+    "themes": [
+        "Financial Performance",
+        "Strategic Transformation",
+        "Risk Management",
+        "Capital Allocation",
+        "Regulatory Compliance"
+    ]
+}
+```

@@ -1,0 +1,69 @@
+```json
+{
+    "overall_sentiment": 0.35,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+        {
+            "label": "Strong AI Revenue Growth",
+            "severity": 4,
+            "evidence": "Consolidated net revenue was $12.5 billion, up 43% year-on-year as revenue included a full quarter of contribution from VMware. But if we exclude VMware, consolidated revenue was up 12% year-on-year, and this 12% organic growth in revenue was largely driven by AI revenue, which stepped up 280% year-on-year to $3.1 billion"
+        },
+        {
+            "label": "VMware Integration Progress",
+            "severity": 4,
+            "evidence": "The integration of VMware is going very well. Since we acquired VMware, we have modernized the product SKUs from over 8,000 disparate SKUs to 4 core product offerings and simplified the go-to-market flow, eliminating a huge amount of channel conflicts."
+        },
+        {
+            "label": "Networking Demand",
+            "severity": 3,
+            "evidence": "Networking, Q2 revenue of $3.8 billion grew 44% year-on-year, representing 53% of semiconductor revenue. This was again driven by strong demand from hyperscalers for both AI networking and custom accelerators."
+        },
+        {
+            "label": "AI Accelerator Awards",
+            "severity": 3,
+            "evidence": "We have just been awarded the next-generation custom AI accelerators for these hyperscale customers of ours."
+        },
+        {
+            "label": "Increased AI Guidance",
+            "severity": 2,
+            "evidence": "We are raising our fiscal '24 revenue guidance to $51 billion."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Server Storage Decline",
+            "severity": 4,
+            "evidence": "Q2 server storage connectivity revenue was $824 million or 11% of semiconductor revenue, down 27% year-on-year."
+        },
+        {
+            "label": "Broadband Weakness",
+            "severity": 3,
+            "evidence": "Q2 revenue declined 39% year-on-year to $730 million and represented 10% of semiconductor revenue. Broadband remains weak on the continued pause in telco and service provider spending."
+        },
+        {
+            "label": "Industrial Resale Decline",
+            "severity": 2,
+            "evidence": "Q2 industrial rev resale of $234 million declined 10% year-on-year."
+        },
+        {
+            "label": "Uncertainty in AI Market",
+            "severity": 3,
+            "evidence": "The rapid transition of optical interconnects in AI data centers to 800-gigabit bandwidth, which is driving accelerated growth for our DSPs, optical lasers, and PIN diodes."
+        },
+        {
+            "label": "Competition in AI Accelerators",
+            "severity": 4,
+            "evidence": "many of the same customers that you have a very large position in the custom compute. So I'm curious how you think customers are going to do that allocation decision, just broadly what the visibility is."
+        }
+    ],
+    "themes": [
+        "AI Growth",
+        "VMware Integration",
+        "Networking Demand",
+        "Market Recovery",
+        "Strategic Partnerships"
+    ]
+}
+```

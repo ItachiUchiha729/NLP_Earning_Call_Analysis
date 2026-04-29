@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.95,
+    "wins": [
+        {
+            "label": "Strong AUM Growth",
+            "severity": 5,
+            "evidence": "BlackRock ended the quarter with record AUM of nearly $10.5 trillion."
+        },
+        {
+            "label": "Positive Net Inflows",
+            "severity": 5,
+            "evidence": "First quarter long-term net inflows of $76 billion continued to lead the industry."
+        },
+        {
+            "label": "Margin Expansion",
+            "severity": 4,
+            "evidence": "First quarter as-adjusted operating margin of 42.2% was up 180 basis points from a year ago."
+        },
+        {
+            "label": "Technology Revenue Growth",
+            "severity": 4,
+            "evidence": "Quarterly technology services revenue was up 11% compared to a year ago."
+        },
+        {
+            "label": "Strong ETF Performance",
+            "severity": 4,
+            "evidence": "ETF net inflows of $67 billion were led by core equity and fixed income ETFs."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Institutional Index Equity Outflows",
+            "severity": 3,
+            "evidence": "Institutional index net outflows of $13 billion were concentrated in low-fee index equities."
+        },
+        {
+            "label": "Cash Management Volatility",
+            "severity": 3,
+            "evidence": "Cash management flows were impacted by approximately $14 billion of net redemptions during the last week of March."
+        },
+        {
+            "label": "Market Uncertainty",
+            "severity": 2,
+            "evidence": "Clients are still cautious due to uncertainty around interest rates and geopolitical events."
+        },
+        {
+            "label": "Fee Rate Pressure",
+            "severity": 2,
+            "evidence": "The relative outperformance of lower-fee U.S. equity markets has led to a lower effective fee rate."
+        },
+        {
+            "label": "Regulatory and Transaction Risks",
+            "severity": 2,
+            "evidence": "The GIP transaction remains subject to regulatory approvals and other customary closing conditions."
+        }
+    ],
+    "themes": ["AUM growth", "ETFs", "technology", "private markets", "margin expansion", "organic growth", "client consolidation", "infrastructure", "retirement solutions", "Aladdin"]
+}

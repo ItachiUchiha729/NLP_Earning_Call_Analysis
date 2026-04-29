@@ -1,0 +1,69 @@
+```json
+{
+  "overall_sentiment": 0.25,
+  "sentiment_bucket": "bullish",
+  "guidance_direction": "raised",
+  "guidance_confidence": 0.85,
+  "wins": [
+    {
+      "label": "Strong Q1 Sales Growth",
+      "severity": 4,
+      "evidence": "Daily sales increased 12.4% to $34.9 million per day for the quarter, our third consecutive quarter of double-digit growth."
+    },
+    {
+      "label": "Increased Share of Wallet",
+      "severity": 3,
+      "evidence": "We gained share through focused execution, winning new business with key accounts, and expanding customer site presence."
+    },
+    {
+      "label": "Strategic Driver Success",
+      "severity": 4,
+      "evidence": "Increasing sales effectiveness, driven by new national account contracts and a healthy number of signings, contributed significantly to growth."
+    },
+    {
+      "label": "Expanded Customer Sites",
+      "severity": 3,
+      "evidence": "Customer sites spending $50,000 plus per month increased 16.3% year-over-year to just over 2,900 sites."
+    },
+    {
+      "label": "International Growth",
+      "severity": 4,
+      "evidence": "International sales grew almost 24% in March, primarily in Europe and Asia, demonstrating continued momentum."
+    }
+  ],
+  "risks": [
+    {
+      "label": "Tariff-Related Margin Pressure",
+      "severity": 5,
+      "evidence": "Approximately 40 basis points of margin pressure was due to tariff-related costs, particularly in branded products."
+    },
+    {
+      "label": "Pricing vs. Cost Challenges",
+      "severity": 4,
+      "evidence": "Difficulty in quickly passing on price increases due to tariff uncertainty and customer negotiations."
+    },
+    {
+      "label": "Macroeconomic Uncertainty",
+      "severity": 3,
+      "evidence": "The industrial environment remains somewhat challenging, with moderate PMI levels and potential headwinds from trade and tariff uncertainty."
+    },
+    {
+      "label": "Inventory Management Complexity",
+      "severity": 4,
+      "evidence": "Managing inventory levels and costs, particularly with slower inventory turnover rates for certain product lines, presented challenges."
+    },
+    {
+      "label": "Competition in Branded Products",
+      "severity": 5,
+      "evidence": "Increased competition in branded products led to pricing challenges and slower adoption of new price increases."
+    }
+  ],
+  "themes": [
+    "Sales Growth",
+    "Margin Improvement",
+    "Digital Transformation",
+    "Customer Engagement",
+    "International Expansion"
+  ]
+}
+```

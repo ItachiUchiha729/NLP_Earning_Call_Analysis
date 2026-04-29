@@ -1,0 +1,74 @@
+```json
+{
+  "overall_sentiment": 0.62,
+  "sentiment_bucket": "bullish",
+  "guidance_direction": "mixed",
+  "guidance_confidence": 0.72,
+  "wins": [
+    {
+      "label": "Strong innovation pipeline with multi-year visibility",
+      "severity": 1,
+      "evidence": "we're clear what's coming in '25 and '26 across Peg, Vomero and Structure, again, pipeline"
+    },
+    {
+      "label": "North America outperformance with unit growth",
+      "severity": 2,
+      "evidence": "we exceeded our expectations in North America with strong holiday sales, lighter markdowns than our competitors and unit growth versus the prior year"
+    },
+    {
+      "label": "Gross margin expansion despite promotional environment",
+      "severity": 2,
+      "evidence": "Gross margins expanded 150 basis points to 44.8% on a reported basis, driven by strategic pricing actions, lower ocean freight rates and improvements in supply chain efficiency"
+    },
+    {
+      "label": "New products generating multibillion-dollar run rate",
+      "severity": 2,
+      "evidence": "footwear products introduced over the past several quarters are on track to generate a multibillion-dollar run rate on an annual basis"
+    },
+    {
+      "label": "German football federation contract win",
+      "severity": 1,
+      "evidence": "we feel deeply honored and privileged to partner with the German football federation starting in 2027"
+    }
+  ],
+  "risks": [
+    {
+      "label": "First half FY25 revenue expected down low single digits",
+      "severity": 3,
+      "evidence": "we are prudently planning for revenue in the first half of the fiscal year to be down low single digits"
+    },
+    {
+      "label": "EMEA underperformance with macro headwinds",
+      "severity": 3,
+      "evidence": "sales in the geography fell short of our expectations this quarter as we navigated increased macro volatility and softening consumer demand"
+    },
+    {
+      "label": "Digital channel pressure from franchise life cycle management",
+      "severity": 3,
+      "evidence": "we now expect Q4 revenue to be up slightly, reflecting some shipment timing benefits in Q3 and lower digital growth due to franchise life cycle management"
+    },
+    {
+      "label": "Significant restructuring charges impacting near-term earnings",
+      "severity": 2,
+      "evidence": "we expect restructuring charges of approximately $450 million in our second half, with $403 million incurred in the third quarter"
+    },
+    {
+      "label": "Transition period creating near-term headwinds",
+      "severity": 3,
+      "evidence": "our product portfolio will go through a period of transition over the coming quarters"
+    }
+  ],
+  "themes": [
+    "innovation_acceleration",
+    "product_portfolio_transition",
+    "wholesale_reinvestment",
+    "brand_repositioning",
+    "margin_expansion",
+    "organizational_restructuring",
+    "olympics_catalyst",
+    "china_growth",
+    "digital_headwinds",
+    "macro_uncertainty"
+  ]
+}
+```

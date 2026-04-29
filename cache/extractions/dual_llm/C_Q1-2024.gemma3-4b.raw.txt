@@ -1,0 +1,69 @@
+```json
+{
+  "overall_sentiment": 0.25,
+  "sentiment_bucket": "neutral",
+  "guidance_direction": "raised",
+  "guidance_confidence": 0.85,
+  "wins": [
+    {
+      "label": "Strong Client Activity in TTS",
+      "severity": 4,
+      "evidence": "Volumes increased 9%, U.S. dollar clearing volumes increased 3%, and commercial card spend volume increased 5%."
+    },
+    {
+      "label": "Securities Services Growth",
+      "severity": 4,
+      "evidence": "Assets under custody and administration increased 11%, benefiting from higher market valuations."
+    },
+    {
+      "label": "Investment Banking Deal Participation",
+      "severity": 3,
+      "evidence": "Participated in some of the significant deals announced in the quarter, such as Diamondback's merger with Endeavour Energy and Catalent's merger with Nova Holdings."
+    },
+    {
+      "label": "U.S. PB Double-Digit Revenue Growth",
+      "severity": 3,
+      "evidence": "U.S. PB had double-digit revenue growth for the sixth straight quarter."
+    },
+    {
+      "label": "Strong Brand Card Spend Growth",
+      "severity": 3,
+      "evidence": "Healthy spend growth persists in branded cards primarily driven by our more affluent customers."
+    }
+  ],
+  "risks": [
+    {
+      "label": "Market Volatility Impact on NII",
+      "severity": 5,
+      "evidence": "Net interest income decreased by $317 million largely driven by markets."
+    },
+    {
+      "label": "Retail Services NCLs Above Guidance",
+      "severity": 4,
+      "evidence": "Retail services revenues decreased 4% driven by a 13% decrease in NII."
+    },
+    {
+      "label": "Card Charge-Offs",
+      "severity": 4,
+      "evidence": "Card loan vintages that were originated over the last few years were delayed in their maturation due to the unprecedented levels of government stimulus during the pandemic and are now maturing."
+    },
+    {
+      "label": "Geopolitical Risks",
+      "severity": 4,
+      "evidence": "I think it's important to keep in mind that the macro factors that impact the cards portfolio."
+    },
+    {
+      "label": "Potential for Lower European Rates",
+      "severity": 3,
+      "evidence": "We will have growth in operational deposits."
+    }
+  ],
+  "themes": [
+    "Transformation",
+    "Expense Reduction",
+    "Revenue Growth",
+    "Risk Management",
+    "Market Conditions"
+  ]
+}
+```

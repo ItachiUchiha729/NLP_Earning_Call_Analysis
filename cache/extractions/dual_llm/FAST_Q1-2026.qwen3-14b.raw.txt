@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.75,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.85,
+    "wins": [
+        {
+            "label": "Strong sales growth",
+            "severity": 5,
+            "evidence": "We delivered 12.4% daily sales growth, our third consecutive quarter of double-digit growth."
+        },
+        {
+            "label": "Customer engagement and market share gains",
+            "severity": 4,
+            "evidence": "Events like these really demonstrate why we keep gaining market share."
+        },
+        {
+            "label": "Digital adoption and FMI expansion",
+            "severity": 4,
+            "evidence": "We signed close to 7,000 new FMI device agreements, about 110 per day, an 8% increase over last year."
+        },
+        {
+            "label": "Operating margin improvement",
+            "severity": 3,
+            "evidence": "Operating margin improved to 20.3%, up 20 basis points from last year."
+        },
+        {
+            "label": "Strong cash generation",
+            "severity": 3,
+            "evidence": "Operating cash flow was approximately $378 million, representing 111% of net income."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Tariff and pricing uncertainty",
+            "severity": 4,
+            "evidence": "Tariff uncertainty added additional challenges. In many cases, customer conversations and pricing actions took longer than usual."
+        },
+        {
+            "label": "Margin pressure from cost inflation",
+            "severity": 4,
+            "evidence": "We were approximately 40 basis points below our own Q1 gross margin target as pricing actions did not keep up with cost increases."
+        },
+        {
+            "label": "Pricing delays and customer pushback",
+            "severity": 3,
+            "evidence": "The real challenge to the group is we need to have those tough discussions every day."
+        },
+        {
+            "label": "Fuel and transportation cost headwinds",
+            "severity": 2,
+            "evidence": "We also experienced smaller headwinds from fuel and transportation costs."
+        },
+        {
+            "label": "Inventory cost inflation",
+            "severity": 3,
+            "evidence": "The headwind from the inventory conversion is now behind us, but we're getting close."
+        }
+    ],
+    "themes": ["sales growth", "digital adoption", "margin improvement", "tariff uncertainty", "customer engagement"]
+}

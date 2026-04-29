@@ -1,0 +1,240 @@
+{
+  "_ticker": "NKE",
+  "_quarter": "Q1-2025",
+  "_call_date": "2024-10-01",
+  "backend": "anthropic",
+  "primary_model": "gemma3:4b",
+  "secondary_model": "gemma3:4b",
+  "single_call_mode": true,
+  "primary": {
+    "overall_sentiment": -0.35,
+    "sentiment_bucket": "bearish",
+    "guidance_direction": "lowered",
+    "guidance_confidence": 0.75,
+    "wins": [
+      {
+        "label": "Running momentum building",
+        "severity": 2,
+        "evidence": "men's and women's running footwear delivered positive growth in Q1, a meaningful improvement versus the prior quarter. The order book looking forward is strong with spring '25 footwear units set to grow double digits versus the prior year."
+      },
+      {
+        "label": "New product innovation scaling",
+        "severity": 2,
+        "evidence": "Q1 revenue from new footwear products was up strong double digits versus the prior year. For example, in performance footwear, Sabrina has grown roughly 5x. Kobe has nearly quadrupled and Alphafly has almost tripled."
+      },
+      {
+        "label": "Gross margin expansion in Q1",
+        "severity": 2,
+        "evidence": "Gross margins expanded 120 basis points to 45.4% on a reported basis, primarily due to lower NIKE brand product costs, lower warehousing and logistics costs, and benefits from strategic pricing actions in the prior year."
+      },
+      {
+        "label": "Strong partner engagement and feedback",
+        "severity": 2,
+        "evidence": "Partner feedback on our future product pipeline has been very positive. I had the chance to meet with many of them at our Partner Summit in Paris during the Summer Olympics and directly hear their response to the products and stories that we have coming in our second half."
+      },
+      {
+        "label": "Leadership transition with Elliott Hill",
+        "severity": 2,
+        "evidence": "Elliott is a beloved NIKE veteran who brings a powerful connection to our employees and culture, a deep love for our brands and a passion for sport. Our employees' response to this announcement has been tremendous."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Revenue decline and traffic weakness",
+        "severity": 4,
+        "evidence": "NIKE, Inc. revenue declined 10% on a reported basis and 9% on a currency-neutral basis. Traffic declines across NIKE Direct were more significant than we anticipated. We saw particular softness in traffic on NIKE Digital as well as in our partner stores in Greater China."
+      },
+      {
+        "label": "Digital channel deterioration",
+        "severity": 4,
+        "evidence": "NIKE Digital down 20% in Q1. We expect NIKE Digital to decline double digits in fiscal '25 versus the prior year. In Q1, these franchises were down nearly 50% versus the prior year on NIKE Digital."
+      },
+      {
+        "label": "Elevated inventory requiring promotions",
+        "severity": 4,
+        "evidence": "retail sales underperformed our plan, including our wholesale partners, with slightly elevating marketplace inventories requiring higher levels of promotional activity in Q1 to drive conversion. We are seeing slightly elevated inventory as a result of the retail sales plans falling behind."
+      },
+      {
+        "label": "Gross margin pressure ahead",
+        "severity": 4,
+        "evidence": "We expect Q2 gross margins to be down approximately 150 basis points, with higher promotions, channel mix headwinds, and supply chain deleverage more than offsetting lower product costs and a decreasing benefit from strategic pricing actions."
+      },
+      {
+        "label": "Greater China softness and macro headwinds",
+        "severity": 4,
+        "evidence": "In Greater China, Q1 revenue was down 3%, NIKE Direct declined 16% with NIKE Digital down 34%. This summer, retail sales moderated across the industry, and NIKE was not immune as traffic decelerated in our channels with lower sell-through rates."
+      }
+    ],
+    "themes": [
+      "portfolio_rebalancing",
+      "classics_franchise_reduction",
+      "running_comeback_strategy",
+      "innovation_focus",
+      "digital_channel_weakness",
+      "china_softness",
+      "inventory_management",
+      "promotional_pressure",
+      "leadership_transition",
+      "wholesale_partnership_emphasis",
+      "margin_headwinds",
+      "guidance_withdrawal"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": -0.35,
+    "sentiment_bucket": "bearish",
+    "guidance_direction": "lowered",
+    "guidance_confidence": 0.75,
+    "wins": [
+      {
+        "label": "Running momentum building",
+        "severity": 2,
+        "evidence": "men's and women's running footwear delivered positive growth in Q1, a meaningful improvement versus the prior quarter. The order book looking forward is strong with spring '25 footwear units set to grow double digits versus the prior year."
+      },
+      {
+        "label": "New product innovation scaling",
+        "severity": 2,
+        "evidence": "Q1 revenue from new footwear products was up strong double digits versus the prior year. For example, in performance footwear, Sabrina has grown roughly 5x. Kobe has nearly quadrupled and Alphafly has almost tripled."
+      },
+      {
+        "label": "Gross margin expansion in Q1",
+        "severity": 2,
+        "evidence": "Gross margins expanded 120 basis points to 45.4% on a reported basis, primarily due to lower NIKE brand product costs, lower warehousing and logistics costs, and benefits from strategic pricing actions in the prior year."
+      },
+      {
+        "label": "Strong partner engagement and feedback",
+        "severity": 2,
+        "evidence": "Partner feedback on our future product pipeline has been very positive. I had the chance to meet with many of them at our Partner Summit in Paris during the Summer Olympics and directly hear their response to the products and stories that we have coming in our second half."
+      },
+      {
+        "label": "Leadership transition with Elliott Hill",
+        "severity": 2,
+        "evidence": "Elliott is a beloved NIKE veteran who brings a powerful connection to our employees and culture, a deep love for our brands and a passion for sport. Our employees' response to this announcement has been tremendous."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Revenue decline and traffic weakness",
+        "severity": 4,
+        "evidence": "NIKE, Inc. revenue declined 10% on a reported basis and 9% on a currency-neutral basis. Traffic declines across NIKE Direct were more significant than we anticipated. We saw particular softness in traffic on NIKE Digital as well as in our partner stores in Greater China."
+      },
+      {
+        "label": "Digital channel deterioration",
+        "severity": 4,
+        "evidence": "NIKE Digital down 20% in Q1. We expect NIKE Digital to decline double digits in fiscal '25 versus the prior year. In Q1, these franchises were down nearly 50% versus the prior year on NIKE Digital."
+      },
+      {
+        "label": "Elevated inventory requiring promotions",
+        "severity": 4,
+        "evidence": "retail sales underperformed our plan, including our wholesale partners, with slightly elevating marketplace inventories requiring higher levels of promotional activity in Q1 to drive conversion. We are seeing slightly elevated inventory as a result of the retail sales plans falling behind."
+      },
+      {
+        "label": "Gross margin pressure ahead",
+        "severity": 4,
+        "evidence": "We expect Q2 gross margins to be down approximately 150 basis points, with higher promotions, channel mix headwinds, and supply chain deleverage more than offsetting lower product costs and a decreasing benefit from strategic pricing actions."
+      },
+      {
+        "label": "Greater China softness and macro headwinds",
+        "severity": 4,
+        "evidence": "In Greater China, Q1 revenue was down 3%, NIKE Direct declined 16% with NIKE Digital down 34%. This summer, retail sales moderated across the industry, and NIKE was not immune as traffic decelerated in our channels with lower sell-through rates."
+      }
+    ],
+    "themes": [
+      "portfolio_rebalancing",
+      "classics_franchise_reduction",
+      "running_comeback_strategy",
+      "innovation_focus",
+      "digital_channel_weakness",
+      "china_softness",
+      "inventory_management",
+      "promotional_pressure",
+      "leadership_transition",
+      "wholesale_partnership_emphasis",
+      "margin_headwinds",
+      "guidance_withdrawal"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 1.0,
+    "risks_jaccard": 1.0,
+    "themes_jaccard": 1.0,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.0,
+    "agreement_score": 1.0,
+    "agreement_confidence": 1.0
+  },
+  "chosen": {
+    "overall_sentiment": -0.35,
+    "sentiment_bucket": "bearish",
+    "guidance_direction": "lowered",
+    "guidance_confidence": 0.75,
+    "wins": [
+      {
+        "label": "Running momentum building",
+        "severity": 2,
+        "evidence": "men's and women's running footwear delivered positive growth in Q1, a meaningful improvement versus the prior quarter. The order book looking forward is strong with spring '25 footwear units set to grow double digits versus the prior year."
+      },
+      {
+        "label": "New product innovation scaling",
+        "severity": 2,
+        "evidence": "Q1 revenue from new footwear products was up strong double digits versus the prior year. For example, in performance footwear, Sabrina has grown roughly 5x. Kobe has nearly quadrupled and Alphafly has almost tripled."
+      },
+      {
+        "label": "Gross margin expansion in Q1",
+        "severity": 2,
+        "evidence": "Gross margins expanded 120 basis points to 45.4% on a reported basis, primarily due to lower NIKE brand product costs, lower warehousing and logistics costs, and benefits from strategic pricing actions in the prior year."
+      },
+      {
+        "label": "Strong partner engagement and feedback",
+        "severity": 2,
+        "evidence": "Partner feedback on our future product pipeline has been very positive. I had the chance to meet with many of them at our Partner Summit in Paris during the Summer Olympics and directly hear their response to the products and stories that we have coming in our second half."
+      },
+      {
+        "label": "Leadership transition with Elliott Hill",
+        "severity": 2,
+        "evidence": "Elliott is a beloved NIKE veteran who brings a powerful connection to our employees and culture, a deep love for our brands and a passion for sport. Our employees' response to this announcement has been tremendous."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Revenue decline and traffic weakness",
+        "severity": 4,
+        "evidence": "NIKE, Inc. revenue declined 10% on a reported basis and 9% on a currency-neutral basis. Traffic declines across NIKE Direct were more significant than we anticipated. We saw particular softness in traffic on NIKE Digital as well as in our partner stores in Greater China."
+      },
+      {
+        "label": "Digital channel deterioration",
+        "severity": 4,
+        "evidence": "NIKE Digital down 20% in Q1. We expect NIKE Digital to decline double digits in fiscal '25 versus the prior year. In Q1, these franchises were down nearly 50% versus the prior year on NIKE Digital."
+      },
+      {
+        "label": "Elevated inventory requiring promotions",
+        "severity": 4,
+        "evidence": "retail sales underperformed our plan, including our wholesale partners, with slightly elevating marketplace inventories requiring higher levels of promotional activity in Q1 to drive conversion. We are seeing slightly elevated inventory as a result of the retail sales plans falling behind."
+      },
+      {
+        "label": "Gross margin pressure ahead",
+        "severity": 4,
+        "evidence": "We expect Q2 gross margins to be down approximately 150 basis points, with higher promotions, channel mix headwinds, and supply chain deleverage more than offsetting lower product costs and a decreasing benefit from strategic pricing actions."
+      },
+      {
+        "label": "Greater China softness and macro headwinds",
+        "severity": 4,
+        "evidence": "In Greater China, Q1 revenue was down 3%, NIKE Direct declined 16% with NIKE Digital down 34%. This summer, retail sales moderated across the industry, and NIKE was not immune as traffic decelerated in our channels with lower sell-through rates."
+      }
+    ],
+    "themes": [
+      "portfolio_rebalancing",
+      "classics_franchise_reduction",
+      "running_comeback_strategy",
+      "innovation_focus",
+      "digital_channel_weakness",
+      "china_softness",
+      "inventory_management",
+      "promotional_pressure",
+      "leadership_transition",
+      "wholesale_partnership_emphasis",
+      "margin_headwinds",
+      "guidance_withdrawal"
+    ]
+  }
+}

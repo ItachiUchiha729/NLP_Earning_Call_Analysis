@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.95,
+    "wins": [
+        {
+            "label": "Strong Q2 Performance",
+            "severity": 5,
+            "evidence": "The first half and second quarter of 2024 saw some of BlackRock's strongest performance and highest growth rates of the post-pandemic period."
+        },
+        {
+            "label": "Double-Digit Operating Income Growth",
+            "severity": 5,
+            "evidence": "We delivered double-digit operating income growth and expanded our margin by 160 basis points year-over-year."
+        },
+        {
+            "label": "Record AUM",
+            "severity": 5,
+            "evidence": "We ended the second quarter with record AUM of over $10.6 trillion."
+        },
+        {
+            "label": "Strong Organic Base Fee Growth",
+            "severity": 4,
+            "evidence": "We generated 3% annualized organic base fee growth, our highest second quarter in 3 years."
+        },
+        {
+            "label": "Positive Flows",
+            "severity": 4,
+            "evidence": "BlackRock generated total net inflows of $82 billion in the second quarter."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Single-Client Redemption Impact",
+            "severity": 3,
+            "evidence": "Flows were impacted by an approximately $20 billion active fixed income redemption from a large insurance client linked to M&A activity."
+        },
+        {
+            "label": "Regulatory Uncertainty",
+            "severity": 2,
+            "evidence": "At present, we'd expect our planned acquisition of GIP to close in the third quarter of 2024, subject to regulatory approvals and other customary closing conditions."
+        },
+        {
+            "label": "Market Volatility",
+            "severity": 2,
+            "evidence": "Our actual results may differ from these statements. As you know, BlackRock has filed reports with the SEC, which lists some of the factors that may cause the results of BlackRock to differ materially from what we say today."
+        },
+        {
+            "label": "Uncertain Tax Rate",
+            "severity": 2,
+            "evidence": "The actual effective tax rate may differ because of nonrecurring or discrete items or potential changes in tax legislation."
+        },
+        {
+            "label": "Client Behavior Uncertainty",
+            "severity": 2,
+            "evidence": "We believe investors will re-risk, which should improve flows into equities and credit markets, but this is not guaranteed."
+        }
+    ],
+    "themes": ["organic growth", "private markets", "technology", "ETFs", "acquisitions"]
+}

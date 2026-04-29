@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.95,
+    "wins": [
+        {
+            "label": "Strong Q3 financial performance",
+            "severity": 5,
+            "evidence": "The team's commitment to make every FedEx experience outstanding and their consistent execution drove our strong Q3 financial performance."
+        },
+        {
+            "label": "Raised FY '26 adjusted earnings outlook",
+            "severity": 5,
+            "evidence": "Given the strength of our consolidated Q3 results and updated assumptions for Q4, we are raising our FY '26 adjusted earnings outlook to $19.30 to $20.10 per diluted share."
+        },
+        {
+            "label": "Margin expansion at FEC",
+            "severity": 4,
+            "evidence": "This marked our sixth consecutive quarter of margin expansion, allowing us to grow adjusted operating income 18%."
+        },
+        {
+            "label": "Network 2.0 progress",
+            "severity": 4,
+            "evidence": "By the end of this month, about 35% of eligible volume will flow through nearly 400 Network 2.0 optimized facilities."
+        },
+        {
+            "label": "Revenue share gains in B2B verticals",
+            "severity": 4,
+            "evidence": "Revenue share gains in our priority B2B verticals were an important driver of our Q3 performance."
+        }
+    ],
+    "risks": [
+        {
+            "label": "LTL industry trends",
+            "severity": 4,
+            "evidence": "Freight results remain pressured as a result of ongoing LTL industry trends, along with increased separation-related expenses."
+        },
+        {
+            "label": "MD-11 fleet grounding",
+            "severity": 3,
+            "evidence": "The MD-11 grounding led to a headwind of $120 million of adjusted operating income in the quarter due to higher operating costs and lost revenue."
+        },
+        {
+            "label": "Separation-related costs",
+            "severity": 3,
+            "evidence": "We incurred approximately $60 million in separation-related costs that were not adjusted out of our results."
+        },
+        {
+            "label": "Fuel price volatility",
+            "severity": 2,
+            "evidence": "Fuel surcharge is indexed to fuel prices published by the U.S. Department of Energy, allowing us to protect profitability during periods of energy price volatility."
+        },
+        {
+            "label": "Global trade policy changes",
+            "severity": 2,
+            "evidence": "We continue to experience headwinds tied to changing global trade policies."
+        }
+    ],
+    "themes": ["Network transformation", "B2B growth", "Margin expansion", "CapEx discipline", "Spin-off progress"]
+}

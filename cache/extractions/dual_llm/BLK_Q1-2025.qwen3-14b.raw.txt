@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.95,
+    "wins": [
+        {
+            "label": "Strong Organic Growth",
+            "severity": 5,
+            "evidence": "Our strategy to anchor our business and structural growth engines like private markets, ETFs, digital assets, whole portfolio solutions, systematic and tax-managed strategies and technology, that strategy helped again deliver above target 6% organic base fee growth."
+        },
+        {
+            "label": "Margin Expansion",
+            "severity": 4,
+            "evidence": "100 basis points of margin expansion in the first quarter of 2025."
+        },
+        {
+            "label": "Record AUM and Inflows",
+            "severity": 5,
+            "evidence": "We finished the record quarter with record AUM, record units of trust of $11.6 trillion."
+        },
+        {
+            "label": "Diversified Growth",
+            "severity": 4,
+            "evidence": "Net inflows and organic base fee growth were well diversified across the entire BlackRock platform."
+        },
+        {
+            "label": "Strategic Acquisitions",
+            "severity": 4,
+            "evidence": "We've built our business around structural growers, ETFs, private markets, tax managed and systematic, data-driven investing and whole portfolio solutions."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Market Volatility",
+            "severity": 3,
+            "evidence": "Markets may take some time to sort out saber-rattling around trade and tariffs."
+        },
+        {
+            "label": "Regulatory Uncertainty",
+            "severity": 3,
+            "evidence": "We do think of ourselves as a U.S. firm with international offices. We're a European firm. We're a Canadian firm. We're a Middle Eastern firm."
+        },
+        {
+            "label": "Geopolitical Tensions",
+            "severity": 2,
+            "evidence": "We're in a period of geopolitical and economic activity, but we have seen this before."
+        },
+        {
+            "label": "Client Redemptions",
+            "severity": 2,
+            "evidence": "Institutional index net outflows of $46 billion were concentrated in low fee index equities."
+        },
+        {
+            "label": "Regulatory Delays",
+            "severity": 2,
+            "evidence": "We do think for the opportunity to be really broad, really scalable and the most tangible, we'd likely need to see litigation reform or at least some advice reform in the U.S."
+        }
+    ],
+    "themes": ["organic growth", "private markets", "ETFs", "digital assets", "global expansion", "technology", "capital markets", "infrastructure", "AI", "retirement solutions"]
+}

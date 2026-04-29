@@ -1,0 +1,217 @@
+{
+  "_ticker": "FDX",
+  "_quarter": "Q4-2025",
+  "_call_date": "2025-06-24",
+  "primary_model": "qwen3:14b",
+  "secondary_model": "gemma3:4b",
+  "primary": {
+    "overall_sentiment": 0.6,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Cost Reduction Achievements",
+        "severity": 5,
+        "evidence": "We delivered on our $2.2 billion drive structural cost reduction commitment."
+      },
+      {
+        "label": "Network Optimization",
+        "severity": 4,
+        "evidence": "We advanced Network 2.0 in FY '25 as we began optimizing larger, more densely populated markets."
+      },
+      {
+        "label": "Strong Cash Returns",
+        "severity": 4,
+        "evidence": "We returned $4.3 billion in cash to stockholders."
+      },
+      {
+        "label": "Operational Leverage",
+        "severity": 3,
+        "evidence": "On a 1% increase in revenue, we grew adjusted operating income by 9%."
+      },
+      {
+        "label": "Strategic Flexibility",
+        "severity": 3,
+        "evidence": "We flexed our network to match the demand environment as trade flows shifted."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Global Trade Policy Uncertainty",
+        "severity": 5,
+        "evidence": "Trade policies are evolving and trade patterns are changing."
+      },
+      {
+        "label": "Tariff Impact",
+        "severity": 4,
+        "evidence": "The trade-related events of the fourth quarter showcased our ability to leverage both the scale and the flexibility of our unrivaled global network."
+      },
+      {
+        "label": "B2B Volume Pressures",
+        "severity": 4,
+        "evidence": "Higher-margin B2B volumes remain pressured, which affected both FAC and freight results."
+      },
+      {
+        "label": "Postal Service Contract Expiration",
+        "severity": 3,
+        "evidence": "The expiration of our U.S. postal service contract is a significant headwind."
+      },
+      {
+        "label": "Industrial Economy Weakness",
+        "severity": 3,
+        "evidence": "The prolonged weakness in the industrial economy continues to challenge FedEx Freight results."
+      }
+    ],
+    "themes": [
+      "network optimization",
+      "cost reduction",
+      "global trade",
+      "operational efficiency",
+      "strategic transformation"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.25,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Strong FY '25 Results",
+        "severity": 4,
+        "evidence": "Delivered an 8% increase in adjusted operating income on a 1% increase in revenue despite a challenging demand environment."
+      },
+      {
+        "label": "DRIVE Savings Achievement",
+        "severity": 5,
+        "evidence": "Achieved the $2.2 billion drive structural cost reduction commitment and the 2-year $4 billion drive target compared to the FY '23 baseline."
+      },
+      {
+        "label": "Network 2.0 Progress",
+        "severity": 4,
+        "evidence": "Completed optimization of Canada and 45 U.S. stations in Q4, with approximately 2.5 million average daily volume flowing through Network 2.0 optimized stations by the end of June."
+      },
+      {
+        "label": "Improved Freight Profitability",
+        "severity": 3,
+        "evidence": "Achieved an operating margin of 20.8% in Q4 for FedEx Freight."
+      },
+      {
+        "label": "Tricolor Strategy Success",
+        "severity": 4,
+        "evidence": "Delivered 5% growth in international air freight revenue in Q4 with a high profit flow-through, driven by the Tricolor strategy."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Global Trade Headwinds",
+        "severity": 4,
+        "evidence": "Tariff-related events impacted China to U.S. volumes, leading to a material headwind on the Asia to U.S. lane."
+      },
+      {
+        "label": "Industrial Economy Weakness",
+        "severity": 5,
+        "evidence": "Continued weakness in the industrial economy pressured B2B volumes and impacted FedEx Freight operating income."
+      },
+      {
+        "label": "U.S. Postal Service Contract Expiration",
+        "severity": 3,
+        "evidence": "Expiration of the U.S. Postal Service contract resulted in a $165 million headwind in Q4."
+      },
+      {
+        "label": "Uncertain Macroeconomic Environment",
+        "severity": 4,
+        "evidence": "Guidance for Q1 is based on current trade policy and demand trends, reflecting the volatile macroeconomic environment."
+      },
+      {
+        "label": "Competition in Pricing",
+        "severity": 3,
+        "evidence": "Increased customer concerns and softened volumes following the April 2 tariff announcement highlighted competitive pressures in the pricing environment."
+      }
+    ],
+    "themes": [
+      "transformation",
+      "network optimization",
+      "cost reduction",
+      "global trade",
+      "customer focus"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 0.0,
+    "risks_jaccard": 0.1111111111111111,
+    "themes_jaccard": 0.42857142857142855,
+    "guidance_match": 0.0,
+    "sentiment_gap": 0.35,
+    "agreement_score": 0.14047619047619048,
+    "agreement_confidence": 0.09130952380952381
+  },
+  "chosen": {
+    "overall_sentiment": 0.6,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Cost Reduction Achievements",
+        "severity": 5,
+        "evidence": "We delivered on our $2.2 billion drive structural cost reduction commitment."
+      },
+      {
+        "label": "Network Optimization",
+        "severity": 4,
+        "evidence": "We advanced Network 2.0 in FY '25 as we began optimizing larger, more densely populated markets."
+      },
+      {
+        "label": "Strong Cash Returns",
+        "severity": 4,
+        "evidence": "We returned $4.3 billion in cash to stockholders."
+      },
+      {
+        "label": "Operational Leverage",
+        "severity": 3,
+        "evidence": "On a 1% increase in revenue, we grew adjusted operating income by 9%."
+      },
+      {
+        "label": "Strategic Flexibility",
+        "severity": 3,
+        "evidence": "We flexed our network to match the demand environment as trade flows shifted."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Global Trade Policy Uncertainty",
+        "severity": 5,
+        "evidence": "Trade policies are evolving and trade patterns are changing."
+      },
+      {
+        "label": "Tariff Impact",
+        "severity": 4,
+        "evidence": "The trade-related events of the fourth quarter showcased our ability to leverage both the scale and the flexibility of our unrivaled global network."
+      },
+      {
+        "label": "B2B Volume Pressures",
+        "severity": 4,
+        "evidence": "Higher-margin B2B volumes remain pressured, which affected both FAC and freight results."
+      },
+      {
+        "label": "Postal Service Contract Expiration",
+        "severity": 3,
+        "evidence": "The expiration of our U.S. postal service contract is a significant headwind."
+      },
+      {
+        "label": "Industrial Economy Weakness",
+        "severity": 3,
+        "evidence": "The prolonged weakness in the industrial economy continues to challenge FedEx Freight results."
+      }
+    ],
+    "themes": [
+      "network optimization",
+      "cost reduction",
+      "global trade",
+      "operational efficiency",
+      "strategic transformation"
+    ]
+  }
+}

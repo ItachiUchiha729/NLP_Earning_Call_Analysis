@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.4,
+    "sentiment_bucket": "neutral",
+    "guidance_direction": "lowered",
+    "guidance_confidence": 0.75,
+    "wins": [
+        {
+            "label": "DRIVE savings progress",
+            "severity": 4,
+            "evidence": "We achieved DRIVE savings of $540 million in Q2."
+        },
+        {
+            "label": "Network 2.0 rollout",
+            "severity": 3,
+            "evidence": "Network 2.0 rollout continued, and the Canadian market integration will be largely complete in early calendar year '25."
+        },
+        {
+            "label": "Improved European performance",
+            "severity": 3,
+            "evidence": "Our European business is predominantly a ground-based business. We introduced new European leadership over the summer, including a senior operator from our U.S. service team."
+        },
+        {
+            "label": "New sorting facility",
+            "severity": 2,
+            "evidence": "In October, just in time for peak, we celebrated the grand opening of a new state-of-the-art sorting facility at our Memphis World Hub."
+        },
+        {
+            "label": "Strong peak season performance",
+            "severity": 3,
+            "evidence": "So far during peak, they're delivering more packages per day on average while maintaining the high-quality shipping experience that our customers expect."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Soft industrial economy",
+            "severity": 5,
+            "evidence": "The soft industrial economy, coupled with difficult year-over-year comparisons, weighed on our Freight segment in the second quarter."
+        },
+        {
+            "label": "USPS contract expiration",
+            "severity": 4,
+            "evidence": "The expiration of the U.S. Postal Service contract negatively affected 2 months of the quarter, resulting in additional operating profit headwind."
+        },
+        {
+            "label": "Lower B2B volumes",
+            "severity": 4,
+            "evidence": "B2B revenues comprising nearly 60% of our package business and 90% of our LTL business, we are well positioned for profitable growth when the industrial economy recovers."
+        },
+        {
+            "label": "Competitive pricing environment",
+            "severity": 3,
+            "evidence": "The pricing environment is competitive, but I'm encouraged that revenue quality actions are gaining traction."
+        },
+        {
+            "label": "Revised EPS outlook",
+            "severity": 4,
+            "evidence": "We are revising our FY '25 adjusted diluted EPS outlook to $19 to $20 compared to the prior range of $20 to $21."
+        }
+    ],
+    "themes": ["DRIVE savings", "Network 2.0", "Separation of FedEx Freight", "Peak season performance", "Industrial economy weakness"]
+}

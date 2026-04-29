@@ -1,0 +1,74 @@
+```json
+{
+  "overall_sentiment": 0.82,
+  "sentiment_bucket": "very_bullish",
+  "guidance_direction": "raised",
+  "guidance_confidence": 0.85,
+  "wins": [
+    {
+      "label": "Strong 2025 execution and portfolio momentum",
+      "severity": 1,
+      "evidence": "We said 2025 would be a catapult year for Johnson & Johnson, and that's exactly what it was. It was a year that launched us into a new era of accelerated growth."
+    },
+    {
+      "label": "Oncology growth acceleration and market leadership",
+      "severity": 1,
+      "evidence": "In 2025, we delivered 21% operational sales growth, and we expect to exceed $50 billion in annual sales by 2030."
+    },
+    {
+      "label": "TREMFYA blockbuster trajectory",
+      "severity": 1,
+      "evidence": "with global full year sales of TREMFYA accelerating to more than $5 billion for the first time, we are increasingly confident that TREMFYA will exceed $10 billion in peak year sales."
+    },
+    {
+      "label": "Strong free cash flow generation and capital flexibility",
+      "severity": 1,
+      "evidence": "The company generated $19.7 billion of free cash flow during 2025, on par with 2024, despite increased capital investment in the U.S. and the impact of tariffs. As we move forward in 2026, we expect to elevate free cash flow generation to approximately $21 billion."
+    },
+    {
+      "label": "Diversified growth across 28 billion-dollar platforms",
+      "severity": 1,
+      "evidence": "we now have 28 platforms or products that generate at least $1 billion of revenue annually, and that makes our growth more sustainable."
+    }
+  ],
+  "risks": [
+    {
+      "label": "STELARA biosimilar erosion and generic competition",
+      "severity": 3,
+      "evidence": "Sales increased 5.3% despite an approximate 620 basis point headwind from STELARA. We anticipate STELARA to continue to follow the HUMIRA erosion curve, which accelerated as we moved through the second half of 2025."
+    },
+    {
+      "label": "Tariff headwinds in MedTech",
+      "severity": 2,
+      "evidence": "full year MedTech tariffs of approximately $500 million, which is significantly above the 2025 amount."
+    },
+    {
+      "label": "Litigation costs and legal uncertainties",
+      "severity": 2,
+      "evidence": "This increase in net expense was driven by higher litigation costs of $0.9 billion, primarily related to the Auris shareholder resolution."
+    },
+    {
+      "label": "International market headwinds and currency exposure",
+      "severity": 2,
+      "evidence": "Growth in the U.S. was 6.9% and 3.4% outside the U.S. for full year 2025, indicating slower international growth."
+    },
+    {
+      "label": "Execution risk on pipeline and new product launches",
+      "severity": 2,
+      "evidence": "we anticipate generic impact for both SIMPONI and OPSUMIT to begin in 2026, both of which are contemplated in our full year guidance."
+    }
+  ],
+  "themes": [
+    "portfolio_transformation",
+    "oncology_leadership",
+    "immunology_blockbusters",
+    "medtech_innovation",
+    "double_digit_growth_trajectory",
+    "cash_generation_strength",
+    "biosimilar_headwinds",
+    "pipeline_derisking",
+    "margin_expansion",
+    "strategic_separation"
+  ]
+}
+```

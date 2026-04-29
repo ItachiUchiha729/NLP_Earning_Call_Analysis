@@ -1,0 +1,217 @@
+{
+  "_ticker": "GS",
+  "_quarter": "Q1-2024",
+  "_call_date": "2024-04-15",
+  "primary_model": "qwen3:14b",
+  "secondary_model": "gemma3:4b",
+  "primary": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "Strong Q1 Results",
+        "severity": 5,
+        "evidence": "We feel very good about our first quarter results, which reflect the strength of our world-class and interconnected franchises and the earnings power of our firm."
+      },
+      {
+        "label": "Capital Markets Reopening",
+        "severity": 4,
+        "evidence": "We're in the early stages of a reopening of the capital markets with the first few months of 2024 seeing a reinvigoration in new issue market access."
+      },
+      {
+        "label": "Record Asset Management Growth",
+        "severity": 4,
+        "evidence": "Assets under supervision rose to a new record of $2.8 trillion this quarter, which represented our 25th consecutive quarter of long-term fee-based net inflows."
+      },
+      {
+        "label": "AI Strategic Positioning",
+        "severity": 3,
+        "evidence": "We are proud to be at the forefront of advising clients on these topics and how to think about potential use cases in their operations."
+      },
+      {
+        "label": "Strong ROE and Earnings",
+        "severity": 5,
+        "evidence": "We generated net revenues of $14.2 billion and net earnings of $4.1 billion, resulting in earnings per share of $11.58, an ROE of 14.8% and an ROTE of 15.9%."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Uncertain Macroeconomic Environment",
+        "severity": 3,
+        "evidence": "The U.S. economy has proven to be resilient, supported by a number of factors, including government spending as well as labor force growth driven by above-trend levels of immigration."
+      },
+      {
+        "label": "Inflation and Geopolitical Tensions",
+        "severity": 3,
+        "evidence": "U.S. equity markets are hovering near record levels at a time when we see headwinds, including concerns around inflation, the commercial real estate market and escalating geopolitical tensions around the world."
+      },
+      {
+        "label": "Regulatory Uncertainty",
+        "severity": 2,
+        "evidence": "The direction of travel on Basel III in terms of expectations around the proposal, certainly more favorable, but there is uncertainty around the final rules."
+      },
+      {
+        "label": "Market Volatility",
+        "severity": 2,
+        "evidence": "The trajectory of the U.S. economy is still uncertain, and the environment is constructive but data-dependent."
+      },
+      {
+        "label": "Private Credit Risks",
+        "severity": 2,
+        "evidence": "How private credit platforms and businesses will respond when we do go through a credit cycle is a little bit unclear at the moment."
+      }
+    ],
+    "themes": [
+      "capital markets reopening",
+      "ai adoption",
+      "asset management growth",
+      "strategic focus",
+      "roe improvement"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.35,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Strong First Quarter Results",
+        "severity": 4,
+        "evidence": "Thank you, operator, and good morning, everyone. Thank you all for joining us. We feel very good about our first quarter results, which reflect the strength of our world-class and interconnected franchises and the earnings power of our firm."
+      },
+      {
+        "label": "Strategic Focus & Core Strengths",
+        "severity": 3,
+        "evidence": "This performance was aided by the swift actions we took last year to narrow our strategic focus and play to our core strengths."
+      },
+      {
+        "label": "Reopening of Capital Markets",
+        "severity": 4,
+        "evidence": "As you can see, we are delivering on our strategy, and we are pleased with the returns we generated this quarter. As laid out in January, we have three strategic objectives: To harness One Goldman Sachs to serve our clients with excellence; to run world-class, differentiated and durable businesses; and to invest to operate at scale."
+      },
+      {
+        "label": "Record Asset Under Supervision",
+        "severity": 5,
+        "evidence": "Across the firm, we are effectively serving clients in what remains a complex operating environment. Looking back on the last year or so, one of the most common questions clients and investors have asked is around the timing of a broader reopening of the capital markets. I've said before that the historically depressed levels of activity wouldn't last forever. CEOs need to make strategic decisions for their firms, companies of all sizes need to raise capital and financial sponsors need to transact to generate returns for their investors."
+      },
+      {
+        "label": "Record FICC Financing Revenues",
+        "severity": 5,
+        "evidence": "Where we stand today, it's clear that we're in the early stages of a reopening of the capital markets with the first few months of 2024 seeing in reinvigoration in new issue market access. For example, there were a number of large IPOs across geographies, and the strong reception across transactions, including the IPOs for Galderma, Reddit and Rank, is the latest sign that investors' risk appetite is growing."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Macroeconomic Uncertainty",
+        "severity": 4,
+        "evidence": "Turning to the macro environment. We continue to be constructive on the health of the U.S. economy. The Fed most recently telegraphed three rate cuts in 2024, but last week's CPI print has lowered market expectations. This will continue to evolve and be highly data-dependent."
+      },
+      {
+        "label": "Potential for Slowing Growth",
+        "severity": 3,
+        "evidence": "I'm also mindful that U.S. equity markets are hovering near record levels at a time when we see -- when we continue to see headwinds, including concerns around inflation, the commercial real estate market and escalating geopolitical tensions around the world. This combination could slow growth."
+      },
+      {
+        "label": "Private Credit Fundraising Challenges",
+        "severity": 4,
+        "evidence": "Alternative assets under supervision totaled $296 billion at the end of the first quarter, driving $486 million in management and other fees. Gross third-party fundraising was $14 billion in the quarter."
+      },
+      {
+        "label": "Basel III Regulatory Uncertainty",
+        "severity": 5,
+        "evidence": "And so I think it's very important to highlight that we have a bunch of private credit assets that we've been focused on, and we've been focused on how we can deploy capital and how we can continue to grow this business."
+      },
+      {
+        "label": "Platform Solutions Losses",
+        "severity": 3,
+        "evidence": "Platform Solutions on Page 8. Overall, segment profitability has improved with a pretax net loss of $117 million for the quarter."
+      }
+    ],
+    "themes": [
+      "capital markets recovery",
+      "strategic focus",
+      "asset management growth",
+      "artificial intelligence",
+      "macroeconomic outlook"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 0.0,
+    "risks_jaccard": 0.0,
+    "themes_jaccard": 0.25,
+    "guidance_match": 0.0,
+    "sentiment_gap": 0.5,
+    "agreement_score": 0.0625,
+    "agreement_confidence": 0.03125
+  },
+  "chosen": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "Strong Q1 Results",
+        "severity": 5,
+        "evidence": "We feel very good about our first quarter results, which reflect the strength of our world-class and interconnected franchises and the earnings power of our firm."
+      },
+      {
+        "label": "Capital Markets Reopening",
+        "severity": 4,
+        "evidence": "We're in the early stages of a reopening of the capital markets with the first few months of 2024 seeing a reinvigoration in new issue market access."
+      },
+      {
+        "label": "Record Asset Management Growth",
+        "severity": 4,
+        "evidence": "Assets under supervision rose to a new record of $2.8 trillion this quarter, which represented our 25th consecutive quarter of long-term fee-based net inflows."
+      },
+      {
+        "label": "AI Strategic Positioning",
+        "severity": 3,
+        "evidence": "We are proud to be at the forefront of advising clients on these topics and how to think about potential use cases in their operations."
+      },
+      {
+        "label": "Strong ROE and Earnings",
+        "severity": 5,
+        "evidence": "We generated net revenues of $14.2 billion and net earnings of $4.1 billion, resulting in earnings per share of $11.58, an ROE of 14.8% and an ROTE of 15.9%."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Uncertain Macroeconomic Environment",
+        "severity": 3,
+        "evidence": "The U.S. economy has proven to be resilient, supported by a number of factors, including government spending as well as labor force growth driven by above-trend levels of immigration."
+      },
+      {
+        "label": "Inflation and Geopolitical Tensions",
+        "severity": 3,
+        "evidence": "U.S. equity markets are hovering near record levels at a time when we see headwinds, including concerns around inflation, the commercial real estate market and escalating geopolitical tensions around the world."
+      },
+      {
+        "label": "Regulatory Uncertainty",
+        "severity": 2,
+        "evidence": "The direction of travel on Basel III in terms of expectations around the proposal, certainly more favorable, but there is uncertainty around the final rules."
+      },
+      {
+        "label": "Market Volatility",
+        "severity": 2,
+        "evidence": "The trajectory of the U.S. economy is still uncertain, and the environment is constructive but data-dependent."
+      },
+      {
+        "label": "Private Credit Risks",
+        "severity": 2,
+        "evidence": "How private credit platforms and businesses will respond when we do go through a credit cycle is a little bit unclear at the moment."
+      }
+    ],
+    "themes": [
+      "capital markets reopening",
+      "ai adoption",
+      "asset management growth",
+      "strategic focus",
+      "roe improvement"
+    ]
+  }
+}

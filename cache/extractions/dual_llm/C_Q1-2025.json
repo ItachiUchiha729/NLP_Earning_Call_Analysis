@@ -1,0 +1,223 @@
+{
+  "_ticker": "C",
+  "_quarter": "Q1-2025",
+  "_call_date": "2025-04-15",
+  "primary_model": "qwen3:14b",
+  "secondary_model": "gemma3:4b",
+  "primary": {
+    "overall_sentiment": 0.75,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.9,
+    "wins": [
+      {
+        "label": "Strong Q1 Performance",
+        "severity": 5,
+        "evidence": "We reported net income of $4.1 billion and earnings per share of $1.96 with an ROTCE of 9.1%. Overall, it was a strong quarter, marked by continued momentum in each of our 5 businesses."
+      },
+      {
+        "label": "Expense Discipline",
+        "severity": 4,
+        "evidence": "We maintained a disciplined approach to our expenses, which declined by 5% year-over-year. We delivered our third consecutive quarter of positive operating leverage for each of our 5 lines of business."
+      },
+      {
+        "label": "Capital Returns",
+        "severity": 4,
+        "evidence": "We returned $2.8 billion in capital to our shareholders including $1.75 billion of buybacks as part of our $20 billion plan, which is about $250 million more than we had originally guided."
+      },
+      {
+        "label": "Strategic Transformation Progress",
+        "severity": 3,
+        "evidence": "Our transformation investments continue to modernize our infrastructure, simplify our processes, and reduce manual touch points."
+      },
+      {
+        "label": "Strong Business Growth",
+        "severity": 5,
+        "evidence": "Services recorded its highest first quarter revenue in a decade. TTS continues to demonstrate momentum in the key underlying drivers across U.S. dollar clearing and cross-border activity."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Macro Uncertainty",
+        "severity": 4,
+        "evidence": "The world is in a wait-and-see mode and is facing a more negative macro outlook than anyone had anticipated at the beginning of the year."
+      },
+      {
+        "label": "Credit Risk",
+        "severity": 3,
+        "evidence": "The ACL build reflects uncertainty and deterioration in the macroeconomic outlook, including a further skew to the downside scenario in our CECL framework."
+      },
+      {
+        "label": "Regulatory and Tax Policy Changes",
+        "severity": 3,
+        "evidence": "In the U.S., regulation and tax policy are all likely to look different in a year's time."
+      },
+      {
+        "label": "Credit Losses",
+        "severity": 3,
+        "evidence": "Cost of credit was $2.7 billion, primarily consisting of net credit losses in card as well as a firm-wide net ACL build."
+      },
+      {
+        "label": "Geopolitical Risks",
+        "severity": 2,
+        "evidence": "The changes underway globally will go beyond trade and tariffs. In the U.S., for example, regulation and tax policy are all likely to look different in a year's time."
+      }
+    ],
+    "themes": [
+      "strong q1 performance",
+      "expense discipline",
+      "capital returns",
+      "strategic transformation",
+      "macro uncertainty",
+      "credit risk",
+      "regulatory changes",
+      "geopolitical risks"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.45,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "bullish",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Strong Q1 Results",
+        "severity": 4,
+        "evidence": "Net income of $4.1 billion and earnings per share of $1.96 with an ROTCE of 9.1%."
+      },
+      {
+        "label": "Disciplined Expense Management",
+        "severity": 5,
+        "evidence": "Expenses declined by 5% year-over-year."
+      },
+      {
+        "label": "Positive Operating Leverage",
+        "severity": 4,
+        "evidence": "Maintained a disciplined approach to expenses and delivered positive operating leverage for each of the 5 businesses."
+      },
+      {
+        "label": "Record Revenue in Services",
+        "severity": 4,
+        "evidence": "Services recorded its highest first quarter revenue in a decade."
+      },
+      {
+        "label": "Increased Return on Capital",
+        "severity": 5,
+        "evidence": "Increased both our return on tangible common equity in each business and our return of capital to our shareholders."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Macroeconomic Uncertainty",
+        "severity": 5,
+        "evidence": "The changes underway globally will go beyond trade and tariffs. Prolonged uncertainty generally hurt confidence."
+      },
+      {
+        "label": "Regulatory Changes",
+        "severity": 4,
+        "evidence": "The administration taking a fresh look at regulations across all industries to unlock growth."
+      },
+      {
+        "label": "Credit Risk",
+        "severity": 4,
+        "evidence": "Cost of credit was $2.7 billion, primarily consisting of net credit losses in card as well as a firm-wide net ACL build, reflecting the uncertainty and deterioration in the macroeconomic outlook."
+      },
+      {
+        "label": "Currency Risk",
+        "severity": 3,
+        "evidence": "Mexican peso depreciation impacting Banamex."
+      },
+      {
+        "label": "Interest Rate Risk",
+        "severity": 4,
+        "evidence": "The NII ex market is up 2% to 3%."
+      }
+    ],
+    "themes": [
+      "strong financial performance",
+      "strategic transformation",
+      "global markets",
+      "risk management",
+      "capital efficiency"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 0.0,
+    "risks_jaccard": 0.1111111111111111,
+    "themes_jaccard": 0.08333333333333333,
+    "guidance_match": 0.0,
+    "sentiment_gap": 0.3,
+    "agreement_score": 0.05416666666666667,
+    "agreement_confidence": 0.03791666666666667
+  },
+  "chosen": {
+    "overall_sentiment": 0.75,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.9,
+    "wins": [
+      {
+        "label": "Strong Q1 Performance",
+        "severity": 5,
+        "evidence": "We reported net income of $4.1 billion and earnings per share of $1.96 with an ROTCE of 9.1%. Overall, it was a strong quarter, marked by continued momentum in each of our 5 businesses."
+      },
+      {
+        "label": "Expense Discipline",
+        "severity": 4,
+        "evidence": "We maintained a disciplined approach to our expenses, which declined by 5% year-over-year. We delivered our third consecutive quarter of positive operating leverage for each of our 5 lines of business."
+      },
+      {
+        "label": "Capital Returns",
+        "severity": 4,
+        "evidence": "We returned $2.8 billion in capital to our shareholders including $1.75 billion of buybacks as part of our $20 billion plan, which is about $250 million more than we had originally guided."
+      },
+      {
+        "label": "Strategic Transformation Progress",
+        "severity": 3,
+        "evidence": "Our transformation investments continue to modernize our infrastructure, simplify our processes, and reduce manual touch points."
+      },
+      {
+        "label": "Strong Business Growth",
+        "severity": 5,
+        "evidence": "Services recorded its highest first quarter revenue in a decade. TTS continues to demonstrate momentum in the key underlying drivers across U.S. dollar clearing and cross-border activity."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Macro Uncertainty",
+        "severity": 4,
+        "evidence": "The world is in a wait-and-see mode and is facing a more negative macro outlook than anyone had anticipated at the beginning of the year."
+      },
+      {
+        "label": "Credit Risk",
+        "severity": 3,
+        "evidence": "The ACL build reflects uncertainty and deterioration in the macroeconomic outlook, including a further skew to the downside scenario in our CECL framework."
+      },
+      {
+        "label": "Regulatory and Tax Policy Changes",
+        "severity": 3,
+        "evidence": "In the U.S., regulation and tax policy are all likely to look different in a year's time."
+      },
+      {
+        "label": "Credit Losses",
+        "severity": 3,
+        "evidence": "Cost of credit was $2.7 billion, primarily consisting of net credit losses in card as well as a firm-wide net ACL build."
+      },
+      {
+        "label": "Geopolitical Risks",
+        "severity": 2,
+        "evidence": "The changes underway globally will go beyond trade and tariffs. In the U.S., for example, regulation and tax policy are all likely to look different in a year's time."
+      }
+    ],
+    "themes": [
+      "strong q1 performance",
+      "expense discipline",
+      "capital returns",
+      "strategic transformation",
+      "macro uncertainty",
+      "credit risk",
+      "regulatory changes",
+      "geopolitical risks"
+    ]
+  }
+}

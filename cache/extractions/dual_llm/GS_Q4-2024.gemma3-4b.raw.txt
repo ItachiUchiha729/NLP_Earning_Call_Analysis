@@ -1,0 +1,74 @@
+```json
+{
+  "overall_sentiment": 0.72,
+  "sentiment_bucket": "very_bullish",
+  "guidance_direction": "raised",
+  "guidance_confidence": 0.78,
+  "wins": [
+    {
+      "label": "Strong revenue growth and profitability",
+      "severity": 1,
+      "evidence": "revenues by 16% to $53.5 billion. We grew our EPS by 77% to $40.54 and improved our ROE by over 500 basis points to 12.7%"
+    },
+    {
+      "label": "Market leadership positions across franchises",
+      "severity": 1,
+      "evidence": "we once again ended the year as the #1 M&A adviser. In Markets, we have the #1 Equities business and a leading FICC franchise"
+    },
+    {
+      "label": "Record durable revenue streams",
+      "severity": 1,
+      "evidence": "management and other fees surpassed $10 billion, exceeding our 2024 target. In addition, alternatives fundraising surpassed $70 billion"
+    },
+    {
+      "label": "Strong capital position and shareholder returns",
+      "severity": 1,
+      "evidence": "In the fourth quarter, we returned approximately $3 billion to common shareholders, including common stock repurchases of $2 billion and dividends of $965 million"
+    },
+    {
+      "label": "Positive business momentum and backlog",
+      "severity": 2,
+      "evidence": "our Investment Banking backlog rose sequentially and remains robust, particularly in Advisory. The intensity of our client dialogues has been increasing, and we're seeing renewed CEO confidence"
+    }
+  ],
+  "risks": [
+    {
+      "label": "Regulatory uncertainty and litigation",
+      "severity": 3,
+      "evidence": "trade groups representing the major U.S. banks, including Goldman Sachs, filed suit against the Federal Reserve. We have long been concerned that the lack of transparency and the Fed's current stress testing creates uncertainty"
+    },
+    {
+      "label": "Platform Solutions drag on returns",
+      "severity": 3,
+      "evidence": "Platform Solutions, where we still have the Apple Card platform, this year, depending on how you look at it, I'll give you rough numbers, was a 75 to 100 basis point drag on the firm's overall ROE"
+    },
+    {
+      "label": "Macro environment volatility and policy uncertainty",
+      "severity": 3,
+      "evidence": "While there remains some policy uncertainty, there is an expectation that the regulatory burden will be reduced. I could wake up in 3 months and there could be things going on in the world that would change that perspective"
+    },
+    {
+      "label": "Credit risk in growing financing business",
+      "severity": 2,
+      "evidence": "Of course, we're incredibly focused on risk management and credit risk and the scale of that business against our equity base and our balance sheet"
+    },
+    {
+      "label": "AWM returns still below mid-teens target",
+      "severity": 2,
+      "evidence": "we've met our medium-term margin, target margin, but we have not yet improved the returns in that business to the levels that we believe that we can return them"
+    }
+  ],
+  "themes": [
+    "strong_execution",
+    "market_leadership",
+    "capital_markets_recovery",
+    "regulatory_headwinds",
+    "organic_growth_strategy",
+    "operational_efficiency",
+    "alternatives_expansion",
+    "wealth_management_scaling",
+    "financing_opportunities",
+    "shareholder_returns"
+  ]
+}
+```

@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.75,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.9,
+    "wins": [
+        {
+            "label": "Strong Revenue Growth",
+            "severity": 5,
+            "evidence": "We exceeded our full year revenue target with revenues up 5% ex divestitures."
+        },
+        {
+            "label": "Fee Revenue Growth",
+            "severity": 4,
+            "evidence": "Fee revenue was up 17%, and we saw a smaller impact from Argentina's currency devaluation."
+        },
+        {
+            "label": "Improved Efficiency",
+            "severity": 4,
+            "evidence": "We improved our efficiency ratio by 340 bps whilst increasing investment in our transformation."
+        },
+        {
+            "label": "Positive Operating Leverage",
+            "severity": 4,
+            "evidence": "Our 5 core businesses each generated positive operating leverage for the full year."
+        },
+        {
+            "label": "Capital Return Commitment",
+            "severity": 4,
+            "evidence": "We returned almost $7 billion in capital to our common shareholders in 2024."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Regulatory Uncertainty",
+            "severity": 3,
+            "evidence": "The future of capital rules and therefore, requirements remain uncertain."
+        },
+        {
+            "label": "Elevated Expenses",
+            "severity": 3,
+            "evidence": "Our expense base remained elevated and we remain very focused on bringing down our expenses each year."
+        },
+        {
+            "label": "Credit Risks",
+            "severity": 2,
+            "evidence": "Cost of credit was $2.6 billion, largely consisting of cards, net credit losses and ACL build."
+        },
+        {
+            "label": "Market Conditions for IPO",
+            "severity": 2,
+            "evidence": "The timing of the IPO is heavily dependent on regulatory approvals and market conditions."
+        },
+        {
+            "label": "Lower Interest Rates",
+            "severity": 2,
+            "evidence": "Lower rates in both U.S. and non-U.S. could impact NII ex Markets."
+        }
+    ],
+    "themes": ["revenue_growth", "efficiency_improvement", "capital_return", "regulatory_compliance", "transformation_investment"]
+}

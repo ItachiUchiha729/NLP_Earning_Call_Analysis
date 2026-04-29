@@ -1,0 +1,74 @@
+```json
+{
+  "overall_sentiment": 0.85,
+  "sentiment_bucket": "very_bullish",
+  "guidance_direction": "raised",
+  "guidance_confidence": 0.92,
+  "wins": [
+    {
+      "label": "Record Q1 revenue and exceptional growth",
+      "severity": 1,
+      "evidence": "Revenue of $26 billion was up 18% sequentially and up 262% year-on-year and well above our outlook of $24 billion"
+    },
+    {
+      "label": "Data Center dominance with 427% YoY growth",
+      "severity": 1,
+      "evidence": "Data Center revenue of $22.6 billion was a record, up 23% sequentially and up 427% year-on-year"
+    },
+    {
+      "label": "Blackwell in full production with strong demand",
+      "severity": 1,
+      "evidence": "Blackwell is in full production. Demand for H200 and Blackwell is well ahead of supply, and we expect demand may exceed supply well into next year"
+    },
+    {
+      "label": "Sovereign AI emerging as high single-digit billion opportunity",
+      "severity": 2,
+      "evidence": "From nothing the previous year, we believe sovereign AI revenue can approach the high single-digit billions this year"
+    },
+    {
+      "label": "Spectrum-X opening new market with multibillion potential",
+      "severity": 2,
+      "evidence": "Spectrum-X is ramping in volume with multiple customers. We expect Spectrum-X to jump to a multibillion-dollar product line within a year"
+    }
+  ],
+  "risks": [
+    {
+      "label": "China market significantly weakened by export controls",
+      "severity": 4,
+      "evidence": "Our Data Center revenue in China is down significantly from the level prior to the imposition of the new export control restrictions in October. We expect the market in China to remain very competitive going forward"
+    },
+    {
+      "label": "H200 supply constraints limiting near-term revenue",
+      "severity": 3,
+      "evidence": "While supply for H100 grew, we are still constrained on H200"
+    },
+    {
+      "label": "Gross margin compression expected in Q2",
+      "severity": 2,
+      "evidence": "GAAP and non-GAAP gross margins are expected to be 74.8% and 75.5%, respectively, plus or minus 50 basis points"
+    },
+    {
+      "label": "Potential customer pause on Hopper during Blackwell transition",
+      "severity": 3,
+      "evidence": "Do you anticipate any kind of pause with Hopper and H100 as you sort of migrate to those products?"
+    },
+    {
+      "label": "Increasing competition from cloud providers' custom chips",
+      "severity": 3,
+      "evidence": "many of your cloud customers have announced new or updates to their existing internal programs, right, in parallel to what they're working on with you guys"
+    }
+  ],
+  "themes": [
+    "AI_infrastructure_buildout",
+    "data_center_acceleration",
+    "sovereign_AI_expansion",
+    "product_roadmap_strength",
+    "supply_demand_imbalance",
+    "china_headwinds",
+    "platform_shift",
+    "networking_expansion",
+    "margin_sustainability",
+    "competitive_positioning"
+  ]
+}
+```

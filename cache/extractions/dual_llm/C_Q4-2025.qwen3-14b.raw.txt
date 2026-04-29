@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.95,
+    "wins": [
+        {
+            "label": "Strong revenue growth across all business segments",
+            "severity": 5,
+            "evidence": "With adjusted revenues up 7%, we delivered positive operating leverage in every 1 of our 5 businesses as well as the firm overall for the second straight year."
+        },
+        {
+            "label": "Improved returns and RoTCE",
+            "severity": 5,
+            "evidence": "For the full year, our returns improved to 8.8%, a 180 basis point improvement after adjusting for Banamex and Russia."
+        },
+        {
+            "label": "Significant capital return to shareholders",
+            "severity": 4,
+            "evidence": "We ended the year with a CET1 ratio of 13.2%, which is 160 basis points above our regulatory capital requirement."
+        },
+        {
+            "label": "Transformation progress and efficiency gains",
+            "severity": 4,
+            "evidence": "Over 80% of our programs are now at or nearly at our target state."
+        },
+        {
+            "label": "Positive outlook for 2026",
+            "severity": 4,
+            "evidence": "We expect NII ex-Markets to be up between 5% and 6% in 2026."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Regulatory uncertainty",
+            "severity": 3,
+            "evidence": "The timing is up to the regulators. Getting the work completed is just the beginning of the end, as it were."
+        },
+        {
+            "label": "Market volatility",
+            "severity": 2,
+            "evidence": "The global economy has powered through many shocks over the past few years, creating optimism and confidence that economic growth is poised to continue."
+        },
+        {
+            "label": "Credit risk",
+            "severity": 2,
+            "evidence": "Our reserves continue to incorporate an 8-quarter weighted average unemployment rate of 5.2%, which includes a downside scenario average unemployment rate of nearly 7%."
+        },
+        {
+            "label": "Expense management challenges",
+            "severity": 2,
+            "evidence": "Expenses of $13.8 billion were up 6%, driven by increases in compensation and benefits, tax charges, legal expenses as well as technology."
+        },
+        {
+            "label": "Competition in investment banking",
+            "severity": 2,
+            "evidence": "There is a gap between Citi and best-in-class peers when we think about investment banking, capital markets, et cetera."
+        }
+    ],
+    "themes": ["Transformation", "Capital Return", "Efficiency", "Growth", "Regulatory Compliance"]
+}

@@ -1,0 +1,69 @@
+```json
+{
+    "overall_sentiment": 0.35,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+        {
+            "label": "Record Revenue & Profitability",
+            "severity": 4,
+            "evidence": "2025 saw record revenue of $34.6 billion, up 34% year-over-year, and record net income of $2.5 billion, up 42%."
+        },
+        {
+            "label": "Strong Data Center Growth",
+            "severity": 5,
+            "evidence": "Data Center segment revenue grew 39% year-over-year to a record $5.4 billion, driven by Instinct MI350 Series GPU deployments and server share gains."
+        },
+        {
+            "label": "EPYC Dominance in Server Market",
+            "severity": 4,
+            "evidence": "Fifth-gen EPYC turn CPUs accounted for more than half of the total server revenue, and we exited the year with record server CPU sales to both cloud and enterprise customers."
+        },
+        {
+            "label": "Expanding Instinct Adoption",
+            "severity": 4,
+            "evidence": "8 of the top 10 AI companies use Instinct to power production workloads, and MI350 Series availability expanded significantly."
+        },
+        {
+            "label": "ROCm Ecosystem Expansion",
+            "severity": 3,
+            "evidence": "Millions of large language and multimodal models run out of the box on AMD with the leading models launching with day zero support for Instinct GPUs."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Memory Supply Constraints",
+            "severity": 4,
+            "evidence": "Analysts express concern about potential bottlenecks in memory supply impacting the ramp of recallable systems."
+        },
+        {
+            "label": "PC Market Slowdown",
+            "severity": 3,
+            "evidence": "Expectation of a sequential decline in Client and Gaming revenue due to a potential slowdown in the PC market."
+        },
+        {
+            "label": "Competition in AI Accelerators",
+            "severity": 3,
+            "evidence": "Competitor's development of KV cache offload and ASIC-style compute poses a competitive challenge."
+        },
+        {
+            "label": "7th Year of Console Cycle",
+            "severity": 2,
+            "evidence": "Semi-custom SoC revenue is expected to decline significantly in 2026 as AMD enters the seventh year of the current console cycle."
+        },
+        {
+            "label": "Uncertainty in China Market",
+            "severity": 2,
+            "evidence": "Limited forecasting for MI308 sales in China due to ongoing regulatory uncertainties."
+        }
+    ],
+    "themes": [
+        "AI",
+        "Data Center",
+        "High-Performance Computing",
+        "Gaming",
+        "Embedded Systems"
+    ]
+}
+```

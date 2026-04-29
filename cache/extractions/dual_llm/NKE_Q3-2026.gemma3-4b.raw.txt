@@ -1,0 +1,74 @@
+```json
+{
+  "overall_sentiment": 0.15,
+  "sentiment_bucket": "neutral",
+  "guidance_direction": "lowered",
+  "guidance_confidence": 0.75,
+  "wins": [
+    {
+      "label": "Running business momentum",
+      "severity": 4,
+      "evidence": "NIKE Running up over 20% for the quarter"
+    },
+    {
+      "label": "Nike Mind innovation success",
+      "severity": 4,
+      "evidence": "The Mind 001 sold out in all geographies. We responded by doubling production of Nike Mind over the next 2 seasons to meet demand from more than 2 million consumers who signed up for notify me"
+    },
+    {
+      "label": "North America wholesale acceleration",
+      "severity": 4,
+      "evidence": "Across all dimensions in North America, our wholesale momentum is accelerating...we drove positive growth in all channels in the geography for the first time in 2 years"
+    },
+    {
+      "label": "Inventory cleanup progress",
+      "severity": 3,
+      "evidence": "inventory decreased 1% versus the prior year with units down mid-single digits"
+    },
+    {
+      "label": "Margin recovery trajectory",
+      "severity": 3,
+      "evidence": "Underlying profitability has now improved over 3 consecutive quarters, giving us confidence that we can recover the transitory headwinds to margin"
+    }
+  ],
+  "risks": [
+    {
+      "label": "Tariff impact on margins",
+      "severity": 5,
+      "evidence": "Gross margins declined 130 basis points to 40.2% on a reported basis, primarily due to 300 basis points associated with higher tariffs in North America"
+    },
+    {
+      "label": "Greater China significant decline",
+      "severity": 5,
+      "evidence": "We expect Greater China to be down approximately 20% in the fourth quarter, reflecting reduced sell-in that we highlighted last quarter, as well as accelerated actions to clean up the marketplace"
+    },
+    {
+      "label": "Sportswear headwinds",
+      "severity": 4,
+      "evidence": "Sportswear continues to be a headwind to revenue growth as it declined low double digits in the quarter"
+    },
+    {
+      "label": "EMEA promotional pressure",
+      "severity": 4,
+      "evidence": "Promotions across the marketplace were up versus the prior year as partners manage inventory. We were also more aggressive with promotions on NIKE Digital at the end of the season, which resulted in higher markdowns"
+    },
+    {
+      "label": "Restructuring costs",
+      "severity": 3,
+      "evidence": "$230 million charge we incurred this quarter due to employee-related severance costs primarily in supply chain and technology"
+    }
+  ],
+  "themes": [
+    "turnaround_in_progress",
+    "sport_offense_strategy",
+    "marketplace_cleanup",
+    "innovation_platforms",
+    "wholesale_rebalancing",
+    "tariff_headwinds",
+    "china_challenges",
+    "margin_pressure",
+    "inventory_management",
+    "long_term_rebuilding"
+  ]
+}
+```

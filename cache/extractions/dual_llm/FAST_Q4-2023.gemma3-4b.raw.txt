@@ -1,0 +1,69 @@
+```json
+{
+    "overall_sentiment": 0.25,
+    "sentiment_bucket": "neutral",
+    "guidance_direction": "mixed",
+    "guidance_confidence": 0.7,
+    "wins": [
+        {
+            "label": "Record Operating Cash Flow",
+            "severity": 4,
+            "evidence": "Generated $354 million in operating cash in the fourth quarter of 2023 or $1.43 billion in operating cash for the full year."
+        },
+        {
+            "label": "EPS Growth",
+            "severity": 4,
+            "evidence": "EPS of $0.46, up 8.4% from the fourth quarter of 2022."
+        },
+        {
+            "label": "FMI Device Signing Growth",
+            "severity": 3,
+            "evidence": "FMI Technology. We had a good year with FMI. We did a really nice job of signing 24,126 MEUs, which divided by 253 days, is 95 per day."
+        },
+        {
+            "label": "Digital Footprint Expansion",
+            "severity": 3,
+            "evidence": "Digital Footprint reached 58%, 59% type of neighborhood."
+        },
+        {
+            "label": "Onsite Growth",
+            "severity": 3,
+            "evidence": "58 signings in the fourth quarter of '23. We finished the year with 1,822 locations."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Weak PMI Index",
+            "severity": 5,
+            "evidence": "Since November of 2022, we've seen a sub-50 PMI that when you operate very heavily in the industrial space, that's a big deal for you."
+        },
+        {
+            "label": "Slow Onsite Signings",
+            "severity": 4,
+            "evidence": "58 signings in the fourth quarter of '23. Perhaps, the environment came a little bit tougher late in the year for signing Onsite."
+        },
+        {
+            "label": "Industrial Market Weakness",
+            "severity": 4,
+            "evidence": "Our manufacturing end market continues to grow, but at moderating rates, while our fastener product line experienced contraction in MRO and, for the first time this cycle, OEM products."
+        },
+        {
+            "label": "Shipping Container Disruptions",
+            "severity": 3,
+            "evidence": "I think that when I think of 2023 and then going into 2024, so this is the last year that we've had -- that we'll have some branch closings."
+        },
+        {
+            "label": "Uncertainty in Pricing",
+            "severity": 3,
+            "evidence": "Pricing was consistent and positive and within a typical range of 0% to 2%, with modest deflation within our fastener line."
+        }
+    ],
+    "themes": [
+        "Industrial Slowdown",
+        "Supply Chain Challenges",
+        "Margin Pressure",
+        "Growth Initiatives",
+        "Operational Efficiency"
+    ]
+}
+```

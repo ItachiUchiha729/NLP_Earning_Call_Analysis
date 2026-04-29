@@ -1,0 +1,69 @@
+```json
+{
+  "overall_sentiment": 0.3,
+  "sentiment_bucket": "neutral",
+  "guidance_direction": "mixed",
+  "guidance_confidence": 0.6,
+  "wins": [
+    {
+      "label": "Double-digit sales growth in 2025",
+      "severity": 4,
+      "evidence": "Fastenal delivered a strong fourth quarter capping an impressive 2025 recovery. We achieved double-digit growth in Q4 with daily sales up just over 11%."
+    },
+    {
+      "label": "Key account strategy driving growth",
+      "severity": 4,
+      "evidence": "Jeff Watts noted that Fastenal’s success is driven by increasing sales effectiveness, winning with key accounts and new contracts."
+    },
+    {
+      "label": "FMI technology driving sales",
+      "severity": 3,
+      "evidence": "Nearly half of Q4 sales were transacted through FMI technology or other digital channels."
+    },
+    {
+      "label": "Disciplined cost management",
+      "severity": 4,
+      "evidence": "The organization managed SG&A to 25.4% of net sales in Q4 from 25.9% a year ago."
+    },
+    {
+      "label": "Strong cash flow generation",
+      "severity": 3,
+      "evidence": "Operating cash flow was approximately $370 million, representing 125% of net income."
+    }
+  ],
+  "risks": [
+    {
+      "label": "Macroeconomic uncertainty",
+      "severity": 5,
+      "evidence": "Looking at the broader operating environment in the fourth quarter, the U.S. economy continued to send mixed signals, especially in the industrial sector."
+    },
+    {
+      "label": "Tariff impacts on margins",
+      "severity": 4,
+      "evidence": "Pricing contributed roughly 310 to 340 basis points of our sales growth and pricing actions that helped to offset inflationary pressures but still kept us essentially neutral on price/cost for the year."
+    },
+    {
+      "label": "Holiday timing impacting sales",
+      "severity": 4,
+      "evidence": "Christmas and New Year’s fell midweek, resulting in below normal sequential growth in December."
+    },
+    {
+      "label": "Supplier price pressures",
+      "severity": 3,
+      "evidence": "Pushback like crazy, especially when the increase in cost we're seeing isn't intuitive to the known source of supply by geography."
+    },
+    {
+      "label": "E-business growth deceleration",
+      "severity": 3,
+      "evidence": "The trend of e-business growth has been decelerating for a while, and it's been fairly flat as a percent of total sales."
+    }
+  ],
+  "themes": [
+    "Industrial Sales Growth",
+    "Digital Transformation",
+    "Cost Management",
+    "Supply Chain Resilience",
+    "Customer Engagement"
+  ]
+}
+```

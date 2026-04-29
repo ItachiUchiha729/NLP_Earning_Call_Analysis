@@ -1,0 +1,69 @@
+```json
+{
+  "overall_sentiment": 0.45,
+  "sentiment_bucket": "bullish",
+  "guidance_direction": "raised",
+  "guidance_confidence": 0.85,
+  "wins": [
+    {
+      "label": "Record MI300X GPU Revenue",
+      "severity": 4,
+      "evidence": "Data Center segment revenue increased to $5.5 billion. MI300X GPU shipments drove substantial year-over-year growth."
+    },
+    {
+      "label": "Strong EPYC Adoption",
+      "severity": 5,
+      "evidence": "Enterprise adoption of EPYC CPUs is accelerating, highlighted by deployments with large enterprises, including American Airlines, DBS, Emirates Bank, Shell and STMicro."
+    },
+    {
+      "label": "Significant AI Software Improvements",
+      "severity": 4,
+      "evidence": "We made excellent progress adding upstream support for AMD hardware in the open AI Triton compiler, making it even easier to develop highly performant AI software for AMD platforms."
+    },
+    {
+      "label": "MI300X Production Expansion",
+      "severity": 4,
+      "evidence": "MI300x production deployments expanded at Microsoft, Meta and Oracle to power Generative AI training and inferencing."
+    },
+    {
+      "label": "Versal AI Edge Adoption",
+      "severity": 3,
+      "evidence": "Subaru announced they adopted Versal AI Edge series Gen 2 devices to power the next generation of their EyeSight ADAS system."
+    }
+  ],
+  "risks": [
+    {
+      "label": "Competition in Server CPU Market",
+      "severity": 4,
+      "evidence": "A competitor has announced a high core count product in the coming quarter, potentially impacting AMD's market share."
+    },
+    {
+      "label": "Inventory Normalization",
+      "severity": 3,
+      "evidence": "Embedded segment revenue decreased 46% year-over-year as customers remain focused on normalizing their inventory levels."
+    },
+    {
+      "label": "Gaming Segment Decline",
+      "severity": 3,
+      "evidence": "Gaming segment revenue declined 48% year-over-year and 33% sequentially due to a decrease in semi customer and Radeon GPU sales."
+    },
+    {
+      "label": "Supply Chain Constraints",
+      "severity": 4,
+      "evidence": "CoWoS and/or HBM could be a pretty severe constraining factor for you guys."
+    },
+    {
+      "label": "Market Uncertainty",
+      "severity": 2,
+      "evidence": "While the overall demand environment remain mixed, hyperscalers continued adopting fourth-gen EPYC processors to power more of their internal workloads and public instances."
+    }
+  ],
+  "themes": [
+    "AI Compute",
+    "Data Center Growth",
+    "GPU Technology",
+    "Server Processors",
+    "Innovation"
+  ]
+}
+```

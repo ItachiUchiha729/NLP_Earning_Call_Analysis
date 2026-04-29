@@ -1,0 +1,74 @@
+```json
+{
+  "overall_sentiment": 0.62,
+  "sentiment_bucket": "bullish",
+  "guidance_direction": "reaffirmed",
+  "guidance_confidence": 0.72,
+  "wins": [
+    {
+      "label": "Asset cap removal milestone",
+      "severity": 5,
+      "evidence": "The lifting of the asset cap marks a pivotal milestone in our transformation, along with the termination of 13 orders since 2019, including 7 this year alone."
+    },
+    {
+      "label": "Strong earnings growth",
+      "severity": 4,
+      "evidence": "Our second quarter results reflect the progress we're making to consistently produce stronger financial results with net income, diluted earnings per share and our return on tangible common equity, all up from both the first quarter and a year ago."
+    },
+    {
+      "label": "Improved credit quality",
+      "severity": 4,
+      "evidence": "Credit performance continued to improve and remained strong. Our net loan charge-off ratio declined 13 basis points from a year ago and 1 basis point from the first quarter."
+    },
+    {
+      "label": "Capital flexibility and returns",
+      "severity": 4,
+      "evidence": "We repurchased over $6 billion of common stock during the first half of this year, and during the second quarter, our Board of Directors authorized an additional common stock repurchase program of up to $40 billion."
+    },
+    {
+      "label": "Diversified fee-based income growth",
+      "severity": 3,
+      "evidence": "We continue to invest in our businesses, which has driven higher fee-based income. This growth was diversified with each of our business segments increasing during the first half of the year."
+    }
+  ],
+  "risks": [
+    {
+      "label": "Modest loan growth outlook",
+      "severity": 3,
+      "evidence": "on the consumer side, we're not -- on the mortgage portfolio, we expect that will likely just continue to come down just a little bit in the second half...overall, it's still relatively modest."
+    },
+    {
+      "label": "NII guidance lowered despite asset cap removal",
+      "severity": 3,
+      "evidence": "We currently expect net interest income for 2025 to be roughly in line with full year 2024 net interest income of $47.7 billion...the largest driver is that we have dedicated more balance sheet to our markets business than we originally assumed."
+    },
+    {
+      "label": "Intense competitive pressure on loan spreads",
+      "severity": 3,
+      "evidence": "In most cases, what's holding spreads to be as tight as they are is really the competition we're seeing across the space, particularly in the middle market commercial banking side of things."
+    },
+    {
+      "label": "Macroeconomic uncertainty and tariff risk",
+      "severity": 3,
+      "evidence": "there is uncertainty, and we should recognize there is risk to the downside as the markets seem to have priced in successful outcomes...they are preparing for the downside and are not growing inventories or hiring aggressively."
+    },
+    {
+      "label": "Regulatory capital requirements still in flux",
+      "severity": 2,
+      "evidence": "we've seen over a 13-month period, we've seen our capital requirement go up like 100 -- how much should it go up, 90 basis -- 190 basis -- 90 basis points. And then we saw it come down 120 basis points."
+    }
+  ],
+  "themes": [
+    "regulatory_relief",
+    "capital_deployment",
+    "organic_growth_strategy",
+    "fee_income_diversification",
+    "credit_quality_improvement",
+    "competitive_intensity",
+    "balance_sheet_optimization",
+    "shareholder_returns",
+    "digital_transformation",
+    "expense_discipline"
+  ]
+}
+```

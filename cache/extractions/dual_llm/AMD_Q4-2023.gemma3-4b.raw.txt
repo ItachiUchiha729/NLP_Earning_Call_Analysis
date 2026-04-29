@@ -1,0 +1,69 @@
+```json
+{
+    "overall_sentiment": 0.35,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+        {
+            "label": "Strong Data Center Sales in 2023",
+            "severity": 4,
+            "evidence": "We finished 2023 strong as data center sales accelerated significantly throughout the year despite the mixed demand environment."
+        },
+        {
+            "label": "Record Data Center Revenue",
+            "severity": 5,
+            "evidence": "We delivered record data center segment annual revenue and strong top line and bottom line growth in the fourth quarter, driven by the ramp of Instinct AI accelerators and robust demand for EPYC server CPUs."
+        },
+        {
+            "label": "MI300X Revenue Exceeded Expectations",
+            "severity": 4,
+            "evidence": "Revenue exceeding our $400 million expectation for MI300X GPUs in the fourth quarter."
+        },
+        {
+            "label": "Significant EPYC CPU Adoption",
+            "severity": 4,
+            "evidence": "North American hyperscalers expanded fourth-gen EPYC processor deployments to power their internal workloads and public instances."
+        },
+        {
+            "label": "Strong Customer Traction for Turin",
+            "severity": 3,
+            "evidence": "Customer excitement for our upcoming Turin family of EPYC processors is very strong. Turin is a drop-in replacement for existing fourth-gen EPYC platforms that extends our performance, efficiency and TCO leadership."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Mixed Demand Environment",
+            "severity": 3,
+            "evidence": "Despite strong results, we finished 2023 with mixed demand environment."
+        },
+        {
+            "label": "Server CPU Shipment Decline",
+            "severity": 4,
+            "evidence": "Shipments of AMD’s server CPUs declined north of 20% year-over-year."
+        },
+        {
+            "label": "Inventory Normalization",
+            "severity": 4,
+            "evidence": "Customers continue to focus on reducing their inventory levels."
+        },
+        {
+            "label": "Gaming Segment Decline",
+            "severity": 3,
+            "evidence": "Revenue declined 17% year-over-year and 9% sequentially due to a decrease in semi-custom revenue."
+        },
+        {
+            "label": "Embedded Segment Slowdown",
+            "severity": 4,
+            "evidence": "Revenue decreased 24% year-over-year and 15% sequentially as customers focused on reducing their inventory levels."
+        }
+    ],
+    "themes": [
+        "AI Acceleration",
+        "Data Center Growth",
+        "Server CPU Leadership",
+        "GPU Adoption",
+        "Innovation Roadmap"
+    ]
+}
+```

@@ -1,0 +1,69 @@
+```json
+{
+  "overall_sentiment": 0.25,
+  "sentiment_bucket": "bullish",
+  "guidance_direction": "raised",
+  "guidance_confidence": 0.85,
+  "wins": [
+    {
+      "label": "Strong Q2 Performance",
+      "severity": 4,
+      "evidence": "Revenue was up 7% year-over-year, margin expansion and high teens adjusted EPS growth."
+    },
+    {
+      "label": "Network 2.0 Progress",
+      "severity": 3,
+      "evidence": "24% of eligible average daily volume flowing through Network 2.0 optimized facilities."
+    },
+    {
+      "label": "B2B Growth",
+      "severity": 4,
+      "evidence": "Nearly half of FEC revenue growth was driven by B2B services."
+    },
+    {
+      "label": "Yield Management",
+      "severity": 5,
+      "evidence": "U.S. domestic package yield was up over 5%, driven by higher revenue growth."
+    },
+    {
+      "label": "Strategic Collaboration with ServiceNow",
+      "severity": 3,
+      "evidence": "Launched a global AI program to help teams innovate faster and solve challenges more effectively."
+    }
+  ],
+  "risks": [
+    {
+      "label": "LTL Market Pressure",
+      "severity": 4,
+      "evidence": "FedEx Freight adjusted operating income declined by $70 million and adjusted operating margin contracted 3 percentage points."
+    },
+    {
+      "label": "International Export Headwind",
+      "severity": 3,
+      "evidence": "International export volumes declined, driven again by lower volumes on the China to U.S. lane."
+    },
+    {
+      "label": "MD-11 Groundings Impact",
+      "severity": 5,
+      "evidence": "Q2 adjusted operating income impacted by approximately $25 million due to the MD-11 groundings."
+    },
+    {
+      "label": "Global Trade Policy Changes",
+      "severity": 4,
+      "evidence": "Multiple headwinds including the unexpected grounding of our MD-11 fleet, nationwide air traffic constraints, weakness in the industrial economy and of course, the impact of global trade policy changes."
+    },
+    {
+      "label": "Uncertainty in LTL Industry",
+      "severity": 3,
+      "evidence": "Continued pressure on average daily shipments in the LTL business."
+    }
+  ],
+  "themes": [
+    "Transformation",
+    "Network Optimization",
+    "Yield Management",
+    "Digital Innovation",
+    "Strategic Spin-Off"
+  ]
+}
+```

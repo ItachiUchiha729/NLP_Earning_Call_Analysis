@@ -1,0 +1,69 @@
+```json
+{
+  "overall_sentiment": 0.75,
+  "sentiment_bucket": "very_bullish",
+  "guidance_direction": "bullied",
+  "guidance_confidence": 0.95,
+  "wins": [
+    {
+      "label": "Record Revenue Growth",
+      "severity": 4,
+      "evidence": "Total revenue reached a record $19.3 billion, up 29% year-on-year"
+    },
+    {
+      "label": "Strong AI Semiconductor Performance",
+      "severity": 5,
+      "evidence": "AI semiconductor revenue grew 106% year-on-year to $8.4 billion, way above our outlook"
+    },
+    {
+      "label": "EBITDA Record",
+      "severity": 4,
+      "evidence": "Q1 consolidated adjusted EBITDA hitting a record $13.1 billion, which is 68% of revenue"
+    },
+    {
+      "label": "Custom AI XPU Ramp",
+      "severity": 5,
+      "evidence": "The ramp of custom AI accelerators across all our 5 customers is progressing very well."
+    },
+    {
+      "label": "Networking Share Gain",
+      "severity": 4,
+      "evidence": "Q1 AI networking revenue grew 60% year-on-year and represented 1/3 of total AI revenue."
+    }
+  ],
+  "risks": [
+    {
+      "label": "Hyperscaler COT Initiatives",
+      "severity": 3,
+      "evidence": "Some of these COT initiatives are coming to the market now, but it looks like they're at least 2x less performant than your current generation solutions"
+    },
+    {
+      "label": "Market Uncertainty",
+      "severity": 4,
+      "evidence": "Today, in fact, we have line of sight to achieve AI revenue from chips, just chips, in excess of $100 billion in 2027."
+    },
+    {
+      "label": "Component Supply Constraints",
+      "severity": 4,
+      "evidence": "In these times of constrained capacity in leading-edge wafers, in high-bandwidth memory and substrates ensures the durability of our partnerships"
+    },
+    {
+      "label": "Non-AI Semiconductor Seasonal Decline",
+      "severity": 3,
+      "evidence": "In Q1, revenue was a record $12.5 billion as year-on-year growth accelerated to 52%. This robust growth was driven by AI semiconductor revenue, which grew 106% year-on-year to $8.4 billion, way above our outlook. In Q1, revenue was a record $4.1 billion"
+    },
+    {
+      "label": "Competition from NVIDIA",
+      "severity": 4,
+      "evidence": "They are producing better and better chips with every passing generation."
+    }
+  ],
+  "themes": [
+    "AI Growth",
+    "Semiconductor Leadership",
+    "Networking Innovation",
+    "Strategic Partnerships",
+    "Supply Chain Security"
+  ]
+}
+```

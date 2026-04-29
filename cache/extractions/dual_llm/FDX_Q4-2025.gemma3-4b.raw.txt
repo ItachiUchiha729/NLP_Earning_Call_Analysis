@@ -1,0 +1,69 @@
+```json
+{
+    "overall_sentiment": 0.25,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+        {
+            "label": "Strong FY '25 Results",
+            "severity": 4,
+            "evidence": "Delivered an 8% increase in adjusted operating income on a 1% increase in revenue despite a challenging demand environment."
+        },
+        {
+            "label": "DRIVE Savings Achievement",
+            "severity": 5,
+            "evidence": "Achieved the $2.2 billion drive structural cost reduction commitment and the 2-year $4 billion drive target compared to the FY '23 baseline."
+        },
+        {
+            "label": "Network 2.0 Progress",
+            "severity": 4,
+            "evidence": "Completed optimization of Canada and 45 U.S. stations in Q4, with approximately 2.5 million average daily volume flowing through Network 2.0 optimized stations by the end of June."
+        },
+        {
+            "label": "Improved Freight Profitability",
+            "severity": 3,
+            "evidence": "Achieved an operating margin of 20.8% in Q4 for FedEx Freight."
+        },
+        {
+            "label": "Tricolor Strategy Success",
+            "severity": 4,
+            "evidence": "Delivered 5% growth in international air freight revenue in Q4 with a high profit flow-through, driven by the Tricolor strategy."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Global Trade Headwinds",
+            "severity": 4,
+            "evidence": "Tariff-related events impacted China to U.S. volumes, leading to a material headwind on the Asia to U.S. lane."
+        },
+        {
+            "label": "Industrial Economy Weakness",
+            "severity": 5,
+            "evidence": "Continued weakness in the industrial economy pressured B2B volumes and impacted FedEx Freight operating income."
+        },
+        {
+            "label": "U.S. Postal Service Contract Expiration",
+            "severity": 3,
+            "evidence": "Expiration of the U.S. Postal Service contract resulted in a $165 million headwind in Q4."
+        },
+        {
+            "label": "Uncertain Macroeconomic Environment",
+            "severity": 4,
+            "evidence": "Guidance for Q1 is based on current trade policy and demand trends, reflecting the volatile macroeconomic environment."
+        },
+        {
+            "label": "Competition in Pricing",
+            "severity": 3,
+            "evidence": "Increased customer concerns and softened volumes following the April 2 tariff announcement highlighted competitive pressures in the pricing environment."
+        }
+    ],
+    "themes": [
+        "Transformation",
+        "Network Optimization",
+        "Cost Reduction",
+        "Global Trade",
+        "Customer Focus"
+    ]
+}
+```

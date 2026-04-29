@@ -1,0 +1,74 @@
+```json
+{
+  "overall_sentiment": 0.75,
+  "sentiment_bucket": "very_bullish",
+  "guidance_direction": "raised",
+  "guidance_confidence": 0.85,
+  "wins": [
+    {
+      "label": "Dominant M&A market position",
+      "severity": 1,
+      "evidence": "$1 trillion in announced M&A volumes for 2025 year-to-date, $220 billion ahead of next closest competitor"
+    },
+    {
+      "label": "Record AWM assets and fundraising",
+      "severity": 1,
+      "evidence": "Assets under supervision rose to record $3.5 trillion; alternatives fundraising record $33 billion in quarter, expecting ~$100 billion for full year"
+    },
+    {
+      "label": "Strong consecutive quarter performance",
+      "severity": 1,
+      "evidence": "FICC and Equities rose on year-over-year basis for seventh consecutive quarter; record year-to-date equities performance"
+    },
+    {
+      "label": "Robust investment banking pipeline",
+      "severity": 1,
+      "evidence": "Quarter end backlog at highest level in 3 years; sponsor activity tracking 40% higher versus last year with $1 trillion dry powder"
+    },
+    {
+      "label": "Strategic growth initiatives",
+      "severity": 2,
+      "evidence": "Industry Ventures acquisition and T. Rowe Price partnership to accelerate AWM growth; One Goldman Sachs 3.0 AI-driven transformation"
+    }
+  ],
+  "risks": [
+    {
+      "label": "Market exuberance and AI bubble risk",
+      "severity": 3,
+      "evidence": "fair amount of investor exuberance at the moment with U.S. equity markets consistently hitting record highs; periods of broad-based excitement around new technologies, there will ultimately be a divergence where some ventures thrive and others falter"
+    },
+    {
+      "label": "Private credit market concerns",
+      "severity": 3,
+      "evidence": "headlines and some right, some misplaced around risks on the private credit side; though firm claims no direct exposure to recent problem names"
+    },
+    {
+      "label": "Equity intermediation softness",
+      "severity": 2,
+      "evidence": "Equities intermediation revenues of $2 billion fell 9% year-over-year driven by lower revenues in cash products"
+    },
+    {
+      "label": "Regulatory uncertainty remains",
+      "severity": 2,
+      "evidence": "NPR on CCAR averaging is still outstanding; though expecting progress, timeline uncertain with clarity expected fall 2025 and H1 2026"
+    },
+    {
+      "label": "Credit cycle risk if downturn occurs",
+      "severity": 3,
+      "evidence": "if you got into a period where we had a credit cycle which we have not had in quite some time, there'd be headwinds for all the banks"
+    }
+  ],
+  "themes": [
+    "M&A leadership",
+    "AWM growth strategy",
+    "AI-driven transformation",
+    "Risk management discipline",
+    "Regulatory tailwinds",
+    "Market cycle awareness",
+    "Private credit selectivity",
+    "Financing revenue strength",
+    "Strategic partnerships",
+    "Capital return to shareholders"
+  ]
+}
+```

@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.95,
+    "wins": [
+        {
+            "label": "Strong Data Center Revenue Growth",
+            "severity": 5,
+            "evidence": "Data Center segment revenue increased 14% year-over-year to $3.2 billion."
+        },
+        {
+            "label": "EPYC and Ryzen Sales Outperformance",
+            "severity": 5,
+            "evidence": "Revenue exceeded the midpoint of guidance as higher EPYC and Ryzen processor sales more than offset headwinds from export controls."
+        },
+        {
+            "label": "MI350 Series Adoption",
+            "severity": 5,
+            "evidence": "We made solid progress with MI300 and MI325 in the quarter, closing new wins and expanding adoption with Tier 1 customers."
+        },
+        {
+            "label": "Strong Free Cash Flow",
+            "severity": 4,
+            "evidence": "We delivered over $1 billion in free cash flow."
+        },
+        {
+            "label": "AI Software Advancements",
+            "severity": 4,
+            "evidence": "ROCm 7 delivers more than 3x higher inferencing and training performance compared to our prior generation."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Export Controls Impacting MI308 Sales",
+            "severity": 4,
+            "evidence": "U.S. export restrictions effectively eliminated MI308 sales to China."
+        },
+        {
+            "label": "Inventory Write-Down",
+            "severity": 3,
+            "evidence": "Excluding the $800 million inventory write-down related to data center AI export controls, gross margin was 54%."
+        },
+        {
+            "label": "Uncertainty in License Approvals for MI308",
+            "severity": 3,
+            "evidence": "As our licenses are still under review, we are not including any MI308 revenue in our third quarter guidance."
+        },
+        {
+            "label": "Gross Margin Pressure from MI Products",
+            "severity": 3,
+            "evidence": "The gross margin for our MI product is a little bit below corporate average."
+        },
+        {
+            "label": "Seasonal Decline in Gaming Segment",
+            "severity": 2,
+            "evidence": "We expect Gaming revenue to be flattish in the third quarter."
+        }
+    ],
+    "themes": ["AI", "EPYC", "Ryzen", "MI350", "ROCm", "Data Center", "Gaming", "Sovereign AI", "Helios"]
+}

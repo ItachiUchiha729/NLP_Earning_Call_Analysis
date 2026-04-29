@@ -1,0 +1,69 @@
+```json
+{
+    "overall_sentiment": 0.65,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+        {
+            "label": "Record MI300 GPU Revenue",
+            "severity": 4,
+            "evidence": "MI300 quarterly revenue exceeding $1 billion for the first time"
+        },
+        {
+            "label": "Strong Data Center Growth",
+            "severity": 5,
+            "evidence": "Data Center segment revenue increased 115% year-over-year to a record $2.8 billion"
+        },
+        {
+            "label": "Increased Azure VM Instances",
+            "severity": 4,
+            "evidence": "The number of AMD-powered cloud instances available from the largest providers has increased 34% from a year ago to more than 900"
+        },
+        {
+            "label": "Large Enterprise Wins",
+            "severity": 4,
+            "evidence": "Closed multiple large wins in the quarter with financial services, technology, health care, retail, manufacturing, and transportation customers, including Adobe, Boeing, Industrial Light & Magic, Optiver, and Siemens"
+        },
+        {
+            "label": "MI325X Launch Planned",
+            "severity": 3,
+            "evidence": "We are accelerating and expanding our Instinct road map to deliver an annual cadence of AI accelerators, starting with the launch of MI325X later this year"
+        }
+    ],
+    "risks": [
+        {
+            "label": "Gaming Segment Decline",
+            "severity": 3,
+            "evidence": "Revenue declined 59% year-over-year to $648 million as semi-custom SoC sales declined in line with our projections"
+        },
+        {
+            "label": "Embedded Segment Slowdown",
+            "severity": 2,
+            "evidence": "Revenue decreased 41% year-over-year to $861 million. The first quarter marked the bottom for our Embedded segment revenue"
+        },
+        {
+            "label": "Memory Supply Constraints",
+            "severity": 4,
+            "evidence": "Memory is a tricky business but we've done it very well"
+        },
+        {
+            "label": "Competition in AI PC Market",
+            "severity": 3,
+            "evidence": "I think you actually said it well. We are launching Zen 5 desktops and notebooks with volume ramping in the third quarter, and that’s the primary reason that we see above-seasonal"
+        },
+        {
+            "label": "Gross Margin Pressure",
+            "severity": 3,
+            "evidence": "We have made a lot of progress, as you mentioned, this year to expand our gross margin from 50 percentage point to, we actually guided 53.5% for Q3"
+        }
+    ],
+    "themes": [
+        "Artificial Intelligence",
+        "Data Center",
+        "Client Computing",
+        "Gaming",
+        "Embedded Systems"
+    ]
+}
+```

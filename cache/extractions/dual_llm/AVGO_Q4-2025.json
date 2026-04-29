@@ -1,0 +1,217 @@
+{
+  "_ticker": "AVGO",
+  "_quarter": "Q4-2025",
+  "_call_date": "2025-12-11",
+  "primary_model": "qwen3:14b",
+  "secondary_model": "gemma3:4b",
+  "primary": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "AI Semiconductor Growth",
+        "severity": 5,
+        "evidence": "AI revenue grew 65% year-over-year to $20 billion, driving the semiconductor revenue for this company to a record $37 billion for the year."
+      },
+      {
+        "label": "Strong Backlog",
+        "severity": 5,
+        "evidence": "We have $73 billion of backlog in place secured of XPUs, switches, DSPs, lasers for AI data centers that we anticipate shipping over the next 18 months."
+      },
+      {
+        "label": "Revenue Guidance Increase",
+        "severity": 4,
+        "evidence": "We expect consolidated revenue of approximately $19.1 billion for Q1, up 28% year-on-year."
+      },
+      {
+        "label": "Dividend Increase",
+        "severity": 3,
+        "evidence": "We are announcing an increase in our quarterly common stock cash dividend in Q1 fiscal 2026 to $0.65 per share, an increase of 10% from the prior quarter."
+      },
+      {
+        "label": "Infrastructure Software Growth",
+        "severity": 4,
+        "evidence": "Infrastructure software revenue was up 19% year-on-year and represented 39% of total revenue."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Non-AI Semiconductor Stagnation",
+        "severity": 3,
+        "evidence": "Non-AI semiconductor revenue is expected to be flat from a year ago, down sequentially due to wireless seasonality."
+      },
+      {
+        "label": "Supply Chain Constraints",
+        "severity": 3,
+        "evidence": "We have to address critical supply chain on silicon and packaging, which is an interesting challenge that we have been addressing constantly."
+      },
+      {
+        "label": "Gross Margin Pressure",
+        "severity": 3,
+        "evidence": "AI revenue has a lower gross margin than the rest of our business, and we expect gross margin to start to deteriorate as AI revenue ramps."
+      },
+      {
+        "label": "Customer Customization",
+        "severity": 2,
+        "evidence": "Some customers prefer to control their own destiny by continuing to drive their multiyear journey to create their own custom AI accelerators."
+      },
+      {
+        "label": "Market Competition",
+        "severity": 2,
+        "evidence": "Competitors are also investing in custom silicon and photonic fabric technology, which could potentially disrupt the market."
+      }
+    ],
+    "themes": [
+      "ai growth",
+      "semiconductor demand",
+      "dividend increase",
+      "infrastructure software",
+      "supply chain challenges"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.35,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Record Revenue Growth",
+        "severity": 4,
+        "evidence": "Consolidated revenue grew 24% year-over-year to a record $64 billion, and it's driven by AI semiconductors and VMware."
+      },
+      {
+        "label": "Strong AI Semiconductor Performance",
+        "severity": 5,
+        "evidence": "AI revenue grew 65% year-over-year to $20 billion, driving the semiconductor revenue for this company to a record $37 billion for the year."
+      },
+      {
+        "label": "Record Q4 Revenue",
+        "severity": 4,
+        "evidence": "Total revenue was a record $18 billion, up 28% year-on-year, and above our guidance."
+      },
+      {
+        "label": "Record Q4 EBITDA",
+        "severity": 5,
+        "evidence": "Consolidated adjusted EBITDA was a record $12.12 billion (sic) [ $12.218 billion ], up 34% year-on-year."
+      },
+      {
+        "label": "Tomahawk 6 Switch Demand",
+        "severity": 4,
+        "evidence": "Our current order backlog for AI switches exceeds $10 billion as our latest 102-terabit per second Tomahawk 6 switch, the first and only one of its capability out there, continues to book at record rates."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Non-AI Semiconductor Slowdown",
+        "severity": 3,
+        "evidence": "Year-on-year, broadband showed solid recovery, wireless was flat and all the other end markets were down as enterprise spending continued to show limited signs of recovery."
+      },
+      {
+        "label": "Supply Chain Constraints",
+        "severity": 4,
+        "evidence": "Silicon-wise, now we go back to the same precious source in Taiwan, TSMC. And so we keep going for more and more capacity in 2-nanometers, 3-nanometers."
+      },
+      {
+        "label": "Competition in AI Accelerators",
+        "severity": 3,
+        "evidence": "And if you are an LLM player, where do you put your resources in order to compete in this space, especially when you have to compete at the end of the day against merchant GPU who are not slowing down in the rate of evolution."
+      },
+      {
+        "label": "Uncertainty in Customer Tooling",
+        "severity": 2,
+        "evidence": "Will that mean that over time, they all want to go do it themselves, not necessarily. And in fact, because the technology in silicon keeps updating, keeps evolving. And if you are an LLM player, where do you put your resources in order to compete in this space, especially when you have to compete at the end of the day against merchant GPU who are not slowing down in the rate of evolution."
+      },
+      {
+        "label": "Broadband Market Volatility",
+        "severity": 2,
+        "evidence": "In Q4 revenue of $4.6 billion was up 2% year-on-year and up 16% sequentially based on favorable wireless seasonality."
+      }
+    ],
+    "themes": [
+      "ai semiconductors",
+      "data center infrastructure",
+      "software revenue growth",
+      "supply chain",
+      "financial performance"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 0.0,
+    "risks_jaccard": 0.1111111111111111,
+    "themes_jaccard": 0.0,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.5,
+    "agreement_score": 0.18333333333333332,
+    "agreement_confidence": 0.09166666666666666
+  },
+  "chosen": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "AI Semiconductor Growth",
+        "severity": 5,
+        "evidence": "AI revenue grew 65% year-over-year to $20 billion, driving the semiconductor revenue for this company to a record $37 billion for the year."
+      },
+      {
+        "label": "Strong Backlog",
+        "severity": 5,
+        "evidence": "We have $73 billion of backlog in place secured of XPUs, switches, DSPs, lasers for AI data centers that we anticipate shipping over the next 18 months."
+      },
+      {
+        "label": "Revenue Guidance Increase",
+        "severity": 4,
+        "evidence": "We expect consolidated revenue of approximately $19.1 billion for Q1, up 28% year-on-year."
+      },
+      {
+        "label": "Dividend Increase",
+        "severity": 3,
+        "evidence": "We are announcing an increase in our quarterly common stock cash dividend in Q1 fiscal 2026 to $0.65 per share, an increase of 10% from the prior quarter."
+      },
+      {
+        "label": "Infrastructure Software Growth",
+        "severity": 4,
+        "evidence": "Infrastructure software revenue was up 19% year-on-year and represented 39% of total revenue."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Non-AI Semiconductor Stagnation",
+        "severity": 3,
+        "evidence": "Non-AI semiconductor revenue is expected to be flat from a year ago, down sequentially due to wireless seasonality."
+      },
+      {
+        "label": "Supply Chain Constraints",
+        "severity": 3,
+        "evidence": "We have to address critical supply chain on silicon and packaging, which is an interesting challenge that we have been addressing constantly."
+      },
+      {
+        "label": "Gross Margin Pressure",
+        "severity": 3,
+        "evidence": "AI revenue has a lower gross margin than the rest of our business, and we expect gross margin to start to deteriorate as AI revenue ramps."
+      },
+      {
+        "label": "Customer Customization",
+        "severity": 2,
+        "evidence": "Some customers prefer to control their own destiny by continuing to drive their multiyear journey to create their own custom AI accelerators."
+      },
+      {
+        "label": "Market Competition",
+        "severity": 2,
+        "evidence": "Competitors are also investing in custom silicon and photonic fabric technology, which could potentially disrupt the market."
+      }
+    ],
+    "themes": [
+      "ai growth",
+      "semiconductor demand",
+      "dividend increase",
+      "infrastructure software",
+      "supply chain challenges"
+    ]
+  }
+}

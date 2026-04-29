@@ -1,0 +1,2 @@
+horizon,status,n_train,n_test,alpha,l1_ratio,val_spearman_ic,r2_oos,spearman_ic,directional_acc,event_sharpe,max_drawdown,mean_event_pnl
+21,ok,70,54,0.08,0.2,0.032967032967032975,-0.48426392550838937,-0.037545263960358295,0.5555555555555556,-1.721610724784807,-0.04926583361045467,-0.011043280204944068

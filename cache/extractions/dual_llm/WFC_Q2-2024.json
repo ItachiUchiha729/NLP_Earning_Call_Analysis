@@ -1,0 +1,234 @@
+{
+  "_ticker": "WFC",
+  "_quarter": "Q2-2024",
+  "_call_date": "2024-07-12",
+  "backend": "anthropic",
+  "primary_model": "gemma3:4b",
+  "secondary_model": "gemma3:4b",
+  "single_call_mode": true,
+  "primary": {
+    "overall_sentiment": 0.62,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "mixed",
+    "guidance_confidence": 0.72,
+    "wins": [
+      {
+        "label": "Strong fee-based revenue growth",
+        "severity": 1,
+        "evidence": "noninterest income increased 19% from a year ago, with growth across most categories, reflecting both the benefit of the investments we've been making in our businesses as well as the market conditions"
+      },
+      {
+        "label": "Investment banking momentum",
+        "severity": 1,
+        "evidence": "strong growth in investment banking fees during the first half of the year with Banking revenue increased 3% from a year ago driven by higher investment banking revenue due to increased activity across all products"
+      },
+      {
+        "label": "Credit card portfolio expansion",
+        "severity": 2,
+        "evidence": "Since 2021, we have launched 9 new credit cards and are almost complete in our initial product build-out. The momentum in this business is demonstrated by continued strong credit card spend and new account growth"
+      },
+      {
+        "label": "Deposit stabilization",
+        "severity": 2,
+        "evidence": "Average deposits grew $4.9 billion from the first quarter. Commercial deposits have grown for 3 consecutive quarters as we successfully attracted clients' operational deposits. After declining for nearly 2 years, consumer deposit balances grew modestly from the first quarter"
+      },
+      {
+        "label": "Capital return capacity",
+        "severity": 2,
+        "evidence": "We repurchased over $12 billion of common stock during the first half of this year. And while the pace will slow, we have the capacity to continue repurchasing stock. We expect to increase our third quarter common stock dividend by 14% to $0.40 per share"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Net interest income decline",
+        "severity": 3,
+        "evidence": "net interest income was down $1.2 billion or 9% from a year ago. This decline was driven by higher funding costs, including the impact of lower deposit balances and customers migrating to higher-yielding deposit products"
+      },
+      {
+        "label": "Commercial real estate office portfolio stress",
+        "severity": 4,
+        "evidence": "losses in our commercial real estate office portfolio increased in the second quarter. Fundamentals in the institutional owned office real estate market continued to deteriorate as lower appraisals reflect the weak leasing market in many large metropolitan areas"
+      },
+      {
+        "label": "Regulatory capital constraints",
+        "severity": 3,
+        "evidence": "we remain at risk of further regulatory actions. Operating with a strong capital position in anticipation of the uncertainty the stress test regime imposes on large banks and the potential for increases to our regulatory capital requirements resulting from Basel III finalization"
+      },
+      {
+        "label": "Weak loan demand",
+        "severity": 3,
+        "evidence": "The higher interest rate environment and anticipation of rate cuts continued to result in tepid commercial loan demand. Average commercial and consumer loans were both down from the first quarter"
+      },
+      {
+        "label": "Customer remediation and litigation costs",
+        "severity": 2,
+        "evidence": "we have outstanding litigation, regulatory and customer remediation matters that could impact operating losses during the remainder of the year. Operating losses and the other customer remediation-related expenses have been higher during the first half of the year than we expected"
+      }
+    ],
+    "themes": [
+      "fee_revenue_growth",
+      "investment_banking_expansion",
+      "credit_card_strategy",
+      "deposit_management",
+      "net_interest_income_pressure",
+      "commercial_real_estate_stress",
+      "regulatory_compliance",
+      "capital_return",
+      "efficiency_initiatives",
+      "ai_and_technology_investment"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.62,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "mixed",
+    "guidance_confidence": 0.72,
+    "wins": [
+      {
+        "label": "Strong fee-based revenue growth",
+        "severity": 1,
+        "evidence": "noninterest income increased 19% from a year ago, with growth across most categories, reflecting both the benefit of the investments we've been making in our businesses as well as the market conditions"
+      },
+      {
+        "label": "Investment banking momentum",
+        "severity": 1,
+        "evidence": "strong growth in investment banking fees during the first half of the year with Banking revenue increased 3% from a year ago driven by higher investment banking revenue due to increased activity across all products"
+      },
+      {
+        "label": "Credit card portfolio expansion",
+        "severity": 2,
+        "evidence": "Since 2021, we have launched 9 new credit cards and are almost complete in our initial product build-out. The momentum in this business is demonstrated by continued strong credit card spend and new account growth"
+      },
+      {
+        "label": "Deposit stabilization",
+        "severity": 2,
+        "evidence": "Average deposits grew $4.9 billion from the first quarter. Commercial deposits have grown for 3 consecutive quarters as we successfully attracted clients' operational deposits. After declining for nearly 2 years, consumer deposit balances grew modestly from the first quarter"
+      },
+      {
+        "label": "Capital return capacity",
+        "severity": 2,
+        "evidence": "We repurchased over $12 billion of common stock during the first half of this year. And while the pace will slow, we have the capacity to continue repurchasing stock. We expect to increase our third quarter common stock dividend by 14% to $0.40 per share"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Net interest income decline",
+        "severity": 3,
+        "evidence": "net interest income was down $1.2 billion or 9% from a year ago. This decline was driven by higher funding costs, including the impact of lower deposit balances and customers migrating to higher-yielding deposit products"
+      },
+      {
+        "label": "Commercial real estate office portfolio stress",
+        "severity": 4,
+        "evidence": "losses in our commercial real estate office portfolio increased in the second quarter. Fundamentals in the institutional owned office real estate market continued to deteriorate as lower appraisals reflect the weak leasing market in many large metropolitan areas"
+      },
+      {
+        "label": "Regulatory capital constraints",
+        "severity": 3,
+        "evidence": "we remain at risk of further regulatory actions. Operating with a strong capital position in anticipation of the uncertainty the stress test regime imposes on large banks and the potential for increases to our regulatory capital requirements resulting from Basel III finalization"
+      },
+      {
+        "label": "Weak loan demand",
+        "severity": 3,
+        "evidence": "The higher interest rate environment and anticipation of rate cuts continued to result in tepid commercial loan demand. Average commercial and consumer loans were both down from the first quarter"
+      },
+      {
+        "label": "Customer remediation and litigation costs",
+        "severity": 2,
+        "evidence": "we have outstanding litigation, regulatory and customer remediation matters that could impact operating losses during the remainder of the year. Operating losses and the other customer remediation-related expenses have been higher during the first half of the year than we expected"
+      }
+    ],
+    "themes": [
+      "fee_revenue_growth",
+      "investment_banking_expansion",
+      "credit_card_strategy",
+      "deposit_management",
+      "net_interest_income_pressure",
+      "commercial_real_estate_stress",
+      "regulatory_compliance",
+      "capital_return",
+      "efficiency_initiatives",
+      "ai_and_technology_investment"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 1.0,
+    "risks_jaccard": 1.0,
+    "themes_jaccard": 1.0,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.0,
+    "agreement_score": 1.0,
+    "agreement_confidence": 1.0
+  },
+  "chosen": {
+    "overall_sentiment": 0.62,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "mixed",
+    "guidance_confidence": 0.72,
+    "wins": [
+      {
+        "label": "Strong fee-based revenue growth",
+        "severity": 1,
+        "evidence": "noninterest income increased 19% from a year ago, with growth across most categories, reflecting both the benefit of the investments we've been making in our businesses as well as the market conditions"
+      },
+      {
+        "label": "Investment banking momentum",
+        "severity": 1,
+        "evidence": "strong growth in investment banking fees during the first half of the year with Banking revenue increased 3% from a year ago driven by higher investment banking revenue due to increased activity across all products"
+      },
+      {
+        "label": "Credit card portfolio expansion",
+        "severity": 2,
+        "evidence": "Since 2021, we have launched 9 new credit cards and are almost complete in our initial product build-out. The momentum in this business is demonstrated by continued strong credit card spend and new account growth"
+      },
+      {
+        "label": "Deposit stabilization",
+        "severity": 2,
+        "evidence": "Average deposits grew $4.9 billion from the first quarter. Commercial deposits have grown for 3 consecutive quarters as we successfully attracted clients' operational deposits. After declining for nearly 2 years, consumer deposit balances grew modestly from the first quarter"
+      },
+      {
+        "label": "Capital return capacity",
+        "severity": 2,
+        "evidence": "We repurchased over $12 billion of common stock during the first half of this year. And while the pace will slow, we have the capacity to continue repurchasing stock. We expect to increase our third quarter common stock dividend by 14% to $0.40 per share"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Net interest income decline",
+        "severity": 3,
+        "evidence": "net interest income was down $1.2 billion or 9% from a year ago. This decline was driven by higher funding costs, including the impact of lower deposit balances and customers migrating to higher-yielding deposit products"
+      },
+      {
+        "label": "Commercial real estate office portfolio stress",
+        "severity": 4,
+        "evidence": "losses in our commercial real estate office portfolio increased in the second quarter. Fundamentals in the institutional owned office real estate market continued to deteriorate as lower appraisals reflect the weak leasing market in many large metropolitan areas"
+      },
+      {
+        "label": "Regulatory capital constraints",
+        "severity": 3,
+        "evidence": "we remain at risk of further regulatory actions. Operating with a strong capital position in anticipation of the uncertainty the stress test regime imposes on large banks and the potential for increases to our regulatory capital requirements resulting from Basel III finalization"
+      },
+      {
+        "label": "Weak loan demand",
+        "severity": 3,
+        "evidence": "The higher interest rate environment and anticipation of rate cuts continued to result in tepid commercial loan demand. Average commercial and consumer loans were both down from the first quarter"
+      },
+      {
+        "label": "Customer remediation and litigation costs",
+        "severity": 2,
+        "evidence": "we have outstanding litigation, regulatory and customer remediation matters that could impact operating losses during the remainder of the year. Operating losses and the other customer remediation-related expenses have been higher during the first half of the year than we expected"
+      }
+    ],
+    "themes": [
+      "fee_revenue_growth",
+      "investment_banking_expansion",
+      "credit_card_strategy",
+      "deposit_management",
+      "net_interest_income_pressure",
+      "commercial_real_estate_stress",
+      "regulatory_compliance",
+      "capital_return",
+      "efficiency_initiatives",
+      "ai_and_technology_investment"
+    ]
+  }
+}

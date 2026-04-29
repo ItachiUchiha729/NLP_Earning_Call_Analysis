@@ -1,0 +1,75 @@
+```json
+{
+  "overall_sentiment": 0.72,
+  "sentiment_bucket": "very_bullish",
+  "guidance_direction": "raised",
+  "guidance_confidence": 0.75,
+  "wins": [
+    {
+      "label": "Blackwell ramp exceeding expectations",
+      "severity": 5,
+      "evidence": "Blackwell contributed nearly 70% of Data Center compute revenue in the quarter with the transition from Hopper nearly complete"
+    },
+    {
+      "label": "Inference demand surge from reasoning AI",
+      "severity": 5,
+      "evidence": "We are witnessing a sharp jump in inference demand. OpenAI, Microsoft and Google are seeing a step-function leap in token generation"
+    },
+    {
+      "label": "Record gaming revenue and strong AI PC adoption",
+      "severity": 4,
+      "evidence": "Gaming revenue was a record $3.8 billion, increasing 48% sequentially and 42% year-on-year"
+    },
+    {
+      "label": "Networking business strong sequential growth",
+      "severity": 4,
+      "evidence": "Sequential growth in networking resumed in Q1 with revenue up 64% quarter-over-quarter to $5 billion"
+    },
+    {
+      "label": "Sovereign AI infrastructure buildout accelerating",
+      "severity": 4,
+      "evidence": "nearly 100 NVIDIA-powered AI factories in flight this quarter, a twofold increase year-over-year"
+    }
+  ],
+  "risks": [
+    {
+      "label": "China market access severely restricted",
+      "severity": 5,
+      "evidence": "Losing access to the China AI accelerator market, which we believe will grow to nearly $50 billion, would have a material adverse impact on our business going forward"
+    },
+    {
+      "label": "H20 inventory writedown and lost revenue",
+      "severity": 5,
+      "evidence": "recognized a $4.5 billion charge as we wrote down inventory and purchase obligations tied to orders we had received prior to April 9"
+    },
+    {
+      "label": "Significant Q2 China revenue decline expected",
+      "severity": 4,
+      "evidence": "For Q2, we expect a meaningful decrease in China data center revenue. our outlook reflects a loss in H20 revenue of approximately $8 billion for the second quarter"
+    },
+    {
+      "label": "Gross margin pressure from H20 writedown",
+      "severity": 3,
+      "evidence": "Excluding the $4.5 billion charge, Q1 non-GAAP gross margins would have been 71.3%"
+    },
+    {
+      "label": "Tariff-related uncertainty impacting Pro Visualization",
+      "severity": 2,
+      "evidence": "Tariff-related uncertainty temporarily impacted Q1 systems and demand for our AI workstations is strong"
+    }
+  ],
+  "themes": [
+    "inference_scaling",
+    "reasoning_ai_demand",
+    "blackwell_ramp",
+    "china_export_controls",
+    "sovereign_ai",
+    "enterprise_ai",
+    "networking_growth",
+    "gaming_strength",
+    "industrial_ai",
+    "robotics",
+    "supply_chain_expansion"
+  ]
+}
+```

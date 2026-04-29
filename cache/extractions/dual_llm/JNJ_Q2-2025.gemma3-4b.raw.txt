@@ -1,0 +1,74 @@
+```json
+{
+  "overall_sentiment": 0.82,
+  "sentiment_bucket": "very_bullish",
+  "guidance_direction": "raised",
+  "guidance_confidence": 0.92,
+  "wins": [
+    {
+      "label": "Strong operational growth despite STELARA LOE",
+      "severity": 1,
+      "evidence": "delivered operational sales growth of 4.6% across our business...No other health care company has grown through the loss of exclusivity of a multibillion-dollar product in the first year"
+    },
+    {
+      "label": "Raised full-year guidance significantly",
+      "severity": 1,
+      "evidence": "we are pleased to raise our full year sales guidance by $2 billion and EPS guidance by $0.25 from $10.60 to $10.85"
+    },
+    {
+      "label": "Oncology momentum with $50B target by 2030",
+      "severity": 1,
+      "evidence": "we expect to become the #1 oncology company by 2030 with sales of more than $50 billion...operational sales growth of 22.3%"
+    },
+    {
+      "label": "Multiple blockbuster launches performing exceptionally",
+      "severity": 1,
+      "evidence": "13 brands that were growing double digits...RYBREVANT plus LAZCLUZE delivered sales of $179 million and growth over 100%, with sequential growth of 26.5%"
+    },
+    {
+      "label": "MedTech Cardiovascular acceleration with 22% growth",
+      "severity": 1,
+      "evidence": "In Q2, we delivered over 22% operational sales growth over the quarter, driven by new product performance in Abiomed, Shockwave and strength in mapping in electrophysiology"
+    }
+  ],
+  "risks": [
+    {
+      "label": "STELARA biosimilar competition accelerating",
+      "severity": 4,
+      "evidence": "STELARA declined by 43.2%, driven by the impact of biosimilar competition and Part D redesign...we maintain the assumption that STELARA's large biosimilar competition will accelerate throughout the year with erosion similar to HUMIRAs in year 2"
+    },
+    {
+      "label": "Tariff impact on MedTech margins",
+      "severity": 3,
+      "evidence": "we now anticipate the impact to be approximately $200 million, exclusively related to our MedTech business"
+    },
+    {
+      "label": "MedTech margin compression from macroeconomic factors",
+      "severity": 3,
+      "evidence": "MedTech margin declined from 25.7% to 22.2%, driven by macroeconomic factors in cost of products sold"
+    },
+    {
+      "label": "Ongoing talc litigation uncertainty",
+      "severity": 3,
+      "evidence": "we expect the Daubert hearing to commence this fall and look forward to the court reexamining the junk science"
+    },
+    {
+      "label": "International growth headwinds outside U.S.",
+      "severity": 2,
+      "evidence": "Growth in the U.S. was 7.8% and 0.6% outside of the U.S...Growth outside of the U.S. was negatively impacted by STELARA biosimilars and the COVID-19 vaccine"
+    }
+  ],
+  "themes": [
+    "portfolio_diversification",
+    "oncology_leadership",
+    "immunology_expansion",
+    "medtech_cardiovascular_growth",
+    "pipeline_momentum",
+    "loe_mitigation",
+    "new_product_launches",
+    "margin_pressure",
+    "biosimilar_competition",
+    "innovation_focus"
+  ]
+}
+```

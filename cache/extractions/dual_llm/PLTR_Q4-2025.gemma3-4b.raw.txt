@@ -1,0 +1,74 @@
+```json
+{
+  "overall_sentiment": 0.92,
+  "sentiment_bucket": "very_bullish",
+  "guidance_direction": "raised",
+  "guidance_confidence": 0.95,
+  "wins": [
+    {
+      "label": "Exceptional Revenue Growth",
+      "severity": 5,
+      "evidence": "Q4 overall revenue surged 70% year-over-year, our highest growth rate as a public company"
+    },
+    {
+      "label": "Record Profitability with Growth",
+      "severity": 5,
+      "evidence": "Rule of 40 score reached new heights at 127%, proving that hyper growth and exceptional profitability aren't mutually exclusive"
+    },
+    {
+      "label": "U.S. Commercial Acceleration",
+      "severity": 5,
+      "evidence": "U.S. commercial business grew 137% year-over-year and 28% sequentially, defying conventional enterprise software dynamics"
+    },
+    {
+      "label": "Record TCV Bookings",
+      "severity": 5,
+      "evidence": "Closed our highest TCV quarter ever at $4.3 billion, up 138% year-over-year"
+    },
+    {
+      "label": "Customer Expansion at Scale",
+      "severity": 4,
+      "evidence": "Fourth quarter trailing 12-month revenue from our top 20 customers increased 45% year-over-year to $94 million per customer"
+    }
+  ],
+  "risks": [
+    {
+      "label": "International Commercial Weakness",
+      "severity": 3,
+      "evidence": "Fourth quarter international commercial revenue grew 8% year-over-year and 2% for full year, significantly lagging U.S. performance"
+    },
+    {
+      "label": "Execution Risk on Guidance",
+      "severity": 3,
+      "evidence": "Guiding to 61% growth for 2026, a significant deceleration from 70% in Q4, execution risk on maintaining momentum"
+    },
+    {
+      "label": "Geopolitical and Regulatory Uncertainty",
+      "severity": 3,
+      "evidence": "Heavy reliance on U.S. government business (77% of revenue) creates exposure to policy changes and budget constraints"
+    },
+    {
+      "label": "Expense Growth Acceleration",
+      "severity": 2,
+      "evidence": "Q4 adjusted expense was up 34% year-over-year; company expects expenses to continue increasing in 2026"
+    },
+    {
+      "label": "Strategic Commercial Contract Decline",
+      "severity": 2,
+      "evidence": "Anticipate 2026 revenue from strategic commercial contracts to be less than $7 million or less than 0.1% of full year revenue, down from prior levels"
+    }
+  ],
+  "themes": [
+    "AI-driven transformation",
+    "Enterprise software leadership",
+    "U.S. government momentum",
+    "Commercial acceleration",
+    "Profitability at scale",
+    "Customer expansion",
+    "Ontology differentiation",
+    "Defense and intelligence focus",
+    "International lag",
+    "Organic growth"
+  ]
+}
+```

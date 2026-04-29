@@ -1,0 +1,227 @@
+{
+  "_ticker": "AMD",
+  "_quarter": "Q2-2024",
+  "_call_date": "2024-07-30",
+  "primary_model": "qwen3:14b",
+  "secondary_model": "gemma3:4b",
+  "primary": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "Strong Data Center Growth",
+        "severity": 5,
+        "evidence": "Data Center segment revenue increased 115% year-over-year to a record $2.8 billion driven by the steep ramp of Instinct MI300 GPU shipments."
+      },
+      {
+        "label": "EPYC Adoption Expansion",
+        "severity": 4,
+        "evidence": "Hyperscalers select EPYC processors to power a larger portion of their applications and workloads, displacing incumbent offerings across their infrastructure."
+      },
+      {
+        "label": "AI Software Ecosystem Growth",
+        "severity": 4,
+        "evidence": "AMD support for FlashAttention-2 algorithm was upstreamed, providing out-of-the-box support for AMD hardware in the popular library."
+      },
+      {
+        "label": "Next-Gen Product Roadmap",
+        "severity": 5,
+        "evidence": "We plan to follow MI325X with the MI350 series in 2025 based on the new CDNA 4 architecture, which is on track to deliver a 35x increase in performance compared to CDNA 3."
+      },
+      {
+        "label": "Client Segment Growth",
+        "severity": 4,
+        "evidence": "Client segment revenue was $1.5 billion, an increase of 49% year-over-year, driven by strong demand for our prior generation Ryzen processors."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Gaming Segment Decline",
+        "severity": 3,
+        "evidence": "Gaming segment revenue declined 59% year-over-year to $648 million as semi-custom SoC sales declined in line with our projections."
+      },
+      {
+        "label": "Embedded Segment Recovery",
+        "severity": 2,
+        "evidence": "Embedded segment revenue decreased 41% year-over-year to $861 million, with recovery expected to be gradual in the second half of the year."
+      },
+      {
+        "label": "Supply Chain Constraints",
+        "severity": 3,
+        "evidence": "The overall supply chain is tight and will remain tight through 2025, which may impact the ability to scale production of MI300 and future products."
+      },
+      {
+        "label": "Competitive Pressure",
+        "severity": 2,
+        "evidence": "There is ongoing industry debate about AI monetization and whether customers are getting the right ROI on their CapEx, which may lead to consolidation around other suppliers."
+      },
+      {
+        "label": "Software Adoption Challenges",
+        "severity": 2,
+        "evidence": "There are challenges in ramping the next wave of customers, particularly in terms of software optimization and integration with AMD hardware."
+      }
+    ],
+    "themes": [
+      "ai",
+      "data center",
+      "epyc",
+      "ryzen",
+      "instinct",
+      "rocm",
+      "gaming",
+      "embedded",
+      "client",
+      "supply chain"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.65,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Record MI300 GPU Revenue",
+        "severity": 4,
+        "evidence": "MI300 quarterly revenue exceeding $1 billion for the first time"
+      },
+      {
+        "label": "Strong Data Center Growth",
+        "severity": 5,
+        "evidence": "Data Center segment revenue increased 115% year-over-year to a record $2.8 billion"
+      },
+      {
+        "label": "Increased Azure VM Instances",
+        "severity": 4,
+        "evidence": "The number of AMD-powered cloud instances available from the largest providers has increased 34% from a year ago to more than 900"
+      },
+      {
+        "label": "Large Enterprise Wins",
+        "severity": 4,
+        "evidence": "Closed multiple large wins in the quarter with financial services, technology, health care, retail, manufacturing, and transportation customers, including Adobe, Boeing, Industrial Light & Magic, Optiver, and Siemens"
+      },
+      {
+        "label": "MI325X Launch Planned",
+        "severity": 3,
+        "evidence": "We are accelerating and expanding our Instinct road map to deliver an annual cadence of AI accelerators, starting with the launch of MI325X later this year"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Gaming Segment Decline",
+        "severity": 3,
+        "evidence": "Revenue declined 59% year-over-year to $648 million as semi-custom SoC sales declined in line with our projections"
+      },
+      {
+        "label": "Embedded Segment Slowdown",
+        "severity": 2,
+        "evidence": "Revenue decreased 41% year-over-year to $861 million. The first quarter marked the bottom for our Embedded segment revenue"
+      },
+      {
+        "label": "Memory Supply Constraints",
+        "severity": 4,
+        "evidence": "Memory is a tricky business but we've done it very well"
+      },
+      {
+        "label": "Competition in AI PC Market",
+        "severity": 3,
+        "evidence": "I think you actually said it well. We are launching Zen 5 desktops and notebooks with volume ramping in the third quarter, and that\u2019s the primary reason that we see above-seasonal"
+      },
+      {
+        "label": "Gross Margin Pressure",
+        "severity": 3,
+        "evidence": "We have made a lot of progress, as you mentioned, this year to expand our gross margin from 50 percentage point to, we actually guided 53.5% for Q3"
+      }
+    ],
+    "themes": [
+      "artificial intelligence",
+      "data center",
+      "client computing",
+      "gaming",
+      "embedded systems"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 0.1111111111111111,
+    "risks_jaccard": 0.1111111111111111,
+    "themes_jaccard": 0.15384615384615385,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.19999999999999996,
+    "agreement_score": 0.2551282051282051,
+    "agreement_confidence": 0.2041025641025641
+  },
+  "chosen": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "Strong Data Center Growth",
+        "severity": 5,
+        "evidence": "Data Center segment revenue increased 115% year-over-year to a record $2.8 billion driven by the steep ramp of Instinct MI300 GPU shipments."
+      },
+      {
+        "label": "EPYC Adoption Expansion",
+        "severity": 4,
+        "evidence": "Hyperscalers select EPYC processors to power a larger portion of their applications and workloads, displacing incumbent offerings across their infrastructure."
+      },
+      {
+        "label": "AI Software Ecosystem Growth",
+        "severity": 4,
+        "evidence": "AMD support for FlashAttention-2 algorithm was upstreamed, providing out-of-the-box support for AMD hardware in the popular library."
+      },
+      {
+        "label": "Next-Gen Product Roadmap",
+        "severity": 5,
+        "evidence": "We plan to follow MI325X with the MI350 series in 2025 based on the new CDNA 4 architecture, which is on track to deliver a 35x increase in performance compared to CDNA 3."
+      },
+      {
+        "label": "Client Segment Growth",
+        "severity": 4,
+        "evidence": "Client segment revenue was $1.5 billion, an increase of 49% year-over-year, driven by strong demand for our prior generation Ryzen processors."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Gaming Segment Decline",
+        "severity": 3,
+        "evidence": "Gaming segment revenue declined 59% year-over-year to $648 million as semi-custom SoC sales declined in line with our projections."
+      },
+      {
+        "label": "Embedded Segment Recovery",
+        "severity": 2,
+        "evidence": "Embedded segment revenue decreased 41% year-over-year to $861 million, with recovery expected to be gradual in the second half of the year."
+      },
+      {
+        "label": "Supply Chain Constraints",
+        "severity": 3,
+        "evidence": "The overall supply chain is tight and will remain tight through 2025, which may impact the ability to scale production of MI300 and future products."
+      },
+      {
+        "label": "Competitive Pressure",
+        "severity": 2,
+        "evidence": "There is ongoing industry debate about AI monetization and whether customers are getting the right ROI on their CapEx, which may lead to consolidation around other suppliers."
+      },
+      {
+        "label": "Software Adoption Challenges",
+        "severity": 2,
+        "evidence": "There are challenges in ramping the next wave of customers, particularly in terms of software optimization and integration with AMD hardware."
+      }
+    ],
+    "themes": [
+      "ai",
+      "data center",
+      "epyc",
+      "ryzen",
+      "instinct",
+      "rocm",
+      "gaming",
+      "embedded",
+      "client",
+      "supply chain"
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "_ticker": "JNJ",
+  "_quarter": "Q1-2024",
+  "_call_date": "2024-04-16",
+  "backend": "anthropic",
+  "primary_model": "gemma3:4b",
+  "secondary_model": "gemma3:4b",
+  "single_call_mode": true,
+  "primary": {
+    "overall_sentiment": 0.72,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Guidance raised with tightened ranges",
+        "severity": 1,
+        "evidence": "tightening our ranges and increasing the midpoints for our full year operational sales and adjusted operational EPS guidance"
+      },
+      {
+        "label": "Strong Innovative Medicine growth momentum",
+        "severity": 1,
+        "evidence": "Innovative Medicine sales growth was 8.3% operationally with 9 assets delivering double-digit growth"
+      },
+      {
+        "label": "Multiple myeloma franchise strength",
+        "severity": 1,
+        "evidence": "DARZALEX growth was 21%, CARVYKTI achieved sales of $157 million vs $72 million prior year, TECVAYLI sales of $133 million vs $63 million"
+      },
+      {
+        "label": "MedTech electrophysiology leadership",
+        "severity": 1,
+        "evidence": "electrophysiology delivered double-digit growth of 25.9%, with strong growth in all regions"
+      },
+      {
+        "label": "Strategic acquisitions completed and announced",
+        "severity": 2,
+        "evidence": "completion of the Ambrx acquisition and announced definitive agreement to acquire Shockwave Medical"
+      }
+    ],
+    "risks": [
+      {
+        "label": "International sales decline",
+        "severity": 2,
+        "evidence": "sales declined 0.3% outside of the U.S., Innovative Medicine declined 4% outside U.S."
+      },
+      {
+        "label": "STELARA biosimilar entry expected mid-year",
+        "severity": 3,
+        "evidence": "we anticipate continued volume growth, largely offset by price declines as we move towards biosimilar entry"
+      },
+      {
+        "label": "Unfavorable patient mix headwinds",
+        "severity": 2,
+        "evidence": "unfavorable patient mix in XARELTO, which we anticipate continuing throughout the year"
+      },
+      {
+        "label": "IRA drug price negotiation uncertainty",
+        "severity": 2,
+        "evidence": "we do think that these IRA drug setting provisions are damaging to the health care innovative system"
+      },
+      {
+        "label": "Competitive pressures in key franchises",
+        "severity": 2,
+        "evidence": "IMBRUVICA decrease due to competitive pressures, trauma and spine negatively impacted by competitive pressures"
+      }
+    ],
+    "themes": [
+      "oncology_leadership",
+      "multiple_myeloma_dominance",
+      "cardiovascular_expansion",
+      "cell_therapy_growth",
+      "biosimilar_headwinds",
+      "international_softness",
+      "m&a_strategy",
+      "pipeline_advancement",
+      "margin_expansion",
+      "dividend_growth"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.72,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Guidance raised with tightened ranges",
+        "severity": 1,
+        "evidence": "tightening our ranges and increasing the midpoints for our full year operational sales and adjusted operational EPS guidance"
+      },
+      {
+        "label": "Strong Innovative Medicine growth momentum",
+        "severity": 1,
+        "evidence": "Innovative Medicine sales growth was 8.3% operationally with 9 assets delivering double-digit growth"
+      },
+      {
+        "label": "Multiple myeloma franchise strength",
+        "severity": 1,
+        "evidence": "DARZALEX growth was 21%, CARVYKTI achieved sales of $157 million vs $72 million prior year, TECVAYLI sales of $133 million vs $63 million"
+      },
+      {
+        "label": "MedTech electrophysiology leadership",
+        "severity": 1,
+        "evidence": "electrophysiology delivered double-digit growth of 25.9%, with strong growth in all regions"
+      },
+      {
+        "label": "Strategic acquisitions completed and announced",
+        "severity": 2,
+        "evidence": "completion of the Ambrx acquisition and announced definitive agreement to acquire Shockwave Medical"
+      }
+    ],
+    "risks": [
+      {
+        "label": "International sales decline",
+        "severity": 2,
+        "evidence": "sales declined 0.3% outside of the U.S., Innovative Medicine declined 4% outside U.S."
+      },
+      {
+        "label": "STELARA biosimilar entry expected mid-year",
+        "severity": 3,
+        "evidence": "we anticipate continued volume growth, largely offset by price declines as we move towards biosimilar entry"
+      },
+      {
+        "label": "Unfavorable patient mix headwinds",
+        "severity": 2,
+        "evidence": "unfavorable patient mix in XARELTO, which we anticipate continuing throughout the year"
+      },
+      {
+        "label": "IRA drug price negotiation uncertainty",
+        "severity": 2,
+        "evidence": "we do think that these IRA drug setting provisions are damaging to the health care innovative system"
+      },
+      {
+        "label": "Competitive pressures in key franchises",
+        "severity": 2,
+        "evidence": "IMBRUVICA decrease due to competitive pressures, trauma and spine negatively impacted by competitive pressures"
+      }
+    ],
+    "themes": [
+      "oncology_leadership",
+      "multiple_myeloma_dominance",
+      "cardiovascular_expansion",
+      "cell_therapy_growth",
+      "biosimilar_headwinds",
+      "international_softness",
+      "m&a_strategy",
+      "pipeline_advancement",
+      "margin_expansion",
+      "dividend_growth"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 1.0,
+    "risks_jaccard": 1.0,
+    "themes_jaccard": 1.0,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.0,
+    "agreement_score": 1.0,
+    "agreement_confidence": 1.0
+  },
+  "chosen": {
+    "overall_sentiment": 0.72,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Guidance raised with tightened ranges",
+        "severity": 1,
+        "evidence": "tightening our ranges and increasing the midpoints for our full year operational sales and adjusted operational EPS guidance"
+      },
+      {
+        "label": "Strong Innovative Medicine growth momentum",
+        "severity": 1,
+        "evidence": "Innovative Medicine sales growth was 8.3% operationally with 9 assets delivering double-digit growth"
+      },
+      {
+        "label": "Multiple myeloma franchise strength",
+        "severity": 1,
+        "evidence": "DARZALEX growth was 21%, CARVYKTI achieved sales of $157 million vs $72 million prior year, TECVAYLI sales of $133 million vs $63 million"
+      },
+      {
+        "label": "MedTech electrophysiology leadership",
+        "severity": 1,
+        "evidence": "electrophysiology delivered double-digit growth of 25.9%, with strong growth in all regions"
+      },
+      {
+        "label": "Strategic acquisitions completed and announced",
+        "severity": 2,
+        "evidence": "completion of the Ambrx acquisition and announced definitive agreement to acquire Shockwave Medical"
+      }
+    ],
+    "risks": [
+      {
+        "label": "International sales decline",
+        "severity": 2,
+        "evidence": "sales declined 0.3% outside of the U.S., Innovative Medicine declined 4% outside U.S."
+      },
+      {
+        "label": "STELARA biosimilar entry expected mid-year",
+        "severity": 3,
+        "evidence": "we anticipate continued volume growth, largely offset by price declines as we move towards biosimilar entry"
+      },
+      {
+        "label": "Unfavorable patient mix headwinds",
+        "severity": 2,
+        "evidence": "unfavorable patient mix in XARELTO, which we anticipate continuing throughout the year"
+      },
+      {
+        "label": "IRA drug price negotiation uncertainty",
+        "severity": 2,
+        "evidence": "we do think that these IRA drug setting provisions are damaging to the health care innovative system"
+      },
+      {
+        "label": "Competitive pressures in key franchises",
+        "severity": 2,
+        "evidence": "IMBRUVICA decrease due to competitive pressures, trauma and spine negatively impacted by competitive pressures"
+      }
+    ],
+    "themes": [
+      "oncology_leadership",
+      "multiple_myeloma_dominance",
+      "cardiovascular_expansion",
+      "cell_therapy_growth",
+      "biosimilar_headwinds",
+      "international_softness",
+      "m&a_strategy",
+      "pipeline_advancement",
+      "margin_expansion",
+      "dividend_growth"
+    ]
+  }
+}

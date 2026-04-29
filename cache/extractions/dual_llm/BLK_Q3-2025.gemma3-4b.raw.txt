@@ -1,0 +1,69 @@
+```json
+{
+  "overall_sentiment": 0.85,
+  "sentiment_bucket": "very_bullish",
+  "guidance_direction": "raised",
+  "guidance_confidence": 0.95,
+  "wins": [
+    {
+      "label": "Strong Organic Base Fee Growth",
+      "severity": 4,
+      "evidence": "Our builds across ETFs private markets, whole portfolio and cash management drove 8% organic base fee growth over the last 12 months. That’s our highest level in over 4 years”
+    },
+    {
+      "label": "Diversified Growth Drivers",
+      "severity": 4,
+      "evidence": "That 8% organic base fee growth was broadly diversified – ETFs, private markets, systematic outsourcing, and cash management.”
+    },
+    {
+      "label": "Record AUM and Net Inflows",
+      "severity": 5,
+      "evidence": "We finished the third quarter with record AUM, record units of trust of $13.5 trillion. Over the last 12 months, clients entrusted BlackRock with nearly $640 billion of net new assets powering 8% organic base fee growth.”
+    },
+    {
+      "label": "Significant Acquisitions Driving Growth",
+      "severity": 4,
+      "evidence": "Since July 1, we’ve closed our acquisitions of HPS and ElmTree, announced an $80 billion SMA solution with Citi Wealth and onboarded a $30 billion pension mandate.”
+    },
+    {
+      "label": "Accelerated Momentum",
+      "severity": 3,
+      "evidence": "The momentum we saw in the first half of the year accelerated in the third quarter.”
+    }
+  ],
+  "risks": [
+    {
+      "label": "Macroeconomic Uncertainty",
+      "severity": 3,
+      "evidence": "Martin mentioned that the team is being very vigilant with our clients and monitoring credit conditions, but they’re not seeing widespread credit stresses at this point.”
+    },
+    {
+      "label": "Regulatory Scrutiny",
+      "severity": 4,
+      "evidence": "BlackRock has filed reports with the SEC, which lists some of the factors that may cause the results of BlackRock to differ materially from what we say today.”
+    },
+    {
+      "label": "Nonoperating Losses",
+      "severity": 2,
+      "evidence": "Our as-adjusted tax rate for the third quarter was approximately 24% and benefited from discrete items. Nonoperating results for the quarter included $84 million of net investment losses, primarily due to a mark-to-market noncash loss linked to our minority investment in Circle.”
+    },
+    {
+      "label": "Increased Expense Base",
+      "severity": 3,
+      "evidence": "Total expense was 26% higher year-over-year, primarily driven by higher compensation, sales asset and account expense and G&A expense.”
+    },
+    {
+      "label": "Interest Rate Sensitivity",
+      "severity": 3,
+      "evidence": "The higher share count included 6.9 million shares issued at the close of the GIP transaction on October 1, 2024, and 8.5 million BlackRock SubCo units issued at the close of the HPS transaction on July 1.”
+    }
+  ],
+  "themes": [
+    "Growth",
+    "Innovation",
+    "Diversification",
+    "Digital Assets",
+    "Private Markets"
+  ]
+}
+```

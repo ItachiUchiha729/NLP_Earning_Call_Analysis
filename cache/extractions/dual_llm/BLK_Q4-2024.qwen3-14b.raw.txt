@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.9,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.95,
+    "wins": [
+        {
+            "label": "Strong Organic Growth",
+            "severity": 5,
+            "evidence": "We enter 2025 from a position of strength, having generated 7% annualized organic base fee growth in the fourth quarter, our highest in 3 years."
+        },
+        {
+            "label": "Record Net Inflows",
+            "severity": 5,
+            "evidence": "BlackRock saw record net inflows in 2024, powered by 2 back-to-back record flows quarters in the second half."
+        },
+        {
+            "label": "Margin Expansion",
+            "severity": 4,
+            "evidence": "Our fourth quarter as-adjusted operating margin of 45.5% increased 390 basis points year-over-year."
+        },
+        {
+            "label": "Strategic Acquisitions",
+            "severity": 5,
+            "evidence": "We've spoken all year about how organic growth momentum and overall client sentiment has been improving."
+        },
+        {
+            "label": "Technology and Scale",
+            "severity": 4,
+            "evidence": "BlackRock houses whole portfolio solutions for clients, the world's #1 ETF franchise by assets, flows and breadth of exposures."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Regulatory Uncertainty",
+            "severity": 3,
+            "evidence": "The actual effective tax rate may differ because of nonrecurring or discrete items or potential changes in tax legislation."
+        },
+        {
+            "label": "Market Volatility",
+            "severity": 2,
+            "evidence": "BlackRock's actual results may differ from these statements."
+        },
+        {
+            "label": "Integration Risks",
+            "severity": 3,
+            "evidence": "We expect to make disclosure enhancements, particularly around private markets, beginning in the first quarter of 2025."
+        },
+        {
+            "label": "Interest Rate Sensitivity",
+            "severity": 2,
+            "evidence": "The yield curve is steepening, and as I said, with the steepening of the yield curve and with higher rates, it's going to lead to some great opportunities in the fixed income area."
+        },
+        {
+            "label": "Regulatory Hurdles in Retirement",
+            "severity": 3,
+            "evidence": "For more tangible opportunities, we do think there'll have to be some reforms, potentially safe harbors, litigation or advice reform in the U.S. to add private markets to DC plans."
+        }
+    ],
+    "themes": ["organic_growth", "acquisitions", "technology", "private_markets", "etf_expansion"]
+}

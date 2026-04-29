@@ -1,0 +1,71 @@
+{
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.95,
+    "wins": [
+        {
+            "label": "Strong Revenue Growth",
+            "severity": 5,
+            "evidence": "Our first quarter revenue of $6.7 billion increased 27% year-over-year."
+        },
+        {
+            "label": "Margin Expansion",
+            "severity": 5,
+            "evidence": "Our first quarter as-adjusted operating margin of 44.5% was up 130 basis points from a year ago."
+        },
+        {
+            "label": "Client Engagement and Net Inflows",
+            "severity": 5,
+            "evidence": "BlackRock generated $130 billion of net inflows in the first quarter."
+        },
+        {
+            "label": "Organic Base Fee Growth",
+            "severity": 5,
+            "evidence": "We delivered 8% organic base fee growth in the first quarter."
+        },
+        {
+            "label": "Technology Services Growth",
+            "severity": 4,
+            "evidence": "Quarterly technology services and subscription revenue was up 22% compared to a year ago."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Market Volatility",
+            "severity": 3,
+            "evidence": "The first quarter of 2026 unfolded in a more volatile market environment."
+        },
+        {
+            "label": "Geopolitical Uncertainty",
+            "severity": 3,
+            "evidence": "There is real impactful geopolitical uncertainty."
+        },
+        {
+            "label": "AI Disruption",
+            "severity": 2,
+            "evidence": "There's both excitement and anxiety about how artificial intelligence will impact day-to-day lives and business models."
+        },
+        {
+            "label": "Redemptions in Evergreen Products",
+            "severity": 2,
+            "evidence": "We saw some moderation of private credit BDC flows."
+        },
+        {
+            "label": "Seasonal Redemptions",
+            "severity": 1,
+            "evidence": "Cash management results reflected seasonal redemptions from U.S. government funds."
+        }
+    ],
+    "themes": [
+        "organic_growth",
+        "margin_expansion",
+        "client_engagement",
+        "technology_services",
+        "private_markets",
+        "global_expansion",
+        "retirement_solutions",
+        "AI_impact",
+        "geopolitical_risk"
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.95,
+    "wins": [
+        {
+            "label": "Strong AI Revenue Growth",
+            "severity": 5,
+            "evidence": "AI revenue grew 220% from $3.8 billion in fiscal '23 to $12.2 billion in fiscal '24 and represented 41% of our semiconductor revenue."
+        },
+        {
+            "label": "VMware Integration Success",
+            "severity": 4,
+            "evidence": "The integration of VMware is largely complete. Revenue is on a growth trajectory, and operating margin reached 70% exiting 2024."
+        },
+        {
+            "label": "Future AI Revenue Potential",
+            "severity": 5,
+            "evidence": "We expect this to represent an AI revenue serviceable addressable market, or SAM, for XPUs and network in the range of $60 billion to $90 billion in fiscal 2027 alone."
+        },
+        {
+            "label": "Strong Q4 Performance",
+            "severity": 4,
+            "evidence": "Consolidated net revenue of $14.1 billion was up 51% year-on-year. Excluding VMware, organic growth was 11%."
+        },
+        {
+            "label": "Dividend Increase",
+            "severity": 3,
+            "evidence": "We are announcing an increase in our quarterly common stock cash dividend in Q1 fiscal 2025 to $0.59 per share on a split-adjusted basis, an increase of 11% from the prior quarter."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Non-AI Semiconductor Decline",
+            "severity": 3,
+            "evidence": "Non-AI semiconductor revenue declined by 23% year-on-year to $4.5 billion."
+        },
+        {
+            "label": "Debt Management",
+            "severity": 2,
+            "evidence": "We intend to use part of that 50% free cash flow that's not used for dividends to go de-lever ourselves, given the size of the debt load we are taking on."
+        },
+        {
+            "label": "Quarterly Variability in AI Revenue",
+            "severity": 4,
+            "evidence": "We'll show quarterly variability. We'll show quarterly variability."
+        },
+        {
+            "label": "Uncertain Market Share in AI",
+            "severity": 3,
+            "evidence": "There's room for many players. All we're going to do is gain our fair share."
+        },
+        {
+            "label": "Integration Challenges",
+            "severity": 2,
+            "evidence": "We have seen significant orders across multiple service providers during this quarter. And reflecting this trend, we now expect broadband to show recovery beginning in Q1."
+        }
+    ],
+    "themes": ["AI growth", "VMware integration", "dividend increase", "debt management", "semiconductor recovery"]
+}

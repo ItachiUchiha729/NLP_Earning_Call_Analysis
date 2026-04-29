@@ -1,0 +1,221 @@
+{
+  "_ticker": "C",
+  "_quarter": "Q2-2024",
+  "_call_date": "2024-07-12",
+  "primary_model": "qwen3:14b",
+  "secondary_model": "gemma3:4b",
+  "primary": {
+    "overall_sentiment": 0.3,
+    "sentiment_bucket": "neutral",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.8,
+    "wins": [
+      {
+        "label": "Transformation progress",
+        "severity": 4,
+        "evidence": "We have made meaningful progress in executing our transformation and simplifying our firm."
+      },
+      {
+        "label": "Dividend increase",
+        "severity": 3,
+        "evidence": "We will increase our dividend from $0.53 to $0.56 per share."
+      },
+      {
+        "label": "Buyback resumption",
+        "severity": 3,
+        "evidence": "We will resume modest buybacks this quarter."
+      },
+      {
+        "label": "Improved risk management",
+        "severity": 4,
+        "evidence": "The tech investments we have made are making a difference. We have reduced the time it takes to book loans, automated controls for our traders to reduce error."
+      },
+      {
+        "label": "Strong business performance",
+        "severity": 3,
+        "evidence": "Our results show the relentless focus we have in executing our strategy as we continue to drive towards our medium-term return targets."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Regulatory challenges",
+        "severity": 5,
+        "evidence": "These actions were not entirely unexpected to us, it is no doubt disappointing for our investors and for our people."
+      },
+      {
+        "label": "Data governance issues",
+        "severity": 5,
+        "evidence": "We've been public this year about the fact that we were behind in this particular area and that we had increased our investment as a result."
+      },
+      {
+        "label": "Credit losses",
+        "severity": 4,
+        "evidence": "We have fallen short in data quality management, particularly related to regulatory reporting."
+      },
+      {
+        "label": "Uncertainty around Basel III",
+        "severity": 3,
+        "evidence": "We will continue to assess the level of buybacks on a quarterly basis, particularly given the uncertainty around the Basel III endgame."
+      },
+      {
+        "label": "Economic uncertainty",
+        "severity": 3,
+        "evidence": "In Europe, while rate cuts have begun, the region's lack of competitiveness continues to be a drag on growth."
+      }
+    ],
+    "themes": [
+      "regulatory compliance",
+      "transformation",
+      "dividend",
+      "buybacks",
+      "credit risk",
+      "data governance",
+      "economic uncertainty"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.25,
+    "sentiment_bucket": "neutral",
+    "guidance_direction": "mixed",
+    "guidance_confidence": 0.7,
+    "wins": [
+      {
+        "label": "Transformation Progress",
+        "severity": 4,
+        "evidence": "We have made meaningful progress in executing our transformation and simplifying our firm."
+      },
+      {
+        "label": "Reduced Risk & Improved Controls",
+        "severity": 3,
+        "evidence": "We've reduced the time it takes to book loans, automated controls for our traders to reduce error, move risk analytics to a cloud-based infrastructure and increase the resiliency of our platforms to reduce downtime."
+      },
+      {
+        "label": "Regulatory Acknowledgement",
+        "severity": 2,
+        "evidence": "It was acknowledged on Wednesday that we have made meaningful progress in executing our transformation and simplifying our firm."
+      },
+      {
+        "label": "Improved Data Governance",
+        "severity": 3,
+        "evidence": "We've stood up a data governance process and streamlined our data architecture to facilitate straight-through processing."
+      },
+      {
+        "label": "Increased Client Investment Assets",
+        "severity": 4,
+        "evidence": "Client investment assets increased 9%."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Data Quality Issues",
+        "severity": 5,
+        "evidence": "We have fallen short in data quality management, particularly related to regulatory reporting."
+      },
+      {
+        "label": "Regulatory Scrutiny",
+        "severity": 4,
+        "evidence": "The regulators still said we didn't get it done."
+      },
+      {
+        "label": "NII Pressure",
+        "severity": 3,
+        "evidence": "Net interest income was down almost 4% year-over-year."
+      },
+      {
+        "label": "USPB Profitability Concerns",
+        "severity": 4,
+        "evidence": "USPB RoTCE is still single digit."
+      },
+      {
+        "label": "Uncertain Macro Environment",
+        "severity": 3,
+        "evidence": "Macro environment includes uncertainty around elections and global conflicts."
+      }
+    ],
+    "themes": [
+      "transformation",
+      "regulatory compliance",
+      "risk management",
+      "financial performance",
+      "shareholder returns"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 0.1111111111111111,
+    "risks_jaccard": 0.0,
+    "themes_jaccard": 0.2,
+    "guidance_match": 0.0,
+    "sentiment_gap": 0.04999999999999999,
+    "agreement_score": 0.08333333333333334,
+    "agreement_confidence": 0.07916666666666668
+  },
+  "chosen": {
+    "overall_sentiment": 0.3,
+    "sentiment_bucket": "neutral",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.8,
+    "wins": [
+      {
+        "label": "Transformation progress",
+        "severity": 4,
+        "evidence": "We have made meaningful progress in executing our transformation and simplifying our firm."
+      },
+      {
+        "label": "Dividend increase",
+        "severity": 3,
+        "evidence": "We will increase our dividend from $0.53 to $0.56 per share."
+      },
+      {
+        "label": "Buyback resumption",
+        "severity": 3,
+        "evidence": "We will resume modest buybacks this quarter."
+      },
+      {
+        "label": "Improved risk management",
+        "severity": 4,
+        "evidence": "The tech investments we have made are making a difference. We have reduced the time it takes to book loans, automated controls for our traders to reduce error."
+      },
+      {
+        "label": "Strong business performance",
+        "severity": 3,
+        "evidence": "Our results show the relentless focus we have in executing our strategy as we continue to drive towards our medium-term return targets."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Regulatory challenges",
+        "severity": 5,
+        "evidence": "These actions were not entirely unexpected to us, it is no doubt disappointing for our investors and for our people."
+      },
+      {
+        "label": "Data governance issues",
+        "severity": 5,
+        "evidence": "We've been public this year about the fact that we were behind in this particular area and that we had increased our investment as a result."
+      },
+      {
+        "label": "Credit losses",
+        "severity": 4,
+        "evidence": "We have fallen short in data quality management, particularly related to regulatory reporting."
+      },
+      {
+        "label": "Uncertainty around Basel III",
+        "severity": 3,
+        "evidence": "We will continue to assess the level of buybacks on a quarterly basis, particularly given the uncertainty around the Basel III endgame."
+      },
+      {
+        "label": "Economic uncertainty",
+        "severity": 3,
+        "evidence": "In Europe, while rate cuts have begun, the region's lack of competitiveness continues to be a drag on growth."
+      }
+    ],
+    "themes": [
+      "regulatory compliance",
+      "transformation",
+      "dividend",
+      "buybacks",
+      "credit risk",
+      "data governance",
+      "economic uncertainty"
+    ]
+  }
+}

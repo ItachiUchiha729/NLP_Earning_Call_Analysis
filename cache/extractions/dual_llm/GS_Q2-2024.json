@@ -1,0 +1,234 @@
+{
+  "_ticker": "GS",
+  "_quarter": "Q2-2024",
+  "_call_date": "2024-07-15",
+  "backend": "anthropic",
+  "primary_model": "gemma3:4b",
+  "secondary_model": "gemma3:4b",
+  "single_call_mode": true,
+  "primary": {
+    "overall_sentiment": 0.72,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.78,
+    "wins": [
+      {
+        "label": "Record financing revenues and strong momentum",
+        "severity": 1,
+        "evidence": "financing revenues were a record $2.2 billion for the second quarter and a record $4.4 billion for the first half of the year"
+      },
+      {
+        "label": "Alternatives fundraising exceeding targets",
+        "severity": 1,
+        "evidence": "we expect to exceed $50 billion in alternatives fundraising this year"
+      },
+      {
+        "label": "M&A and capital markets recovery underway",
+        "severity": 2,
+        "evidence": "we are in the early innings of a capital markets and M&A recovery. And while certain transaction volumes are still well below their 10-year averages, we remain very well positioned"
+      },
+      {
+        "label": "Record AWM management fees and assets under supervision",
+        "severity": 1,
+        "evidence": "management and other fees and private banking and lending revenues reached a new record this quarter of $3.2 billion. Our assets under supervision had a record of $2.9 trillion"
+      },
+      {
+        "label": "Dividend increase signals confidence",
+        "severity": 2,
+        "evidence": "announced a 9% increase in our quarterly dividend, which underscores our confidence in the durability of our franchise"
+      }
+    ],
+    "risks": [
+      {
+        "label": "ROE below target despite operational improvements",
+        "severity": 3,
+        "evidence": "11% ROE in the second quarter, that's not quite the 15% where you want it to be"
+      },
+      {
+        "label": "Stress capital buffer increase constrains capital deployment",
+        "severity": 3,
+        "evidence": "Given our higher-than-expected SCB requirement, we plan to moderate buybacks versus the levels of the second quarter"
+      },
+      {
+        "label": "Investment Banking volumes still significantly below historical averages",
+        "severity": 3,
+        "evidence": "we're still operating meaningfully below 10-year averages in terms of Investment Banking activity"
+      },
+      {
+        "label": "Geopolitical instability and sticky inflation",
+        "severity": 2,
+        "evidence": "there's a high level of geopolitical instability. Elections across the globe could have significant implications for forward policy and inflation is proving to be stickier than many had anticipated"
+      },
+      {
+        "label": "AWM ROE still underperforming despite margin improvements",
+        "severity": 2,
+        "evidence": "we've gotten the margin up to 23%, but the ROE is still around 10%"
+      }
+    ],
+    "themes": [
+      "capital_markets_recovery",
+      "alternatives_growth",
+      "financing_business_expansion",
+      "efficiency_improvement",
+      "regulatory_capital_constraints",
+      "wealth_management_scaling",
+      "ai_opportunity",
+      "sponsor_activity_acceleration",
+      "return_on_equity_gap",
+      "durable_revenue_streams"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.72,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.78,
+    "wins": [
+      {
+        "label": "Record financing revenues and strong momentum",
+        "severity": 1,
+        "evidence": "financing revenues were a record $2.2 billion for the second quarter and a record $4.4 billion for the first half of the year"
+      },
+      {
+        "label": "Alternatives fundraising exceeding targets",
+        "severity": 1,
+        "evidence": "we expect to exceed $50 billion in alternatives fundraising this year"
+      },
+      {
+        "label": "M&A and capital markets recovery underway",
+        "severity": 2,
+        "evidence": "we are in the early innings of a capital markets and M&A recovery. And while certain transaction volumes are still well below their 10-year averages, we remain very well positioned"
+      },
+      {
+        "label": "Record AWM management fees and assets under supervision",
+        "severity": 1,
+        "evidence": "management and other fees and private banking and lending revenues reached a new record this quarter of $3.2 billion. Our assets under supervision had a record of $2.9 trillion"
+      },
+      {
+        "label": "Dividend increase signals confidence",
+        "severity": 2,
+        "evidence": "announced a 9% increase in our quarterly dividend, which underscores our confidence in the durability of our franchise"
+      }
+    ],
+    "risks": [
+      {
+        "label": "ROE below target despite operational improvements",
+        "severity": 3,
+        "evidence": "11% ROE in the second quarter, that's not quite the 15% where you want it to be"
+      },
+      {
+        "label": "Stress capital buffer increase constrains capital deployment",
+        "severity": 3,
+        "evidence": "Given our higher-than-expected SCB requirement, we plan to moderate buybacks versus the levels of the second quarter"
+      },
+      {
+        "label": "Investment Banking volumes still significantly below historical averages",
+        "severity": 3,
+        "evidence": "we're still operating meaningfully below 10-year averages in terms of Investment Banking activity"
+      },
+      {
+        "label": "Geopolitical instability and sticky inflation",
+        "severity": 2,
+        "evidence": "there's a high level of geopolitical instability. Elections across the globe could have significant implications for forward policy and inflation is proving to be stickier than many had anticipated"
+      },
+      {
+        "label": "AWM ROE still underperforming despite margin improvements",
+        "severity": 2,
+        "evidence": "we've gotten the margin up to 23%, but the ROE is still around 10%"
+      }
+    ],
+    "themes": [
+      "capital_markets_recovery",
+      "alternatives_growth",
+      "financing_business_expansion",
+      "efficiency_improvement",
+      "regulatory_capital_constraints",
+      "wealth_management_scaling",
+      "ai_opportunity",
+      "sponsor_activity_acceleration",
+      "return_on_equity_gap",
+      "durable_revenue_streams"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 1.0,
+    "risks_jaccard": 1.0,
+    "themes_jaccard": 1.0,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.0,
+    "agreement_score": 1.0,
+    "agreement_confidence": 1.0
+  },
+  "chosen": {
+    "overall_sentiment": 0.72,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.78,
+    "wins": [
+      {
+        "label": "Record financing revenues and strong momentum",
+        "severity": 1,
+        "evidence": "financing revenues were a record $2.2 billion for the second quarter and a record $4.4 billion for the first half of the year"
+      },
+      {
+        "label": "Alternatives fundraising exceeding targets",
+        "severity": 1,
+        "evidence": "we expect to exceed $50 billion in alternatives fundraising this year"
+      },
+      {
+        "label": "M&A and capital markets recovery underway",
+        "severity": 2,
+        "evidence": "we are in the early innings of a capital markets and M&A recovery. And while certain transaction volumes are still well below their 10-year averages, we remain very well positioned"
+      },
+      {
+        "label": "Record AWM management fees and assets under supervision",
+        "severity": 1,
+        "evidence": "management and other fees and private banking and lending revenues reached a new record this quarter of $3.2 billion. Our assets under supervision had a record of $2.9 trillion"
+      },
+      {
+        "label": "Dividend increase signals confidence",
+        "severity": 2,
+        "evidence": "announced a 9% increase in our quarterly dividend, which underscores our confidence in the durability of our franchise"
+      }
+    ],
+    "risks": [
+      {
+        "label": "ROE below target despite operational improvements",
+        "severity": 3,
+        "evidence": "11% ROE in the second quarter, that's not quite the 15% where you want it to be"
+      },
+      {
+        "label": "Stress capital buffer increase constrains capital deployment",
+        "severity": 3,
+        "evidence": "Given our higher-than-expected SCB requirement, we plan to moderate buybacks versus the levels of the second quarter"
+      },
+      {
+        "label": "Investment Banking volumes still significantly below historical averages",
+        "severity": 3,
+        "evidence": "we're still operating meaningfully below 10-year averages in terms of Investment Banking activity"
+      },
+      {
+        "label": "Geopolitical instability and sticky inflation",
+        "severity": 2,
+        "evidence": "there's a high level of geopolitical instability. Elections across the globe could have significant implications for forward policy and inflation is proving to be stickier than many had anticipated"
+      },
+      {
+        "label": "AWM ROE still underperforming despite margin improvements",
+        "severity": 2,
+        "evidence": "we've gotten the margin up to 23%, but the ROE is still around 10%"
+      }
+    ],
+    "themes": [
+      "capital_markets_recovery",
+      "alternatives_growth",
+      "financing_business_expansion",
+      "efficiency_improvement",
+      "regulatory_capital_constraints",
+      "wealth_management_scaling",
+      "ai_opportunity",
+      "sponsor_activity_acceleration",
+      "return_on_equity_gap",
+      "durable_revenue_streams"
+    ]
+  }
+}

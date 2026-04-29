@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.9,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.95,
+    "wins": [
+        {
+            "label": "AI Semiconductor Growth",
+            "severity": 5,
+            "evidence": "AI semiconductor revenue grew 106% year-on-year to $8.4 billion, way above our outlook."
+        },
+        {
+            "label": "Strong Guidance for Q2",
+            "severity": 5,
+            "evidence": "We're guiding for consolidated revenue of approximately $22 billion, which represents 47% year-on-year growth."
+        },
+        {
+            "label": "Custom AI Accelerator Momentum",
+            "severity": 5,
+            "evidence": "The ramp of custom AI accelerators across all our 5 customers is progressing very well."
+        },
+        {
+            "label": "Infrastructure Software Growth",
+            "severity": 4,
+            "evidence": "Infrastructure Software revenue of $6.8 billion was in line with our guidance, up 1% year-on-year."
+        },
+        {
+            "label": "Supply Chain Secured",
+            "severity": 4,
+            "evidence": "We have fully secured capacity of these components for '26 through '28."
+        }
+    ],
+    "risks": [
+        {
+            "label": "COT Initiatives",
+            "severity": 3,
+            "evidence": "Some of these COT initiatives are coming to the market now, but it looks like they're at least 2x less performant than your current generation solutions."
+        },
+        {
+            "label": "Market Competition",
+            "severity": 2,
+            "evidence": "NVIDIA is by no means letting down their guard. They are producing better and better chips with every passing generation."
+        },
+        {
+            "label": "Supply Chain Constraints",
+            "severity": 2,
+            "evidence": "In times of constrained capacity in leading-edge wafers, high-bandwidth memory and substrates."
+        },
+        {
+            "label": "Customer Dependency",
+            "severity": 2,
+            "evidence": "We only have 6 customers for the volume we are driving, the revenue we're driving."
+        },
+        {
+            "label": "Technology Challenges",
+            "severity": 2,
+            "evidence": "Creating the silicon chips and particularly in XPUs that they need to do the computing and that is needed to optimize and run the -- train and inference on the workloads they produce out their LLM."
+        }
+    ],
+    "themes": ["AI Semiconductor Growth", "Custom AI Accelerators", "Infrastructure Software", "Supply Chain Secured", "Networking Leadership"]
+}

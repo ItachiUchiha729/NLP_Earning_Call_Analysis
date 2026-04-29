@@ -1,0 +1,69 @@
+```json
+{
+    "overall_sentiment": 0.35,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+        {
+            "label": "Record Revenue",
+            "severity": 4,
+            "evidence": "total revenue was a record $15 billion, up 20% year-on-year"
+        },
+        {
+            "label": "Strong AI Semiconductor Growth",
+            "severity": 5,
+            "evidence": "AI semiconductor revenue of over $4.4 billion, which is up 46% year-on-year"
+        },
+        {
+            "label": "Tomahawk 6 Switch Innovation",
+            "severity": 4,
+            "evidence": "Tomahawk 6 switch just announced this week enables clusters of more than 100,000 AI accelerators to be deployed in just 2 tiers instead of 3"
+        },
+        {
+            "label": "VCF Adoption",
+            "severity": 4,
+            "evidence": "Over 87% of 10,000 largest customers have adopted VCF"
+        },
+        {
+            "label": "EBITDA Performance",
+            "severity": 5,
+            "evidence": "Q2 consolidated adjusted EBITDA was $10 billion, up 35% year-on-year"
+        }
+    ],
+    "risks": [
+        {
+            "label": "Non-AI Semiconductor Slowdown",
+            "severity": 3,
+            "evidence": "Revenue of $4 billion was down 5% year-on-year"
+        },
+        {
+            "label": "Wireless Seasonal Decline",
+            "severity": 4,
+            "evidence": "Wireless was down due to seasonality"
+        },
+        {
+            "label": "Industrial Decline",
+            "severity": 3,
+            "evidence": "Industrial was down"
+        },
+        {
+            "label": "Export Controls Uncertainty",
+            "severity": 4,
+            "evidence": "Nobody can give anybody comfort in this environment"
+        },
+        {
+            "label": "Margin Pressure",
+            "severity": 4,
+            "evidence": "Q3 consolidated gross margin to be down approximately 130 basis points sequentially, primarily reflecting a higher mix of XPUs within AI revenue"
+        }
+    ],
+    "themes": [
+        "AI Semiconductor",
+        "Data Center Infrastructure",
+        "Software-Defined Networking",
+        "Cloud Computing",
+        "Financial Performance"
+    ]
+}
+```

@@ -1,0 +1,74 @@
+```json
+{
+  "overall_sentiment": 0.75,
+  "sentiment_bucket": "very_bullish",
+  "guidance_direction": "raised",
+  "guidance_confidence": 0.85,
+  "wins": [
+    {
+      "label": "Record profitability and returns",
+      "severity": 5,
+      "evidence": "earnings per share of $51.32, a 27% increase versus last year, an ROE of 15% and an ROTE of 16%, improving 230 and 250 basis points, respectively"
+    },
+    {
+      "label": "Strong investment banking momentum with highest backlog in 4 years",
+      "severity": 5,
+      "evidence": "backlog stands at its highest level in 4 years...seventh consecutive quarter...primarily driven by advisers"
+    },
+    {
+      "label": "Record Asset & Wealth Management revenues and scale",
+      "severity": 5,
+      "evidence": "Total assets under supervision ended the quarter at a record $3.6 trillion...raised a record $115 billion in alternatives"
+    },
+    {
+      "label": "Improved capital position and regulatory flexibility",
+      "severity": 4,
+      "evidence": "driven a 320 basis point improvement in our stress capital buffer...more balanced regulatory regime"
+    },
+    {
+      "label": "Elevated AWM margin target to 30% with high-teen returns",
+      "severity": 4,
+      "evidence": "increasing our pretax margin target to 30%, which will help drive high-teen returns in AWM over the medium term"
+    }
+  ],
+  "risks": [
+    {
+      "label": "Macro and geopolitical uncertainty could derail activity",
+      "severity": 4,
+      "evidence": "Economic growth, policy uncertainty, geopolitical developments and market volatility are factors we continue to monitor closely"
+    },
+    {
+      "label": "Apple Card portfolio transition execution risk",
+      "severity": 3,
+      "evidence": "there's a lot of work to do over the next 24 months to transition of the card...we expect to have a small pretax loss for the year in the segment"
+    },
+    {
+      "label": "NIM compression expected in private banking from rate declines",
+      "severity": 3,
+      "evidence": "we do expect there could be some NIM compression given our expectations on the rate cycle"
+    },
+    {
+      "label": "Operating leverage constrained by strategic investments",
+      "severity": 3,
+      "evidence": "we're also trying to balance and deliver returns...constrained because we're also trying to balance and deliver returns"
+    },
+    {
+      "label": "One GS 3.0 AI efficiency gains uncertain and delayed",
+      "severity": 2,
+      "evidence": "I had hoped to give a little bit more transparency at this earnings call, but we don't have the full confidence to put information out publicly"
+    }
+  ],
+  "themes": [
+    "record_profitability",
+    "investment_banking_cycle",
+    "wealth_management_growth",
+    "capital_deployment",
+    "regulatory_tailwinds",
+    "AI_efficiency",
+    "M&A_momentum",
+    "alternatives_scaling",
+    "balance_sheet_strength",
+    "shareholder_returns"
+  ]
+}
+```

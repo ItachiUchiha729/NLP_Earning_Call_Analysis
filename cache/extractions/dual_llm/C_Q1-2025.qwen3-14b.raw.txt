@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.75,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.9,
+    "wins": [
+        {
+            "label": "Strong Q1 Performance",
+            "severity": 5,
+            "evidence": "We reported net income of $4.1 billion and earnings per share of $1.96 with an ROTCE of 9.1%. Overall, it was a strong quarter, marked by continued momentum in each of our 5 businesses."
+        },
+        {
+            "label": "Expense Discipline",
+            "severity": 4,
+            "evidence": "We maintained a disciplined approach to our expenses, which declined by 5% year-over-year. We delivered our third consecutive quarter of positive operating leverage for each of our 5 lines of business."
+        },
+        {
+            "label": "Capital Returns",
+            "severity": 4,
+            "evidence": "We returned $2.8 billion in capital to our shareholders including $1.75 billion of buybacks as part of our $20 billion plan, which is about $250 million more than we had originally guided."
+        },
+        {
+            "label": "Strategic Transformation Progress",
+            "severity": 3,
+            "evidence": "Our transformation investments continue to modernize our infrastructure, simplify our processes, and reduce manual touch points."
+        },
+        {
+            "label": "Strong Business Growth",
+            "severity": 5,
+            "evidence": "Services recorded its highest first quarter revenue in a decade. TTS continues to demonstrate momentum in the key underlying drivers across U.S. dollar clearing and cross-border activity."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Macro Uncertainty",
+            "severity": 4,
+            "evidence": "The world is in a wait-and-see mode and is facing a more negative macro outlook than anyone had anticipated at the beginning of the year."
+        },
+        {
+            "label": "Credit Risk",
+            "severity": 3,
+            "evidence": "The ACL build reflects uncertainty and deterioration in the macroeconomic outlook, including a further skew to the downside scenario in our CECL framework."
+        },
+        {
+            "label": "Regulatory and Tax Policy Changes",
+            "severity": 3,
+            "evidence": "In the U.S., regulation and tax policy are all likely to look different in a year's time."
+        },
+        {
+            "label": "Credit Losses",
+            "severity": 3,
+            "evidence": "Cost of credit was $2.7 billion, primarily consisting of net credit losses in card as well as a firm-wide net ACL build."
+        },
+        {
+            "label": "Geopolitical Risks",
+            "severity": 2,
+            "evidence": "The changes underway globally will go beyond trade and tariffs. In the U.S., for example, regulation and tax policy are all likely to look different in a year's time."
+        }
+    ],
+    "themes": ["Strong Q1 Performance", "Expense Discipline", "Capital Returns", "Strategic Transformation", "Macro Uncertainty", "Credit Risk", "Regulatory Changes", "Geopolitical Risks"]
+}

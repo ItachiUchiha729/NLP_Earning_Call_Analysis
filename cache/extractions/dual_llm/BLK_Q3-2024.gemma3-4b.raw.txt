@@ -1,0 +1,69 @@
+```json
+{
+    "overall_sentiment": 0.75,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "bullish",
+    "guidance_confidence": 0.85,
+    "wins": [
+        {
+            "label": "Record Net Inflows",
+            "severity": 4,
+            "evidence": "Generated $221 billion of net inflows, our highest net flows quarter ever."
+        },
+        {
+            "label": "Significant Margin Expansion",
+            "severity": 5,
+            "evidence": "Expanded our margin by 350 basis points year-over-year."
+        },
+        {
+            "label": "High Organic Base Fee Growth",
+            "severity": 4,
+            "evidence": "Delivered 5% annualized organic base fee growth, our highest quarter in 3 years."
+        },
+        {
+            "label": "Aladdin Technology Momentum",
+            "severity": 5,
+            "evidence": "Aladdin logs 15% ACV growth, consistent with our long-term low to mid-teens target with excellent momentum and key wins with growing clients."
+        },
+        {
+            "label": "GIP Acquisition Impact",
+            "severity": 4,
+            "evidence": "Closing of GIP added $116 billion of client AUM and $70 billion of fee-paying AUM on October 1."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Market Volatility",
+            "severity": 3,
+            "evidence": "BlackRock's actual results may, of course, differ from these statements. BlackRock has filed reports with the SEC, which list some of the factors that may cause the results of BlackRock to differ materially from what we say today."
+        },
+        {
+            "label": "Regulatory Uncertainty",
+            "severity": 4,
+            "evidence": "There are -- it is not uncommon to see big, large changes in the marketplace. Rob Kapito talks about this a lot."
+        },
+        {
+            "label": "Interest Rate Risk",
+            "severity": 3,
+            "evidence": "Fixed income delivered across the platform with over $60 billion of net inflows. We believe the continued path of central bank normalization will support sustained inflows across bond funds, ETFs and institutional accounts."
+        },
+        {
+            "label": "Technology Risks",
+            "severity": 3,
+            "evidence": "Quarterly technology services revenue was down 1% compared to a year ago due to the prior year quarter revenue impact of eFront on-premises license renewals for several large clients."
+        },
+        {
+            "label": "Private Market Volatility",
+            "severity": 4,
+            "evidence": "Private markets are a strategic priority for BlackRock, delivering world-class private markets capabilities to more deeply serve clients across the whole portfolio."
+        }
+    ],
+    "themes": [
+        "Growth",
+        "Innovation",
+        "Private Markets",
+        "Technology",
+        "Client Relationships"
+    ]
+}
+```

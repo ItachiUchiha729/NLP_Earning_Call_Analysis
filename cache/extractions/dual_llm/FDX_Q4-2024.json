@@ -1,0 +1,217 @@
+{
+  "_ticker": "FDX",
+  "_quarter": "Q4-2024",
+  "_call_date": "2024-06-25",
+  "primary_model": "qwen3:14b",
+  "secondary_model": "gemma3:4b",
+  "primary": {
+    "overall_sentiment": 0.75,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.9,
+    "wins": [
+      {
+        "label": "Strong Q4 and full year results",
+        "severity": 5,
+        "evidence": "Our fourth quarter performance marks a strong end to a year of successful execution."
+      },
+      {
+        "label": "Margin expansion and operating profit growth",
+        "severity": 5,
+        "evidence": "We delivered year-over-year operating profit growth and margin expansion in every quarter of FY '24."
+      },
+      {
+        "label": "Network transformation progress",
+        "severity": 4,
+        "evidence": "We continue to roll out Network 2.0 and finalizing the transition to One FedEx."
+      },
+      {
+        "label": "Significant cost savings from DRIVE",
+        "severity": 5,
+        "evidence": "We achieved our target of $1.8 billion in structural cost-out in FY '24."
+      },
+      {
+        "label": "Positive revenue growth inflection",
+        "severity": 4,
+        "evidence": "Enterprise level revenue growth inflected positive this quarter as expected."
+      }
+    ],
+    "risks": [
+      {
+        "label": "USPS contract expiration headwinds",
+        "severity": 4,
+        "evidence": "We expect $500 million headwind from the expiration of the U.S. Postal Service contract."
+      },
+      {
+        "label": "International export yield pressure",
+        "severity": 3,
+        "evidence": "International yields were also pressured by an increased capacity in the global air cargo market."
+      },
+      {
+        "label": "Demand environment challenges",
+        "severity": 3,
+        "evidence": "The entire industry faced a challenging demand environment in FY '24."
+      },
+      {
+        "label": "European cost savings delayed",
+        "severity": 3,
+        "evidence": "We expect $125 million to $175 million in annualized benefits beginning in FY '27."
+      },
+      {
+        "label": "Uncertainty in macroeconomic environment",
+        "severity": 2,
+        "evidence": "We remain cautious about the broader macroeconomic environment and its impact on demand."
+      }
+    ],
+    "themes": [
+      "network transformation",
+      "cost optimization",
+      "margin expansion",
+      "customer service",
+      "digital innovation"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.35,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Strong FY '24 Results",
+        "severity": 4,
+        "evidence": "Delivered year-over-year operating profit growth and margin expansion in every quarter of FY '24. Lowered our capital intensity, reaching our FY '25 target of less than 6.5% a year early."
+      },
+      {
+        "label": "Ground Operating Income Record",
+        "severity": 5,
+        "evidence": "Ground delivered its highest adjusted operating income in company history for both the fourth quarter and the full year."
+      },
+      {
+        "label": "Freight Margin High",
+        "severity": 4,
+        "evidence": "Freight fourth quarter operating income increased despite significant demand weakness. Freight ended fiscal year 2024 with full year operating margin equal to last year's all-time high."
+      },
+      {
+        "label": "DRIVE Cost Savings",
+        "severity": 4,
+        "evidence": "Achieved our target of $1.8 billion in structural cost-out in FY '24 with approximately $500 million from air network and international, $550 million of G&A, and $750 million from surface network."
+      },
+      {
+        "label": "Network 2.0 Rollout",
+        "severity": 3,
+        "evidence": "Continued to roll out Network 2.0, finalizing the transition to One FedEx."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Declining Revenue",
+        "severity": 4,
+        "evidence": "Revenue was down 3% or nearly $2.5 billion year-over-year."
+      },
+      {
+        "label": "International Yield Pressure",
+        "severity": 3,
+        "evidence": "International yields were pressured by an increased capacity in the global air cargo market."
+      },
+      {
+        "label": "USPS Contract Expiration",
+        "severity": 4,
+        "evidence": "The expiration of the U.S. Postal Service contract will create headwinds."
+      },
+      {
+        "label": "Macroeconomic Uncertainty",
+        "severity": 3,
+        "evidence": "The team is monitoring the demand environment and expects moderate improvement as we move through the year."
+      },
+      {
+        "label": "Trade Policy Changes",
+        "severity": 2,
+        "evidence": "The trade as a percentage of GDP has essentially flatlined since about 2016."
+      }
+    ],
+    "themes": [
+      "transformation",
+      "cost optimization",
+      "network efficiency",
+      "digitalization",
+      "supply chain resilience"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 0.0,
+    "risks_jaccard": 0.0,
+    "themes_jaccard": 0.1111111111111111,
+    "guidance_match": 0.0,
+    "sentiment_gap": 0.4,
+    "agreement_score": 0.027777777777777776,
+    "agreement_confidence": 0.016666666666666666
+  },
+  "chosen": {
+    "overall_sentiment": 0.75,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.9,
+    "wins": [
+      {
+        "label": "Strong Q4 and full year results",
+        "severity": 5,
+        "evidence": "Our fourth quarter performance marks a strong end to a year of successful execution."
+      },
+      {
+        "label": "Margin expansion and operating profit growth",
+        "severity": 5,
+        "evidence": "We delivered year-over-year operating profit growth and margin expansion in every quarter of FY '24."
+      },
+      {
+        "label": "Network transformation progress",
+        "severity": 4,
+        "evidence": "We continue to roll out Network 2.0 and finalizing the transition to One FedEx."
+      },
+      {
+        "label": "Significant cost savings from DRIVE",
+        "severity": 5,
+        "evidence": "We achieved our target of $1.8 billion in structural cost-out in FY '24."
+      },
+      {
+        "label": "Positive revenue growth inflection",
+        "severity": 4,
+        "evidence": "Enterprise level revenue growth inflected positive this quarter as expected."
+      }
+    ],
+    "risks": [
+      {
+        "label": "USPS contract expiration headwinds",
+        "severity": 4,
+        "evidence": "We expect $500 million headwind from the expiration of the U.S. Postal Service contract."
+      },
+      {
+        "label": "International export yield pressure",
+        "severity": 3,
+        "evidence": "International yields were also pressured by an increased capacity in the global air cargo market."
+      },
+      {
+        "label": "Demand environment challenges",
+        "severity": 3,
+        "evidence": "The entire industry faced a challenging demand environment in FY '24."
+      },
+      {
+        "label": "European cost savings delayed",
+        "severity": 3,
+        "evidence": "We expect $125 million to $175 million in annualized benefits beginning in FY '27."
+      },
+      {
+        "label": "Uncertainty in macroeconomic environment",
+        "severity": 2,
+        "evidence": "We remain cautious about the broader macroeconomic environment and its impact on demand."
+      }
+    ],
+    "themes": [
+      "network transformation",
+      "cost optimization",
+      "margin expansion",
+      "customer service",
+      "digital innovation"
+    ]
+  }
+}

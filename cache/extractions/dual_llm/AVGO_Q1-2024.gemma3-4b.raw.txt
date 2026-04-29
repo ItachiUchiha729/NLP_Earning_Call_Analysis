@@ -1,0 +1,69 @@
+```json
+{
+  "overall_sentiment": 0.25,
+  "sentiment_bucket": "bullish",
+  "guidance_direction": "raised",
+  "guidance_confidence": 0.85,
+  "wins": [
+    {
+      "label": "Strong AI Revenue Growth",
+      "severity": 4,
+      "evidence": "Consolidated net revenue was $12 billion, up 34% year-on-year as revenue included 10.5 weeks of contribution from VMware."
+    },
+    {
+      "label": "VMware Cloud Foundation (VCF) Momentum",
+      "severity": 5,
+      "evidence": "With respect to infrastructure software, revenue contribution from consolidating VMware drove a sequential jump in revenue by 132%."
+    },
+    {
+      "label": "Custom ASIC Demand",
+      "severity": 4,
+      "evidence": "Networking revenue grew 46% year-on-year, representing 45% of our semiconductor revenue. This was largely driven by strong demand for our custom AI accelerators at our 2 hyperscale customers."
+    },
+    {
+      "label": "Increased AI Revenue Outlook",
+      "severity": 4,
+      "evidence": "Now expect revenue from AI to be much stronger, representing some 35% of semiconductor revenue at over $10 billion."
+    },
+    {
+      "label": "Strong Bookings Growth",
+      "severity": 3,
+      "evidence": "Consolidated bookings in software grew sequentially from less than $600 million to $1.8 billion in Q1 and is expected to grow to over $3 billion in Q2."
+    }
+  ],
+  "risks": [
+    {
+      "label": "Broadband Cyclical Downturn",
+      "severity": 3,
+      "evidence": "Q1 revenue declined 23% year-on-year to $940 million and represented 13% of semiconductor revenue. We are seeing a cyclical trough this year for broadband as telco spending continues to weaken and do not expect improvement until late in the year."
+    },
+    {
+      "label": "Server Storage Decline",
+      "severity": 4,
+      "evidence": "Q1 server storage connectivity revenue was $887 million or 12% of semiconductor revenue, down 29% year-on-year."
+    },
+    {
+      "label": "Wireless Revenue Decline",
+      "severity": 3,
+      "evidence": "Q1 wireless revenue of $2 billion decreased 1% sequentially and declined 4% year-on-year, representing 27% of semiconductor revenue."
+    },
+    {
+      "label": "Uncertainty in Customer Engagement",
+      "severity": 2,
+      "evidence": "As you all may know, the engagement with a North American customer continues to be very deep, strategic and of course, multiyear."
+    },
+    {
+      "label": "Potential Margin Pressure",
+      "severity": 3,
+      "evidence": "Gross margins were 75.4% of revenue in the quarter."
+    }
+  ],
+  "themes": [
+    "AI",
+    "Cloud Computing",
+    "Semiconductor Demand",
+    "Financial Performance",
+    "Strategic Partnerships"
+  ]
+}
+```

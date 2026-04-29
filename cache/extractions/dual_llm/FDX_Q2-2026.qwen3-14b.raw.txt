@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.9,
+    "wins": [
+        {
+            "label": "Strong Q2 Performance",
+            "severity": 5,
+            "evidence": "We delivered strong results, high single-digit revenue growth, margin expansion and high teens adjusted EPS growth."
+        },
+        {
+            "label": "Network Resilience",
+            "severity": 4,
+            "evidence": "We demonstrated the resilience and flexibility we have built into our network and our ongoing efforts to reduce structural costs are leading to significant improvements in profitability."
+        },
+        {
+            "label": "Raised EPS Outlook",
+            "severity": 5,
+            "evidence": "Given the strength of our Q2 results and our updated assumptions for the second half, we are raising our adjusted EPS outlook to $17.80 to $19."
+        },
+        {
+            "label": "B2B Growth",
+            "severity": 4,
+            "evidence": "Nearly half of our revenue growth was driven by B2B services, an important enabler of increased profitability."
+        },
+        {
+            "label": "Spinoff Progress",
+            "severity": 3,
+            "evidence": "FedEx Freight's entire executive leadership team is now in place, and the team is moving quickly to prepare for the separation."
+        }
+    ],
+    "risks": [
+        {
+            "label": "MD-11 Grounding Impact",
+            "severity": 4,
+            "evidence": "The grounding of our MD-11 fleet pressured our Q2 adjusted operating income by about $25 million."
+        },
+        {
+            "label": "LTL Industry Weakness",
+            "severity": 4,
+            "evidence": "Freight results remain pressured, driven primarily by lower volumes, partially offset by higher weight and revenue per shipment."
+        },
+        {
+            "label": "Global Trade Policy Uncertainty",
+            "severity": 3,
+            "evidence": "The impact of global trade policy changes continues to create headwinds for our business."
+        },
+        {
+            "label": "Spinoff Costs",
+            "severity": 3,
+            "evidence": "We expect $100 million of the $300 million impact to be due to separation costs."
+        },
+        {
+            "label": "Variable Incentive Compensation",
+            "severity": 3,
+            "evidence": "We have embedded a higher accrual for variable incentive compensation in our revised outlook."
+        }
+    ],
+    "themes": ["Network Transformation", "B2B Growth", "Spinoff", "Margin Expansion", "Global Trade Policy"]
+}

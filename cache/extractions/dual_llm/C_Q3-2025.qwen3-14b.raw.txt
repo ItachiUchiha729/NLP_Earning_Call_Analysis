@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.95,
+    "wins": [
+        {
+            "label": "Strong Q3 Results",
+            "severity": 5,
+            "evidence": "This morning, we reported another very good quarter with net income of $3.8 billion and earnings per share of $1.86, with an ROTCE of 8%."
+        },
+        {
+            "label": "Improved Operating Leverage",
+            "severity": 4,
+            "evidence": "We continue to generate positive operating leverage for the firm and in each of our 5 businesses."
+        },
+        {
+            "label": "Strategic Investments in Technology",
+            "severity": 4,
+            "evidence": "We are committed to embedding AI into how we work. Nearly 180,000 colleagues in 83 countries now have access to our proprietary AI tools."
+        },
+        {
+            "label": "Client Growth and Retention",
+            "severity": 4,
+            "evidence": "We had record net new investment assets of $18.6 billion in the quarter and client investment assets increasing by 14%."
+        },
+        {
+            "label": "Capital Return to Shareholders",
+            "severity": 4,
+            "evidence": "We returned over $6 billion in capital to our common shareholders during the third quarter."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Regulatory Uncertainty",
+            "severity": 3,
+            "evidence": "We are still waiting for clarity from the Federal Reserve on whether the averaging of SCB results from the previous 2 consecutive years will become effective in the next few months."
+        },
+        {
+            "label": "Economic Volatility",
+            "severity": 3,
+            "evidence": "There are pockets of valuation frothiness in the market, so I hope discipline remains."
+        },
+        {
+            "label": "Credit Risks",
+            "severity": 3,
+            "evidence": "Our reserves continue to incorporate an 8-quarter weighted average unemployment rate of 5.2%, which includes a downside scenario average unemployment rate of nearly 7%."
+        },
+        {
+            "label": "Transformation Costs",
+            "severity": 3,
+            "evidence": "Transformation expense for 2025 is expected to be under $3.5 billion, and it will take time to see the full benefits."
+        },
+        {
+            "label": "Banamex Exit Uncertainty",
+            "severity": 3,
+            "evidence": "The agreement with Fernando Chico Pardo to purchase a 25% equity stake is a very significant step towards the divestiture of Banamex and progresses the overall time line to deconsolidation and beyond."
+        }
+    ],
+    "themes": ["growth", "technology", "capital return", "efficiency", "regulatory compliance"]
+}

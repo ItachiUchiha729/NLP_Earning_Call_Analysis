@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.3,
+    "sentiment_bucket": "neutral",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.75,
+    "wins": [
+        {
+            "label": "Improved daily sales rate",
+            "severity": 4,
+            "evidence": "The quarter finished stronger than it started, especially considering that the hurricane impacted the last few days of the month."
+        },
+        {
+            "label": "Positive momentum in customer acquisition",
+            "severity": 4,
+            "evidence": "We continue to manage both current conditions and future growth. And the way we thought about it in the July call is we talked about in a period like this, we manage expenses very tightly, but we still build for the future."
+        },
+        {
+            "label": "Inventory improvements",
+            "severity": 3,
+            "evidence": "The asset efficiency improvements we made in the last few years allow us to be very flexible and strategic in what we're doing."
+        },
+        {
+            "label": "FMI Technology growth",
+            "severity": 4,
+            "evidence": "We signed 7,281 weighted devices in the third quarter, that's 114 a day."
+        },
+        {
+            "label": "Digital footprint growth",
+            "severity": 3,
+            "evidence": "61.1% of our sales went through a digital footprint this quarter, and that was 57% a year ago."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Sluggish end markets",
+            "severity": 5,
+            "evidence": "The purchasing managers index has been sub-50, indicating manufacturing contraction for 22 of the last 23 months."
+        },
+        {
+            "label": "Import duties",
+            "severity": 4,
+            "evidence": "Certain countries have raised import duties, lifting the cost to us of moving product across borders."
+        },
+        {
+            "label": "Lower supplier rebates",
+            "severity": 3,
+            "evidence": "We are experiencing lower supplier rebates as sustained slow demand has reduced our purchasing activity relative to last year."
+        },
+        {
+            "label": "Channel destocking",
+            "severity": 3,
+            "evidence": "The reseller end market weakened markedly with daily sales declining 11.3% in the quarter."
+        },
+        {
+            "label": "Uncertainty in end market demand",
+            "severity": 4,
+            "evidence": "There is uncertainty over what plant shutdowns might look like during the November and December holiday seasons."
+        }
+    ],
+    "themes": ["inventory management", "digital transformation", "customer acquisition", "supply chain efficiency", "market share growth"]
+}

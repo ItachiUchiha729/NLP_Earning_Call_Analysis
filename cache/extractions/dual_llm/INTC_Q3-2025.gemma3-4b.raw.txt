@@ -1,0 +1,74 @@
+```json
+{
+  "overall_sentiment": 0.62,
+  "sentiment_bucket": "bullish",
+  "guidance_direction": "reaffirmed",
+  "guidance_confidence": 0.72,
+  "wins": [
+    {
+      "label": "Fourth consecutive quarter of revenue above guidance",
+      "severity": 2,
+      "evidence": "We delivered a solid Q3 with revenue, gross margin, earnings per share above guidance. This marks the fourth consecutive quarter of improved execution"
+    },
+    {
+      "label": "Strong balance sheet improvement with $20B in capital raised",
+      "severity": 2,
+      "evidence": "we executed on deals to secure roughly $20 billion of cash, including 3 important strategic partnerships...We exited Q3 with $30.9 billion of cash and short-term investments"
+    },
+    {
+      "label": "NVIDIA partnership for x86-GPU integration",
+      "severity": 2,
+      "evidence": "By connecting our architectures through NVIDIA NVLink, we combine Intel's CPU and x86 leadership with NVIDIA unmatched AI and accelerated computing strengths"
+    },
+    {
+      "label": "18A foundry progress with Fab 52 fully operational",
+      "severity": 2,
+      "evidence": "Intel 18A yields are progressing at a predictable rate, and Fab 52 in Arizona, which is dedicated to high-volume manufacturing, is now fully operational"
+    },
+    {
+      "label": "AI PC adoption growing with 100M units expected by year-end",
+      "severity": 1,
+      "evidence": "we would ship about 100 million units by the end of this year on AI PC, and we're going to be first order in that range"
+    }
+  ],
+  "risks": [
+    {
+      "label": "Foundry operating losses and negative gross margins",
+      "severity": 4,
+      "evidence": "Intel Foundry operating loss in Q3 was $2.3 billion...we're in negative gross margin territory for foundry"
+    },
+    {
+      "label": "18A yields inadequate for margin targets until end of 2026",
+      "severity": 3,
+      "evidence": "Yields are adequate to address the supply, but they are not where we need them to be in order to drive the appropriate level of margins. And by the end of next year, we'll probably be in that space"
+    },
+    {
+      "label": "Tight supply constraints limiting revenue growth potential",
+      "severity": 3,
+      "evidence": "Capacity constraints, especially on Intel 10 and Intel 7, limited our ability to fully meet demand in Q3...we expect to persist into 2026"
+    },
+    {
+      "label": "Data center competitive position and cost structure challenges",
+      "severity": 3,
+      "evidence": "Not only do we not have the right cost structure, but we also don't have the right competitiveness to really get the right margins from our customers"
+    },
+    {
+      "label": "Q4 gross margin expected to decline sequentially to 36.5%",
+      "severity": 2,
+      "evidence": "we forecast a gross margin of approximately 36.5%, down sequentially due to product mix, the impact of the first shipments of Core Ultra 3"
+    }
+  ],
+  "themes": [
+    "AI infrastructure demand",
+    "foundry strategy and execution",
+    "balance sheet strengthening",
+    "process technology transition (18A/14A)",
+    "x86 architecture revitalization",
+    "supply constraints",
+    "gross margin pressure",
+    "strategic partnerships",
+    "government support",
+    "cost structure improvement"
+  ]
+}
+```

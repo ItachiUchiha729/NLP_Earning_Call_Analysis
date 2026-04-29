@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.3,
+    "sentiment_bucket": "neutral",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.75,
+    "wins": [
+        {
+            "label": "Organizational Simplification",
+            "severity": 4,
+            "evidence": "The simplification of our organization structure will conclude at the end of the first quarter and will result in over $1 billion of run rate saves from the net elimination of approximately 5,000 roles mainly managers."
+        },
+        {
+            "label": "Strategic Divestitures",
+            "severity": 3,
+            "evidence": "We have now completed the divestitures of 9 of our 14 international consumer franchises and have wound down nearly 70% of our total retail loans and deposits in Russia, Korea and China."
+        },
+        {
+            "label": "Technology Investments",
+            "severity": 4,
+            "evidence": "In total, we invested over $12 billion in technology in 2023. Beyond transformation, our technology investments are also focused on digital innovation, new product development, client experience enhancements and areas that support our infrastructure like cloud and cyber."
+        },
+        {
+            "label": "Client Wins",
+            "severity": 3,
+            "evidence": "We've now gained over 100 basis points in share in security services since 2021. In wealth, we added an estimated $21 billion in net new assets during the year."
+        },
+        {
+            "label": "Expense Management",
+            "severity": 3,
+            "evidence": "We met our full year expense guidance, and we increased our CET1 ratio to 13.3% during the year."
+        }
+    ],
+    "risks": [
+        {
+            "label": "External Headwinds",
+            "severity": 5,
+            "evidence": "Earlier this week, we disclosed additional external headwinds, some of which materialized in the second half of December, including a $1.3 billion reserve build related to transfer risk stemming from exposures to Argentina and Russia."
+        },
+        {
+            "label": "Market Volatility",
+            "severity": 4,
+            "evidence": "Markets revenues decreased 6% to $18.9 billion, largely driven by lower volatility and a significant slowdown in December."
+        },
+        {
+            "label": "Wealth Performance",
+            "severity": 3,
+            "evidence": "Wealth revenues decreased 5% to $7.1 billion, primarily due to the deposit mix shift towards higher-yielding products, which drove lower deposit spreads."
+        },
+        {
+            "label": "Credit Risks",
+            "severity": 4,
+            "evidence": "The reserve build of $1.3 billion related to increases in transfer risk associated with exposures to Russia and Argentina as described in the 8-K."
+        },
+        {
+            "label": "Regulatory Challenges",
+            "severity": 3,
+            "evidence": "We were pleased to have closed the FX consent order with the Federal Reserve. We're committed to fulfilling the expectations of our regulators, given the unique role we play in the global financial system."
+        }
+    ],
+    "themes": ["organizational_simplification", "technology_investment", "divestitures", "external_headwinds", "credit_risk", "expense_management", "market_volatility", "wealth_growth"]
+}

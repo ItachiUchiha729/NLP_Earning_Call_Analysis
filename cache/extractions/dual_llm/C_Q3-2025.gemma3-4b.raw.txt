@@ -1,0 +1,69 @@
+```json
+{
+  "overall_sentiment": 0.35,
+  "sentiment_bucket": "bullish",
+  "guidance_direction": "raised",
+  "guidance_confidence": 0.85,
+  "wins": [
+    {
+      "label": "Record Third Quarter Results",
+      "severity": 4,
+      "evidence": "Net income of $3.8 billion and earnings per share of $1.86, with an ROTCE of 8%."
+    },
+    {
+      "label": "Adjusted EPS Growth",
+      "severity": 5,
+      "evidence": "Adjusted EPS was $2.24 with an adjusted ROTCE of 9.7% excluding goodwill impairment."
+    },
+    {
+      "label": "Revenue Growth Across Businesses",
+      "severity": 4,
+      "evidence": "Revenues were up 9% and every business had record third quarter revenue and improved returns."
+    },
+    {
+      "label": "Strong Operating Leverage",
+      "severity": 5,
+      "evidence": "The firm continues to generate positive operating leverage for the firm and each of its 5 businesses."
+    },
+    {
+      "label": "Significant Capital Return",
+      "severity": 4,
+      "evidence": "Returned over $6 billion in capital to shareholders during the third quarter."
+    }
+  ],
+  "risks": [
+    {
+      "label": "Macroeconomic Uncertainty",
+      "severity": 3,
+      "evidence": "The macro environment reflects a global economy that has proved more resilient than many anticipated. The U.S. continues to be a pacesetter, driven by consistent consumer spending as well as tech investments in AI and data centers."
+    },
+    {
+      "label": "Market Volatility",
+      "severity": 4,
+      "evidence": "There are pockets of valuation frothiness in the market, so I hope discipline remains."
+    },
+    {
+      "label": "Labor Market Dynamics",
+      "severity": 3,
+      "evidence": "Growth is cooling somewhat and we are keeping an eye on the labor market."
+    },
+    {
+      "label": "Regulatory Scrutiny",
+      "severity": 4,
+      "evidence": "The regulatory environment reflects changes in the reg environment coming from D.C., and I think like everyone we welcome the proposed changes, including recalibration to center on safety and soundness."
+    },
+    {
+      "label": "Banamex Deconsolidation Risks",
+      "severity": 4,
+      "evidence": "The agreement with Fernando Chico Pardo to purchase a 25% equity stake in Banamex."
+    }
+  ],
+  "themes": [
+    "Transformation",
+    "Digital Payments",
+    "Revenue Growth",
+    "Capital Returns",
+    "Risk Management"
+  ]
+}
+```

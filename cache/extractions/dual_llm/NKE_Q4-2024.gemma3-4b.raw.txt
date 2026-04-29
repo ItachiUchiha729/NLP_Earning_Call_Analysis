@@ -1,0 +1,74 @@
+```json
+{
+  "overall_sentiment": -0.35,
+  "sentiment_bucket": "bearish",
+  "guidance_direction": "lowered",
+  "guidance_confidence": 0.72,
+  "wins": [
+    {
+      "label": "Performance category strong growth",
+      "severity": 2,
+      "evidence": "Performance grew double digits in the quarter, with growth in many of our key sports"
+    },
+    {
+      "label": "Innovation pipeline acceleration",
+      "severity": 2,
+      "evidence": "we've been accelerating our innovation pipeline, including pulling forward several innovations, some more than a year"
+    },
+    {
+      "label": "Gross margin expansion",
+      "severity": 2,
+      "evidence": "Gross margins expanded 110 basis points to 44.7% on a reported basis, primarily due to strategic pricing actions, lower ocean freight rates and improved supply chain efficiency"
+    },
+    {
+      "label": "Strong wholesale order books",
+      "severity": 2,
+      "evidence": "strong double-digit growth in order books with North American running specialty partners in both holiday '24 and spring '25"
+    },
+    {
+      "label": "Full year EPS growth",
+      "severity": 2,
+      "evidence": "For full year fiscal '24, revenue grew approximately 1% on a currency neutral basis and earnings per share grew 15%"
+    }
+  ],
+  "risks": [
+    {
+      "label": "Lifestyle business decline",
+      "severity": 4,
+      "evidence": "our lifestyle business declined in Q4 across men's, women's and Jordan, more than offsetting strong growth in our sport performance business"
+    },
+    {
+      "label": "Digital channel weakness",
+      "severity": 4,
+      "evidence": "NIKE Digital declined 10% in the quarter. Although our digital business has grown at an approximately 26% CAGR since fiscal '19, we missed our Q4 plan on softer traffic, higher promotions and lower sales of certain classic footwear franchises"
+    },
+    {
+      "label": "Greater China traffic decline",
+      "severity": 4,
+      "evidence": "we experienced meaningful shifts in consumer traffic in key markets, particularly in Greater China, where brick-and-mortar traffic declined as much as double digits versus the prior year"
+    },
+    {
+      "label": "FY25 revenue guidance lowered significantly",
+      "severity": 5,
+      "evidence": "we now expect fiscal '25 reported revenue to be down mid-single digits with the first half down high single digits"
+    },
+    {
+      "label": "Macro uncertainty and FX headwinds",
+      "severity": 4,
+      "evidence": "increased macro uncertainty and worsening foreign exchange have caused us to reduce our guidance for fiscal '25. Foreign exchange headwinds have also worsened and will now have a 1 point translational impact on revenue in fiscal '25"
+    }
+  ],
+  "themes": [
+    "product_innovation",
+    "portfolio_rebalancing",
+    "digital_weakness",
+    "china_softness",
+    "fx_headwinds",
+    "margin_expansion",
+    "organizational_restructuring",
+    "wholesale_strength",
+    "lifestyle_decline",
+    "performance_growth"
+  ]
+}
+```

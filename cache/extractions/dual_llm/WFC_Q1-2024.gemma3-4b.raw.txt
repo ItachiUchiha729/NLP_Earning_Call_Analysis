@@ -1,0 +1,74 @@
+```json
+{
+  "overall_sentiment": 0.62,
+  "sentiment_bucket": "bullish",
+  "guidance_direction": "reaffirmed",
+  "guidance_confidence": 0.72,
+  "wins": [
+    {
+      "label": "Strong noninterest income growth",
+      "severity": 1,
+      "evidence": "Noninterest income was up 17% from a year ago with strong growth in investment advisory fees and brokerage commissions, deposit and lending-related fees, trading and Investment Banking fees"
+    },
+    {
+      "label": "Credit card business momentum",
+      "severity": 1,
+      "evidence": "Credit card spending remained strong. It was up 14% from a year ago. All categories grew with stronger growth in nondiscretionary spend. New account growth continued to be strong, up 12% from last year"
+    },
+    {
+      "label": "Regulatory milestone achieved",
+      "severity": 2,
+      "evidence": "Earlier this year, the OCC terminated a consent order issued in 2016 regarding sales practices misconduct. The closure of this order was an important milestone as it is confirmation that we operate much differently today around sales practices"
+    },
+    {
+      "label": "Strong capital position and shareholder returns",
+      "severity": 1,
+      "evidence": "We repurchased $6.1 billion of common stock in the first quarter. While the amount of stock we repurchase each quarter will vary, we continue to expect to repurchase more common stock this year than we did in 2023"
+    },
+    {
+      "label": "Investment Banking and trading outperformance",
+      "severity": 1,
+      "evidence": "Banking revenue increased 5% from a year ago, driven by higher Investment Banking revenue due to increased activity across all products. Markets revenue increased 2% from a year ago, driven by continued strong performance in structured products, credit products and foreign exchange"
+    }
+  ],
+  "risks": [
+    {
+      "label": "Net interest income decline expected",
+      "severity": 3,
+      "evidence": "Net interest income declined $1.1 billion or 8% from a year ago due to the impact of higher interest rates on funding costs. Our full year net interest income guidance has not changed from last quarter, and we still expect 2024 net interest income to be approximately 7% to 9% lower than 2023"
+    },
+    {
+      "label": "Commercial real estate office portfolio weakness",
+      "severity": 3,
+      "evidence": "In our commercial portfolios, the weakness we see continues to be in certain commercial office properties. We continue to expect additional losses in the coming quarters. However, the amounts will likely be uneven and episodic"
+    },
+    {
+      "label": "Regulatory risks remain",
+      "severity": 4,
+      "evidence": "Regulatory pressures on banks' long-standing issues such as ours is high. And until we complete our work and until it is validated by our regulators, we remain at risk of further regulatory actions. Additionally, as we implement heightened controls and oversight, new issues could be found and these may result in regulatory actions"
+    },
+    {
+      "label": "Weak loan demand environment",
+      "severity": 2,
+      "evidence": "Average commercial and consumer loans were both down from the fourth quarter as higher rates are impacting demand and we are continuing to reduce our exposure in certain portfolios. Weaker loan demand reflected the impact of clients being cautious, given the higher rate environment"
+    },
+    {
+      "label": "Deposit mix shift and repricing pressure",
+      "severity": 2,
+      "evidence": "Average deposits declined 1% from a year ago, reflecting lower deposits in our consumer businesses, as customers continued spending and reallocating cash into higher-yielding alternatives. Our mix of deposits continue to shift with our percentage of noninterest-bearing deposits declining to 26%"
+    }
+  ],
+  "themes": [
+    "regulatory_remediation",
+    "net_interest_income_pressure",
+    "fee_income_growth",
+    "credit_card_expansion",
+    "investment_banking_recovery",
+    "deposit_mix_shift",
+    "commercial_real_estate_weakness",
+    "capital_return_to_shareholders",
+    "efficiency_initiatives",
+    "trading_momentum"
+  ]
+}
+```

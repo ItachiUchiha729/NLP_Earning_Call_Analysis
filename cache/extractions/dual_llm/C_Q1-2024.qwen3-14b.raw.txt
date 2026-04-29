@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.65,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.9,
+    "wins": [
+        {
+            "label": "Organizational Simplification",
+            "severity": 5,
+            "evidence": "We are now more client-centric. We're already seeing faster decision-making and a nimbler organization at work."
+        },
+        {
+            "label": "Expense Reductions",
+            "severity": 4,
+            "evidence": "We are eliminating approximately 7,000 positions, which will generate $1.5 billion of annualized run rate expense saves."
+        },
+        {
+            "label": "Strong Q1 Performance",
+            "severity": 4,
+            "evidence": "We reported net income of approximately $3.4 billion, earnings per share of $1.58 and an RoTCE of 7.6% on over $21 billion of revenues."
+        },
+        {
+            "label": "Services Growth",
+            "severity": 3,
+            "evidence": "Services continues to perform well and generate very attractive returns. Revenue was up 8% for the quarter."
+        },
+        {
+            "label": "Investment Banking Recovery",
+            "severity": 3,
+            "evidence": "Investment Banking revenue growth of 35% and overall banking revenue growth of 49%."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Credit Card Charge-Offs",
+            "severity": 4,
+            "evidence": "The NCL rate of 6.32% was slightly above the high end of our guidance range for the full year."
+        },
+        {
+            "label": "Regulatory and Compliance Costs",
+            "severity": 3,
+            "evidence": "We are intensifying our efforts in automating certain regulatory processes and the data related to regulatory reporting."
+        },
+        {
+            "label": "Economic Uncertainty",
+            "severity": 3,
+            "evidence": "We continue to see a tale of two Europe with Germany hurt by the weak demand for goods."
+        },
+        {
+            "label": "Inflation and Interest Rates",
+            "severity": 2,
+            "evidence": "Persistent inflation, higher interest rates, and continued sales pressure at our partners."
+        },
+        {
+            "label": "Geopolitical Risks",
+            "severity": 2,
+            "evidence": "The market's too benign in its risk pricing on some of these factors."
+        }
+    ],
+    "themes": ["organizational transformation", "cost efficiency", "revenue growth", "regulatory compliance", "credit risk management"]
+}

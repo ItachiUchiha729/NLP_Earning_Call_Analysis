@@ -1,0 +1,74 @@
+```json
+{
+  "overall_sentiment": 0.35,
+  "sentiment_bucket": "bullish",
+  "guidance_direction": "lowered",
+  "guidance_confidence": 0.75,
+  "wins": [
+    {
+      "label": "Strong capital position and shareholder returns",
+      "severity": 2,
+      "evidence": "CET1 ratio increased to 11.4%, 2.5 percentage points above regulatory minimum; repurchased $12 billion in 2023 and expect to repurchase more in 2024"
+    },
+    {
+      "label": "CIB revenue growth and market share gains",
+      "severity": 2,
+      "evidence": "CIB revenue grew 26% from a year ago, and our investment banking and trading market shares increased"
+    },
+    {
+      "label": "Credit card business momentum",
+      "severity": 2,
+      "evidence": "Credit card spend up 15% for the year; new account growth up 17% from a year ago; balances up 40% since end of 2021"
+    },
+    {
+      "label": "Efficiency initiatives delivering results",
+      "severity": 2,
+      "evidence": "Successfully delivered approximately $10 billion of gross expenses; headcount down 16% since end of 2020"
+    },
+    {
+      "label": "Strategic repositioning showing early traction",
+      "severity": 2,
+      "evidence": "New credit card products driven increase in consumer spend at rate significantly better than industry average; home lending strategy producing higher returns"
+    }
+  ],
+  "risks": [
+    {
+      "label": "Net interest income decline expected in 2024",
+      "severity": 4,
+      "evidence": "Full year 2024 net interest income could potentially be approximately 7% to 9% lower than full year 2023"
+    },
+    {
+      "label": "Commercial real estate office portfolio deterioration",
+      "severity": 4,
+      "evidence": "Losses started to materialize in commercial real estate office portfolio as market fundamentals remain weak; expect additional losses in coming quarters; coverage ratio at 11%"
+    },
+    {
+      "label": "Consumer deposit outflows and mix shift",
+      "severity": 3,
+      "evidence": "Average deposits declined 3% from a year ago; further attrition in consumer banking and lending deposits expected; noninterest-bearing deposits declining to 27%"
+    },
+    {
+      "label": "Significant uncertainty in rate environment",
+      "severity": 3,
+      "evidence": "Significant uncertainty exists regarding eventual timing and extent of Federal Reserve interest rate actions; there is more uncertainty than usual given market's strong view of rate cut timing"
+    },
+    {
+      "label": "Credit quality deterioration across portfolios",
+      "severity": 3,
+      "evidence": "Net loan charge-offs increased to 53 basis points; consumer charge-offs up to 79 basis points; nonperforming assets increased 3% from third quarter"
+    }
+  ],
+  "themes": [
+    "NII headwinds",
+    "rate sensitivity",
+    "CRE office stress",
+    "deposit competition",
+    "efficiency initiatives",
+    "capital returns",
+    "strategic investments",
+    "credit deterioration",
+    "business repositioning",
+    "ROTCE improvement path"
+  ]
+}
+```

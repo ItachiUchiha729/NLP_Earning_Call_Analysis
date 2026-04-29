@@ -1,0 +1,69 @@
+```json
+{
+    "overall_sentiment": 0.45,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+        {
+            "label": "Strong Organic Base Fee Growth",
+            "severity": 4,
+            "evidence": "BlackRock surpassed its 5% organic base fee growth target even with more stressed and uncertain markets."
+        },
+        {
+            "label": "Record AUM and Assets Under Management",
+            "severity": 5,
+            "evidence": "BlackRock finished the record quarter with record AUM, record units of trust of $11.6 trillion."
+        },
+        {
+            "label": "Diversified Net Inflows",
+            "severity": 4,
+            "evidence": "Net inflows were approximately $140 billion, excluding episodic institutional index equity activity."
+        },
+        {
+            "label": "Private Market Growth",
+            "severity": 4,
+            "evidence": "Aggregate $7 billion of net inflows led by infrastructure and private credit."
+        },
+        {
+            "label": "ETF Growth",
+            "severity": 4,
+            "evidence": "ETF net inflows of $107 billion were positive across all channels led by core equity and fixed income ETFs."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Market Volatility",
+            "severity": 5,
+            "evidence": "The S&P 500 ended 9% off its February peak during the quarter."
+        },
+        {
+            "label": "Institutional Index Equity Outflows",
+            "severity": 4,
+            "evidence": "Institutional index net outflows of $46 billion were concentrated in low fee index equities."
+        },
+        {
+            "label": "Performance Fees Decline",
+            "severity": 3,
+            "evidence": "Performance fees decreased from a year ago, primarily reflecting lower performance revenue from private markets and liquid alternatives."
+        },
+        {
+            "label": "Technology Expenses",
+            "severity": 4,
+            "evidence": "Total expense increased 10% year-over-year, reflecting higher sales, asset and account, G&A and compensation expense."
+        },
+        {
+            "label": "Interest Rate Risk",
+            "severity": 4,
+            "evidence": "The steepening yield curve could drive more capital flows into private markets as investors look to insulate portfolios from tariff impacts and seek attractive income and growth."
+        }
+    ],
+    "themes": [
+        "Private Markets",
+        "ETFs",
+        "Digital Assets",
+        "Growth Strategy",
+        "Global Expansion"
+    ]
+}
+```

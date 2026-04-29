@@ -1,0 +1,69 @@
+```json
+{
+  "overall_sentiment": 0.35,
+  "sentiment_bucket": "bullish",
+  "guidance_direction": "reaffirmed",
+  "guidance_confidence": 0.85,
+  "wins": [
+    {
+      "label": "Record Revenue Growth",
+      "severity": 4,
+      "evidence": "Total revenue was a record $14.9 billion, up 25% year-on-year"
+    },
+    {
+      "label": "AI Revenue Surge",
+      "severity": 5,
+      "evidence": "Q1 semiconductor revenue was $8.2 billion, up 11% year-on-year. Growth was driven by AI as AI revenue of $4.1 billion was up 77% year-on-year."
+    },
+    {
+      "label": "Hyperscale Partner Investment",
+      "severity": 4,
+      "evidence": "Our hyperscale partners continue to invest aggressively in their next generation frontier models, which do require high-performance accelerators as well as AI data centers with larger clusters."
+    },
+    {
+      "label": "R&D Investment Increase",
+      "severity": 3,
+      "evidence": "We're pushing the envelope of technology in creating the next generation of accelerators. We're tapping out the industry's first 2-nanometer AI XPU packaging 3.5D as we drive towards a 10,000 teraflops XPU."
+    },
+    {
+      "label": "Software Growth",
+      "severity": 4,
+      "evidence": "Q1 infrastructure software revenue of $6.7 billion was up 47% year-on-year and up 15% sequentially, exaggerated though by deals, which slipped from Q2 -- Q4 in Q1."
+    }
+  ],
+  "risks": [
+    {
+      "label": "Non-AI Semiconductor Slowdown",
+      "severity": 4,
+      "evidence": "Revenue of $4.1 billion was down 9% sequentially on a seasonal decline in wireless."
+    },
+    {
+      "label": "Inventory Challenges",
+      "severity": 3,
+      "evidence": "Resales in industrial were down double digits in Q1 and are expected to be down in Q2."
+    },
+    {
+      "label": "Tariff Uncertainty",
+      "severity": 2,
+      "evidence": "I would say it's really too early to know where we all land."
+    },
+    {
+      "label": "Regulatory Impact",
+      "severity": 3,
+      "evidence": "New frontier models and techniques put unexpected pressures on AI systems. It's difficult to serve all classes of models with a single system design point."
+    },
+    {
+      "label": "Market Volatility",
+      "severity": 2,
+      "evidence": "Broadband, which bottomed in Q4 of 2024, showed a double-digit sequential recovery in Q1 and is expected to be up similarly in Q2 and service providers and telcos step up spending."
+    }
+  ],
+  "themes": [
+    "AI",
+    "Semiconductors",
+    "Networking",
+    "Hyperscale",
+    "Software"
+  ]
+}
+```

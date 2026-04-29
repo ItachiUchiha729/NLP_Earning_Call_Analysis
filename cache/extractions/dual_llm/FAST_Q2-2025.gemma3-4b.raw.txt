@@ -1,0 +1,69 @@
+```json
+{
+    "overall_sentiment": 0.35,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+        {
+            "label": "Record Revenue",
+            "severity": 4,
+            "evidence": "Delivering just a very strong quarter and exceeding the quarterly result of over $2 billion in revenue for the first time in our company’s history."
+        },
+        {
+            "label": "Sales Growth",
+            "severity": 5,
+            "evidence": "Sales in the second quarter increased by 8.6%, marking our highest yearly growth since early 2023."
+        },
+        {
+            "label": "Contract Growth",
+            "severity": 4,
+            "evidence": "Contract growth has grown from 4% in '22 to 11.2% last year and that momentum has continued as we move into 2025. Our contract growth has grown to 84 contract signings well ahead of the last 2 quarters."
+        },
+        {
+            "label": "Nonmanufacturing Site Growth",
+            "severity": 4,
+            "evidence": " Revenues increased 30% year-over-year, and the site count has increased over 18%."
+        },
+        {
+            "label": "E-commerce Growth",
+            "severity": 3,
+            "evidence": "E-business grew 13.5%."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Tariff Uncertainty",
+            "severity": 4,
+            "evidence": "Trade policy continues to create some caution. There's a finite amount of energy in the room. And sometimes something has got to give."
+        },
+        {
+            "label": "FMI Device Slowdown",
+            "severity": 3,
+            "evidence": "FMI Device growth softened a little bit."
+        },
+        {
+            "label": "Margin Pressure",
+            "severity": 4,
+            "evidence": "Price/cost is becoming challenging in the second half of the year."
+        },
+        {
+            "label": "Inventory Levels",
+            "severity": 3,
+            "evidence": "Inventory was up 14.7%, reflecting sales growth, relatively faster growth to larger customers that tend to carry longer terms and an uptick in quarter end deferred payments from our customers."
+        },
+        {
+            "label": "Customer Fatigue",
+            "severity": 3,
+            "evidence": "There's some fatigue going on. And that fatigue is not just with customers. That fatigue is with our folks. That fatigue is with our suppliers, our folks that work with customs."
+        }
+    ],
+    "themes": [
+        "Revenue Growth",
+        "Market Share Gains",
+        "Strategic Execution",
+        "Supply Chain Optimization",
+        "Digital Transformation"
+    ]
+}
+```

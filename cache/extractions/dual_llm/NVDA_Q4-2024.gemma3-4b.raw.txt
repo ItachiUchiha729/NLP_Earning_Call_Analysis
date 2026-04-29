@@ -1,0 +1,74 @@
+```json
+{
+  "overall_sentiment": 0.92,
+  "sentiment_bucket": "very_bullish",
+  "guidance_direction": "raised",
+  "guidance_confidence": 0.85,
+  "wins": [
+    {
+      "label": "Exceptional Data Center Growth",
+      "severity": 5,
+      "evidence": "Data Center revenue of $18.4 billion was a record, up 27% sequentially and up 409% year-on-year"
+    },
+    {
+      "label": "Broad Industry Adoption",
+      "severity": 5,
+      "evidence": "Building and deploying AI solutions has reached virtually every industry. Nearly every Automotive company working on AI is working with NVIDIA"
+    },
+    {
+      "label": "Strong Inference Revenue Growth",
+      "severity": 4,
+      "evidence": "We estimate in the past year, approximately 40% of Data Center revenue was for AI inference"
+    },
+    {
+      "label": "Software Business Momentum",
+      "severity": 4,
+      "evidence": "Software and services offerings reached an annualized revenue run rate of $1 billion in Q4"
+    },
+    {
+      "label": "Supply Chain Improvement",
+      "severity": 4,
+      "evidence": "We are delighted that supply of Hopper architecture products is improving. Overall, our supply is improving"
+    }
+  ],
+  "risks": [
+    {
+      "label": "China Market Restrictions",
+      "severity": 4,
+      "evidence": "Data Center revenue declined significantly following the U.S. government export control regulations imposed in October. China represented a mid-single-digit percentage of our Data Center revenue in Q4"
+    },
+    {
+      "label": "Next Generation Supply Constraints",
+      "severity": 4,
+      "evidence": "We expect our next generation products to be supply constrained as demand far exceeds supply"
+    },
+    {
+      "label": "Gross Margin Normalization",
+      "severity": 3,
+      "evidence": "Beyond Q1, for the remainder of the year, we expect gross margins to return to the mid-70s percent range"
+    },
+    {
+      "label": "Operating Expense Growth",
+      "severity": 3,
+      "evidence": "Fiscal year 2025 GAAP and non-GAAP operating expenses are expected to grow in the mid-30% range"
+    },
+    {
+      "label": "Forward-Looking Uncertainty",
+      "severity": 2,
+      "evidence": "During this call, we may make forward-looking statements based on current expectations. These are subject to a number of significant risks and uncertainties"
+    }
+  ],
+  "themes": [
+    "AI_infrastructure_dominance",
+    "accelerated_computing_transition",
+    "generative_AI_adoption",
+    "data_center_expansion",
+    "supply_demand_imbalance",
+    "software_as_service_growth",
+    "geographic_diversification",
+    "enterprise_software_integration",
+    "sovereign_AI_opportunity",
+    "inference_workload_growth"
+  ]
+}
+```

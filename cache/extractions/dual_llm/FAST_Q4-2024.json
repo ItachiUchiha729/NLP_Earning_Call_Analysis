@@ -1,0 +1,217 @@
+{
+  "_ticker": "FAST",
+  "_quarter": "Q4-2024",
+  "_call_date": "2025-01-17",
+  "primary_model": "qwen3:14b",
+  "secondary_model": "gemma3:4b",
+  "primary": {
+    "overall_sentiment": 0.2,
+    "sentiment_bucket": "neutral",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.75,
+    "wins": [
+      {
+        "label": "Dividend Increase",
+        "severity": 3,
+        "evidence": "We raised our quarterly dividend by roughly 10%. If you annualize the dividend we just declared, it's about $1.72."
+      },
+      {
+        "label": "Onsite Growth",
+        "severity": 3,
+        "evidence": "We signed 56 in the quarter. So we finished the year with 2,031 increase of about 12% of what we saw a year ago."
+      },
+      {
+        "label": "Digital Footprint Expansion",
+        "severity": 2,
+        "evidence": "About 62% of our sales, just over 62%, touch our digital footprint."
+      },
+      {
+        "label": "Industrial Services Revenue",
+        "severity": 2,
+        "evidence": "Industrial Services broke $100 million in revenue for the first time in 2024."
+      },
+      {
+        "label": "FMI Technology Adoption",
+        "severity": 3,
+        "evidence": "We broke 100 MAU signings per day for the first time."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Holiday Shutdowns",
+        "severity": 4,
+        "evidence": "In the last 5 days of December, we were probably negative somewhere between 9% and 12%."
+      },
+      {
+        "label": "E-Commerce Struggles",
+        "severity": 3,
+        "evidence": "The e-commerce piece that contains web, we still struggle there."
+      },
+      {
+        "label": "Gross Margin Pressure",
+        "severity": 3,
+        "evidence": "Gross margin was 44.8%, down 70 basis points from the year ago period."
+      },
+      {
+        "label": "Inventory Management",
+        "severity": 2,
+        "evidence": "Inventories were up 8%. We added $30 million to $35 million related to our initiatives to improve product availability."
+      },
+      {
+        "label": "Customer Shutdowns",
+        "severity": 4,
+        "evidence": "This year, it's 17% were shut down. So there were a tremendous number of companies that probably shut down the day after Christmas."
+      }
+    ],
+    "themes": [
+      "dividend",
+      "onsite",
+      "digital",
+      "inventory",
+      "holiday_impact"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.25,
+    "sentiment_bucket": "neutral",
+    "guidance_direction": "mixed",
+    "guidance_confidence": 0.7,
+    "wins": [
+      {
+        "label": "Strong Onsite Signing Rate",
+        "severity": 4,
+        "evidence": "We signed 358 Onsites in 2024. We signed 326 last year. So an increase, not at our goal, but a meaningful increase and signings that are consistent with previous peaks in 2019, the year before COVID in 2022, the first year we came out."
+      },
+      {
+        "label": "E-Business Growth",
+        "severity": 3,
+        "evidence": "E-commerce, a good story, not a great story. It grew about 28%. E-procurement, where we have established customer relations continues to grow almost 40%, 37.6%."
+      },
+      {
+        "label": "Industrial Services Revenue Growth",
+        "severity": 4,
+        "evidence": "Industrial Services broke $100 million in revenue for the first time in 2024."
+      },
+      {
+        "label": "Customer Concentration",
+        "severity": 3,
+        "evidence": "We have roughly 2,000 Onsites, which represents about 1% of the total sites we serve. which translates to about 11 customer sites in an average district."
+      },
+      {
+        "label": "Margin Improvement Potential",
+        "severity": 2,
+        "evidence": "We expect operating margin to decline due to the effects of slow growth as we've seen all year, that the deleverage was sharper in the current period than experienced in the first 3 quarters of 2024."
+      }
+    ],
+    "risks": [
+      {
+        "label": "December Sales Collapse",
+        "severity": 5,
+        "evidence": "The first roughly 15 days, so when I think of, say, the Friday before Christmas. We were trending towards sales growth, daily growth. We felt it would be in excess of 3%. And in the last -- that Christmas week and then that New Year's Day week, that collapsed."
+      },
+      {
+        "label": "January Sales Decline",
+        "severity": 4,
+        "evidence": "The week after Christmas, 5% were shut down, 6% were shut down. This year, it's 17% were shut down."
+      },
+      {
+        "label": "Customer Site Shutdowns",
+        "severity": 4,
+        "evidence": "About 25% of the facilities we sell into that have vending, about 25% saw the activity drop more than 75%."
+      },
+      {
+        "label": "Uncertainty in E-Commerce Growth",
+        "severity": 3,
+        "evidence": "E-commerce, a good story, not a great story. It grew about 28%. E-procurement, where we have established customer relations continues to grow almost 40%, 37.6%."
+      },
+      {
+        "label": "Slow Growth Impact on Margins",
+        "severity": 4,
+        "evidence": "Gross margin in the fourth quarter of 2024 was 18.9%, down 120 basis points year-to-year."
+      }
+    ],
+    "themes": [
+      "supply chain disruption",
+      "economic slowdown",
+      "holiday seasonality",
+      "customer engagement",
+      "digital transformation"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 0.0,
+    "risks_jaccard": 0.0,
+    "themes_jaccard": 0.0,
+    "guidance_match": 0.0,
+    "sentiment_gap": 0.04999999999999999,
+    "agreement_score": 0.0,
+    "agreement_confidence": 0.0
+  },
+  "chosen": {
+    "overall_sentiment": 0.2,
+    "sentiment_bucket": "neutral",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.75,
+    "wins": [
+      {
+        "label": "Dividend Increase",
+        "severity": 3,
+        "evidence": "We raised our quarterly dividend by roughly 10%. If you annualize the dividend we just declared, it's about $1.72."
+      },
+      {
+        "label": "Onsite Growth",
+        "severity": 3,
+        "evidence": "We signed 56 in the quarter. So we finished the year with 2,031 increase of about 12% of what we saw a year ago."
+      },
+      {
+        "label": "Digital Footprint Expansion",
+        "severity": 2,
+        "evidence": "About 62% of our sales, just over 62%, touch our digital footprint."
+      },
+      {
+        "label": "Industrial Services Revenue",
+        "severity": 2,
+        "evidence": "Industrial Services broke $100 million in revenue for the first time in 2024."
+      },
+      {
+        "label": "FMI Technology Adoption",
+        "severity": 3,
+        "evidence": "We broke 100 MAU signings per day for the first time."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Holiday Shutdowns",
+        "severity": 4,
+        "evidence": "In the last 5 days of December, we were probably negative somewhere between 9% and 12%."
+      },
+      {
+        "label": "E-Commerce Struggles",
+        "severity": 3,
+        "evidence": "The e-commerce piece that contains web, we still struggle there."
+      },
+      {
+        "label": "Gross Margin Pressure",
+        "severity": 3,
+        "evidence": "Gross margin was 44.8%, down 70 basis points from the year ago period."
+      },
+      {
+        "label": "Inventory Management",
+        "severity": 2,
+        "evidence": "Inventories were up 8%. We added $30 million to $35 million related to our initiatives to improve product availability."
+      },
+      {
+        "label": "Customer Shutdowns",
+        "severity": 4,
+        "evidence": "This year, it's 17% were shut down. So there were a tremendous number of companies that probably shut down the day after Christmas."
+      }
+    ],
+    "themes": [
+      "dividend",
+      "onsite",
+      "digital",
+      "inventory",
+      "holiday_impact"
+    ]
+  }
+}

@@ -1,0 +1,73 @@
+```json
+{
+  "overall_sentiment": 0.35,
+  "sentiment_bucket": "bullish",
+  "guidance_direction": "raised",
+  "guidance_confidence": 0.85,
+  "wins": [
+    {
+      "label": "Record Data Center Revenue",
+      "severity": 4,
+      "evidence": "2024 was a transformative year for AMD. We successfully established our multibillion-dollar Data Center AI franchise, launched a broad set of leadership products and gained significant server and PC market share. As a result, we delivered record annual revenue…"
+    },
+    {
+      "label": "Dominant Share at Hyperscale Customers",
+      "severity": 5,
+      "evidence": "Importantly, the Data Center segment contributed roughly 50% of annual revenue as Instinct and EPYC processor adoption expanded significantly with cloud, Enterprise and supercomputing customers. 
+Looking at our financial results. Fourth quarter revenue increased 24% year-over-year to a record $7.7 billion…"
+    },
+    {
+      "label": "MI300X Production Deployments",
+      "severity": 4,
+      "evidence": "MI300X production deployments expanded with our largest cloud partners. Meta exclusively used MI300X to serve their Llama 405B frontier model on meta.ai and added Instinct GPUs to its OCP-compliant Grand Teton platform…"
+    },
+    {
+      "label": "Record EPYC Sales in Enterprise",
+      "severity": 4,
+      "evidence": "We also built significant momentum with Forbes 2000 global businesses using EPYC in the cloud as enterprise customers activated more than doubled the number of EPYC cloud instances from the prior quarter. This capped off a strong year of growth as Enterprise consumption of EPYC in the cloud nearly tripled from 2023."
+    },
+    {
+      "label": "El Capitan Supercomputer",
+      "severity": 5,
+      "evidence": "AMD now powers 5 of the 10 fastest and 15 of the 25 most energy-efficient systems in the world on the latest top 500 supercomputer list. Notably, the El Capitan system at Lawrence Livermore National Labs debuted as the world's fastest supercomputer, using over 44,000 MI300A APUs to deliver more than 1.7 exaflops of compute performance."
+    }
+  ],
+  "risks": [
+    {
+      "label": "Gaming Segment Decline",
+      "severity": 3,
+      "evidence": "Gaming segment revenue declined 59% year-over-year to $563 million. Semi-custom sales declined as expected as Microsoft and Sony focused on reducing channel inventory."
+    },
+    {
+      "label": "Embedded Segment Slowdown",
+      "severity": 4,
+      "evidence": "Embedded segment revenue decreased 13% year-over-year as end market demand continues to be mixed, with the overall market recovering slower than expected as strength in aerospace and defense and test and emulation is offset by softness in the industrial and communications markets."
+    },
+    {
+      "label": "Competition in Server CPU Market",
+      "severity": 4,
+      "evidence": "I think it's about the same. What we've done, and you've seen it in our Zen 4 product line as well as in our Zen 5 product line. We've expanded the design points for each of the core generation."
+    },
+    {
+      "label": "Inventory Normalization",
+      "severity": 3,
+      "evidence": "In the fourth quarter, semi-custom sales declined as expected as Microsoft and Sony focused on reducing channel inventory."
+    },
+    {
+      "label": "Market Uncertainty",
+      "severity": 2,
+      "evidence": "For 2025, we expect the demand environment to strengthen across all of our businesses, driving strong growth in our Data Center and Client businesses and modest increases in our Gaming and Embedded businesses."
+    }
+  ],
+  "themes": [
+    "AI",
+    "Data Center",
+    "Server",
+    "Client",
+    "Gaming",
+    "Embedded",
+    "Innovation",
+    "Market Growth"
+  ]
+}
+```

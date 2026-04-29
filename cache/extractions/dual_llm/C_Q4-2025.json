@@ -1,0 +1,217 @@
+{
+  "_ticker": "C",
+  "_quarter": "Q4-2025",
+  "_call_date": "2026-01-13",
+  "primary_model": "qwen3:14b",
+  "secondary_model": "gemma3:4b",
+  "primary": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "Strong revenue growth across all business segments",
+        "severity": 5,
+        "evidence": "With adjusted revenues up 7%, we delivered positive operating leverage in every 1 of our 5 businesses as well as the firm overall for the second straight year."
+      },
+      {
+        "label": "Improved returns and RoTCE",
+        "severity": 5,
+        "evidence": "For the full year, our returns improved to 8.8%, a 180 basis point improvement after adjusting for Banamex and Russia."
+      },
+      {
+        "label": "Significant capital return to shareholders",
+        "severity": 4,
+        "evidence": "We ended the year with a CET1 ratio of 13.2%, which is 160 basis points above our regulatory capital requirement."
+      },
+      {
+        "label": "Transformation progress and efficiency gains",
+        "severity": 4,
+        "evidence": "Over 80% of our programs are now at or nearly at our target state."
+      },
+      {
+        "label": "Positive outlook for 2026",
+        "severity": 4,
+        "evidence": "We expect NII ex-Markets to be up between 5% and 6% in 2026."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Regulatory uncertainty",
+        "severity": 3,
+        "evidence": "The timing is up to the regulators. Getting the work completed is just the beginning of the end, as it were."
+      },
+      {
+        "label": "Market volatility",
+        "severity": 2,
+        "evidence": "The global economy has powered through many shocks over the past few years, creating optimism and confidence that economic growth is poised to continue."
+      },
+      {
+        "label": "Credit risk",
+        "severity": 2,
+        "evidence": "Our reserves continue to incorporate an 8-quarter weighted average unemployment rate of 5.2%, which includes a downside scenario average unemployment rate of nearly 7%."
+      },
+      {
+        "label": "Expense management challenges",
+        "severity": 2,
+        "evidence": "Expenses of $13.8 billion were up 6%, driven by increases in compensation and benefits, tax charges, legal expenses as well as technology."
+      },
+      {
+        "label": "Competition in investment banking",
+        "severity": 2,
+        "evidence": "There is a gap between Citi and best-in-class peers when we think about investment banking, capital markets, et cetera."
+      }
+    ],
+    "themes": [
+      "transformation",
+      "capital return",
+      "efficiency",
+      "growth",
+      "regulatory compliance"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.25,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Strong Financial Performance",
+        "severity": 4,
+        "evidence": "We reported net income of $2.5 billion, EPS of $1.19 and an RoTCE of 5.1% on $19.9 billion of revenues, generating positive operating leverage for the majority of our 5 businesses."
+      },
+      {
+        "label": "Improved Returns",
+        "severity": 5,
+        "evidence": "Our returns improved to 8.8%, a 180 basis point improvement after adjusting for Banamex and Russia, and adjusted net income surpassed $16 billion."
+      },
+      {
+        "label": "Positive Operating Leverage",
+        "severity": 4,
+        "evidence": "We delivered positive operating leverage in every 1 of our 5 businesses as well as the firm overall for the second straight year."
+      },
+      {
+        "label": "Record Revenues",
+        "severity": 4,
+        "evidence": "Each business had record revenues and improved their returns by between 250 and 800 basis points."
+      },
+      {
+        "label": "Services Performance",
+        "severity": 5,
+        "evidence": "Services continued to deliver with revenues up 8% and an RoTCE of over 28% for the year."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Macroeconomic Uncertainty",
+        "severity": 3,
+        "evidence": "Turning to the macro. The global economy has powered through many shocks over the past few years, creating optimism and confidence that economic growth is poised to continue."
+      },
+      {
+        "label": "Market Volatility",
+        "severity": 4,
+        "evidence": "Fixed income revenues were down 1% despite a challenging year for us in commodities."
+      },
+      {
+        "label": "Competition in Wealth Management",
+        "severity": 3,
+        "evidence": "Net new investment asset flows slowed to $7.2 billion in the quarter, consistent with typical seasonality."
+      },
+      {
+        "label": "Potential for Rate Cuts",
+        "severity": 2,
+        "evidence": "With inflation now at normal levels globally, almost every central bank is becoming more accommodating."
+      },
+      {
+        "label": "China Economic Slowdown",
+        "severity": 3,
+        "evidence": "China's relying on exports to grow and compensate for slower domestic consumer demand."
+      }
+    ],
+    "themes": [
+      "transformation",
+      "efficiency",
+      "growth",
+      "innovation",
+      "capital returns"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 0.0,
+    "risks_jaccard": 0.1111111111111111,
+    "themes_jaccard": 0.42857142857142855,
+    "guidance_match": 0.0,
+    "sentiment_gap": 0.6,
+    "agreement_score": 0.14047619047619048,
+    "agreement_confidence": 0.05619047619047619
+  },
+  "chosen": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "Strong revenue growth across all business segments",
+        "severity": 5,
+        "evidence": "With adjusted revenues up 7%, we delivered positive operating leverage in every 1 of our 5 businesses as well as the firm overall for the second straight year."
+      },
+      {
+        "label": "Improved returns and RoTCE",
+        "severity": 5,
+        "evidence": "For the full year, our returns improved to 8.8%, a 180 basis point improvement after adjusting for Banamex and Russia."
+      },
+      {
+        "label": "Significant capital return to shareholders",
+        "severity": 4,
+        "evidence": "We ended the year with a CET1 ratio of 13.2%, which is 160 basis points above our regulatory capital requirement."
+      },
+      {
+        "label": "Transformation progress and efficiency gains",
+        "severity": 4,
+        "evidence": "Over 80% of our programs are now at or nearly at our target state."
+      },
+      {
+        "label": "Positive outlook for 2026",
+        "severity": 4,
+        "evidence": "We expect NII ex-Markets to be up between 5% and 6% in 2026."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Regulatory uncertainty",
+        "severity": 3,
+        "evidence": "The timing is up to the regulators. Getting the work completed is just the beginning of the end, as it were."
+      },
+      {
+        "label": "Market volatility",
+        "severity": 2,
+        "evidence": "The global economy has powered through many shocks over the past few years, creating optimism and confidence that economic growth is poised to continue."
+      },
+      {
+        "label": "Credit risk",
+        "severity": 2,
+        "evidence": "Our reserves continue to incorporate an 8-quarter weighted average unemployment rate of 5.2%, which includes a downside scenario average unemployment rate of nearly 7%."
+      },
+      {
+        "label": "Expense management challenges",
+        "severity": 2,
+        "evidence": "Expenses of $13.8 billion were up 6%, driven by increases in compensation and benefits, tax charges, legal expenses as well as technology."
+      },
+      {
+        "label": "Competition in investment banking",
+        "severity": 2,
+        "evidence": "There is a gap between Citi and best-in-class peers when we think about investment banking, capital markets, et cetera."
+      }
+    ],
+    "themes": [
+      "transformation",
+      "capital return",
+      "efficiency",
+      "growth",
+      "regulatory compliance"
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.95,
+    "wins": [
+        {
+            "label": "AI Semiconductor Growth",
+            "severity": 5,
+            "evidence": "AI semiconductor revenue of $5.2 billion, which was up 63% year-on-year and extend the trajectory of robust growth to 10 consecutive quarters."
+        },
+        {
+            "label": "Strong Backlog",
+            "severity": 5,
+            "evidence": "Our current consolidated backlog for the company hit a record of $110 billion."
+        },
+        {
+            "label": "XPU Business Growth",
+            "severity": 4,
+            "evidence": "XPU business accelerated to 65% of our AI revenue this quarter."
+        },
+        {
+            "label": "New Qualified Customer",
+            "severity": 4,
+            "evidence": "We have secured over $10 billion of orders of AI racks based on our XPUs."
+        },
+        {
+            "label": "Infrastructure Software Growth",
+            "severity": 4,
+            "evidence": "Infrastructure software revenue of $6.8 billion was up 17% year-on-year."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Non-AI Semiconductor Weakness",
+            "severity": 3,
+            "evidence": "Non-AI semiconductor revenue was flat sequentially, with enterprise networking and server storage down sequentially."
+        },
+        {
+            "label": "Cyclical Recovery Uncertainty",
+            "severity": 3,
+            "evidence": "Non-AI semiconductor is kind of slow to recover, and Q4 year-on-year is up maybe low single digits."
+        },
+        {
+            "label": "Dependency on Key Customers",
+            "severity": 3,
+            "evidence": "Demand for custom AI accelerators from our 3 customers continue to grow as each of them journeys at their own pace towards compute self-sufficiency."
+        },
+        {
+            "label": "Competition in Networking",
+            "severity": 2,
+            "evidence": "There is competition in the networking space, including from UALink and PCIe solutions."
+        },
+        {
+            "label": "Uncertain Future Growth",
+            "severity": 2,
+            "evidence": "We are not comfortable giving color on prospects beyond the 4 customers we have today."
+        }
+    ],
+    "themes": ["AI growth", "XPU adoption", "Infrastructure software", "Networking innovation", "Cyclical recovery"]
+}

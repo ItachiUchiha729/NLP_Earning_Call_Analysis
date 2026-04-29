@@ -1,0 +1,74 @@
+```json
+{
+  "overall_sentiment": 0.65,
+  "sentiment_bucket": "bullish",
+  "guidance_direction": "raised",
+  "guidance_confidence": 0.85,
+  "wins": [
+    {
+      "label": "Strong quarterly earnings",
+      "severity": 4,
+      "evidence": "the firm reported net income of $15 billion, EPS of $5.24 on revenue of $45.7 billion, with an ROTCE of 21%"
+    },
+    {
+      "label": "Markets revenue growth",
+      "severity": 4,
+      "evidence": "Markets revenue was up $1.1 billion or 15%. Fixed income was up 14%... Equities was up 15%"
+    },
+    {
+      "label": "Strong Investment Banking momentum",
+      "severity": 4,
+      "evidence": "IB fees were up 7% year-on-year. We continue to rank #1 with wallet share of 8.9%... Our pipeline remains robust, and the outlook along with the market tone and sentiment is notably more upbeat"
+    },
+    {
+      "label": "Raised NII guidance",
+      "severity": 5,
+      "evidence": "we now expect NII ex Markets to be approximately $92 billion, with the increase driven by changes in the forward curve and strong deposit growth"
+    },
+    {
+      "label": "Healthy consumer credit",
+      "severity": 3,
+      "evidence": "the consumer basically seems to be fine... Our delinquency rates are also in line with expectations. You saw that we kept our net charge-off guidance unchanged"
+    }
+  ],
+  "risks": [
+    {
+      "label": "Deposit margin compression",
+      "severity": 3,
+      "evidence": "NII ex Markets was down $185 million, or 1%, driven by the impact of lower rates and deposit margin compression"
+    },
+    {
+      "label": "Increased expenses",
+      "severity": 2,
+      "evidence": "on adjusted expense, we now expect it to be about $95.5 billion, primarily driven by the impact of the weaker dollar"
+    },
+    {
+      "label": "Tariff uncertainty",
+      "severity": 3,
+      "evidence": "after the initial shock of the tariff policy changes, everyone kind of went on hold... there are a lot of risks"
+    },
+    {
+      "label": "Regulatory capital constraints",
+      "severity": 3,
+      "evidence": "G-SIFI inhibits... both a little bit of lending and a little bit of market making. LCR inhibits both because it's a very rigid way of looking at the bank balance sheet"
+    },
+    {
+      "label": "Peak private credit concerns",
+      "severity": 2,
+      "evidence": "I also think you may have seen peak private credit a little bit... credit spreads are very low. It's grown dramatically over time, and you have to pay up a lot for it"
+    }
+  ],
+  "themes": [
+    "strong_quarterly_performance",
+    "raised_guidance",
+    "markets_strength",
+    "investment_banking_recovery",
+    "regulatory_reform_advocacy",
+    "capital_deployment_strategy",
+    "consumer_credit_resilience",
+    "deposit_growth",
+    "competitive_environment",
+    "inorganic_growth_considerations"
+  ]
+}
+```

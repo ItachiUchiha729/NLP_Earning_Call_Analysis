@@ -1,0 +1,225 @@
+{
+  "_ticker": "AMD",
+  "_quarter": "Q2-2025",
+  "_call_date": "2025-08-05",
+  "primary_model": "qwen3:14b",
+  "secondary_model": "gemma3:4b",
+  "primary": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "Strong Data Center Revenue Growth",
+        "severity": 5,
+        "evidence": "Data Center segment revenue increased 14% year-over-year to $3.2 billion."
+      },
+      {
+        "label": "EPYC and Ryzen Sales Outperformance",
+        "severity": 5,
+        "evidence": "Revenue exceeded the midpoint of guidance as higher EPYC and Ryzen processor sales more than offset headwinds from export controls."
+      },
+      {
+        "label": "MI350 Series Adoption",
+        "severity": 5,
+        "evidence": "We made solid progress with MI300 and MI325 in the quarter, closing new wins and expanding adoption with Tier 1 customers."
+      },
+      {
+        "label": "Strong Free Cash Flow",
+        "severity": 4,
+        "evidence": "We delivered over $1 billion in free cash flow."
+      },
+      {
+        "label": "AI Software Advancements",
+        "severity": 4,
+        "evidence": "ROCm 7 delivers more than 3x higher inferencing and training performance compared to our prior generation."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Export Controls Impacting MI308 Sales",
+        "severity": 4,
+        "evidence": "U.S. export restrictions effectively eliminated MI308 sales to China."
+      },
+      {
+        "label": "Inventory Write-Down",
+        "severity": 3,
+        "evidence": "Excluding the $800 million inventory write-down related to data center AI export controls, gross margin was 54%."
+      },
+      {
+        "label": "Uncertainty in License Approvals for MI308",
+        "severity": 3,
+        "evidence": "As our licenses are still under review, we are not including any MI308 revenue in our third quarter guidance."
+      },
+      {
+        "label": "Gross Margin Pressure from MI Products",
+        "severity": 3,
+        "evidence": "The gross margin for our MI product is a little bit below corporate average."
+      },
+      {
+        "label": "Seasonal Decline in Gaming Segment",
+        "severity": 2,
+        "evidence": "We expect Gaming revenue to be flattish in the third quarter."
+      }
+    ],
+    "themes": [
+      "ai",
+      "epyc",
+      "ryzen",
+      "mi350",
+      "rocm",
+      "data center",
+      "gaming",
+      "sovereign ai",
+      "helios"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.35,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Record Revenue Growth",
+        "severity": 4,
+        "evidence": "Revenue exceeding the midpoint of guidance as higher EPYC and Ryzen processor sales more than offset headwinds from export controls."
+      },
+      {
+        "label": "Strong EPYC and Ryzen Sales",
+        "severity": 5,
+        "evidence": "Record sales of Ryzen and EPYC processors and higher semi-custom shipments more than offset the impact of the U.S. export controls."
+      },
+      {
+        "label": "MI350 Series Ramp",
+        "severity": 4,
+        "evidence": "MI350 series accelerators are ramping significantly, driving Data Center revenue growth."
+      },
+      {
+        "label": "Dominant Supercomputer Market Share",
+        "severity": 3,
+        "evidence": "AMD now powers more than 1/3 of the world's fastest supercomputers, including El Capitan and Frontier."
+      },
+      {
+        "label": "Expanding Cloud Adoption",
+        "severity": 4,
+        "evidence": "Adoption expanded with the largest hyperscalers as they deployed EPYC to power more of their mission-critical infrastructure."
+      }
+    ],
+    "risks": [
+      {
+        "label": "U.S. Export Controls",
+        "severity": 5,
+        "evidence": "Export restrictions impacting Instinct sales to China effectively eliminated MI308 sales."
+      },
+      {
+        "label": "Gross Margin Pressure",
+        "severity": 4,
+        "evidence": "Inventory and related charges significantly reduced gross margin."
+      },
+      {
+        "label": "Regulatory Uncertainty",
+        "severity": 3,
+        "evidence": "Review of license applications to export MI308 to China."
+      },
+      {
+        "label": "Competition in AI",
+        "severity": 4,
+        "evidence": "MI355 matches or exceeds B200 in critical training and inference workloads."
+      },
+      {
+        "label": "Delayed MI400 Launch",
+        "severity": 3,
+        "evidence": "MI400 series development is progressing rapidly, with a planned launch in 2026."
+      }
+    ],
+    "themes": [
+      "ai",
+      "data center",
+      "high-performance computing",
+      "server cpus",
+      "gpu technology"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 0.0,
+    "risks_jaccard": 0.0,
+    "themes_jaccard": 0.16666666666666666,
+    "guidance_match": 0.0,
+    "sentiment_gap": 0.5,
+    "agreement_score": 0.041666666666666664,
+    "agreement_confidence": 0.020833333333333332
+  },
+  "chosen": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "Strong Data Center Revenue Growth",
+        "severity": 5,
+        "evidence": "Data Center segment revenue increased 14% year-over-year to $3.2 billion."
+      },
+      {
+        "label": "EPYC and Ryzen Sales Outperformance",
+        "severity": 5,
+        "evidence": "Revenue exceeded the midpoint of guidance as higher EPYC and Ryzen processor sales more than offset headwinds from export controls."
+      },
+      {
+        "label": "MI350 Series Adoption",
+        "severity": 5,
+        "evidence": "We made solid progress with MI300 and MI325 in the quarter, closing new wins and expanding adoption with Tier 1 customers."
+      },
+      {
+        "label": "Strong Free Cash Flow",
+        "severity": 4,
+        "evidence": "We delivered over $1 billion in free cash flow."
+      },
+      {
+        "label": "AI Software Advancements",
+        "severity": 4,
+        "evidence": "ROCm 7 delivers more than 3x higher inferencing and training performance compared to our prior generation."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Export Controls Impacting MI308 Sales",
+        "severity": 4,
+        "evidence": "U.S. export restrictions effectively eliminated MI308 sales to China."
+      },
+      {
+        "label": "Inventory Write-Down",
+        "severity": 3,
+        "evidence": "Excluding the $800 million inventory write-down related to data center AI export controls, gross margin was 54%."
+      },
+      {
+        "label": "Uncertainty in License Approvals for MI308",
+        "severity": 3,
+        "evidence": "As our licenses are still under review, we are not including any MI308 revenue in our third quarter guidance."
+      },
+      {
+        "label": "Gross Margin Pressure from MI Products",
+        "severity": 3,
+        "evidence": "The gross margin for our MI product is a little bit below corporate average."
+      },
+      {
+        "label": "Seasonal Decline in Gaming Segment",
+        "severity": 2,
+        "evidence": "We expect Gaming revenue to be flattish in the third quarter."
+      }
+    ],
+    "themes": [
+      "ai",
+      "epyc",
+      "ryzen",
+      "mi350",
+      "rocm",
+      "data center",
+      "gaming",
+      "sovereign ai",
+      "helios"
+    ]
+  }
+}

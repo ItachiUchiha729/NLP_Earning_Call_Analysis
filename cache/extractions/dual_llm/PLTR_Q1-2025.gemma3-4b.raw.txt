@@ -1,0 +1,74 @@
+```json
+{
+  "overall_sentiment": 0.92,
+  "sentiment_bucket": "very_bullish",
+  "guidance_direction": "raised",
+  "guidance_confidence": 0.95,
+  "wins": [
+    {
+      "label": "Exceptional revenue growth acceleration",
+      "severity": 5,
+      "evidence": "Revenue grew 39% year-over-year, exceeding the high end of prior guidance by nearly 350 basis points"
+    },
+    {
+      "label": "U.S. commercial business milestone and momentum",
+      "severity": 5,
+      "evidence": "U.S. commercial revenue grew 71% year-over-year and surpassed $1 billion annual run rate for the first time, with $810 million in TCV bookings representing 183% year-over-year growth"
+    },
+    {
+      "label": "Strong profitability with expanding margins",
+      "severity": 5,
+      "evidence": "Adjusted operating margin of 44%, representing an 800 basis point increase compared to Q1 last year, with Rule of 40 score of 83"
+    },
+    {
+      "label": "AIP driving enterprise autonomy adoption",
+      "severity": 5,
+      "evidence": "Unrelenting demand for AIP continues to drive outperformance with customers like Walgreens automating 384 billion decisions daily and AIG expecting to double their 5-year CAGR"
+    },
+    {
+      "label": "Government business expansion and Maven adoption",
+      "severity": 4,
+      "evidence": "U.S. government revenue grew 45% year-over-year, Maven Smart System usage doubled in first 9 months of 2024 and doubled again in subsequent 5 months, with NATO adoption across 32 member states"
+    }
+  ],
+  "risks": [
+    {
+      "label": "International commercial revenue decline",
+      "severity": 3,
+      "evidence": "First quarter international commercial revenue declined 5% year-over-year and 11% sequentially to $141 million, driven by continued headwinds in Europe"
+    },
+    {
+      "label": "European market weakness and structural challenges",
+      "severity": 3,
+      "evidence": "Europe is going through very structural change and doesn't quite get AI, with 90% of business outside Europe growing at 49% versus overall growth rates"
+    },
+    {
+      "label": "Increased expense growth expected",
+      "severity": 2,
+      "evidence": "We continue to expect to see a more significant increase in expense in 2025 as we invest in elite technical talent, product pipeline and AI production use cases"
+    },
+    {
+      "label": "Strategic commercial contracts revenue decline",
+      "severity": 2,
+      "evidence": "Q2 2025 revenue from strategic commercial contracts anticipated between $4-6 million compared to $9 million in Q2 2024"
+    },
+    {
+      "label": "Execution risk on ambitious scaling plans",
+      "severity": 2,
+      "evidence": "Company planning to scale significantly while maintaining profitability and Rule of 40 score of 80, requiring sustained execution across multiple fronts"
+    }
+  ],
+  "themes": [
+    "AI_production_adoption",
+    "enterprise_autonomy_agents",
+    "U.S._commercial_acceleration",
+    "government_defense_expansion",
+    "ontology_differentiation",
+    "rule_of_40_excellence",
+    "manufacturing_reindustrialization",
+    "maven_smart_system_scaling",
+    "european_headwinds",
+    "software_hardware_hybrid_advantage"
+  ]
+}
+```

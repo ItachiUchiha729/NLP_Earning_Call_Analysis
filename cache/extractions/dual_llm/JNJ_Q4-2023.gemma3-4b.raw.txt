@@ -1,0 +1,74 @@
+```json
+{
+  "overall_sentiment": 0.72,
+  "sentiment_bucket": "bullish",
+  "guidance_direction": "reaffirmed",
+  "guidance_confidence": 0.85,
+  "wins": [
+    {
+      "label": "Strong 2023 operational performance",
+      "severity": 1,
+      "evidence": "9% operational sales growth, excluding COVID-19 vaccine, and 10.8% adjusted operational earnings per share growth"
+    },
+    {
+      "label": "Robust pipeline with multiple near-term catalysts",
+      "severity": 1,
+      "evidence": "positive Phase III readouts for more than 10 in-line and pipeline medicines; 19 U.S. and EU filings in 2023"
+    },
+    {
+      "label": "MedTech milestone achievement",
+      "severity": 2,
+      "evidence": "For the first time, our MedTech team delivered more than $30 billion in sales with 12.4% operational sales growth"
+    },
+    {
+      "label": "Strong cash generation and capital allocation",
+      "severity": 2,
+      "evidence": "generated free cash flow of more than $18 billion in 2023; 61st consecutive year of dividend increases"
+    },
+    {
+      "label": "CARVYKTI momentum and manufacturing scale-up",
+      "severity": 2,
+      "evidence": "fastest launch CAR-T in the market with more than 2,000 patients treated; doubled cell processing capacity and expanded lentivirus production"
+    }
+  ],
+  "risks": [
+    {
+      "label": "STELARA biosimilar competition in Europe",
+      "severity": 3,
+      "evidence": "anticipated STELARA biosimilar entrants in Europe in the second half of this year will be a headwind"
+    },
+    {
+      "label": "MedTech margin pressure from inflation and mix",
+      "severity": 3,
+      "evidence": "Cost of products sold margin deleveraged by 130 basis points due to commodity inflation and unfavorable product mix in MedTech; lingering inflation impact in MedTech inventory will flow through 2024"
+    },
+    {
+      "label": "International headwinds and geopolitical risks",
+      "severity": 2,
+      "evidence": "Sales in Europe negatively impacted by COVID-19 vaccine and loss of exclusivity of ZYTIGA by approximately 1,000 basis points; MedTech negatively impacted by international sanctions in Russia worth approximately 50 basis points"
+    },
+    {
+      "label": "Patent expirations and competitive pressures",
+      "severity": 3,
+      "evidence": "loss of exclusivity of ZYTIGA, REMICADE and Prezista; decrease in IMBRUVICA sales due to competitive pressures"
+    },
+    {
+      "label": "Modest 2024 guidance growth relative to 2023",
+      "severity": 2,
+      "evidence": "2024 operational sales growth guidance of 5% to 6% compared to 7.4% growth in 2023; adjusted operational EPS growth of 7.4% at midpoint"
+    }
+  ],
+  "themes": [
+    "strong_innovation_pipeline",
+    "oncology_focus",
+    "medtech_growth",
+    "biosimilar_competition",
+    "manufacturing_scale_up",
+    "margin_pressure",
+    "capital_allocation",
+    "geographic_headwinds",
+    "patent_cliff_management",
+    "M&A_strategy"
+  ]
+}
+```

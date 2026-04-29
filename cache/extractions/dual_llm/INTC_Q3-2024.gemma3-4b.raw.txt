@@ -1,0 +1,74 @@
+```json
+{
+  "overall_sentiment": 0.35,
+  "sentiment_bucket": "bullish",
+  "guidance_direction": "reaffirmed",
+  "guidance_confidence": 0.72,
+  "wins": [
+    {
+      "label": "Q3 Revenue Beat",
+      "severity": 2,
+      "evidence": "We delivered Q3 revenue above the midpoint of our guidance"
+    },
+    {
+      "label": "18A Progress & Design Wins",
+      "severity": 3,
+      "evidence": "Intel 18A is healthy and continues to progress well...we added 2 additional 18A wafer design wins this quarter from compute-centric companies, and our pipeline of potential wafer designs has grown nicely"
+    },
+    {
+      "label": "AWS Foundry Partnership",
+      "severity": 3,
+      "evidence": "we are finalizing a multiyear, multibillion dollar commitment by AWS to expand our existing partnership to include a new custom Xeon 6 chip on Intel 3 and a new AI fabric chip on Intel 18A"
+    },
+    {
+      "label": "AIPC Market Leadership",
+      "severity": 2,
+      "evidence": "we continue to lead the AIPC category...we remain on track to ship more than 100 million AIPCs accumulated by the end of 2025"
+    },
+    {
+      "label": "Cost Reduction Execution",
+      "severity": 2,
+      "evidence": "we completed the vast majority of our head count actions during Q3 and we are on track to our greater than 15% workforce reduction before the end of the year"
+    }
+  ],
+  "risks": [
+    {
+      "label": "Gaudi Accelerator Underperformance",
+      "severity": 4,
+      "evidence": "the overall uptake of Gaudi has been slower than we anticipated...we will not achieve our target of $500 million in revenue for Gaudi in 2024"
+    },
+    {
+      "label": "Gross Margin Pressure in 2025",
+      "severity": 3,
+      "evidence": "As our mix of outsourced products and CCG grows in calendar year 2025...gross margin expansion could be muted, particularly in the second half"
+    },
+    {
+      "label": "Lunar Lake Memory Packaging Margin Impact",
+      "severity": 3,
+      "evidence": "It's having a pretty meaningful impact, a significant impact on Lunar Lake's gross margins...that has put some reasonable pressure on the gross margins for the total company"
+    },
+    {
+      "label": "Foundry Business Losses Continue",
+      "severity": 4,
+      "evidence": "Foundry operating loss of $5.8 billion...We expect losses to continue at approximately the same rate in Q4"
+    },
+    {
+      "label": "Mobileye Revenue Decline",
+      "severity": 3,
+      "evidence": "Q3 revenue was down 8% year-over-year, primarily driven by a more than 50% reduction in shipments to China"
+    }
+  ],
+  "themes": [
+    "cost_restructuring",
+    "process_technology_leadership",
+    "foundry_strategy",
+    "x86_ecosystem",
+    "AIPC_growth",
+    "margin_pressure",
+    "cash_flow_improvement",
+    "portfolio_simplification",
+    "18A_ramp",
+    "external_foundry_wins"
+  ]
+}
+```

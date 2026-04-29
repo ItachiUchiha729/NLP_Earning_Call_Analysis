@@ -1,0 +1,234 @@
+{
+  "_ticker": "INTC",
+  "_quarter": "Q2-2025",
+  "_call_date": "2025-07-24",
+  "backend": "anthropic",
+  "primary_model": "gemma3:4b",
+  "secondary_model": "gemma3:4b",
+  "single_call_mode": true,
+  "primary": {
+    "overall_sentiment": 0.35,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "lowered",
+    "guidance_confidence": 0.72,
+    "wins": [
+      {
+        "label": "Q2 revenue beat expectations",
+        "severity": 2,
+        "evidence": "Q2 revenue was $12.9 billion, coming in above the high end of our guidance range, driven by strength across client and data center"
+      },
+      {
+        "label": "18A production milestone achieved",
+        "severity": 2,
+        "evidence": "18A reached a key milestone with the start of production wafers in Arizona ahead of Intel Products Q4 launch of its next-generation client product code named Panther Lake"
+      },
+      {
+        "label": "Restructuring on track to reduce OpEx",
+        "severity": 2,
+        "evidence": "firmly on track to meet our calendar year 2025 and calendar year 2026 OpEx targets of $17 billion and $16 billion, respectively"
+      },
+      {
+        "label": "Mobileye monetization completed",
+        "severity": 1,
+        "evidence": "We raised approximately $900 million through the Mobileye offering, and we are on track to complete the stake sale of Altera in Q3"
+      },
+      {
+        "label": "Strong x86 ecosystem demand",
+        "severity": 2,
+        "evidence": "Both dynamics underscore the durable demand within our 2 largest markets and the enduring strength of the x86 ecosystem"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Foundry strategy contingent on unproven execution",
+        "severity": 4,
+        "evidence": "I will only invest when I'm confident those returns exist. Up to and through Intel 18A, we could generate a reasonable return on our investments with only Intel Products. The increase in capital cost at Intel 14A, make it clear that we need both Intel products, and a meaningful external customer"
+      },
+      {
+        "label": "Negative free cash flow trend",
+        "severity": 4,
+        "evidence": "Our last full fiscal year of positive adjusted free cash flow was 2021. This is completely unacceptable"
+      },
+      {
+        "label": "Gross margin pressure from product ramps",
+        "severity": 3,
+        "evidence": "the ramp that Lip-Bu just talked about of Panther Lake. Obviously, we're in the early stages of the maturity of Panther Lake. So the cost per wafer is going to be higher"
+      },
+      {
+        "label": "Server market share losses and competitive pressure",
+        "severity": 3,
+        "evidence": "server ASPs are down 8% from last year because of a competitive environment. Obviously, we're not where we want to be in terms of a competitive portfolio"
+      },
+      {
+        "label": "Tariff uncertainty impacting demand visibility",
+        "severity": 3,
+        "evidence": "we think it's likely Q2 revenue benefited from customer purchasing behavior to mitigate tariff uncertainty, although it continues to be difficult to quantify"
+      }
+    ],
+    "themes": [
+      "operational_restructuring",
+      "foundry_strategy_reset",
+      "x86_competitive_recovery",
+      "ai_strategy_development",
+      "capex_discipline",
+      "cash_flow_improvement",
+      "margin_pressure",
+      "market_share_defense",
+      "process_technology_execution",
+      "organizational_efficiency"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.35,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "lowered",
+    "guidance_confidence": 0.72,
+    "wins": [
+      {
+        "label": "Q2 revenue beat expectations",
+        "severity": 2,
+        "evidence": "Q2 revenue was $12.9 billion, coming in above the high end of our guidance range, driven by strength across client and data center"
+      },
+      {
+        "label": "18A production milestone achieved",
+        "severity": 2,
+        "evidence": "18A reached a key milestone with the start of production wafers in Arizona ahead of Intel Products Q4 launch of its next-generation client product code named Panther Lake"
+      },
+      {
+        "label": "Restructuring on track to reduce OpEx",
+        "severity": 2,
+        "evidence": "firmly on track to meet our calendar year 2025 and calendar year 2026 OpEx targets of $17 billion and $16 billion, respectively"
+      },
+      {
+        "label": "Mobileye monetization completed",
+        "severity": 1,
+        "evidence": "We raised approximately $900 million through the Mobileye offering, and we are on track to complete the stake sale of Altera in Q3"
+      },
+      {
+        "label": "Strong x86 ecosystem demand",
+        "severity": 2,
+        "evidence": "Both dynamics underscore the durable demand within our 2 largest markets and the enduring strength of the x86 ecosystem"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Foundry strategy contingent on unproven execution",
+        "severity": 4,
+        "evidence": "I will only invest when I'm confident those returns exist. Up to and through Intel 18A, we could generate a reasonable return on our investments with only Intel Products. The increase in capital cost at Intel 14A, make it clear that we need both Intel products, and a meaningful external customer"
+      },
+      {
+        "label": "Negative free cash flow trend",
+        "severity": 4,
+        "evidence": "Our last full fiscal year of positive adjusted free cash flow was 2021. This is completely unacceptable"
+      },
+      {
+        "label": "Gross margin pressure from product ramps",
+        "severity": 3,
+        "evidence": "the ramp that Lip-Bu just talked about of Panther Lake. Obviously, we're in the early stages of the maturity of Panther Lake. So the cost per wafer is going to be higher"
+      },
+      {
+        "label": "Server market share losses and competitive pressure",
+        "severity": 3,
+        "evidence": "server ASPs are down 8% from last year because of a competitive environment. Obviously, we're not where we want to be in terms of a competitive portfolio"
+      },
+      {
+        "label": "Tariff uncertainty impacting demand visibility",
+        "severity": 3,
+        "evidence": "we think it's likely Q2 revenue benefited from customer purchasing behavior to mitigate tariff uncertainty, although it continues to be difficult to quantify"
+      }
+    ],
+    "themes": [
+      "operational_restructuring",
+      "foundry_strategy_reset",
+      "x86_competitive_recovery",
+      "ai_strategy_development",
+      "capex_discipline",
+      "cash_flow_improvement",
+      "margin_pressure",
+      "market_share_defense",
+      "process_technology_execution",
+      "organizational_efficiency"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 1.0,
+    "risks_jaccard": 1.0,
+    "themes_jaccard": 1.0,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.0,
+    "agreement_score": 1.0,
+    "agreement_confidence": 1.0
+  },
+  "chosen": {
+    "overall_sentiment": 0.35,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "lowered",
+    "guidance_confidence": 0.72,
+    "wins": [
+      {
+        "label": "Q2 revenue beat expectations",
+        "severity": 2,
+        "evidence": "Q2 revenue was $12.9 billion, coming in above the high end of our guidance range, driven by strength across client and data center"
+      },
+      {
+        "label": "18A production milestone achieved",
+        "severity": 2,
+        "evidence": "18A reached a key milestone with the start of production wafers in Arizona ahead of Intel Products Q4 launch of its next-generation client product code named Panther Lake"
+      },
+      {
+        "label": "Restructuring on track to reduce OpEx",
+        "severity": 2,
+        "evidence": "firmly on track to meet our calendar year 2025 and calendar year 2026 OpEx targets of $17 billion and $16 billion, respectively"
+      },
+      {
+        "label": "Mobileye monetization completed",
+        "severity": 1,
+        "evidence": "We raised approximately $900 million through the Mobileye offering, and we are on track to complete the stake sale of Altera in Q3"
+      },
+      {
+        "label": "Strong x86 ecosystem demand",
+        "severity": 2,
+        "evidence": "Both dynamics underscore the durable demand within our 2 largest markets and the enduring strength of the x86 ecosystem"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Foundry strategy contingent on unproven execution",
+        "severity": 4,
+        "evidence": "I will only invest when I'm confident those returns exist. Up to and through Intel 18A, we could generate a reasonable return on our investments with only Intel Products. The increase in capital cost at Intel 14A, make it clear that we need both Intel products, and a meaningful external customer"
+      },
+      {
+        "label": "Negative free cash flow trend",
+        "severity": 4,
+        "evidence": "Our last full fiscal year of positive adjusted free cash flow was 2021. This is completely unacceptable"
+      },
+      {
+        "label": "Gross margin pressure from product ramps",
+        "severity": 3,
+        "evidence": "the ramp that Lip-Bu just talked about of Panther Lake. Obviously, we're in the early stages of the maturity of Panther Lake. So the cost per wafer is going to be higher"
+      },
+      {
+        "label": "Server market share losses and competitive pressure",
+        "severity": 3,
+        "evidence": "server ASPs are down 8% from last year because of a competitive environment. Obviously, we're not where we want to be in terms of a competitive portfolio"
+      },
+      {
+        "label": "Tariff uncertainty impacting demand visibility",
+        "severity": 3,
+        "evidence": "we think it's likely Q2 revenue benefited from customer purchasing behavior to mitigate tariff uncertainty, although it continues to be difficult to quantify"
+      }
+    ],
+    "themes": [
+      "operational_restructuring",
+      "foundry_strategy_reset",
+      "x86_competitive_recovery",
+      "ai_strategy_development",
+      "capex_discipline",
+      "cash_flow_improvement",
+      "margin_pressure",
+      "market_share_defense",
+      "process_technology_execution",
+      "organizational_efficiency"
+    ]
+  }
+}

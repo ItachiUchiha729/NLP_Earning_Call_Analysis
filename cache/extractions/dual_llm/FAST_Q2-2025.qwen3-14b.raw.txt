@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.75,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.85,
+    "wins": [
+        {
+            "label": "Strong Revenue Growth",
+            "severity": 5,
+            "evidence": "Sales in the second quarter increased by 8.6%, marking our highest yearly growth since early 2023."
+        },
+        {
+            "label": "Contract Growth Momentum",
+            "severity": 5,
+            "evidence": "Contract customer sales for the quarter increased 11% and now represents 73.2% of our revenues."
+        },
+        {
+            "label": "Improved Customer Site Performance",
+            "severity": 4,
+            "evidence": "Revenue from sites generating $10,000 or more per month increased 11.6% in the quarter."
+        },
+        {
+            "label": "Operational Margin Improvement",
+            "severity": 4,
+            "evidence": "We leveraged our SG&A and put up 21% operating margin for the quarter."
+        },
+        {
+            "label": "E-commerce Growth",
+            "severity": 4,
+            "evidence": "E-business grew 13.5%, and for the first time ever, we broke 30% of sales."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Tariff Uncertainty",
+            "severity": 4,
+            "evidence": "Trade policy continues to create some caution, and we have limited visibility over how current trade policy may impact demand over the course of 2025."
+        },
+        {
+            "label": "Inventory Costs",
+            "severity": 3,
+            "evidence": "Supply chains have gotten more expensive, and a part of our response over time will be incremental pricing."
+        },
+        {
+            "label": "Sluggish End Market Demand",
+            "severity": 3,
+            "evidence": "Feedback from the regional leadership continues to reflect sluggish end market demand despite generally favorable outlook."
+        },
+        {
+            "label": "FMI Technology Slowdown",
+            "severity": 3,
+            "evidence": "FMI Technology growth softened a little bit as we looked at this quarter."
+        },
+        {
+            "label": "Customer Mix Dilution",
+            "severity": 2,
+            "evidence": "Customer and product mix dilution has had a slight drag on gross margin."
+        }
+    ],
+    "themes": ["Revenue Growth", "Contract Expansion", "Operational Efficiency", "E-commerce Adoption", "Tariff Impact", "Supply Chain Optimization"]
+}

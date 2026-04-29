@@ -1,0 +1,69 @@
+```json
+{
+  "overall_sentiment": 0.25,
+  "sentiment_bucket": "neutral",
+  "guidance_direction": "mixed",
+  "guidance_confidence": 0.7,
+  "wins": [
+    {
+      "label": "Transformation Progress",
+      "severity": 4,
+      "evidence": "We have made meaningful progress in executing our transformation and simplifying our firm."
+    },
+    {
+      "label": "Reduced Risk & Improved Controls",
+      "severity": 3,
+      "evidence": "We've reduced the time it takes to book loans, automated controls for our traders to reduce error, move risk analytics to a cloud-based infrastructure and increase the resiliency of our platforms to reduce downtime."
+    },
+    {
+      "label": "Regulatory Acknowledgement",
+      "severity": 2,
+      "evidence": "It was acknowledged on Wednesday that we have made meaningful progress in executing our transformation and simplifying our firm."
+    },
+    {
+      "label": "Improved Data Governance",
+      "severity": 3,
+      "evidence": "We've stood up a data governance process and streamlined our data architecture to facilitate straight-through processing."
+    },
+    {
+      "label": "Increased Client Investment Assets",
+      "severity": 4,
+      "evidence": "Client investment assets increased 9%."
+    }
+  ],
+  "risks": [
+    {
+      "label": "Data Quality Issues",
+      "severity": 5,
+      "evidence": "We have fallen short in data quality management, particularly related to regulatory reporting."
+    },
+    {
+      "label": "Regulatory Scrutiny",
+      "severity": 4,
+      "evidence": "The regulators still said we didn't get it done."
+    },
+    {
+      "label": "NII Pressure",
+      "severity": 3,
+      "evidence": "Net interest income was down almost 4% year-over-year."
+    },
+    {
+      "label": "USPB Profitability Concerns",
+      "severity": 4,
+      "evidence": "USPB RoTCE is still single digit."
+    },
+    {
+      "label": "Uncertain Macro Environment",
+      "severity": 3,
+      "evidence": "Macro environment includes uncertainty around elections and global conflicts."
+    }
+  ],
+  "themes": [
+    "Transformation",
+    "Regulatory Compliance",
+    "Risk Management",
+    "Financial Performance",
+    "Shareholder Returns"
+  ]
+}
+```

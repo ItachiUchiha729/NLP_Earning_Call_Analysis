@@ -1,0 +1,69 @@
+```json
+{
+    "overall_sentiment": 0.35,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+        {
+            "label": "Strong Revenue Growth",
+            "severity": 4,
+            "evidence": "Revenue growth of 3% ex divestitures, with each of our core businesses delivering growth and positive operating leverage."
+        },
+        {
+            "label": "Fee-Based Revenue Increase",
+            "severity": 5,
+            "evidence": "Double-digit increase in fee-based revenues, reflecting the growing diversity of our earnings mix."
+        },
+        {
+            "label": "Positive Operating Leverage",
+            "severity": 4,
+            "evidence": "2% reduction in overall expenses driven by simplification and efficiency efforts."
+        },
+        {
+            "label": "Record Quarter for Services",
+            "severity": 5,
+            "evidence": "Services delivered a record quarter with revenues up by 8%."
+        },
+        {
+            "label": "Successful Integration of Mastercard Move",
+            "severity": 4,
+            "evidence": "First global bank to complete the integration of our cross-border services with Mastercard Move."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Interest Rate Environment",
+            "severity": 4,
+            "evidence": "Net interest income declined 1% year-over-year, largely due to lower interest rates in Argentina."
+        },
+        {
+            "label": "Fixed Income Performance",
+            "severity": 3,
+            "evidence": "Fixed income revenues decreased 6%."
+        },
+        {
+            "label": "Consumer Spending Slowdown",
+            "severity": 4,
+            "evidence": "Lower discretionary spending is impacting our retail services portfolio."
+        },
+        {
+            "label": "Regulatory Scrutiny",
+            "severity": 5,
+            "evidence": "Amended consent order related to anti-money laundering systems."
+        },
+        {
+            "label": "Macroeconomic Uncertainty",
+            "severity": 3,
+            "evidence": "Global economic performance continues to be surprisingly resilient, but growth years are not slower than last year."
+        }
+    ],
+    "themes": [
+        "Growth",
+        "Transformation",
+        "Fees",
+        "Efficiency",
+        "Regulatory Compliance"
+    ]
+}
+```

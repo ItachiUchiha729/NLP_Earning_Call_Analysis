@@ -1,0 +1,69 @@
+```json
+{
+  "overall_sentiment": 0.35,
+  "sentiment_bucket": "bullish",
+  "guidance_direction": "raised",
+  "guidance_confidence": 0.85,
+  "wins": [
+    {
+      "label": "Strong Q3 Sales & Share Gains",
+      "severity": 4,
+      "evidence": "Q3 was a strong quarter, and more importantly, it was a consistent one, and we delivered double-digit growth, expanded margins and continued to gain share in a flat market."
+    },
+    {
+      "label": "Consistent Performance Despite Market Challenges",
+      "severity": 3,
+      "evidence": "We delivered net sales of $2.13 billion, which is an 11.7% increase over Q3 of last year. This is our second consecutive quarter above the $2 billion mark, which demonstrates the effectiveness of our plan."
+    },
+    {
+      "label": "Improved FMI Adoption",
+      "severity": 4,
+      "evidence": "We averaged about 110 FMI signings per day, slightly below last year’s pace, but still an extremely strong level of activity. We averaged 8% growth in FMI device sales."
+    },
+    {
+      "label": "Deepening Customer Relationships",
+      "severity": 3,
+      "evidence": "A major manufacturer expanded Fastenal's program from 2 sites with them to 5 sites, essentially making us their primary supplier nationally."
+    },
+    {
+      "label": "Growth in Non-Traditional Markets",
+      "severity": 2,
+      "evidence": "Our business with health care, education, government customers grew nicely and our sales to warehousing and logistic companies, they were up significantly."
+    }
+  ],
+  "risks": [
+    {
+      "label": "Tariff Uncertainty & Impact",
+      "severity": 5,
+      "evidence": "Year-to-date, significant tariffs have been applied to products from China as well as steel, including steel-derived products like fasteners on a global basis."
+    },
+    {
+      "label": "Macroeconomic Headwinds",
+      "severity": 4,
+      "evidence": "The industrial economy remains sluggish, essentially flat. PMI averaged about 48.6 in the quarter, which indicates contraction."
+    },
+    {
+      "label": "SG&A Expense Increases",
+      "severity": 3,
+      "evidence": "Employee-related expenses increased faster than the rate of growth in sales, largely due to the reset of bonus and commission programs due to improved financial performance."
+    },
+    {
+      "label": "Inventory Levels",
+      "severity": 3,
+      "evidence": "Inventories were up 10.5%, which was an improvement from the preceding quarter."
+    },
+    {
+      "label": "Potential for Margin Compression",
+      "severity": 4,
+      "evidence": "We anticipate our gross profit percentage for 2025 will be relatively flat with 2024. This will be dependent upon our effectiveness in managing price cost and the degree of macro improvement will also influence this scenario."
+    }
+  ],
+  "themes": [
+    "Growth",
+    "Share Gains",
+    "Margin Expansion",
+    "Technology Adoption",
+    "Supply Chain Management"
+  ]
+}
+```

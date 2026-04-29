@@ -1,0 +1,69 @@
+```json
+{
+  "overall_sentiment": 0.45,
+  "sentiment_bucket": "bullish",
+  "guidance_direction": "raised",
+  "guidance_confidence": 0.85,
+  "wins": [
+    {
+      "label": "Strong Q3 Results",
+      "severity": 4,
+      "evidence": "The team's commitment to make every FedEx experience outstanding and their consistent execution drove our strong Q3 financial performance."
+    },
+    {
+      "label": "Increased Revenue",
+      "severity": 5,
+      "evidence": "Revenue was up 8% year-over-year, driven by yield and volume strength across nearly all our package services."
+    },
+    {
+      "label": "Margin Expansion",
+      "severity": 4,
+      "evidence": "We delivered a 7% increase in adjusted operating income year-over-year as we successfully managed headwinds tied to changing global trade policies, a challenging LTL demand environment and the grounding of our MD-11 fleet."
+    },
+    {
+      "label": "Network 2.0 Progress",
+      "severity": 4,
+      "evidence": "By the end of this month, about 35% of eligible volume will flow through nearly 400 Network 2.0 optimized facilities."
+    },
+    {
+      "label": "Spin-Off Confirmation",
+      "severity": 5,
+      "evidence": "FedEx Freight successfully completed a $3.7 billion debt offering in January, and this was an important milestone as freight intends to dividend the net proceeds to FedEx Corp. in connection with the spin-off."
+    }
+  ],
+  "risks": [
+    {
+      "label": "LTL Industry Pressure",
+      "severity": 5,
+      "evidence": "Yield trended better than expected, which reflects the improving pricing environment, both in U.S. domestic and international, and we'll be focused on continuing this momentum in the fourth quarter."
+    },
+    {
+      "label": "MD-11 Grounding Impact",
+      "severity": 4,
+      "evidence": "Q3 marked the first full quarter with our MD-11 fleet grounded. My sincere thanks go out to our world-class team, including our pilots, network planning and flight operations teams who did an outstanding job adjusting the network under very difficult circumstances to mitigate the operational and financial impacts of the grounding during the peak season."
+    },
+    {
+      "label": "Global Trade Policy Changes",
+      "severity": 4,
+      "evidence": "We continue to flex our air network in response to global trade policy changes. We reduced transpacific outbound Purple and White-tail capacity by approximately 15% and 25%, respectively, during the quarter."
+    },
+    {
+      "label": "Freight Demand Weakness",
+      "severity": 5,
+      "evidence": "In Q3, shipments declined 6%, pressured by lower shipments."
+    },
+    {
+      "label": "Separation Costs",
+      "severity": 4,
+      "evidence": "Specifically, we incurred approximately $60 million in separation-related costs that were not adjusted out of our results."
+    }
+  ],
+  "themes": [
+    "Network Transformation",
+    "Revenue Quality",
+    "Cost Management",
+    "Strategic Priorities",
+    "Global Trade"
+  ]
+}
+```

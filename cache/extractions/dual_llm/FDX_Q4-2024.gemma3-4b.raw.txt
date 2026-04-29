@@ -1,0 +1,69 @@
+```json
+{
+  "overall_sentiment": 0.35,
+  "sentiment_bucket": "bullish",
+  "guidance_direction": "raised",
+  "guidance_confidence": 0.85,
+  "wins": [
+    {
+      "label": "Strong FY '24 Results",
+      "severity": 4,
+      "evidence": "Delivered year-over-year operating profit growth and margin expansion in every quarter of FY '24. Lowered our capital intensity, reaching our FY '25 target of less than 6.5% a year early."
+    },
+    {
+      "label": "Ground Operating Income Record",
+      "severity": 5,
+      "evidence": "Ground delivered its highest adjusted operating income in company history for both the fourth quarter and the full year."
+    },
+    {
+      "label": "Freight Margin High",
+      "severity": 4,
+      "evidence": "Freight fourth quarter operating income increased despite significant demand weakness. Freight ended fiscal year 2024 with full year operating margin equal to last year's all-time high."
+    },
+    {
+      "label": "DRIVE Cost Savings",
+      "severity": 4,
+      "evidence": "Achieved our target of $1.8 billion in structural cost-out in FY '24 with approximately $500 million from air network and international, $550 million of G&A, and $750 million from surface network."
+    },
+    {
+      "label": "Network 2.0 Rollout",
+      "severity": 3,
+      "evidence": "Continued to roll out Network 2.0, finalizing the transition to One FedEx."
+    }
+  ],
+  "risks": [
+    {
+      "label": "Declining Revenue",
+      "severity": 4,
+      "evidence": "Revenue was down 3% or nearly $2.5 billion year-over-year."
+    },
+    {
+      "label": "International Yield Pressure",
+      "severity": 3,
+      "evidence": "International yields were pressured by an increased capacity in the global air cargo market."
+    },
+    {
+      "label": "USPS Contract Expiration",
+      "severity": 4,
+      "evidence": "The expiration of the U.S. Postal Service contract will create headwinds."
+    },
+    {
+      "label": "Macroeconomic Uncertainty",
+      "severity": 3,
+      "evidence": "The team is monitoring the demand environment and expects moderate improvement as we move through the year."
+    },
+    {
+      "label": "Trade Policy Changes",
+      "severity": 2,
+      "evidence": "The trade as a percentage of GDP has essentially flatlined since about 2016."
+    }
+  ],
+  "themes": [
+    "Transformation",
+    "Cost Optimization",
+    "Network Efficiency",
+    "Digitalization",
+    "Supply Chain Resilience"
+  ]
+}
+```

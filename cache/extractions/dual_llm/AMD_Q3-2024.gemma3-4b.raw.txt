@@ -1,0 +1,69 @@
+```json
+{
+    "overall_sentiment": 0.65,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+        {
+            "label": "Record Data Center Revenue",
+            "severity": 4,
+            "evidence": "Revenue coming in above expectations, driven by record Instinct and EPYC product sales and robust demand for our Ryzen PC processors."
+        },
+        {
+            "label": "EPYC CPU Share Gain",
+            "severity": 5,
+            "evidence": "We gained server CPU share in the quarter as enterprise wins accelerated."
+        },
+        {
+            "label": "Cloud Provider Adoption of EPYC",
+            "severity": 4,
+            "evidence": "Cloud providers expanded their use of EPYC CPUs across their infrastructure, and we began the initial ramp of fifth-gen EPYC processors."
+        },
+        {
+            "label": "Cloudflare Genoa-X Adoption",
+            "severity": 4,
+            "evidence": "Cloudflare selected Genoa-X processors with our industry-leading 3D chiplet stacking technology to power their next-generation servers that support twice as many requests per second and deliver 60% higher performance per watt versus their prior generation."
+        },
+        {
+            "label": "EPYC Instance Adoption",
+            "severity": 5,
+            "evidence": "Public cloud instances increased 20% year-over-year to more than 950 as Microsoft, AWS and others launched or expanded their EPYC processor-powered offerings in the quarter. EPYC instance adoption with enterprise customers also grew in the quarter, highlighted by wins with Adobe, Boeing, Micron Nestle, Slack, Synopsys, Tata and others."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Gaming Segment Decline",
+            "severity": 3,
+            "evidence": "Semi-custom sales declined as Microsoft and Sony reduced channel inventory."
+        },
+        {
+            "label": "Embedded Segment Recovery",
+            "severity": 2,
+            "evidence": "Embedded demand continues recovering gradually, led by strength in test and emulation offset by ongoing softness in the industrial market."
+        },
+        {
+            "label": "Market Competition (GPU)",
+            "severity": 4,
+            "evidence": "If you remember, Harsh, our EPYC ramp from Zen 1, Zen 2, Zen 3, Zen 4 we had extremely good product even back in the Rome days, but it does take time to ensure that there is trust built, there is familiarity with the product set."
+        },
+        {
+            "label": "PC Market Seasonality",
+            "severity": 3,
+            "evidence": "I would expect there will be seasonality going into the first half. That's typical in our business."
+        },
+        {
+            "label": "Supply Chain Constraints",
+            "severity": 4,
+            "evidence": "Inventory increased sequentially by $383 million to $5.4 billion, primarily to support the continued ramp of Data Center segment products."
+        }
+    ],
+    "themes": [
+        "Data Center Growth",
+        "EPYC Adoption",
+        "AI Acceleration",
+        "Cloud Computing",
+        "Server Infrastructure"
+    ]
+}
+```

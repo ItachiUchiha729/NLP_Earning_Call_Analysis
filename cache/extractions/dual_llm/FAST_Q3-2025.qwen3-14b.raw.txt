@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.9,
+    "wins": [
+        {
+            "label": "Strong Sales Growth",
+            "severity": 5,
+            "evidence": "Net sales of $2.13 billion, which is an 11.7% increase over Q3 of last year."
+        },
+        {
+            "label": "Margin Expansion",
+            "severity": 4,
+            "evidence": "Operating margin in the third quarter of 2025 was 20.7%, up 40 basis points year-over-year."
+        },
+        {
+            "label": "Customer Relationship Growth",
+            "severity": 4,
+            "evidence": "The number of active customer sites spending over $10,000 per month with us, those sites grew over 8.1%."
+        },
+        {
+            "label": "Digital Footprint Expansion",
+            "severity": 3,
+            "evidence": "Our digital footprint accounted for 61.3% of total sales in the quarter."
+        },
+        {
+            "label": "Strategic Alignment",
+            "severity": 3,
+            "evidence": "We continue to speak about alignment in our strategy, which is a company-wide effort."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Tariff Uncertainty",
+            "severity": 4,
+            "evidence": "Potential for longer-than-normal holiday shutdowns in the fourth quarter due to the Christmas holiday falling in the middle of the week."
+        },
+        {
+            "label": "Pricing Fatigue",
+            "severity": 3,
+            "evidence": "Price fatigue is a concern as customers are tired of discussing price increases."
+        },
+        {
+            "label": "Margin Pressure",
+            "severity": 3,
+            "evidence": "We anticipate our gross profit percentage for 2025 will be relatively flat with 2024."
+        },
+        {
+            "label": "Supply Chain Costs",
+            "severity": 2,
+            "evidence": "Supply chains have gotten more expensive, and a part of our response over time has been incremental pricing."
+        },
+        {
+            "label": "Uncertain Market Conditions",
+            "severity": 2,
+            "evidence": "The industrial economy remains sluggish, essentially flat."
+        }
+    ],
+    "themes": ["Sales Growth", "Margin Expansion", "Customer Relationships", "Digital Transformation", "Strategic Alignment"]
+}

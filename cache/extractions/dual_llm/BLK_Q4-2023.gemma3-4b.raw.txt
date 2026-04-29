@@ -1,0 +1,69 @@
+```json
+{
+  "overall_sentiment": 0.45,
+  "sentiment_bucket": "bullish",
+  "guidance_direction": "raised",
+  "guidance_confidence": 0.85,
+  "wins": [
+    {
+      "label": "Strong Infrastructure Market Outlook",
+      "severity": 4,
+      "evidence": "‘a number of long-term structural trends support an acceleration in the infrastructure investments.’"
+    },
+    {
+      "label": "Significant Client Demand",
+      "severity": 5,
+      "evidence": "‘BlackRock has delivered $289 billion of total net inflows and 1% organic base fee growth.’"
+    },
+    {
+      "label": "Accelerated Growth in 2024",
+      "severity": 4,
+      "evidence": "‘We entered 2024 with great momentum. Flows and organic base fee growth accelerated at the end of the year.’"
+    },
+    {
+      "label": "Successful ETF Performance",
+      "severity": 4,
+      "evidence": "‘BlackRock generated industry-leading ETF net inflows of $186 billion in 2023.’"
+    },
+    {
+      "label": "Positive Private Markets Momentum",
+      "severity": 3,
+      "evidence": "‘BlackRock generated $14 billion of net inflows into BlackRock illiquid strategies during the year.’"
+    }
+  ],
+  "risks": [
+    {
+      "label": "Interest Rate Sensitivity",
+      "severity": 4,
+      "evidence": "‘the monetary policy shock of a rapid rate rising campaign upended 10 years of asset allocation practices and spurred repositioning of portfolios into cash and money market funds at the expense of risk assets.’"
+    },
+    {
+      "label": "Market Volatility",
+      "severity": 3,
+      "evidence": "‘We saw about $40 billion come out of money market funds to us as people re-risk.’"
+    },
+    {
+      "label": "Competition in Private Markets",
+      "severity": 4,
+      "evidence": "‘BlackRock has been a central player in the growth of the global capital markets.’"
+    },
+    {
+      "label": "Potential for Lower Fee Growth",
+      "severity": 3,
+      "evidence": "‘BlackRock’s industry leadership comes from delivering sustained performance, innovating and staying ahead of the needs of our clients.’"
+    },
+    {
+      "label": "Economic Uncertainty",
+      "severity": 3,
+      "evidence": "‘Growing public deficits, a modernizing digital world, advancing energy independence and the energy transition are driving the mobilization of private capital to fund critical infrastructure.’"
+    }
+  ],
+  "themes": [
+    "Infrastructure Investment",
+    "Private Markets",
+    "Capital Markets",
+    "Digital Transformation",
+    "ESG"
+  ]
+}
+```

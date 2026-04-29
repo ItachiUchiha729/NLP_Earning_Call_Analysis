@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.2,
+    "sentiment_bucket": "neutral",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.7,
+    "wins": [
+        {
+            "label": "Customer Engagement",
+            "severity": 4,
+            "evidence": "We've had to dramatically expand it. And Holden will touch on some of that in his comments about what that means for the second quarter as far as expenses. But we'll have 50% more people attending this year than we did the last year, and we'll have double the number of people attending this year than we did last year."
+        },
+        {
+            "label": "Onsite Growth",
+            "severity": 3,
+            "evidence": "We had 102 signings during the quarter. So the number of active sites we had operating at the end of the quarter was up about 12% from what it was in the first quarter of last year."
+        },
+        {
+            "label": "FMI Technology",
+            "severity": 3,
+            "evidence": "We signed 105 devices a day, and I believe we've only had one quarter that we've ever done over 100."
+        },
+        {
+            "label": "eCommerce Expansion",
+            "severity": 2,
+            "evidence": "We're approaching 60% of sales. And our anticipation is sometime this year, that number will hit the mid-60s, 66% is our target."
+        },
+        {
+            "label": "PMI Improvement",
+            "severity": 2,
+            "evidence": "we broke above 50 in the month of March."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Weak Demand",
+            "severity": 5,
+            "evidence": "the primary challenge remains poor underlying demand."
+        },
+        {
+            "label": "Margin Pressure",
+            "severity": 4,
+            "evidence": "operating margin in the first quarter of 2024 was 20.6%, down 60 basis points year-over-year."
+        },
+        {
+            "label": "Supply Chain Costs",
+            "severity": 3,
+            "evidence": "the latter 2 items could impact second quarter 2024 operating margins by approximately 30 basis points."
+        },
+        {
+            "label": "Pricing Pressure",
+            "severity": 3,
+            "evidence": "the revenue per device, it's down 1% to 2% from a year ago."
+        },
+        {
+            "label": "End Market Weakness",
+            "severity": 4,
+            "evidence": "fabricated metals and machinery have been challenging for a little while now."
+        }
+    ],
+    "themes": ["demand", "customer engagement", "margin pressure", "supply chain", "growth"]
+}

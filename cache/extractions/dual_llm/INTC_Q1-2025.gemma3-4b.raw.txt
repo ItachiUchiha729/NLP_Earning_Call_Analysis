@@ -1,0 +1,74 @@
+```json
+{
+  "overall_sentiment": 0.35,
+  "sentiment_bucket": "bullish",
+  "guidance_direction": "lowered",
+  "guidance_confidence": 0.65,
+  "wins": [
+    {
+      "label": "Q1 beat on revenue and margins",
+      "severity": 2,
+      "evidence": "Q1 revenue was $12.7 billion, coming in at the high end of our guidance range...Non-GAAP gross margin was 39.2%, approximately 3 percentage points above our guidance"
+    },
+    {
+      "label": "New leadership driving organizational simplification",
+      "severity": 2,
+      "evidence": "I have flattened the structure of my leadership team, all critical product, manufacturing and G&A functions...are now directly reporting to me"
+    },
+    {
+      "label": "OpEx and CapEx reduction targets",
+      "severity": 2,
+      "evidence": "We now expect OpEx of $17 billion this year and $16 billion next year...taking our target for this year to $18 billion [CapEx]"
+    },
+    {
+      "label": "Panther Lake product on track with 18A",
+      "severity": 2,
+      "evidence": "We have a good foundation...we have the first SKU by the end of this year, then we have additional SKU in the next year"
+    },
+    {
+      "label": "Altera monetization via Silver Lake partnership",
+      "severity": 2,
+      "evidence": "we announced on April 14, our intention to sell 51% of Altera to Silver Lake Partners for an almost $9 billion valuation with Intel receiving net cash proceeds of $4.4 billion"
+    }
+  ],
+  "risks": [
+    {
+      "label": "Macro uncertainty and tariff headwinds",
+      "severity": 4,
+      "evidence": "the economic landscape has become increasingly uncertain driven by shifting trade policies, persistent inflation and increased regulatory risk...the probability of a recession growing"
+    },
+    {
+      "label": "Q2 guidance significantly weakened",
+      "severity": 4,
+      "evidence": "we're forecasting a wider-than-normal Q2 revenue range of $11.2 billion to $12.4 billion, down 2% to 12% sequentially"
+    },
+    {
+      "label": "Gross margin pressure from product mix and 18A ramp",
+      "severity": 3,
+      "evidence": "Lunar Lake's margins are more under pressure given the memories and package...there are start-up costs associated with that, bringing that up in Arizona"
+    },
+    {
+      "label": "Intel 7 capacity constraints persist",
+      "severity": 3,
+      "evidence": "capacity constraints in Intel 7, which we expect to persist for the foreseeable future"
+    },
+    {
+      "label": "Foundry business requires significant trust-building",
+      "severity": 3,
+      "evidence": "success in foundry business requires more than process technology, manufacturing capabilities alone...we need to instill customer service mindset across our foundry business"
+    }
+  ],
+  "themes": [
+    "organizational_restructuring",
+    "cost_reduction",
+    "product_execution_focus",
+    "foundry_strategy",
+    "ai_workload_optimization",
+    "macro_uncertainty",
+    "tariff_risk",
+    "margin_pressure",
+    "balance_sheet_deleveraging",
+    "leadership_transition"
+  ]
+}
+```

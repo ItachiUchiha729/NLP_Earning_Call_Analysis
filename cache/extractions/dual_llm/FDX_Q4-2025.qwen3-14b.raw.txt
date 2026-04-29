@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.6,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.85,
+    "wins": [
+        {
+            "label": "Cost Reduction Achievements",
+            "severity": 5,
+            "evidence": "We delivered on our $2.2 billion drive structural cost reduction commitment."
+        },
+        {
+            "label": "Network Optimization",
+            "severity": 4,
+            "evidence": "We advanced Network 2.0 in FY '25 as we began optimizing larger, more densely populated markets."
+        },
+        {
+            "label": "Strong Cash Returns",
+            "severity": 4,
+            "evidence": "We returned $4.3 billion in cash to stockholders."
+        },
+        {
+            "label": "Operational Leverage",
+            "severity": 3,
+            "evidence": "On a 1% increase in revenue, we grew adjusted operating income by 9%."
+        },
+        {
+            "label": "Strategic Flexibility",
+            "severity": 3,
+            "evidence": "We flexed our network to match the demand environment as trade flows shifted."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Global Trade Policy Uncertainty",
+            "severity": 5,
+            "evidence": "Trade policies are evolving and trade patterns are changing."
+        },
+        {
+            "label": "Tariff Impact",
+            "severity": 4,
+            "evidence": "The trade-related events of the fourth quarter showcased our ability to leverage both the scale and the flexibility of our unrivaled global network."
+        },
+        {
+            "label": "B2B Volume Pressures",
+            "severity": 4,
+            "evidence": "Higher-margin B2B volumes remain pressured, which affected both FAC and freight results."
+        },
+        {
+            "label": "Postal Service Contract Expiration",
+            "severity": 3,
+            "evidence": "The expiration of our U.S. postal service contract is a significant headwind."
+        },
+        {
+            "label": "Industrial Economy Weakness",
+            "severity": 3,
+            "evidence": "The prolonged weakness in the industrial economy continues to challenge FedEx Freight results."
+        }
+    ],
+    "themes": ["Network Optimization", "Cost Reduction", "Global Trade", "Operational Efficiency", "Strategic Transformation"]
+}

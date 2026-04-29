@@ -1,0 +1,69 @@
+```json
+{
+  "overall_sentiment": 0.65,
+  "sentiment_bucket": "bullish",
+  "guidance_direction": "raised",
+  "guidance_confidence": 0.85,
+  "wins": [
+    {
+      "label": "Strong Q2 Core Net Inflows",
+      "severity": 4,
+      "evidence": "Second quarter core net inflows were approximately $150 billion, excluding lower fee episodic M&A and institutional index activities."
+    },
+    {
+      "label": "Record iShares ETF Flows",
+      "severity": 5,
+      "evidence": "Second quarter ETF net inflows of $83 billion were led by fixed income and core equity ETFs, which saw $34 billion and $32 billion of net inflows, respectively."
+    },
+    {
+      "label": "Highest Start to Year in iShares History",
+      "severity": 4,
+      "evidence": "BlackRock's ETF flows were about $150 billion in the first half of 2024, which is the highest start to the year in iShares' history."
+    },
+    {
+      "label": "Significant Growth in Private Markets",
+      "severity": 4,
+      "evidence": "BlackRock’s private markets business generated net inflows of $2 billion."
+    },
+    {
+      "label": "Successful Acquisition of GIP",
+      "severity": 3,
+      "evidence": "BlackRock is expected to close its planned acquisition of Global Infrastructure Partners in the third quarter of 2024."
+    }
+  ],
+  "risks": [
+    {
+      "label": "Large Insurance Client Redemption",
+      "severity": 5,
+      "evidence": "A $20 billion active fixed income redemption from a large insurance client linked to M&A activity impacted flows."
+    },
+    {
+      "label": "Institutional Index Outflows",
+      "severity": 4,
+      "evidence": "Institutional index net outflows of $35 billion were concentrated in low-fee index equities."
+    },
+    {
+      "label": "Interest Rate Sensitivity",
+      "severity": 3,
+      "evidence": "Clients are re-risking due to rising interest rates and potential rate cuts."
+    },
+    {
+      "label": "Market Volatility",
+      "severity": 4,
+      "evidence": "The assassination attempt on former President Trump is abhorrent. I was very relieved he wasn't seriously injured."
+    },
+    {
+      "label": "Economic Uncertainty",
+      "severity": 3,
+      "evidence": "BlackRock assumes no duty and does not undertake to update any forward-looking statements."
+    }
+  ],
+  "themes": [
+    "Growth",
+    "Private Markets",
+    "Technology",
+    "Innovation",
+    "Capital Markets"
+  ]
+}
+```

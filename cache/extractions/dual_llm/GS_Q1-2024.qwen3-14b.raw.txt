@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.95,
+    "wins": [
+        {
+            "label": "Strong Q1 Results",
+            "severity": 5,
+            "evidence": "We feel very good about our first quarter results, which reflect the strength of our world-class and interconnected franchises and the earnings power of our firm."
+        },
+        {
+            "label": "Capital Markets Reopening",
+            "severity": 4,
+            "evidence": "We're in the early stages of a reopening of the capital markets with the first few months of 2024 seeing a reinvigoration in new issue market access."
+        },
+        {
+            "label": "Record Asset Management Growth",
+            "severity": 4,
+            "evidence": "Assets under supervision rose to a new record of $2.8 trillion this quarter, which represented our 25th consecutive quarter of long-term fee-based net inflows."
+        },
+        {
+            "label": "AI Strategic Positioning",
+            "severity": 3,
+            "evidence": "We are proud to be at the forefront of advising clients on these topics and how to think about potential use cases in their operations."
+        },
+        {
+            "label": "Strong ROE and Earnings",
+            "severity": 5,
+            "evidence": "We generated net revenues of $14.2 billion and net earnings of $4.1 billion, resulting in earnings per share of $11.58, an ROE of 14.8% and an ROTE of 15.9%."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Uncertain Macroeconomic Environment",
+            "severity": 3,
+            "evidence": "The U.S. economy has proven to be resilient, supported by a number of factors, including government spending as well as labor force growth driven by above-trend levels of immigration."
+        },
+        {
+            "label": "Inflation and Geopolitical Tensions",
+            "severity": 3,
+            "evidence": "U.S. equity markets are hovering near record levels at a time when we see headwinds, including concerns around inflation, the commercial real estate market and escalating geopolitical tensions around the world."
+        },
+        {
+            "label": "Regulatory Uncertainty",
+            "severity": 2,
+            "evidence": "The direction of travel on Basel III in terms of expectations around the proposal, certainly more favorable, but there is uncertainty around the final rules."
+        },
+        {
+            "label": "Market Volatility",
+            "severity": 2,
+            "evidence": "The trajectory of the U.S. economy is still uncertain, and the environment is constructive but data-dependent."
+        },
+        {
+            "label": "Private Credit Risks",
+            "severity": 2,
+            "evidence": "How private credit platforms and businesses will respond when we do go through a credit cycle is a little bit unclear at the moment."
+        }
+    ],
+    "themes": ["capital markets reopening", "AI adoption", "asset management growth", "strategic focus", "ROE improvement"]
+}

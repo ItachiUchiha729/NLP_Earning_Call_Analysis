@@ -1,0 +1,234 @@
+{
+  "_ticker": "JNJ",
+  "_quarter": "Q4-2024",
+  "_call_date": "2025-01-22",
+  "backend": "anthropic",
+  "primary_model": "gemma3:4b",
+  "secondary_model": "gemma3:4b",
+  "single_call_mode": true,
+  "primary": {
+    "overall_sentiment": 0.45,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.75,
+    "wins": [
+      {
+        "label": "Strong operational sales growth",
+        "severity": 4,
+        "evidence": "Over the full year, we delivered robust operational sales growth of 7%, excluding the COVID-19 vaccine"
+      },
+      {
+        "label": "DARZALEX milestone achievement",
+        "severity": 4,
+        "evidence": "DARZALEX growth was 23.5%, primarily driven by share gains of over 3 points across all lines of therapy and 6 points in the frontline setting as well as market growth. This marks Johnson & Johnson's first brand to achieve over $3 billion in sales in a quarter."
+      },
+      {
+        "label": "Strong free cash flow generation",
+        "severity": 4,
+        "evidence": "Our focus on cash flow resulted in the company delivering approximately $20 billion of free cash flow during 2024, $1.6 billion more than in 2023"
+      },
+      {
+        "label": "Robust pipeline innovation",
+        "severity": 4,
+        "evidence": "In 2024, we reported 18 positive readouts for registrational studies, initiated 16 Phase III studies and submitted 49 filings across major markets"
+      },
+      {
+        "label": "Strong EPS growth guidance despite headwinds",
+        "severity": 5,
+        "evidence": "we are planning for adjusted operational earnings per share growth of nearly 9%. I cannot think of any other company that would be able to deliver growth through the first year of lose exclusivity of a multibillion-dollar product."
+      }
+    ],
+    "risks": [
+      {
+        "label": "STELARA biosimilar competition",
+        "severity": 5,
+        "evidence": "STELARA declined 13.6% driven by the impact of current and anticipated biosimilar competition. As a reminder, biosimilar competition has entered the U.S. in January 2025."
+      },
+      {
+        "label": "Part D redesign impact",
+        "severity": 4,
+        "evidence": "The strength of our portfolio enables Innovative Medicine to grow despite the expanded STELARA biosimilar competition and approximately $2 billion negative impact from Part D redesign."
+      },
+      {
+        "label": "China market headwinds",
+        "severity": 3,
+        "evidence": "We continue to expect China to remain a headwind through 2025"
+      },
+      {
+        "label": "VARIPULSE U.S. investigation",
+        "severity": 3,
+        "evidence": "Regarding VARIPULSE in the U.S., we are working diligently to complete our investigation, and we'll provide an update when we have additional information to share."
+      },
+      {
+        "label": "Margin compression pressures",
+        "severity": 3,
+        "evidence": "Innovative Medicine margin declined from 37.4% to 32.5%, primarily driven by strategic commercial investment and R&D pipeline advancement"
+      }
+    ],
+    "themes": [
+      "biosimilar_competition",
+      "pipeline_innovation",
+      "m&a_activity",
+      "portfolio_diversification",
+      "margin_expansion",
+      "oncology_growth",
+      "neuroscience_expansion",
+      "medtech_momentum",
+      "china_headwinds",
+      "cash_flow_strength"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.45,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.75,
+    "wins": [
+      {
+        "label": "Strong operational sales growth",
+        "severity": 4,
+        "evidence": "Over the full year, we delivered robust operational sales growth of 7%, excluding the COVID-19 vaccine"
+      },
+      {
+        "label": "DARZALEX milestone achievement",
+        "severity": 4,
+        "evidence": "DARZALEX growth was 23.5%, primarily driven by share gains of over 3 points across all lines of therapy and 6 points in the frontline setting as well as market growth. This marks Johnson & Johnson's first brand to achieve over $3 billion in sales in a quarter."
+      },
+      {
+        "label": "Strong free cash flow generation",
+        "severity": 4,
+        "evidence": "Our focus on cash flow resulted in the company delivering approximately $20 billion of free cash flow during 2024, $1.6 billion more than in 2023"
+      },
+      {
+        "label": "Robust pipeline innovation",
+        "severity": 4,
+        "evidence": "In 2024, we reported 18 positive readouts for registrational studies, initiated 16 Phase III studies and submitted 49 filings across major markets"
+      },
+      {
+        "label": "Strong EPS growth guidance despite headwinds",
+        "severity": 5,
+        "evidence": "we are planning for adjusted operational earnings per share growth of nearly 9%. I cannot think of any other company that would be able to deliver growth through the first year of lose exclusivity of a multibillion-dollar product."
+      }
+    ],
+    "risks": [
+      {
+        "label": "STELARA biosimilar competition",
+        "severity": 5,
+        "evidence": "STELARA declined 13.6% driven by the impact of current and anticipated biosimilar competition. As a reminder, biosimilar competition has entered the U.S. in January 2025."
+      },
+      {
+        "label": "Part D redesign impact",
+        "severity": 4,
+        "evidence": "The strength of our portfolio enables Innovative Medicine to grow despite the expanded STELARA biosimilar competition and approximately $2 billion negative impact from Part D redesign."
+      },
+      {
+        "label": "China market headwinds",
+        "severity": 3,
+        "evidence": "We continue to expect China to remain a headwind through 2025"
+      },
+      {
+        "label": "VARIPULSE U.S. investigation",
+        "severity": 3,
+        "evidence": "Regarding VARIPULSE in the U.S., we are working diligently to complete our investigation, and we'll provide an update when we have additional information to share."
+      },
+      {
+        "label": "Margin compression pressures",
+        "severity": 3,
+        "evidence": "Innovative Medicine margin declined from 37.4% to 32.5%, primarily driven by strategic commercial investment and R&D pipeline advancement"
+      }
+    ],
+    "themes": [
+      "biosimilar_competition",
+      "pipeline_innovation",
+      "m&a_activity",
+      "portfolio_diversification",
+      "margin_expansion",
+      "oncology_growth",
+      "neuroscience_expansion",
+      "medtech_momentum",
+      "china_headwinds",
+      "cash_flow_strength"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 1.0,
+    "risks_jaccard": 1.0,
+    "themes_jaccard": 1.0,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.0,
+    "agreement_score": 1.0,
+    "agreement_confidence": 1.0
+  },
+  "chosen": {
+    "overall_sentiment": 0.45,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.75,
+    "wins": [
+      {
+        "label": "Strong operational sales growth",
+        "severity": 4,
+        "evidence": "Over the full year, we delivered robust operational sales growth of 7%, excluding the COVID-19 vaccine"
+      },
+      {
+        "label": "DARZALEX milestone achievement",
+        "severity": 4,
+        "evidence": "DARZALEX growth was 23.5%, primarily driven by share gains of over 3 points across all lines of therapy and 6 points in the frontline setting as well as market growth. This marks Johnson & Johnson's first brand to achieve over $3 billion in sales in a quarter."
+      },
+      {
+        "label": "Strong free cash flow generation",
+        "severity": 4,
+        "evidence": "Our focus on cash flow resulted in the company delivering approximately $20 billion of free cash flow during 2024, $1.6 billion more than in 2023"
+      },
+      {
+        "label": "Robust pipeline innovation",
+        "severity": 4,
+        "evidence": "In 2024, we reported 18 positive readouts for registrational studies, initiated 16 Phase III studies and submitted 49 filings across major markets"
+      },
+      {
+        "label": "Strong EPS growth guidance despite headwinds",
+        "severity": 5,
+        "evidence": "we are planning for adjusted operational earnings per share growth of nearly 9%. I cannot think of any other company that would be able to deliver growth through the first year of lose exclusivity of a multibillion-dollar product."
+      }
+    ],
+    "risks": [
+      {
+        "label": "STELARA biosimilar competition",
+        "severity": 5,
+        "evidence": "STELARA declined 13.6% driven by the impact of current and anticipated biosimilar competition. As a reminder, biosimilar competition has entered the U.S. in January 2025."
+      },
+      {
+        "label": "Part D redesign impact",
+        "severity": 4,
+        "evidence": "The strength of our portfolio enables Innovative Medicine to grow despite the expanded STELARA biosimilar competition and approximately $2 billion negative impact from Part D redesign."
+      },
+      {
+        "label": "China market headwinds",
+        "severity": 3,
+        "evidence": "We continue to expect China to remain a headwind through 2025"
+      },
+      {
+        "label": "VARIPULSE U.S. investigation",
+        "severity": 3,
+        "evidence": "Regarding VARIPULSE in the U.S., we are working diligently to complete our investigation, and we'll provide an update when we have additional information to share."
+      },
+      {
+        "label": "Margin compression pressures",
+        "severity": 3,
+        "evidence": "Innovative Medicine margin declined from 37.4% to 32.5%, primarily driven by strategic commercial investment and R&D pipeline advancement"
+      }
+    ],
+    "themes": [
+      "biosimilar_competition",
+      "pipeline_innovation",
+      "m&a_activity",
+      "portfolio_diversification",
+      "margin_expansion",
+      "oncology_growth",
+      "neuroscience_expansion",
+      "medtech_momentum",
+      "china_headwinds",
+      "cash_flow_strength"
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "_ticker": "C",
+  "_quarter": "Q1-2024",
+  "_call_date": "2024-04-12",
+  "primary_model": "qwen3:14b",
+  "secondary_model": "gemma3:4b",
+  "primary": {
+    "overall_sentiment": 0.65,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.9,
+    "wins": [
+      {
+        "label": "Organizational Simplification",
+        "severity": 5,
+        "evidence": "We are now more client-centric. We're already seeing faster decision-making and a nimbler organization at work."
+      },
+      {
+        "label": "Expense Reductions",
+        "severity": 4,
+        "evidence": "We are eliminating approximately 7,000 positions, which will generate $1.5 billion of annualized run rate expense saves."
+      },
+      {
+        "label": "Strong Q1 Performance",
+        "severity": 4,
+        "evidence": "We reported net income of approximately $3.4 billion, earnings per share of $1.58 and an RoTCE of 7.6% on over $21 billion of revenues."
+      },
+      {
+        "label": "Services Growth",
+        "severity": 3,
+        "evidence": "Services continues to perform well and generate very attractive returns. Revenue was up 8% for the quarter."
+      },
+      {
+        "label": "Investment Banking Recovery",
+        "severity": 3,
+        "evidence": "Investment Banking revenue growth of 35% and overall banking revenue growth of 49%."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Credit Card Charge-Offs",
+        "severity": 4,
+        "evidence": "The NCL rate of 6.32% was slightly above the high end of our guidance range for the full year."
+      },
+      {
+        "label": "Regulatory and Compliance Costs",
+        "severity": 3,
+        "evidence": "We are intensifying our efforts in automating certain regulatory processes and the data related to regulatory reporting."
+      },
+      {
+        "label": "Economic Uncertainty",
+        "severity": 3,
+        "evidence": "We continue to see a tale of two Europe with Germany hurt by the weak demand for goods."
+      },
+      {
+        "label": "Inflation and Interest Rates",
+        "severity": 2,
+        "evidence": "Persistent inflation, higher interest rates, and continued sales pressure at our partners."
+      },
+      {
+        "label": "Geopolitical Risks",
+        "severity": 2,
+        "evidence": "The market's too benign in its risk pricing on some of these factors."
+      }
+    ],
+    "themes": [
+      "organizational transformation",
+      "cost efficiency",
+      "revenue growth",
+      "regulatory compliance",
+      "credit risk management"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.25,
+    "sentiment_bucket": "neutral",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Strong Client Activity in TTS",
+        "severity": 4,
+        "evidence": "Volumes increased 9%, U.S. dollar clearing volumes increased 3%, and commercial card spend volume increased 5%."
+      },
+      {
+        "label": "Securities Services Growth",
+        "severity": 4,
+        "evidence": "Assets under custody and administration increased 11%, benefiting from higher market valuations."
+      },
+      {
+        "label": "Investment Banking Deal Participation",
+        "severity": 3,
+        "evidence": "Participated in some of the significant deals announced in the quarter, such as Diamondback's merger with Endeavour Energy and Catalent's merger with Nova Holdings."
+      },
+      {
+        "label": "U.S. PB Double-Digit Revenue Growth",
+        "severity": 3,
+        "evidence": "U.S. PB had double-digit revenue growth for the sixth straight quarter."
+      },
+      {
+        "label": "Strong Brand Card Spend Growth",
+        "severity": 3,
+        "evidence": "Healthy spend growth persists in branded cards primarily driven by our more affluent customers."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Market Volatility Impact on NII",
+        "severity": 5,
+        "evidence": "Net interest income decreased by $317 million largely driven by markets."
+      },
+      {
+        "label": "Retail Services NCLs Above Guidance",
+        "severity": 4,
+        "evidence": "Retail services revenues decreased 4% driven by a 13% decrease in NII."
+      },
+      {
+        "label": "Card Charge-Offs",
+        "severity": 4,
+        "evidence": "Card loan vintages that were originated over the last few years were delayed in their maturation due to the unprecedented levels of government stimulus during the pandemic and are now maturing."
+      },
+      {
+        "label": "Geopolitical Risks",
+        "severity": 4,
+        "evidence": "I think it's important to keep in mind that the macro factors that impact the cards portfolio."
+      },
+      {
+        "label": "Potential for Lower European Rates",
+        "severity": 3,
+        "evidence": "We will have growth in operational deposits."
+      }
+    ],
+    "themes": [
+      "transformation",
+      "expense reduction",
+      "revenue growth",
+      "risk management",
+      "market conditions"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 0.0,
+    "risks_jaccard": 0.1111111111111111,
+    "themes_jaccard": 0.1111111111111111,
+    "guidance_match": 0.0,
+    "sentiment_gap": 0.4,
+    "agreement_score": 0.06111111111111111,
+    "agreement_confidence": 0.03666666666666667
+  },
+  "chosen": {
+    "overall_sentiment": 0.65,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.9,
+    "wins": [
+      {
+        "label": "Organizational Simplification",
+        "severity": 5,
+        "evidence": "We are now more client-centric. We're already seeing faster decision-making and a nimbler organization at work."
+      },
+      {
+        "label": "Expense Reductions",
+        "severity": 4,
+        "evidence": "We are eliminating approximately 7,000 positions, which will generate $1.5 billion of annualized run rate expense saves."
+      },
+      {
+        "label": "Strong Q1 Performance",
+        "severity": 4,
+        "evidence": "We reported net income of approximately $3.4 billion, earnings per share of $1.58 and an RoTCE of 7.6% on over $21 billion of revenues."
+      },
+      {
+        "label": "Services Growth",
+        "severity": 3,
+        "evidence": "Services continues to perform well and generate very attractive returns. Revenue was up 8% for the quarter."
+      },
+      {
+        "label": "Investment Banking Recovery",
+        "severity": 3,
+        "evidence": "Investment Banking revenue growth of 35% and overall banking revenue growth of 49%."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Credit Card Charge-Offs",
+        "severity": 4,
+        "evidence": "The NCL rate of 6.32% was slightly above the high end of our guidance range for the full year."
+      },
+      {
+        "label": "Regulatory and Compliance Costs",
+        "severity": 3,
+        "evidence": "We are intensifying our efforts in automating certain regulatory processes and the data related to regulatory reporting."
+      },
+      {
+        "label": "Economic Uncertainty",
+        "severity": 3,
+        "evidence": "We continue to see a tale of two Europe with Germany hurt by the weak demand for goods."
+      },
+      {
+        "label": "Inflation and Interest Rates",
+        "severity": 2,
+        "evidence": "Persistent inflation, higher interest rates, and continued sales pressure at our partners."
+      },
+      {
+        "label": "Geopolitical Risks",
+        "severity": 2,
+        "evidence": "The market's too benign in its risk pricing on some of these factors."
+      }
+    ],
+    "themes": [
+      "organizational transformation",
+      "cost efficiency",
+      "revenue growth",
+      "regulatory compliance",
+      "credit risk management"
+    ]
+  }
+}

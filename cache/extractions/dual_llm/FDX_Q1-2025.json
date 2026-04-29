@@ -1,0 +1,217 @@
+{
+  "_ticker": "FDX",
+  "_quarter": "Q1-2025",
+  "_call_date": "2024-09-19",
+  "primary_model": "qwen3:14b",
+  "secondary_model": "gemma3:4b",
+  "primary": {
+    "overall_sentiment": 0.3,
+    "sentiment_bucket": "neutral",
+    "guidance_direction": "narrowed",
+    "guidance_confidence": 0.8,
+    "wins": [
+      {
+        "label": "Network Transformation Progress",
+        "severity": 4,
+        "evidence": "Our network transformation actions will drive improved profitability by unlocking efficiencies, improving density, and creating a more flexible network."
+      },
+      {
+        "label": "DRIVE Savings Progress",
+        "severity": 4,
+        "evidence": "In the first quarter, we achieved $390 million of DRIVE-related savings."
+      },
+      {
+        "label": "Pricing Actions",
+        "severity": 3,
+        "evidence": "We have recently implemented significant new pricing actions relating to both demand and fuel surcharges, which will benefit us in the coming quarters."
+      },
+      {
+        "label": "Tricolor Implementation",
+        "severity": 3,
+        "evidence": "The implementation of Tricolor, which is the redesign of our global air network, is well underway."
+      },
+      {
+        "label": "Improved Service Levels in Europe",
+        "severity": 3,
+        "evidence": "I'm encouraged by the progress we are making in Europe, improving service levels, reducing churn, and winning new business despite difficult market conditions."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Weaker Industrial Economy",
+        "severity": 5,
+        "evidence": "Weakness in the industrial economy pressured our B2B volumes, particularly in the U.S."
+      },
+      {
+        "label": "Shift to Lower-Yielding Services",
+        "severity": 4,
+        "evidence": "We saw increasing demand for our lower-yielding services, and some of this demand increase was driven by a shift in customer preference worldwide from priority to deferred services."
+      },
+      {
+        "label": "U.S. Postal Service Contract Expiration",
+        "severity": 4,
+        "evidence": "We will be making network adjustments post expiration of the U.S. Postal Service contract."
+      },
+      {
+        "label": "Challenging Pricing Environment",
+        "severity": 3,
+        "evidence": "We are operating in a very competitive but still rational pricing environment."
+      },
+      {
+        "label": "Lower Revenue Growth Expectations",
+        "severity": 3,
+        "evidence": "We now expect revenue to grow at low single-digit rate."
+      }
+    ],
+    "themes": [
+      "drive savings",
+      "network transformation",
+      "pricing actions",
+      "tricolor strategy",
+      "u.s. postal service contract expiration"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.15,
+    "sentiment_bucket": "bearish",
+    "guidance_direction": "lowered",
+    "guidance_confidence": 0.7,
+    "wins": [
+      {
+        "label": "Drive Savings Realized",
+        "severity": 4,
+        "evidence": "\u201cWe achieved $390 million of DRIVE-related savings in the first quarter.\u201d"
+      },
+      {
+        "label": "New Pricing Actions",
+        "severity": 3,
+        "evidence": "\u201cWe have recently implemented significant new pricing actions relating to both demand and fuel surcharges, which will benefit us in the coming quarters.\u201d"
+      },
+      {
+        "label": "Network Transformation Progress",
+        "severity": 3,
+        "evidence": "\u201cWe are on track to deliver the $4 billion of savings through DRIVE in FY '25 compared to the FY '23 baseline.\u201d"
+      },
+      {
+        "label": "Network 2.0 Rollout",
+        "severity": 2,
+        "evidence": "\u201cCanada, which is our biggest network optimization yet, is well underway.\u201d"
+      },
+      {
+        "label": "Shipment Eligibility Orchestrator",
+        "severity": 4,
+        "evidence": "\u201cWe recently launched what we call the Shipment Eligibility Orchestrator. This is an innovative internal decision-making engine that leverages machine learning to dynamically route packages in real time.\u201d"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Weak Demand Environment",
+        "severity": 5,
+        "evidence": "\u201cOur results reflect a challenging Q1 demand environment, which was weaker than we expected, particularly in the U.S. domestic package market.\u201d"
+      },
+      {
+        "label": "Industrial Economy Pressure",
+        "severity": 4,
+        "evidence": "\u201cWeakness in the industrial economy pressured our B2B volumes, particularly in the U.S.\u201d"
+      },
+      {
+        "label": "International Economy Headwinds",
+        "severity": 4,
+        "evidence": "\u201cYield remained positive, driven by higher base rates and fuel surcharges, with growth partially offset by a tapering of international export demand surcharges.\u201d"
+      },
+      {
+        "label": "Postal Service Contract Termination",
+        "severity": 3,
+        "evidence": "\u201cAs we shared last quarter, we are conducting an assessment of the role of FedEx Freight in our portfolio structure. The assessment is well underway and on track to be completed by the end of the calendar year, all while we continue to deliver safe and reliable service to our customers.\u201d"
+      },
+      {
+        "label": "Competitive Pricing Pressure",
+        "severity": 3,
+        "evidence": "\u201cAgainst this backdrop, we maintain our focus on revenue quality and continue to grow the yield in the first quarter but at a lower rate than we expected, especially here in the United States.\u201d"
+      }
+    ],
+    "themes": [
+      "cost reduction",
+      "network optimization",
+      "pricing strategy",
+      "e-commerce growth",
+      "supply chain transformation"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 0.1111111111111111,
+    "risks_jaccard": 0.0,
+    "themes_jaccard": 0.0,
+    "guidance_match": 0.0,
+    "sentiment_gap": 0.15,
+    "agreement_score": 0.03333333333333333,
+    "agreement_confidence": 0.028333333333333332
+  },
+  "chosen": {
+    "overall_sentiment": 0.3,
+    "sentiment_bucket": "neutral",
+    "guidance_direction": "narrowed",
+    "guidance_confidence": 0.8,
+    "wins": [
+      {
+        "label": "Network Transformation Progress",
+        "severity": 4,
+        "evidence": "Our network transformation actions will drive improved profitability by unlocking efficiencies, improving density, and creating a more flexible network."
+      },
+      {
+        "label": "DRIVE Savings Progress",
+        "severity": 4,
+        "evidence": "In the first quarter, we achieved $390 million of DRIVE-related savings."
+      },
+      {
+        "label": "Pricing Actions",
+        "severity": 3,
+        "evidence": "We have recently implemented significant new pricing actions relating to both demand and fuel surcharges, which will benefit us in the coming quarters."
+      },
+      {
+        "label": "Tricolor Implementation",
+        "severity": 3,
+        "evidence": "The implementation of Tricolor, which is the redesign of our global air network, is well underway."
+      },
+      {
+        "label": "Improved Service Levels in Europe",
+        "severity": 3,
+        "evidence": "I'm encouraged by the progress we are making in Europe, improving service levels, reducing churn, and winning new business despite difficult market conditions."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Weaker Industrial Economy",
+        "severity": 5,
+        "evidence": "Weakness in the industrial economy pressured our B2B volumes, particularly in the U.S."
+      },
+      {
+        "label": "Shift to Lower-Yielding Services",
+        "severity": 4,
+        "evidence": "We saw increasing demand for our lower-yielding services, and some of this demand increase was driven by a shift in customer preference worldwide from priority to deferred services."
+      },
+      {
+        "label": "U.S. Postal Service Contract Expiration",
+        "severity": 4,
+        "evidence": "We will be making network adjustments post expiration of the U.S. Postal Service contract."
+      },
+      {
+        "label": "Challenging Pricing Environment",
+        "severity": 3,
+        "evidence": "We are operating in a very competitive but still rational pricing environment."
+      },
+      {
+        "label": "Lower Revenue Growth Expectations",
+        "severity": 3,
+        "evidence": "We now expect revenue to grow at low single-digit rate."
+      }
+    ],
+    "themes": [
+      "drive savings",
+      "network transformation",
+      "pricing actions",
+      "tricolor strategy",
+      "u.s. postal service contract expiration"
+    ]
+  }
+}

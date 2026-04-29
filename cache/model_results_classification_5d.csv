@@ -1,0 +1,2 @@
+target,n_train,n_test,train_pos_rate,test_pos_rate,hit_rate,rank_ic_proba_vs_5d_return,tn,fp,fn,tp
+target_up_5d,70,60,0.5428571428571428,0.6166666666666667,0.5166666666666667,0.001222561822728536,12,11,18,19

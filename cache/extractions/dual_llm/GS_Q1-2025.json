@@ -1,0 +1,217 @@
+{
+  "_ticker": "GS",
+  "_quarter": "Q1-2025",
+  "_call_date": "2025-04-14",
+  "primary_model": "qwen3:14b",
+  "secondary_model": "gemma3:4b",
+  "primary": {
+    "overall_sentiment": 0.75,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Strong Q1 Financial Performance",
+        "severity": 5,
+        "evidence": "In the first quarter, we generated net revenues of $15.1 billion, earnings per share of $14.12, an ROE of 16.9% and an ROTE of 18%."
+      },
+      {
+        "label": "Resilient Business Performance",
+        "severity": 4,
+        "evidence": "Our performance underscores the importance of having a scaled franchise with presence around the world."
+      },
+      {
+        "label": "Record Assets Under Supervision",
+        "severity": 4,
+        "evidence": "Assets under supervision rose to a record of $3.2 trillion."
+      },
+      {
+        "label": "Strong Position in Investment Banking",
+        "severity": 4,
+        "evidence": "We are the #1 M&A adviser globally and have been for the last 20 years."
+      },
+      {
+        "label": "Successful AI Adoption",
+        "severity": 3,
+        "evidence": "We are leveraging AI solutions to scale and transform our engineering capabilities."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Economic Uncertainty",
+        "severity": 5,
+        "evidence": "The prospect of a recession has increased with growing indications that economic activity is slowing down around the world."
+      },
+      {
+        "label": "Trade War Risks",
+        "severity": 4,
+        "evidence": "This uncertainty around the path forward and fears over the potentially escalating effects of a trade war have created material risks to the U.S. and global economy."
+      },
+      {
+        "label": "Market Volatility",
+        "severity": 4,
+        "evidence": "Markets will likely continue to be volatile until we have further clarity."
+      },
+      {
+        "label": "Capital Deployment Uncertainty",
+        "severity": 3,
+        "evidence": "Our ability to execute on these transactions will, of course, be dependent on market conditions."
+      },
+      {
+        "label": "Regulatory Uncertainty",
+        "severity": 3,
+        "evidence": "There is uncertainty around how policies will evolve, and how capital and regulation will be calibrated."
+      }
+    ],
+    "themes": [
+      "global franchise",
+      "ai adoption",
+      "economic uncertainty",
+      "capital management",
+      "m&a leadership"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.35,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Record FICC Financing Revenues",
+        "severity": 4,
+        "evidence": "Produced record FICC financing revenues of $1 billion, driven by solid performance in mortgages and structured lending."
+      },
+      {
+        "label": "Strong M&A Leadership",
+        "severity": 5,
+        "evidence": "Remained #1 in the league tables for M&A with a lead of over $70 billion in announced volumes versus our next closest peer."
+      },
+      {
+        "label": "Record Equities Revenues",
+        "severity": 4,
+        "evidence": "Equities net revenues were a record $4.2 billion in the quarter."
+      },
+      {
+        "label": "Record AWM Assets Under Supervision",
+        "severity": 5,
+        "evidence": "Generated a 21% pretax margin and roughly 10% ROE. Assets under supervision ended the quarter at a record $3.2 trillion."
+      },
+      {
+        "label": "Continued Long-Term Net Inflows",
+        "severity": 4,
+        "evidence": "Had $29 billion of long-term net inflows across asset classes, representing our 29th consecutive quarter of long-term fee-based net inflows."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Macroeconomic Uncertainty",
+        "severity": 5,
+        "evidence": "Economists expectation for growth in the U.S. has fallen meaningfully from over 2% to 0.5%. The prospect of a recession has increased with growing indications that economic activity is slowing down around the world."
+      },
+      {
+        "label": "Market Volatility",
+        "severity": 4,
+        "evidence": "Rapidly shifting sentiment with the market backdrop ending in a very different place than where it started. Still, our leading global franchise underpinned by our best-in-class talent, risk management and execution capabilities, delivered for our clients."
+      },
+      {
+        "label": "Trade War Concerns",
+        "severity": 4,
+        "evidence": "The prospect of a recession has increased with growing indications that economic activity is slowing down around the world. Our clients, including corporate CEOs and institutional investors, are concerned by the significant near-term and longer-term uncertainty that has constrained their ability to make important decisions."
+      },
+      {
+        "label": "Potential for Lower Fee Rates in Alts",
+        "severity": 3,
+        "evidence": "Alternative assets under supervision totaled $341 billion at the end of the first quarter, driving $523 million in management and other fees."
+      },
+      {
+        "label": "FICC Slowdown",
+        "severity": 3,
+        "evidence": "FICC net revenues were $10.7 billion in the first quarter and generated an ROE of over 20%."
+      }
+    ],
+    "themes": [
+      "financial performance",
+      "global markets",
+      "client relationships",
+      "technology & innovation",
+      "capital management"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 0.0,
+    "risks_jaccard": 0.1111111111111111,
+    "themes_jaccard": 0.1111111111111111,
+    "guidance_match": 0.0,
+    "sentiment_gap": 0.4,
+    "agreement_score": 0.06111111111111111,
+    "agreement_confidence": 0.03666666666666667
+  },
+  "chosen": {
+    "overall_sentiment": 0.75,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Strong Q1 Financial Performance",
+        "severity": 5,
+        "evidence": "In the first quarter, we generated net revenues of $15.1 billion, earnings per share of $14.12, an ROE of 16.9% and an ROTE of 18%."
+      },
+      {
+        "label": "Resilient Business Performance",
+        "severity": 4,
+        "evidence": "Our performance underscores the importance of having a scaled franchise with presence around the world."
+      },
+      {
+        "label": "Record Assets Under Supervision",
+        "severity": 4,
+        "evidence": "Assets under supervision rose to a record of $3.2 trillion."
+      },
+      {
+        "label": "Strong Position in Investment Banking",
+        "severity": 4,
+        "evidence": "We are the #1 M&A adviser globally and have been for the last 20 years."
+      },
+      {
+        "label": "Successful AI Adoption",
+        "severity": 3,
+        "evidence": "We are leveraging AI solutions to scale and transform our engineering capabilities."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Economic Uncertainty",
+        "severity": 5,
+        "evidence": "The prospect of a recession has increased with growing indications that economic activity is slowing down around the world."
+      },
+      {
+        "label": "Trade War Risks",
+        "severity": 4,
+        "evidence": "This uncertainty around the path forward and fears over the potentially escalating effects of a trade war have created material risks to the U.S. and global economy."
+      },
+      {
+        "label": "Market Volatility",
+        "severity": 4,
+        "evidence": "Markets will likely continue to be volatile until we have further clarity."
+      },
+      {
+        "label": "Capital Deployment Uncertainty",
+        "severity": 3,
+        "evidence": "Our ability to execute on these transactions will, of course, be dependent on market conditions."
+      },
+      {
+        "label": "Regulatory Uncertainty",
+        "severity": 3,
+        "evidence": "There is uncertainty around how policies will evolve, and how capital and regulation will be calibrated."
+      }
+    ],
+    "themes": [
+      "global franchise",
+      "ai adoption",
+      "economic uncertainty",
+      "capital management",
+      "m&a leadership"
+    ]
+  }
+}

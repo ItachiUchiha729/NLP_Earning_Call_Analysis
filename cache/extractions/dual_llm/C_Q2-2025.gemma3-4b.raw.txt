@@ -1,0 +1,69 @@
+```json
+{
+    "overall_sentiment": 0.65,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "bullish",
+    "guidance_confidence": 0.85,
+    "wins": [
+        {
+            "label": "Strong Q2 Results",
+            "severity": 4,
+            "evidence": "Net income of $4 billion, earnings per share of $1.96 with an ROTCE of 8.7%"
+        },
+        {
+            "label": "Record Revenues",
+            "severity": 5,
+            "evidence": "3 of our 5 businesses had record second quarter revenues"
+        },
+        {
+            "label": "Positive Operating Leverage",
+            "severity": 4,
+            "evidence": "We again had positive operating leverage at each business and the group level"
+        },
+        {
+            "label": "Services Crown Jewel",
+            "severity": 5,
+            "evidence": "Services continues to show why this high-returning business with 23% ROTCE for the quarter is our crown jewel"
+        },
+        {
+            "label": "Markets Performance",
+            "severity": 4,
+            "evidence": "Markets revenues were up 16%, the best second quarter since 2020"
+        }
+    ],
+    "risks": [
+        {
+            "label": "Macroeconomic Uncertainty",
+            "severity": 3,
+            "evidence": "And with that, I’ll turn it over to Jane. And with that, I’ll turn it over to Jane."
+        },
+        {
+            "label": "Potential for Tariffs",
+            "severity": 4,
+            "evidence": "Well, it’s proven to be more resilient than most of us anticipated. But we aren't dropping our guard as we begin the second half of the year. We expect to see goods prices to start ticking up over the summer as tariffs take effect"
+        },
+        {
+            "label": "Client Caution",
+            "severity": 3,
+            "evidence": "And we have seen pauses in CapEx and hiring amongst our client base."
+        },
+        {
+            "label": "Regulatory Scrutiny",
+            "severity": 4,
+            "evidence": "And so there, you can see that the net build in the quarter is associated with the transfer risk in Russia."
+        },
+        {
+            "label": "Stablecoin Competition",
+            "severity": 3,
+            "evidence": "If you keep in mind, right now, stablecoins, about 88% of all stablecoin transactions are used to settle crypto trades."
+        }
+    ],
+    "themes": [
+        "Financial Performance",
+        "Strategic Transformation",
+        "Digital Assets",
+        "Risk Management",
+        "Capital Allocation"
+    ]
+}
+```

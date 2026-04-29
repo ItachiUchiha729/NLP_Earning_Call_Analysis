@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.95,
+    "wins": [
+        {
+            "label": "Strong organic growth",
+            "severity": 5,
+            "evidence": "We generated 7% organic base fee growth and over $650 billion of net inflows over the last 12 months."
+        },
+        {
+            "label": "Record AUM and revenue growth",
+            "severity": 5,
+            "evidence": "We finished the second quarter with record AUM, record units of trust of $12.5 trillion."
+        },
+        {
+            "label": "Successful acquisitions",
+            "severity": 4,
+            "evidence": "We closed our acquisition of HPS Investment Partners, a major milestone as we evolve towards our ambitions of 30% revenue contribution from private markets and technology by 2030."
+        },
+        {
+            "label": "Positive performance in technology services",
+            "severity": 4,
+            "evidence": "Quarterly technology services revenue and subscription revenue was up 26% compared to a year ago."
+        },
+        {
+            "label": "Strong client engagement",
+            "severity": 4,
+            "evidence": "Clients are eager to put more capital to work with BlackRock."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Market volatility",
+            "severity": 3,
+            "evidence": "Significant intra-month equity market declines in April were also a contributing factor."
+        },
+        {
+            "label": "Performance fee decline",
+            "severity": 3,
+            "evidence": "Performance fees of $94 million decreased from a year ago, reflecting lower performance revenue from private markets."
+        },
+        {
+            "label": "Higher expenses",
+            "severity": 2,
+            "evidence": "Total expense increased 14% year-over-year, reflecting higher compensation, sales asset and account expense and higher G&A."
+        },
+        {
+            "label": "Regulatory uncertainty",
+            "severity": 2,
+            "evidence": "The actual effective tax rate may differ because of nonrecurring or discrete items or potential changes in tax legislation."
+        },
+        {
+            "label": "Integration challenges",
+            "severity": 2,
+            "evidence": "We are in the process of integrating HPS, GIP, and Preqin, which may pose challenges."
+        }
+    ],
+    "themes": ["organic growth", "acquisitions", "technology", "private markets", "ETFs", "capital management", "global expansion", "retirement solutions", "digital assets", "institutional clients"]
+}

@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.3,
+    "sentiment_bucket": "neutral",
+    "guidance_direction": "narrowed",
+    "guidance_confidence": 0.8,
+    "wins": [
+        {
+            "label": "Network Transformation Progress",
+            "severity": 4,
+            "evidence": "Our network transformation actions will drive improved profitability by unlocking efficiencies, improving density, and creating a more flexible network."
+        },
+        {
+            "label": "DRIVE Savings Progress",
+            "severity": 4,
+            "evidence": "In the first quarter, we achieved $390 million of DRIVE-related savings."
+        },
+        {
+            "label": "Pricing Actions",
+            "severity": 3,
+            "evidence": "We have recently implemented significant new pricing actions relating to both demand and fuel surcharges, which will benefit us in the coming quarters."
+        },
+        {
+            "label": "Tricolor Implementation",
+            "severity": 3,
+            "evidence": "The implementation of Tricolor, which is the redesign of our global air network, is well underway."
+        },
+        {
+            "label": "Improved Service Levels in Europe",
+            "severity": 3,
+            "evidence": "I'm encouraged by the progress we are making in Europe, improving service levels, reducing churn, and winning new business despite difficult market conditions."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Weaker Industrial Economy",
+            "severity": 5,
+            "evidence": "Weakness in the industrial economy pressured our B2B volumes, particularly in the U.S."
+        },
+        {
+            "label": "Shift to Lower-Yielding Services",
+            "severity": 4,
+            "evidence": "We saw increasing demand for our lower-yielding services, and some of this demand increase was driven by a shift in customer preference worldwide from priority to deferred services."
+        },
+        {
+            "label": "U.S. Postal Service Contract Expiration",
+            "severity": 4,
+            "evidence": "We will be making network adjustments post expiration of the U.S. Postal Service contract."
+        },
+        {
+            "label": "Challenging Pricing Environment",
+            "severity": 3,
+            "evidence": "We are operating in a very competitive but still rational pricing environment."
+        },
+        {
+            "label": "Lower Revenue Growth Expectations",
+            "severity": 3,
+            "evidence": "We now expect revenue to grow at low single-digit rate."
+        }
+    ],
+    "themes": ["DRIVE savings", "Network transformation", "Pricing actions", "Tricolor strategy", "U.S. Postal Service contract expiration"]
+}

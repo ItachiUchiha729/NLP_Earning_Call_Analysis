@@ -1,0 +1,69 @@
+```json
+{
+  "overall_sentiment": 0.35,
+  "sentiment_bucket": "bullish",
+  "guidance_direction": "raised",
+  "guidance_confidence": 0.85,
+  "wins": [
+    {
+      "label": "Record FICC Financing Revenues",
+      "severity": 4,
+      "evidence": "Produced record FICC financing revenues of $1 billion, driven by solid performance in mortgages and structured lending."
+    },
+    {
+      "label": "Strong M&A Leadership",
+      "severity": 5,
+      "evidence": "Remained #1 in the league tables for M&A with a lead of over $70 billion in announced volumes versus our next closest peer."
+    },
+    {
+      "label": "Record Equities Revenues",
+      "severity": 4,
+      "evidence": "Equities net revenues were a record $4.2 billion in the quarter."
+    },
+    {
+      "label": "Record AWM Assets Under Supervision",
+      "severity": 5,
+      "evidence": "Generated a 21% pretax margin and roughly 10% ROE. Assets under supervision ended the quarter at a record $3.2 trillion."
+    },
+    {
+      "label": "Continued Long-Term Net Inflows",
+      "severity": 4,
+      "evidence": "Had $29 billion of long-term net inflows across asset classes, representing our 29th consecutive quarter of long-term fee-based net inflows."
+    }
+  ],
+  "risks": [
+    {
+      "label": "Macroeconomic Uncertainty",
+      "severity": 5,
+      "evidence": "Economists expectation for growth in the U.S. has fallen meaningfully from over 2% to 0.5%. The prospect of a recession has increased with growing indications that economic activity is slowing down around the world."
+    },
+    {
+      "label": "Market Volatility",
+      "severity": 4,
+      "evidence": "Rapidly shifting sentiment with the market backdrop ending in a very different place than where it started. Still, our leading global franchise underpinned by our best-in-class talent, risk management and execution capabilities, delivered for our clients."
+    },
+    {
+      "label": "Trade War Concerns",
+      "severity": 4,
+      "evidence": "The prospect of a recession has increased with growing indications that economic activity is slowing down around the world. Our clients, including corporate CEOs and institutional investors, are concerned by the significant near-term and longer-term uncertainty that has constrained their ability to make important decisions."
+    },
+    {
+      "label": "Potential for Lower Fee Rates in Alts",
+      "severity": 3,
+      "evidence": "Alternative assets under supervision totaled $341 billion at the end of the first quarter, driving $523 million in management and other fees."
+    },
+    {
+      "label": "FICC Slowdown",
+      "severity": 3,
+      "evidence": "FICC net revenues were $10.7 billion in the first quarter and generated an ROE of over 20%."
+    }
+  ],
+  "themes": [
+    "Financial Performance",
+    "Global Markets",
+    "Client Relationships",
+    "Technology & Innovation",
+    "Capital Management"
+  ]
+}
+```

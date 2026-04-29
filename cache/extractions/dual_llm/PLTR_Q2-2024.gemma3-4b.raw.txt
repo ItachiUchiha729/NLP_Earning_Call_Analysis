@@ -1,0 +1,68 @@
+```json
+{
+  "overall_sentiment": 0.92,
+  "sentiment_bucket": "very_bullish",
+  "guidance_direction": "raised",
+  "guidance_confidence": 0.95,
+  "wins": [
+    {
+      "label": "Revenue acceleration and guidance raise",
+      "severity": 5,
+      "evidence": "Revenue growth accelerated to 27% year-over-year, exceeding the high end of our prior guidance by 5%...we are increasing our full year revenue guidance midpoint to $2.746 billion"
+    },
+    {
+      "label": "U.S. commercial explosive growth",
+      "severity": 5,
+      "evidence": "U.S. commercial revenue grew 70% year-over-year...U.S. commercial customer count grew 83% year-over-year...booked $262 million of U.S. commercial TCV, representing 152% growth year-over-year"
+    },
+    {
+      "label": "Sustained profitability and margin expansion",
+      "severity": 5,
+      "evidence": "seventh consecutive quarter of GAAP profitability, generating a record $134 million of GAAP net income...adjusted operating margin to 37%...Rule of 40 score from 57 in the first quarter to 64 in the second quarter"
+    },
+    {
+      "label": "Major government contracts and DoD momentum",
+      "severity": 5,
+      "evidence": "production contract from the Department of Defense Chief Digital and Artificial Intelligence Office...initial order of $153 million...additional awards can be made up to $480 million over a 5-year period"
+    },
+    {
+      "label": "Customer expansion and retention strength",
+      "severity": 4,
+      "evidence": "Net dollar retention was 114%, an increase of 300 basis points from last quarter...Total remaining deal value in our U.S. commercial business grew 103% year-over-year"
+    }
+  ],
+  "risks": [
+    {
+      "label": "Strategic commercial contracts declining",
+      "severity": 3,
+      "evidence": "Revenue from strategic commercial contracts declined to $9 million for the quarter...We anticipate third quarter 2024 revenue from these customers to continue to decline to between $6 million to $8 million"
+    },
+    {
+      "label": "International commercial headwinds",
+      "severity": 3,
+      "evidence": "We generated $148 million in international commercial revenue...representing 1% sequential decline as a result of continued headwinds in Europe"
+    },
+    {
+      "label": "Expense growth acceleration expected",
+      "severity": 2,
+      "evidence": "We continue to expect expenses to ramp through the back half of the year as we invest in the product pipeline and hard technical problems"
+    },
+    {
+      "label": "Execution risk on new product launches",
+      "severity": 2,
+      "evidence": "fresh out of the AIP product pipeline, we are launching a new offering, Warp Speed...The software playbooks have also failed in manufacturing"
+    }
+  ],
+  "themes": [
+    "AI_production_at_scale",
+    "prototype_to_production_transition",
+    "U.S._government_acceleration",
+    "commercial_expansion",
+    "profitability_and_margins",
+    "customer_retention",
+    "AIP_platform_adoption",
+    "manufacturing_reindustrialization",
+    "geopolitical_positioning"
+  ]
+}
+```

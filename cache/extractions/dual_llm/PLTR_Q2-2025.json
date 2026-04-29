@@ -1,0 +1,204 @@
+{
+  "_ticker": "PLTR",
+  "_quarter": "Q2-2025",
+  "_call_date": "2025-08-04",
+  "backend": "anthropic",
+  "primary_model": "gemma3:4b",
+  "secondary_model": "gemma3:4b",
+  "single_call_mode": true,
+  "primary": {
+    "overall_sentiment": 0.92,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "Exceptional revenue acceleration and scale",
+        "severity": 5,
+        "evidence": "surpassing $1 billion in quarterly revenue for the first time as our overall revenue growth continued to rapidly accelerate to 48% year-over-year growth in Q2"
+      },
+      {
+        "label": "Record profitability with Rule of 40 score",
+        "severity": 5,
+        "evidence": "our Rule of 40 score continued to climb, reaching 94% in Q2, which is up 11 points quarter-over-quarter, particularly noteworthy given the scale of our business"
+      },
+      {
+        "label": "U.S. commercial explosive growth",
+        "severity": 5,
+        "evidence": "U.S. commercial led with 93% year-over-year revenue growth, outpacing our U.S. government revenue growth of 53% year-over-year"
+      },
+      {
+        "label": "Record bookings and customer expansion",
+        "severity": 5,
+        "evidence": "We booked our highest TCV and ACV ever last quarter with $2.3 billion in TCV and $684 million in ACV. We closed a whopping 157 deals worth $1 million or more"
+      },
+      {
+        "label": "Major government contracts and military adoption",
+        "severity": 5,
+        "evidence": "Last week, Palantir was awarded a 10-year enterprise agreement with the Army, totaling up to $10 billion, consolidating 75 contracts into a single contract"
+      }
+    ],
+    "risks": [
+      {
+        "label": "International commercial revenue decline",
+        "severity": 2,
+        "evidence": "Second quarter international commercial revenue declined 3% year-over-year and grew 2% sequentially to $144 million"
+      },
+      {
+        "label": "Strategic commercial contracts declining",
+        "severity": 2,
+        "evidence": "We anticipate third quarter 2025 revenue from these contracts to be between $2 million to $4 million compared to $10 million in the third quarter of 2024"
+      },
+      {
+        "label": "Seasonal expense ramp expected",
+        "severity": 2,
+        "evidence": "we expect a significant ramp in expenses in the third quarter due to the seasonality of new hire starts"
+      }
+    ],
+    "themes": [
+      "ai_production_impact",
+      "enterprise_ai_adoption",
+      "ontology_competitive_moat",
+      "u.s._commercial_acceleration",
+      "government_defense_contracts",
+      "customer_expansion",
+      "profitability_at_scale",
+      "aip_platform_growth",
+      "manufacturing_optimization",
+      "american_competitiveness"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.92,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "Exceptional revenue acceleration and scale",
+        "severity": 5,
+        "evidence": "surpassing $1 billion in quarterly revenue for the first time as our overall revenue growth continued to rapidly accelerate to 48% year-over-year growth in Q2"
+      },
+      {
+        "label": "Record profitability with Rule of 40 score",
+        "severity": 5,
+        "evidence": "our Rule of 40 score continued to climb, reaching 94% in Q2, which is up 11 points quarter-over-quarter, particularly noteworthy given the scale of our business"
+      },
+      {
+        "label": "U.S. commercial explosive growth",
+        "severity": 5,
+        "evidence": "U.S. commercial led with 93% year-over-year revenue growth, outpacing our U.S. government revenue growth of 53% year-over-year"
+      },
+      {
+        "label": "Record bookings and customer expansion",
+        "severity": 5,
+        "evidence": "We booked our highest TCV and ACV ever last quarter with $2.3 billion in TCV and $684 million in ACV. We closed a whopping 157 deals worth $1 million or more"
+      },
+      {
+        "label": "Major government contracts and military adoption",
+        "severity": 5,
+        "evidence": "Last week, Palantir was awarded a 10-year enterprise agreement with the Army, totaling up to $10 billion, consolidating 75 contracts into a single contract"
+      }
+    ],
+    "risks": [
+      {
+        "label": "International commercial revenue decline",
+        "severity": 2,
+        "evidence": "Second quarter international commercial revenue declined 3% year-over-year and grew 2% sequentially to $144 million"
+      },
+      {
+        "label": "Strategic commercial contracts declining",
+        "severity": 2,
+        "evidence": "We anticipate third quarter 2025 revenue from these contracts to be between $2 million to $4 million compared to $10 million in the third quarter of 2024"
+      },
+      {
+        "label": "Seasonal expense ramp expected",
+        "severity": 2,
+        "evidence": "we expect a significant ramp in expenses in the third quarter due to the seasonality of new hire starts"
+      }
+    ],
+    "themes": [
+      "ai_production_impact",
+      "enterprise_ai_adoption",
+      "ontology_competitive_moat",
+      "u.s._commercial_acceleration",
+      "government_defense_contracts",
+      "customer_expansion",
+      "profitability_at_scale",
+      "aip_platform_growth",
+      "manufacturing_optimization",
+      "american_competitiveness"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 1.0,
+    "risks_jaccard": 1.0,
+    "themes_jaccard": 1.0,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.0,
+    "agreement_score": 1.0,
+    "agreement_confidence": 1.0
+  },
+  "chosen": {
+    "overall_sentiment": 0.92,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.95,
+    "wins": [
+      {
+        "label": "Exceptional revenue acceleration and scale",
+        "severity": 5,
+        "evidence": "surpassing $1 billion in quarterly revenue for the first time as our overall revenue growth continued to rapidly accelerate to 48% year-over-year growth in Q2"
+      },
+      {
+        "label": "Record profitability with Rule of 40 score",
+        "severity": 5,
+        "evidence": "our Rule of 40 score continued to climb, reaching 94% in Q2, which is up 11 points quarter-over-quarter, particularly noteworthy given the scale of our business"
+      },
+      {
+        "label": "U.S. commercial explosive growth",
+        "severity": 5,
+        "evidence": "U.S. commercial led with 93% year-over-year revenue growth, outpacing our U.S. government revenue growth of 53% year-over-year"
+      },
+      {
+        "label": "Record bookings and customer expansion",
+        "severity": 5,
+        "evidence": "We booked our highest TCV and ACV ever last quarter with $2.3 billion in TCV and $684 million in ACV. We closed a whopping 157 deals worth $1 million or more"
+      },
+      {
+        "label": "Major government contracts and military adoption",
+        "severity": 5,
+        "evidence": "Last week, Palantir was awarded a 10-year enterprise agreement with the Army, totaling up to $10 billion, consolidating 75 contracts into a single contract"
+      }
+    ],
+    "risks": [
+      {
+        "label": "International commercial revenue decline",
+        "severity": 2,
+        "evidence": "Second quarter international commercial revenue declined 3% year-over-year and grew 2% sequentially to $144 million"
+      },
+      {
+        "label": "Strategic commercial contracts declining",
+        "severity": 2,
+        "evidence": "We anticipate third quarter 2025 revenue from these contracts to be between $2 million to $4 million compared to $10 million in the third quarter of 2024"
+      },
+      {
+        "label": "Seasonal expense ramp expected",
+        "severity": 2,
+        "evidence": "we expect a significant ramp in expenses in the third quarter due to the seasonality of new hire starts"
+      }
+    ],
+    "themes": [
+      "ai_production_impact",
+      "enterprise_ai_adoption",
+      "ontology_competitive_moat",
+      "u.s._commercial_acceleration",
+      "government_defense_contracts",
+      "customer_expansion",
+      "profitability_at_scale",
+      "aip_platform_growth",
+      "manufacturing_optimization",
+      "american_competitiveness"
+    ]
+  }
+}

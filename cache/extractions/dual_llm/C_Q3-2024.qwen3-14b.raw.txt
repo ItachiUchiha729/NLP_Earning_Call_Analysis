@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.65,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.85,
+    "wins": [
+        {
+            "label": "Revenue Growth",
+            "severity": 5,
+            "evidence": "We saw revenue growth and positive operating leverage for the firm and across all 5 businesses."
+        },
+        {
+            "label": "Fee-Based Revenues",
+            "severity": 4,
+            "evidence": "Our businesses performed well as the rate cutting cycle began with a double-digit increase in fee-based revenues."
+        },
+        {
+            "label": "Expense Reduction",
+            "severity": 4,
+            "evidence": "We bought expenses down whilst continuing to invest in our transformation and businesses."
+        },
+        {
+            "label": "Strategic Partnerships",
+            "severity": 3,
+            "evidence": "We announced an innovative $25 billion private credit partnership with our longtime client, Apollo."
+        },
+        {
+            "label": "Wealth Business Growth",
+            "severity": 4,
+            "evidence": "We saw a sizable increase in client investment and flows."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Global Economic Uncertainty",
+            "severity": 3,
+            "evidence": "Global economic performance continues to be surprisingly resilient, but with structural challenges in Europe."
+        },
+        {
+            "label": "China Property Market",
+            "severity": 3,
+            "evidence": "Consumer sentiment in the property market remain a concern, as markets await details on the expected fiscal stimulus."
+        },
+        {
+            "label": "Credit Risks",
+            "severity": 3,
+            "evidence": "Lower discretionary spending is impacting our retail services portfolio."
+        },
+        {
+            "label": "Regulatory Challenges",
+            "severity": 2,
+            "evidence": "We have increased our investments in areas where we have not made sufficient progress such as data quality management."
+        },
+        {
+            "label": "Capital Constraints",
+            "severity": 2,
+            "evidence": "Uncertainty about the Basel III end game prevails, but our capital position remains very robust."
+        }
+    ],
+    "themes": ["revenue_growth", "operational_efficiency", "strategic_innovation", "global_expansion", "regulatory_compliance"]
+}

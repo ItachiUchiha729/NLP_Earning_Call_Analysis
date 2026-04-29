@@ -1,0 +1,71 @@
+```json
+{
+    "overall_sentiment": 0.35,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+        {
+            "label": "Strong Q1 Revenue Growth",
+            "severity": 4,
+            "evidence": "Revenue increased 36% year-over-year to $7.4 billion"
+        },
+        {
+            "label": "Data Center CPU Share Gains",
+            "severity": 5,
+            "evidence": "Growth accelerated for the fourth consecutive quarter year-over-year driven by strength in our core businesses and expanding data center and AI momentum."
+        },
+        {
+            "label": "Increased Gross Margin",
+            "severity": 4,
+            "evidence": "Expanded gross margin year-over-year for the fifth straight quarter"
+        },
+        {
+            "label": "Strong Client & Gaming Performance",
+            "severity": 4,
+            "evidence": "Client revenue grew 68% year-over-year, marking our fifth consecutive quarter of revenue share gains."
+        },
+        {
+            "label": "MI350 Series Launch",
+            "severity": 5,
+            "evidence": "We passed key milestones in April to begin manufacturing 5th Gen EPYC at TSMC's new Arizona fab, with first production shipments expected in the second half of 2025."
+        }
+    ],
+    "risks": [
+        {
+            "label": "China Export Controls",
+            "severity": 5,
+            "evidence": "A new export license requirement was put in place for MI308 shipments to China"
+        },
+        {
+            "label": "Macroeconomic Uncertainty",
+            "severity": 4,
+            "evidence": "Despite the uncertain macroeconomic backdrop, our first quarter performance highlights the strength of our differentiated product portfolio and execution"
+        },
+        {
+            "label": "Tariff Impacts",
+            "severity": 3,
+            "evidence": "Growth accelerated for the fourth consecutive quarter year-over-year driven by strength in our core businesses and expanding data center and AI momentum."
+        },
+        {
+            "label": "Competition from ASICs",
+            "severity": 4,
+            "evidence": "Most of your largest customers also have a custom silicon offering."
+        },
+        {
+            "label": "Inventory Levels",
+            "severity": 3,
+            "evidence": "Inventory levels continue to be a factor in the Data Center segment."
+        }
+    ],
+    "themes": [
+        "AI",
+        "Data Center",
+        "Server CPUs",
+        "GPUs",
+        "Client PCs",
+        "Gaming",
+        "Embedded Systems"
+    ]
+}
+```

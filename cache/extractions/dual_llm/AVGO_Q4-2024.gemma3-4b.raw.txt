@@ -1,0 +1,69 @@
+```json
+{
+  "overall_sentiment": 0.25,
+  "sentiment_bucket": "bullish",
+  "guidance_direction": "raised",
+  "guidance_confidence": 0.85,
+  "wins": [
+    {
+      "label": "Record Fiscal Year 2024 Revenue",
+      "severity": 4,
+      "evidence": "Fiscal year 2024 consolidated revenue grew 44% year-over-year to a record $51.6 billion."
+    },
+    {
+      "label": "VMware Acquisition Integration",
+      "severity": 5,
+      "evidence": "The integration of VMware is largely complete. Revenue is on a growth trajectory, and operating margin reached 70% exiting 2024."
+    },
+    {
+      "label": "AI Revenue Growth",
+      "severity": 4,
+      "evidence": "Our AI revenue, which came from strength in custom AI accelerators, or XPUs, and networking grew 220% from $3.8 billion in fiscal '23 to $12.2 billion in fiscal '24 and represented 41% of our semiconductor revenue."
+    },
+    {
+      "label": "Q4 Revenue Growth",
+      "severity": 4,
+      "evidence": "Consolidated net revenue of $14.1 billion was up 51% year-on-year."
+    },
+    {
+      "label": "Q4 Operating Profit Growth",
+      "severity": 3,
+      "evidence": "Operating profit of $8.8 billion was up 53% year-over-year."
+    }
+  ],
+  "risks": [
+    {
+      "label": "Non-AI Semiconductor Decline",
+      "severity": 4,
+      "evidence": "Non-AI semiconductor revenue declined by 23% year-on-year to $4.5 billion, but still a 10% recovery from the bottom of 6 months ago."
+    },
+    {
+      "label": "Industrial Segment Decline",
+      "severity": 3,
+      "evidence": "Industrial resales of $173 million declined 27% year-on-year."
+    },
+    {
+      "label": "Wireless Seasonal Decline",
+      "severity": 3,
+      "evidence": "Broadband reached bottom at $465 million, down 51% year-on-year."
+    },
+    {
+      "label": "Macroeconomic Uncertainty",
+      "severity": 2,
+      "evidence": "The company's guidance is subject to macroeconomic uncertainty."
+    },
+    {
+      "label": "Competition from NVIDIA",
+      "severity": 4,
+      "evidence": "I guess, Hock, I wanted to talk to the $60 billion to $90 billion SAM. I just wanted to know how you guys have a view on the TAM."
+    }
+  ],
+  "themes": [
+    "AI",
+    "Growth",
+    "Acquisition",
+    "Semiconductors",
+    "Financial Performance"
+  ]
+}
+```

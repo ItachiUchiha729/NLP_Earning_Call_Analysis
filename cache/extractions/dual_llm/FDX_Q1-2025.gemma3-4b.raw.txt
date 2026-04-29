@@ -1,0 +1,69 @@
+```json
+{
+  "overall_sentiment": 0.15,
+  "sentiment_bucket": "bearish",
+  "guidance_direction": "lowered",
+  "guidance_confidence": 0.7,
+  "wins": [
+    {
+      "label": "Drive Savings Realized",
+      "severity": 4,
+      "evidence": "“We achieved $390 million of DRIVE-related savings in the first quarter.”"
+    },
+    {
+      "label": "New Pricing Actions",
+      "severity": 3,
+      "evidence": "“We have recently implemented significant new pricing actions relating to both demand and fuel surcharges, which will benefit us in the coming quarters.”"
+    },
+    {
+      "label": "Network Transformation Progress",
+      "severity": 3,
+      "evidence": "“We are on track to deliver the $4 billion of savings through DRIVE in FY '25 compared to the FY '23 baseline.”"
+    },
+    {
+      "label": "Network 2.0 Rollout",
+      "severity": 2,
+      "evidence": "“Canada, which is our biggest network optimization yet, is well underway.”"
+    },
+    {
+      "label": "Shipment Eligibility Orchestrator",
+      "severity": 4,
+      "evidence": "“We recently launched what we call the Shipment Eligibility Orchestrator. This is an innovative internal decision-making engine that leverages machine learning to dynamically route packages in real time.”"
+    }
+  ],
+  "risks": [
+    {
+      "label": "Weak Demand Environment",
+      "severity": 5,
+      "evidence": "“Our results reflect a challenging Q1 demand environment, which was weaker than we expected, particularly in the U.S. domestic package market.”"
+    },
+    {
+      "label": "Industrial Economy Pressure",
+      "severity": 4,
+      "evidence": "“Weakness in the industrial economy pressured our B2B volumes, particularly in the U.S.”"
+    },
+    {
+      "label": "International Economy Headwinds",
+      "severity": 4,
+      "evidence": "“Yield remained positive, driven by higher base rates and fuel surcharges, with growth partially offset by a tapering of international export demand surcharges.”"
+    },
+    {
+      "label": "Postal Service Contract Termination",
+      "severity": 3,
+      "evidence": "“As we shared last quarter, we are conducting an assessment of the role of FedEx Freight in our portfolio structure. The assessment is well underway and on track to be completed by the end of the calendar year, all while we continue to deliver safe and reliable service to our customers.”"
+    },
+    {
+      "label": "Competitive Pricing Pressure",
+      "severity": 3,
+      "evidence": "“Against this backdrop, we maintain our focus on revenue quality and continue to grow the yield in the first quarter but at a lower rate than we expected, especially here in the United States.”"
+    }
+  ],
+  "themes": [
+    "Cost Reduction",
+    "Network Optimization",
+    "Pricing Strategy",
+    "E-commerce Growth",
+    "Supply Chain Transformation"
+  ]
+}
+```

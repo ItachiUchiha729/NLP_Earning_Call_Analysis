@@ -1,0 +1,234 @@
+{
+  "_ticker": "JNJ",
+  "_quarter": "Q1-2026",
+  "_call_date": "2026-04-14",
+  "backend": "anthropic",
+  "primary_model": "gemma3:4b",
+  "secondary_model": "gemma3:4b",
+  "single_call_mode": true,
+  "primary": {
+    "overall_sentiment": 0.78,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.92,
+    "wins": [
+      {
+        "label": "Strong Q1 operational sales growth",
+        "severity": 4,
+        "evidence": "We delivered operational sales growth of 6.4%. Excluding STELARA, Johnson & Johnson grew double digits for the quarter."
+      },
+      {
+        "label": "ICOTYDE successful launch",
+        "severity": 5,
+        "evidence": "ICOTYDE is the first and only IL-23 targeted oral peptide...1,500 patients already that prescriptions have been written for...already over 1,000 unique customers that are writing"
+      },
+      {
+        "label": "TREMFYA strong momentum",
+        "severity": 4,
+        "evidence": "TREMFYA delivered impressive growth of 63.8%. Our IBD launch is driving significant momentum, and we continue to see share gains across all indications"
+      },
+      {
+        "label": "DARZALEX market leadership",
+        "severity": 4,
+        "evidence": "DARZALEX remains the gold standard in multiple myeloma and our #1 product with sales of $4 billion and operational sales growth of 18%"
+      },
+      {
+        "label": "Path to double-digit growth",
+        "severity": 5,
+        "evidence": "We are confident our progress will continue to improve into 2027 with line of sight to double-digit growth by the end of the decade...we are already delivering double-digit growth as total Johnson & Johnson when you exclude the STELARA"
+      }
+    ],
+    "risks": [
+      {
+        "label": "STELARA biosimilar headwind",
+        "severity": 4,
+        "evidence": "Sales increased 6.4% despite an approximate 540 basis point headwind from STELARA...STELARA declined 61.7% driven by share loss due to biosimilar competition"
+      },
+      {
+        "label": "Margin compression",
+        "severity": 3,
+        "evidence": "Innovative Medicine margin declined from 42.5% to 39.7%...MedTech margin declined from 25.9% to 22.3% primarily driven by the impact of tariffs"
+      },
+      {
+        "label": "Tariff impact on MedTech",
+        "severity": 3,
+        "evidence": "Cost of goods sold deleveraged by 10 basis points, driven by the impact of tariffs and other operational drivers in the MedTech business"
+      },
+      {
+        "label": "China VBP headwinds",
+        "severity": 2,
+        "evidence": "We do anticipate some second half impact from volume-based procurement in China for electrophysiology products"
+      },
+      {
+        "label": "Increasing IVL competition",
+        "severity": 2,
+        "evidence": "The IVL market...clearly, competition is coming. Competition is going to come to any space that is attractive"
+      }
+    ],
+    "themes": [
+      "accelerating_growth",
+      "new_product_launches",
+      "double_digit_growth_trajectory",
+      "portfolio_strength",
+      "biosimilar_competition",
+      "margin_investment",
+      "innovation_leadership",
+      "medtech_expansion",
+      "immunology_transformation",
+      "oncology_dominance"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.78,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.92,
+    "wins": [
+      {
+        "label": "Strong Q1 operational sales growth",
+        "severity": 4,
+        "evidence": "We delivered operational sales growth of 6.4%. Excluding STELARA, Johnson & Johnson grew double digits for the quarter."
+      },
+      {
+        "label": "ICOTYDE successful launch",
+        "severity": 5,
+        "evidence": "ICOTYDE is the first and only IL-23 targeted oral peptide...1,500 patients already that prescriptions have been written for...already over 1,000 unique customers that are writing"
+      },
+      {
+        "label": "TREMFYA strong momentum",
+        "severity": 4,
+        "evidence": "TREMFYA delivered impressive growth of 63.8%. Our IBD launch is driving significant momentum, and we continue to see share gains across all indications"
+      },
+      {
+        "label": "DARZALEX market leadership",
+        "severity": 4,
+        "evidence": "DARZALEX remains the gold standard in multiple myeloma and our #1 product with sales of $4 billion and operational sales growth of 18%"
+      },
+      {
+        "label": "Path to double-digit growth",
+        "severity": 5,
+        "evidence": "We are confident our progress will continue to improve into 2027 with line of sight to double-digit growth by the end of the decade...we are already delivering double-digit growth as total Johnson & Johnson when you exclude the STELARA"
+      }
+    ],
+    "risks": [
+      {
+        "label": "STELARA biosimilar headwind",
+        "severity": 4,
+        "evidence": "Sales increased 6.4% despite an approximate 540 basis point headwind from STELARA...STELARA declined 61.7% driven by share loss due to biosimilar competition"
+      },
+      {
+        "label": "Margin compression",
+        "severity": 3,
+        "evidence": "Innovative Medicine margin declined from 42.5% to 39.7%...MedTech margin declined from 25.9% to 22.3% primarily driven by the impact of tariffs"
+      },
+      {
+        "label": "Tariff impact on MedTech",
+        "severity": 3,
+        "evidence": "Cost of goods sold deleveraged by 10 basis points, driven by the impact of tariffs and other operational drivers in the MedTech business"
+      },
+      {
+        "label": "China VBP headwinds",
+        "severity": 2,
+        "evidence": "We do anticipate some second half impact from volume-based procurement in China for electrophysiology products"
+      },
+      {
+        "label": "Increasing IVL competition",
+        "severity": 2,
+        "evidence": "The IVL market...clearly, competition is coming. Competition is going to come to any space that is attractive"
+      }
+    ],
+    "themes": [
+      "accelerating_growth",
+      "new_product_launches",
+      "double_digit_growth_trajectory",
+      "portfolio_strength",
+      "biosimilar_competition",
+      "margin_investment",
+      "innovation_leadership",
+      "medtech_expansion",
+      "immunology_transformation",
+      "oncology_dominance"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 1.0,
+    "risks_jaccard": 1.0,
+    "themes_jaccard": 1.0,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.0,
+    "agreement_score": 1.0,
+    "agreement_confidence": 1.0
+  },
+  "chosen": {
+    "overall_sentiment": 0.78,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.92,
+    "wins": [
+      {
+        "label": "Strong Q1 operational sales growth",
+        "severity": 4,
+        "evidence": "We delivered operational sales growth of 6.4%. Excluding STELARA, Johnson & Johnson grew double digits for the quarter."
+      },
+      {
+        "label": "ICOTYDE successful launch",
+        "severity": 5,
+        "evidence": "ICOTYDE is the first and only IL-23 targeted oral peptide...1,500 patients already that prescriptions have been written for...already over 1,000 unique customers that are writing"
+      },
+      {
+        "label": "TREMFYA strong momentum",
+        "severity": 4,
+        "evidence": "TREMFYA delivered impressive growth of 63.8%. Our IBD launch is driving significant momentum, and we continue to see share gains across all indications"
+      },
+      {
+        "label": "DARZALEX market leadership",
+        "severity": 4,
+        "evidence": "DARZALEX remains the gold standard in multiple myeloma and our #1 product with sales of $4 billion and operational sales growth of 18%"
+      },
+      {
+        "label": "Path to double-digit growth",
+        "severity": 5,
+        "evidence": "We are confident our progress will continue to improve into 2027 with line of sight to double-digit growth by the end of the decade...we are already delivering double-digit growth as total Johnson & Johnson when you exclude the STELARA"
+      }
+    ],
+    "risks": [
+      {
+        "label": "STELARA biosimilar headwind",
+        "severity": 4,
+        "evidence": "Sales increased 6.4% despite an approximate 540 basis point headwind from STELARA...STELARA declined 61.7% driven by share loss due to biosimilar competition"
+      },
+      {
+        "label": "Margin compression",
+        "severity": 3,
+        "evidence": "Innovative Medicine margin declined from 42.5% to 39.7%...MedTech margin declined from 25.9% to 22.3% primarily driven by the impact of tariffs"
+      },
+      {
+        "label": "Tariff impact on MedTech",
+        "severity": 3,
+        "evidence": "Cost of goods sold deleveraged by 10 basis points, driven by the impact of tariffs and other operational drivers in the MedTech business"
+      },
+      {
+        "label": "China VBP headwinds",
+        "severity": 2,
+        "evidence": "We do anticipate some second half impact from volume-based procurement in China for electrophysiology products"
+      },
+      {
+        "label": "Increasing IVL competition",
+        "severity": 2,
+        "evidence": "The IVL market...clearly, competition is coming. Competition is going to come to any space that is attractive"
+      }
+    ],
+    "themes": [
+      "accelerating_growth",
+      "new_product_launches",
+      "double_digit_growth_trajectory",
+      "portfolio_strength",
+      "biosimilar_competition",
+      "margin_investment",
+      "innovation_leadership",
+      "medtech_expansion",
+      "immunology_transformation",
+      "oncology_dominance"
+    ]
+  }
+}

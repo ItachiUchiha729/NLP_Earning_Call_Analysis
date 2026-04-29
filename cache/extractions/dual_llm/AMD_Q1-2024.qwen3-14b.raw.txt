@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.95,
+    "wins": [
+        {
+            "label": "Strong Data Center Growth",
+            "severity": 5,
+            "evidence": "Data Center segment revenue grew 80% year-over-year and 2% sequentially to a record $2.3 billion."
+        },
+        {
+            "label": "EPYC Adoption Acceleration",
+            "severity": 5,
+            "evidence": "Enterprise adoption of EPYC CPUs is accelerating, highlighted by deployments with large enterprises, including American Airlines, DBS, Emirates Bank, Shell and STMicro."
+        },
+        {
+            "label": "MI300X GPU Ramp",
+            "severity": 5,
+            "evidence": "MI300 became the fastest-ramping product in AMD history, passing $1 billion in total sales in less than 2 quarters."
+        },
+        {
+            "label": "AI Software Ecosystem Expansion",
+            "severity": 4,
+            "evidence": "We made excellent progress adding upstream support for AMD hardware in the open AI Triton compiler."
+        },
+        {
+            "label": "Ryzen Client Growth",
+            "severity": 4,
+            "evidence": "Client segment revenue was $1.4 billion, an increase of 85% year-over-year, driven by strong demand for our latest-generation Ryzen mobile and desktop processors."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Gaming Segment Decline",
+            "severity": 3,
+            "evidence": "Gaming segment revenue declined 48% year-over-year and 33% sequentially to $922 million."
+        },
+        {
+            "label": "Embedded Segment Weakness",
+            "severity": 3,
+            "evidence": "Embedded segment revenue decreased 46% year-over-year and 20% sequentially to $846 million."
+        },
+        {
+            "label": "Supply Chain Constraints",
+            "severity": 2,
+            "evidence": "We are tight on supply. So there's no question in the near term that if we had more supply, we have demand for that product."
+        },
+        {
+            "label": "Competitive Pressure",
+            "severity": 2,
+            "evidence": "Our nearest competitor has been pretty transparent with their road map, and that extends into '25 and oftentimes '26."
+        },
+        {
+            "label": "Inventory Management",
+            "severity": 2,
+            "evidence": "Customers remain focused on normalizing their inventory levels."
+        }
+    ],
+    "themes": ["AI", "Data Center", "EPYC", "MI300", "Ryzen", "ROCm", "Versal", "Turin"]
+}

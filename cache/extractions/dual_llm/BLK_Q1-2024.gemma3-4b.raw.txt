@@ -1,0 +1,69 @@
+```json
+{
+  "overall_sentiment": 0.65,
+  "sentiment_bucket": "very_bullish",
+  "guidance_direction": "bullish",
+  "guidance_confidence": 0.85,
+  "wins": [
+    {
+      "label": "Record AUM Growth",
+      "severity": 4,
+      "evidence": "Nearly $10.5 trillion AUM at the end of the quarter"
+    },
+    {
+      "label": "Strong Net Inflows",
+      "severity": 5,
+      "evidence": "Long-term net inflows of $76 billion in Q1, exceeding industry trends"
+    },
+    {
+      "label": "Margin Expansion",
+      "severity": 4,
+      "evidence": "180 basis points of margin expansion year-over-year"
+    },
+    {
+      "label": "ETF Inflows",
+      "severity": 4,
+      "evidence": "iShares inflows of $67 billion in Q1, leading the market"
+    },
+    {
+      "label": "Bitcoin ETC Demand",
+      "severity": 3,
+      "evidence": "Nearly $20 billion in AUM for the Bitcoin ETC launched in January"
+    }
+  ],
+  "risks": [
+    {
+      "label": "Institutional Index Outflows",
+      "severity": 3,
+      "evidence": "Institutional index net outflows of $13 billion concentrated in low-fee equity funds"
+    },
+    {
+      "label": "Cash Management Redemptions",
+      "severity": 4,
+      "evidence": "Approximately $14 billion of net redemptions during the last week of March due to Good Friday holiday"
+    },
+    {
+      "label": "Market Uncertainty",
+      "severity": 4,
+      "evidence": "Clients' fear and uncertainty driving cash holdings and delaying investment decisions"
+    },
+    {
+      "label": "Competition in Fixed Income ETFs",
+      "severity": 3,
+      "evidence": "European iShares inflows tracking U.S. trends, with competitive dynamics"
+    },
+    {
+      "label": "Interest Rate Sensitivity",
+      "severity": 3,
+      "evidence": "Inverted yield curve and investor demand for yield impacting fixed income flows"
+    }
+  ],
+  "themes": [
+    "Growth",
+    "Innovation",
+    "Asset Management",
+    "Technology",
+    "Private Markets"
+  ]
+}
+```

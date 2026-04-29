@@ -1,0 +1,217 @@
+{
+  "_ticker": "FAST",
+  "_quarter": "2026_01_20",
+  "_call_date": null,
+  "primary_model": "qwen3:14b",
+  "secondary_model": "gemma3:4b",
+  "primary": {
+    "overall_sentiment": 0.75,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Strong Q4 Sales Growth",
+        "severity": 5,
+        "evidence": "We achieved double-digit growth in Q4 with daily sales up just over 11%"
+      },
+      {
+        "label": "Market Share Gains",
+        "severity": 4,
+        "evidence": "We continue to gain market share despite a sluggish industrial economy"
+      },
+      {
+        "label": "Improved Operating Efficiency",
+        "severity": 4,
+        "evidence": "SG&A as a percentage of sales declined to 25.4% in Q4 from 25.9% a year ago"
+      },
+      {
+        "label": "Technology Integration",
+        "severity": 5,
+        "evidence": "Nearly half of our Q4 sales were transacted through FMI technology or other digital channels"
+      },
+      {
+        "label": "Strong Cash Flow",
+        "severity": 4,
+        "evidence": "Operating cash flow was approximately $370 million, representing 125% of net income"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Industrial Production Weakness",
+        "severity": 3,
+        "evidence": "U.S. PMI and industrial production remained mixed in Q4 with heavier manufacturing segment showing relative weakness"
+      },
+      {
+        "label": "Tariff and Cost Pressures",
+        "severity": 3,
+        "evidence": "We struggled a little bit with that in the fourth quarter and you see that in our numbers"
+      },
+      {
+        "label": "Holiday Timing Impact",
+        "severity": 2,
+        "evidence": "The timing of the December holidays had a meaningful impact on our Q4 results"
+      },
+      {
+        "label": "Supplier Rebate Timing",
+        "severity": 2,
+        "evidence": "The timing of supplier rebates negatively impacted gross margins"
+      },
+      {
+        "label": "Non-Fastener Price Pressure",
+        "severity": 3,
+        "evidence": "The non-fastener part of our business has seen slower price increases"
+      }
+    ],
+    "themes": [
+      "digital transformation",
+      "customer retention",
+      "operational efficiency",
+      "market share growth",
+      "technology investment"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.3,
+    "sentiment_bucket": "neutral",
+    "guidance_direction": "mixed",
+    "guidance_confidence": 0.6,
+    "wins": [
+      {
+        "label": "Double-digit sales growth in 2025",
+        "severity": 4,
+        "evidence": "Fastenal delivered a strong fourth quarter capping an impressive 2025 recovery. We achieved double-digit growth in Q4 with daily sales up just over 11%."
+      },
+      {
+        "label": "Key account strategy driving growth",
+        "severity": 4,
+        "evidence": "Jeff Watts noted that Fastenal\u2019s success is driven by increasing sales effectiveness, winning with key accounts and new contracts."
+      },
+      {
+        "label": "FMI technology driving sales",
+        "severity": 3,
+        "evidence": "Nearly half of Q4 sales were transacted through FMI technology or other digital channels."
+      },
+      {
+        "label": "Disciplined cost management",
+        "severity": 4,
+        "evidence": "The organization managed SG&A to 25.4% of net sales in Q4 from 25.9% a year ago."
+      },
+      {
+        "label": "Strong cash flow generation",
+        "severity": 3,
+        "evidence": "Operating cash flow was approximately $370 million, representing 125% of net income."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Macroeconomic uncertainty",
+        "severity": 5,
+        "evidence": "Looking at the broader operating environment in the fourth quarter, the U.S. economy continued to send mixed signals, especially in the industrial sector."
+      },
+      {
+        "label": "Tariff impacts on margins",
+        "severity": 4,
+        "evidence": "Pricing contributed roughly 310 to 340 basis points of our sales growth and pricing actions that helped to offset inflationary pressures but still kept us essentially neutral on price/cost for the year."
+      },
+      {
+        "label": "Holiday timing impacting sales",
+        "severity": 4,
+        "evidence": "Christmas and New Year\u2019s fell midweek, resulting in below normal sequential growth in December."
+      },
+      {
+        "label": "Supplier price pressures",
+        "severity": 3,
+        "evidence": "Pushback like crazy, especially when the increase in cost we're seeing isn't intuitive to the known source of supply by geography."
+      },
+      {
+        "label": "E-business growth deceleration",
+        "severity": 3,
+        "evidence": "The trend of e-business growth has been decelerating for a while, and it's been fairly flat as a percent of total sales."
+      }
+    ],
+    "themes": [
+      "industrial sales growth",
+      "digital transformation",
+      "cost management",
+      "supply chain resilience",
+      "customer engagement"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 0.0,
+    "risks_jaccard": 0.0,
+    "themes_jaccard": 0.1111111111111111,
+    "guidance_match": 0.0,
+    "sentiment_gap": 0.45,
+    "agreement_score": 0.027777777777777776,
+    "agreement_confidence": 0.015277777777777779
+  },
+  "chosen": {
+    "overall_sentiment": 0.75,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Strong Q4 Sales Growth",
+        "severity": 5,
+        "evidence": "We achieved double-digit growth in Q4 with daily sales up just over 11%"
+      },
+      {
+        "label": "Market Share Gains",
+        "severity": 4,
+        "evidence": "We continue to gain market share despite a sluggish industrial economy"
+      },
+      {
+        "label": "Improved Operating Efficiency",
+        "severity": 4,
+        "evidence": "SG&A as a percentage of sales declined to 25.4% in Q4 from 25.9% a year ago"
+      },
+      {
+        "label": "Technology Integration",
+        "severity": 5,
+        "evidence": "Nearly half of our Q4 sales were transacted through FMI technology or other digital channels"
+      },
+      {
+        "label": "Strong Cash Flow",
+        "severity": 4,
+        "evidence": "Operating cash flow was approximately $370 million, representing 125% of net income"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Industrial Production Weakness",
+        "severity": 3,
+        "evidence": "U.S. PMI and industrial production remained mixed in Q4 with heavier manufacturing segment showing relative weakness"
+      },
+      {
+        "label": "Tariff and Cost Pressures",
+        "severity": 3,
+        "evidence": "We struggled a little bit with that in the fourth quarter and you see that in our numbers"
+      },
+      {
+        "label": "Holiday Timing Impact",
+        "severity": 2,
+        "evidence": "The timing of the December holidays had a meaningful impact on our Q4 results"
+      },
+      {
+        "label": "Supplier Rebate Timing",
+        "severity": 2,
+        "evidence": "The timing of supplier rebates negatively impacted gross margins"
+      },
+      {
+        "label": "Non-Fastener Price Pressure",
+        "severity": 3,
+        "evidence": "The non-fastener part of our business has seen slower price increases"
+      }
+    ],
+    "themes": [
+      "digital transformation",
+      "customer retention",
+      "operational efficiency",
+      "market share growth",
+      "technology investment"
+    ]
+  }
+}

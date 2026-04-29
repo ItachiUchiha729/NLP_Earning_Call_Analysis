@@ -1,0 +1,74 @@
+```json
+{
+  "overall_sentiment": -0.35,
+  "sentiment_bucket": "bearish",
+  "guidance_direction": "lowered",
+  "guidance_confidence": 0.85,
+  "wins": [
+    {
+      "label": "AIPC market leadership",
+      "severity": 2,
+      "evidence": "Intel Core Ultra volume more than doubled sequentially in Q2 and is already powering AI capabilities across more than 300 applications and 500 AI models"
+    },
+    {
+      "label": "Process technology progress",
+      "severity": 2,
+      "evidence": "Intel 18A PDK 1.0 released, Panther Lake and Clearwater Forest powered on, on track for manufacturing-ready by end of year"
+    },
+    {
+      "label": "Cost reduction plan execution",
+      "severity": 2,
+      "evidence": "Targeting head count reduction of greater than 15% by end of 2025, OpEx reduction to $17.5 billion in 2025, more than 20% below prior estimates"
+    },
+    {
+      "label": "Capital efficiency improvements",
+      "severity": 2,
+      "evidence": "Gross CapEx reduced to $25-27 billion in 2024, net capital spending $11-13 billion including SCIP programs, over 20% reduction from plan"
+    },
+    {
+      "label": "Foundry customer momentum",
+      "severity": 2,
+      "evidence": "Foundry Services revenue more than doubled sequentially, $15 billion in lifetime deal value of committed deals, significant expansion in advanced packaging"
+    }
+  ],
+  "risks": [
+    {
+      "label": "Gross margin deterioration",
+      "severity": 5,
+      "evidence": "Q2 gross margin of 38.7% significantly below expectations, driven by accelerated AIPC ramp and higher wafer costs from Oregon to Ireland transition"
+    },
+    {
+      "label": "Foundry profitability challenges",
+      "severity": 5,
+      "evidence": "Foundry operating loss of $2.8 billion, expected to continue at approximately same rate in Q3, more than 85% of wafer volumes still from pre-EUV nodes with uncompetitive cost structure"
+    },
+    {
+      "label": "Weak near-term demand outlook",
+      "severity": 4,
+      "evidence": "Q3 expected to be impacted by modest inventory digestion in CCG, DCAI and cyclical businesses trending below forecast, pace of recovery slower than expected"
+    },
+    {
+      "label": "Competitive positioning uncertainty",
+      "severity": 4,
+      "evidence": "Primary x86 competitor expected to be up double digits in client space while Intel guides flat to down, questions raised about whether cost cuts alone address competitive gaps"
+    },
+    {
+      "label": "Dividend suspension and liquidity concerns",
+      "severity": 3,
+      "evidence": "Suspending dividend at beginning of Q4, adjusted free cash flow expected to be modestly negative in 2024, restructuring charges not yet estimated"
+    }
+  ],
+  "themes": [
+    "cost_reduction",
+    "restructuring",
+    "process_technology",
+    "foundry_strategy",
+    "AIPC_leadership",
+    "margin_pressure",
+    "capital_efficiency",
+    "competitive_challenges",
+    "demand_weakness",
+    "operational_efficiency"
+  ]
+}
+```

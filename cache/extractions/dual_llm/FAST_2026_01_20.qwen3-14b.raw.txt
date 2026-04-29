@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.75,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.85,
+    "wins": [
+        {
+            "label": "Strong Q4 Sales Growth",
+            "severity": 5,
+            "evidence": "We achieved double-digit growth in Q4 with daily sales up just over 11%"
+        },
+        {
+            "label": "Market Share Gains",
+            "severity": 4,
+            "evidence": "We continue to gain market share despite a sluggish industrial economy"
+        },
+        {
+            "label": "Improved Operating Efficiency",
+            "severity": 4,
+            "evidence": "SG&A as a percentage of sales declined to 25.4% in Q4 from 25.9% a year ago"
+        },
+        {
+            "label": "Technology Integration",
+            "severity": 5,
+            "evidence": "Nearly half of our Q4 sales were transacted through FMI technology or other digital channels"
+        },
+        {
+            "label": "Strong Cash Flow",
+            "severity": 4,
+            "evidence": "Operating cash flow was approximately $370 million, representing 125% of net income"
+        }
+    ],
+    "risks": [
+        {
+            "label": "Industrial Production Weakness",
+            "severity": 3,
+            "evidence": "U.S. PMI and industrial production remained mixed in Q4 with heavier manufacturing segment showing relative weakness"
+        },
+        {
+            "label": "Tariff and Cost Pressures",
+            "severity": 3,
+            "evidence": "We struggled a little bit with that in the fourth quarter and you see that in our numbers"
+        },
+        {
+            "label": "Holiday Timing Impact",
+            "severity": 2,
+            "evidence": "The timing of the December holidays had a meaningful impact on our Q4 results"
+        },
+        {
+            "label": "Supplier Rebate Timing",
+            "severity": 2,
+            "evidence": "The timing of supplier rebates negatively impacted gross margins"
+        },
+        {
+            "label": "Non-Fastener Price Pressure",
+            "severity": 3,
+            "evidence": "The non-fastener part of our business has seen slower price increases"
+        }
+    ],
+    "themes": ["digital transformation", "customer retention", "operational efficiency", "market share growth", "technology investment"]
+}

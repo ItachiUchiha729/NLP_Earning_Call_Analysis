@@ -1,0 +1,234 @@
+{
+  "_ticker": "JNJ",
+  "_quarter": "Q1-2025",
+  "_call_date": "2025-04-15",
+  "backend": "anthropic",
+  "primary_model": "gemma3:4b",
+  "secondary_model": "gemma3:4b",
+  "single_call_mode": true,
+  "primary": {
+    "overall_sentiment": 0.72,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Strong operational growth despite STELARA loss of exclusivity",
+        "severity": 1,
+        "evidence": "delivered strong operational sales growth of 4.2% across our business...No other health care company has delivered growth through the first year of losing exclusivity for a multibillion-dollar product"
+      },
+      {
+        "label": "DARZALEX exceptional performance and expansion",
+        "severity": 1,
+        "evidence": "DARZALEX continues to set the standard in multiple myeloma with another quarter of over 20% growth...expanded our DARZALEX indication in Europe with the approval of DARZALEX-based quadruplet regimen"
+      },
+      {
+        "label": "RYBREVANT plus Lazcluze breakthrough efficacy data",
+        "severity": 1,
+        "evidence": "Phase III data presented at ELCC last month showing RYBREVANT plus Lazcluze extended overall survival by more than 1 year versus the current standard of care in first-line EGFR-mutated lung cancer"
+      },
+      {
+        "label": "TREMFYA rapid IBD market penetration",
+        "severity": 1,
+        "evidence": "TREMFYA is the fastest-growing product in the ulcerative colitis market...TREMFYA has already achieved nearly a 50% share of the IL-23 new patient starts in UC"
+      },
+      {
+        "label": "Guidance raised with $700M addition from CAPLYTA acquisition",
+        "severity": 2,
+        "evidence": "increasing our operational sales guidance for the full year by $700 million to reflect the addition of CAPLYTA following the completion of the intracellular acquisition"
+      }
+    ],
+    "risks": [
+      {
+        "label": "STELARA biosimilar erosion accelerating throughout 2025",
+        "severity": 3,
+        "evidence": "we maintain the assumption that the impact of STELARA biosimilar competition will accelerate throughout the year, similar to HUMIRA's erosion curve"
+      },
+      {
+        "label": "Tariff headwinds of $400 million in 2025",
+        "severity": 2,
+        "evidence": "what's included in the $400 million...It includes the China tariffs as well as the China retaliatory tariff...That $400 million...is going to sit on the balance sheet in inventory"
+      },
+      {
+        "label": "Orthopedics underperformance with competitive pressures",
+        "severity": 3,
+        "evidence": "Orthopedics declined 3.1%, primarily driven by the lapping of a onetime revenue recognition timing change...partially offset by success of new product launches"
+      },
+      {
+        "label": "MedTech margin compression from recent acquisitions",
+        "severity": 2,
+        "evidence": "MedTech margin declined from 26.4% to 25.9%, primarily driven by R&D and selling, marketing and administrative investments associated with the recent acquisition of Shockwave and V-Wave"
+      },
+      {
+        "label": "Part D redesign creating ongoing pricing pressure",
+        "severity": 2,
+        "evidence": "Part D redesign, which is exclusively priced, which is eroding margin...The impact of Part D redesign on effective products as a percent of sales will be consistently applied throughout the year"
+      }
+    ],
+    "themes": [
+      "portfolio_diversification",
+      "oncology_strength",
+      "immunology_expansion",
+      "biosimilar_competition",
+      "pipeline_catalysts",
+      "medtech_integration",
+      "tariff_headwinds",
+      "margin_pressure",
+      "capital_allocation",
+      "innovation_investment"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.72,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Strong operational growth despite STELARA loss of exclusivity",
+        "severity": 1,
+        "evidence": "delivered strong operational sales growth of 4.2% across our business...No other health care company has delivered growth through the first year of losing exclusivity for a multibillion-dollar product"
+      },
+      {
+        "label": "DARZALEX exceptional performance and expansion",
+        "severity": 1,
+        "evidence": "DARZALEX continues to set the standard in multiple myeloma with another quarter of over 20% growth...expanded our DARZALEX indication in Europe with the approval of DARZALEX-based quadruplet regimen"
+      },
+      {
+        "label": "RYBREVANT plus Lazcluze breakthrough efficacy data",
+        "severity": 1,
+        "evidence": "Phase III data presented at ELCC last month showing RYBREVANT plus Lazcluze extended overall survival by more than 1 year versus the current standard of care in first-line EGFR-mutated lung cancer"
+      },
+      {
+        "label": "TREMFYA rapid IBD market penetration",
+        "severity": 1,
+        "evidence": "TREMFYA is the fastest-growing product in the ulcerative colitis market...TREMFYA has already achieved nearly a 50% share of the IL-23 new patient starts in UC"
+      },
+      {
+        "label": "Guidance raised with $700M addition from CAPLYTA acquisition",
+        "severity": 2,
+        "evidence": "increasing our operational sales guidance for the full year by $700 million to reflect the addition of CAPLYTA following the completion of the intracellular acquisition"
+      }
+    ],
+    "risks": [
+      {
+        "label": "STELARA biosimilar erosion accelerating throughout 2025",
+        "severity": 3,
+        "evidence": "we maintain the assumption that the impact of STELARA biosimilar competition will accelerate throughout the year, similar to HUMIRA's erosion curve"
+      },
+      {
+        "label": "Tariff headwinds of $400 million in 2025",
+        "severity": 2,
+        "evidence": "what's included in the $400 million...It includes the China tariffs as well as the China retaliatory tariff...That $400 million...is going to sit on the balance sheet in inventory"
+      },
+      {
+        "label": "Orthopedics underperformance with competitive pressures",
+        "severity": 3,
+        "evidence": "Orthopedics declined 3.1%, primarily driven by the lapping of a onetime revenue recognition timing change...partially offset by success of new product launches"
+      },
+      {
+        "label": "MedTech margin compression from recent acquisitions",
+        "severity": 2,
+        "evidence": "MedTech margin declined from 26.4% to 25.9%, primarily driven by R&D and selling, marketing and administrative investments associated with the recent acquisition of Shockwave and V-Wave"
+      },
+      {
+        "label": "Part D redesign creating ongoing pricing pressure",
+        "severity": 2,
+        "evidence": "Part D redesign, which is exclusively priced, which is eroding margin...The impact of Part D redesign on effective products as a percent of sales will be consistently applied throughout the year"
+      }
+    ],
+    "themes": [
+      "portfolio_diversification",
+      "oncology_strength",
+      "immunology_expansion",
+      "biosimilar_competition",
+      "pipeline_catalysts",
+      "medtech_integration",
+      "tariff_headwinds",
+      "margin_pressure",
+      "capital_allocation",
+      "innovation_investment"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 1.0,
+    "risks_jaccard": 1.0,
+    "themes_jaccard": 1.0,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.0,
+    "agreement_score": 1.0,
+    "agreement_confidence": 1.0
+  },
+  "chosen": {
+    "overall_sentiment": 0.72,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Strong operational growth despite STELARA loss of exclusivity",
+        "severity": 1,
+        "evidence": "delivered strong operational sales growth of 4.2% across our business...No other health care company has delivered growth through the first year of losing exclusivity for a multibillion-dollar product"
+      },
+      {
+        "label": "DARZALEX exceptional performance and expansion",
+        "severity": 1,
+        "evidence": "DARZALEX continues to set the standard in multiple myeloma with another quarter of over 20% growth...expanded our DARZALEX indication in Europe with the approval of DARZALEX-based quadruplet regimen"
+      },
+      {
+        "label": "RYBREVANT plus Lazcluze breakthrough efficacy data",
+        "severity": 1,
+        "evidence": "Phase III data presented at ELCC last month showing RYBREVANT plus Lazcluze extended overall survival by more than 1 year versus the current standard of care in first-line EGFR-mutated lung cancer"
+      },
+      {
+        "label": "TREMFYA rapid IBD market penetration",
+        "severity": 1,
+        "evidence": "TREMFYA is the fastest-growing product in the ulcerative colitis market...TREMFYA has already achieved nearly a 50% share of the IL-23 new patient starts in UC"
+      },
+      {
+        "label": "Guidance raised with $700M addition from CAPLYTA acquisition",
+        "severity": 2,
+        "evidence": "increasing our operational sales guidance for the full year by $700 million to reflect the addition of CAPLYTA following the completion of the intracellular acquisition"
+      }
+    ],
+    "risks": [
+      {
+        "label": "STELARA biosimilar erosion accelerating throughout 2025",
+        "severity": 3,
+        "evidence": "we maintain the assumption that the impact of STELARA biosimilar competition will accelerate throughout the year, similar to HUMIRA's erosion curve"
+      },
+      {
+        "label": "Tariff headwinds of $400 million in 2025",
+        "severity": 2,
+        "evidence": "what's included in the $400 million...It includes the China tariffs as well as the China retaliatory tariff...That $400 million...is going to sit on the balance sheet in inventory"
+      },
+      {
+        "label": "Orthopedics underperformance with competitive pressures",
+        "severity": 3,
+        "evidence": "Orthopedics declined 3.1%, primarily driven by the lapping of a onetime revenue recognition timing change...partially offset by success of new product launches"
+      },
+      {
+        "label": "MedTech margin compression from recent acquisitions",
+        "severity": 2,
+        "evidence": "MedTech margin declined from 26.4% to 25.9%, primarily driven by R&D and selling, marketing and administrative investments associated with the recent acquisition of Shockwave and V-Wave"
+      },
+      {
+        "label": "Part D redesign creating ongoing pricing pressure",
+        "severity": 2,
+        "evidence": "Part D redesign, which is exclusively priced, which is eroding margin...The impact of Part D redesign on effective products as a percent of sales will be consistently applied throughout the year"
+      }
+    ],
+    "themes": [
+      "portfolio_diversification",
+      "oncology_strength",
+      "immunology_expansion",
+      "biosimilar_competition",
+      "pipeline_catalysts",
+      "medtech_integration",
+      "tariff_headwinds",
+      "margin_pressure",
+      "capital_allocation",
+      "innovation_investment"
+    ]
+  }
+}

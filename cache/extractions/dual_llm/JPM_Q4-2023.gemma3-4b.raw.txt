@@ -1,0 +1,77 @@
+```json
+{
+  "overall_sentiment": 0.62,
+  "sentiment_bucket": "bullish",
+  "guidance_direction": "lowered",
+  "guidance_confidence": 0.85,
+  "wins": [
+    {
+      "label": "Record 2023 revenue and net income",
+      "severity": 1,
+      "evidence": "reported record revenue and net income despite some notable significant items"
+    },
+    {
+      "label": "Strong capital generation and ROTCE",
+      "severity": 1,
+      "evidence": "delivered an ROTCE of 21% for full year and 15% CET1 ratio, up 70 basis points"
+    },
+    {
+      "label": "Robust AWM net inflows",
+      "severity": 2,
+      "evidence": "record client asset net inflows of $489 billion for the year, AUM of $3.4 trillion and client assets of $5 trillion both up 24%"
+    },
+    {
+      "label": "Strong card and consumer growth",
+      "severity": 2,
+      "evidence": "total debit and credit card spend was up 7% year-on-year, card outstandings up 14%, 2 million net new checking accounts in 2023"
+    },
+    {
+      "label": "Investment Banking momentum",
+      "severity": 2,
+      "evidence": "Investment Banking revenue of $1.6 billion was up 13% year-on-year, ranked #1 with wallet share of 8.8%, starting year with healthy pipeline"
+    }
+  ],
+  "risks": [
+    {
+      "label": "Significant NII decline expected in 2024",
+      "severity": 4,
+      "evidence": "$94 billion exit rate and full year guidance of $88 billion implies meaningful sequential quarterly declines throughout 2024"
+    },
+    {
+      "label": "Commercial real estate deterioration",
+      "severity": 4,
+      "evidence": "deterioration in commercial real estate valuations in the commercial bank driving net reserve build of $142 million"
+    },
+    {
+      "label": "Deposit balance pressure",
+      "severity": 3,
+      "evidence": "average deposits down 6% year-on-year in Commercial Bank, expect balances to be very modestly down from current levels in 2024"
+    },
+    {
+      "label": "Elevated economic and geopolitical uncertainties",
+      "severity": 3,
+      "evidence": "despite expected dissipation of 2023 tailwinds and presence of significant economic and geopolitical uncertainties"
+    },
+    {
+      "label": "Regulatory uncertainty on capital rules",
+      "severity": 3,
+      "evidence": "uncertainty about the finalization of the rules and Basel III end game requirements limiting buyback pace to modest $2 billion quarterly"
+    }
+  ],
+  "themes": [
+    "NII normalization",
+    "rate sensitivity",
+    "deposit migration",
+    "capital management",
+    "investment banking recovery",
+    "CRE headwinds",
+    "consumer resilience",
+    "technology investment",
+    "AI strategy",
+    "private credit competition",
+    "regulatory uncertainty",
+    "expense growth",
+    "share gains"
+  ]
+}
+```

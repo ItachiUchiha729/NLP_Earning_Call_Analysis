@@ -1,0 +1,234 @@
+{
+  "_ticker": "GS",
+  "_quarter": "Q3-2024",
+  "_call_date": "2024-10-15",
+  "backend": "anthropic",
+  "primary_model": "gemma3:4b",
+  "secondary_model": "gemma3:4b",
+  "single_call_mode": true,
+  "primary": {
+    "overall_sentiment": 0.65,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.72,
+    "wins": [
+      {
+        "label": "Record AUM and consecutive net inflows",
+        "severity": 1,
+        "evidence": "assets under supervision reached another record this quarter, surpassing $3 trillion and representing our 27th consecutive quarter of long-term net inflows"
+      },
+      {
+        "label": "Strong durable revenue growth in AWM",
+        "severity": 1,
+        "evidence": "management other fees and private banking and lending revenues, which together were a record $3.4 billion this quarter and up 9% versus last year"
+      },
+      {
+        "label": "Robust alternatives fundraising",
+        "severity": 2,
+        "evidence": "We raised over $50 billion year-to-date and now expect 2024 fundraising to exceed $60 billion"
+      },
+      {
+        "label": "Market leadership in investment banking",
+        "severity": 2,
+        "evidence": "We remain #1 in the league tables for announced and completed M&A for the year-to-date"
+      },
+      {
+        "label": "Record FICC financing revenues",
+        "severity": 2,
+        "evidence": "record FICC financing revenues of $949 million, which rose 30% year-over-year"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Regulatory uncertainty on capital requirements",
+        "severity": 4,
+        "evidence": "There remains a lack of transparency and appreciation for the interconnectedness of capital requirements across the proposed fundamental review of the trading book, CCAR and the GSIP buffer"
+      },
+      {
+        "label": "M&A volumes still below historical averages",
+        "severity": 3,
+        "evidence": "M&A volumes year-to-date are 13% below 10-year averages"
+      },
+      {
+        "label": "Consumer platform drag on returns",
+        "severity": 3,
+        "evidence": "our results were impacted by selected items, including the narrowing of our consumer footprint which reduced our ROE by 80 basis points"
+      },
+      {
+        "label": "Equity underwriting volumes depressed",
+        "severity": 3,
+        "evidence": "equity volumes at 27% below 10-year averages"
+      },
+      {
+        "label": "Ongoing losses in Apple Card platform",
+        "severity": 2,
+        "evidence": "something on the order of negative $50 million or $60 million per quarter"
+      }
+    ],
+    "themes": [
+      "mid-teens roe target",
+      "durable revenue streams",
+      "alternatives growth",
+      "private credit expansion",
+      "wealth management lending",
+      "market share leadership",
+      "regulatory capital uncertainty",
+      "consumer footprint exit",
+      "investment banking recovery",
+      "capital deployment flexibility"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.65,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.72,
+    "wins": [
+      {
+        "label": "Record AUM and consecutive net inflows",
+        "severity": 1,
+        "evidence": "assets under supervision reached another record this quarter, surpassing $3 trillion and representing our 27th consecutive quarter of long-term net inflows"
+      },
+      {
+        "label": "Strong durable revenue growth in AWM",
+        "severity": 1,
+        "evidence": "management other fees and private banking and lending revenues, which together were a record $3.4 billion this quarter and up 9% versus last year"
+      },
+      {
+        "label": "Robust alternatives fundraising",
+        "severity": 2,
+        "evidence": "We raised over $50 billion year-to-date and now expect 2024 fundraising to exceed $60 billion"
+      },
+      {
+        "label": "Market leadership in investment banking",
+        "severity": 2,
+        "evidence": "We remain #1 in the league tables for announced and completed M&A for the year-to-date"
+      },
+      {
+        "label": "Record FICC financing revenues",
+        "severity": 2,
+        "evidence": "record FICC financing revenues of $949 million, which rose 30% year-over-year"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Regulatory uncertainty on capital requirements",
+        "severity": 4,
+        "evidence": "There remains a lack of transparency and appreciation for the interconnectedness of capital requirements across the proposed fundamental review of the trading book, CCAR and the GSIP buffer"
+      },
+      {
+        "label": "M&A volumes still below historical averages",
+        "severity": 3,
+        "evidence": "M&A volumes year-to-date are 13% below 10-year averages"
+      },
+      {
+        "label": "Consumer platform drag on returns",
+        "severity": 3,
+        "evidence": "our results were impacted by selected items, including the narrowing of our consumer footprint which reduced our ROE by 80 basis points"
+      },
+      {
+        "label": "Equity underwriting volumes depressed",
+        "severity": 3,
+        "evidence": "equity volumes at 27% below 10-year averages"
+      },
+      {
+        "label": "Ongoing losses in Apple Card platform",
+        "severity": 2,
+        "evidence": "something on the order of negative $50 million or $60 million per quarter"
+      }
+    ],
+    "themes": [
+      "mid-teens roe target",
+      "durable revenue streams",
+      "alternatives growth",
+      "private credit expansion",
+      "wealth management lending",
+      "market share leadership",
+      "regulatory capital uncertainty",
+      "consumer footprint exit",
+      "investment banking recovery",
+      "capital deployment flexibility"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 1.0,
+    "risks_jaccard": 1.0,
+    "themes_jaccard": 1.0,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.0,
+    "agreement_score": 1.0,
+    "agreement_confidence": 1.0
+  },
+  "chosen": {
+    "overall_sentiment": 0.65,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.72,
+    "wins": [
+      {
+        "label": "Record AUM and consecutive net inflows",
+        "severity": 1,
+        "evidence": "assets under supervision reached another record this quarter, surpassing $3 trillion and representing our 27th consecutive quarter of long-term net inflows"
+      },
+      {
+        "label": "Strong durable revenue growth in AWM",
+        "severity": 1,
+        "evidence": "management other fees and private banking and lending revenues, which together were a record $3.4 billion this quarter and up 9% versus last year"
+      },
+      {
+        "label": "Robust alternatives fundraising",
+        "severity": 2,
+        "evidence": "We raised over $50 billion year-to-date and now expect 2024 fundraising to exceed $60 billion"
+      },
+      {
+        "label": "Market leadership in investment banking",
+        "severity": 2,
+        "evidence": "We remain #1 in the league tables for announced and completed M&A for the year-to-date"
+      },
+      {
+        "label": "Record FICC financing revenues",
+        "severity": 2,
+        "evidence": "record FICC financing revenues of $949 million, which rose 30% year-over-year"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Regulatory uncertainty on capital requirements",
+        "severity": 4,
+        "evidence": "There remains a lack of transparency and appreciation for the interconnectedness of capital requirements across the proposed fundamental review of the trading book, CCAR and the GSIP buffer"
+      },
+      {
+        "label": "M&A volumes still below historical averages",
+        "severity": 3,
+        "evidence": "M&A volumes year-to-date are 13% below 10-year averages"
+      },
+      {
+        "label": "Consumer platform drag on returns",
+        "severity": 3,
+        "evidence": "our results were impacted by selected items, including the narrowing of our consumer footprint which reduced our ROE by 80 basis points"
+      },
+      {
+        "label": "Equity underwriting volumes depressed",
+        "severity": 3,
+        "evidence": "equity volumes at 27% below 10-year averages"
+      },
+      {
+        "label": "Ongoing losses in Apple Card platform",
+        "severity": 2,
+        "evidence": "something on the order of negative $50 million or $60 million per quarter"
+      }
+    ],
+    "themes": [
+      "mid-teens roe target",
+      "durable revenue streams",
+      "alternatives growth",
+      "private credit expansion",
+      "wealth management lending",
+      "market share leadership",
+      "regulatory capital uncertainty",
+      "consumer footprint exit",
+      "investment banking recovery",
+      "capital deployment flexibility"
+    ]
+  }
+}

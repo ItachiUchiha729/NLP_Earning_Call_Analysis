@@ -1,0 +1,217 @@
+{
+  "_ticker": "FDX",
+  "_quarter": "Q1-2026",
+  "_call_date": "2025-09-18",
+  "primary_model": "qwen3:14b",
+  "secondary_model": "gemma3:4b",
+  "primary": {
+    "overall_sentiment": 0.65,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Cost Reduction Success",
+        "severity": 5,
+        "evidence": "We achieved our targeted $200 million in transformation-related savings and grew adjusted operating income by 7%."
+      },
+      {
+        "label": "Network Flexibility",
+        "severity": 4,
+        "evidence": "Our Tricolor strategy enabled us to flex the network to adapt to changing demand patterns."
+      },
+      {
+        "label": "Digital Innovation",
+        "severity": 4,
+        "evidence": "FedEx operates an advanced digital twin that goes beyond tracking and provides optimized route information in real time."
+      },
+      {
+        "label": "Strong U.S. Domestic Performance",
+        "severity": 4,
+        "evidence": "U.S. domestic package services drove strength in revenue and yield, with 3% year-over-year revenue growth."
+      },
+      {
+        "label": "Strategic Growth in Europe",
+        "severity": 3,
+        "evidence": "Q1 marked our best new business quarter in Europe in the last 2 years, driven by Express parcel growth."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Global Trade Headwinds",
+        "severity": 5,
+        "evidence": "We are facing a $1 billion headwind due to the trade environment, particularly from reduced demand on the China to U.S. lane."
+      },
+      {
+        "label": "Industrial Economy Weakness",
+        "severity": 4,
+        "evidence": "Weakness in the industrial economy continues to pressure results at FedEx Freight."
+      },
+      {
+        "label": "De Minimis Exemption Impact",
+        "severity": 4,
+        "evidence": "The removal of the de minimis exemption has created significant challenges for small exporters and shippers."
+      },
+      {
+        "label": "International Export Pressure",
+        "severity": 3,
+        "evidence": "International export volumes declined, particularly on the China to U.S. lane, despite efforts to pivot to other regions."
+      },
+      {
+        "label": "Margin Compression",
+        "severity": 3,
+        "evidence": "At FedEx Freight, revenue per shipment declined 1%, driven by lower revenue per hundredweight and lower fuel surcharges."
+      }
+    ],
+    "themes": [
+      "cost_reduction",
+      "digital_transformation",
+      "network_optimization",
+      "global_trade",
+      "peak_season"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.25,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Strong Q1 Results",
+        "severity": 4,
+        "evidence": "Revenue was up 3% year-over-year, driven by strength across our U.S. domestic package services. We achieved our targeted $200 million in transformation-related savings and grew adjusted operating income by 7%."
+      },
+      {
+        "label": "Network 2.0 Progress",
+        "severity": 3,
+        "evidence": "Q1 also marked our best new business quarter in Europe in the last 2 years. Approximately 360 stations have been optimized across the U.S. and Canada, enabling nearly 3 million in average daily volume flowing through Network 2.0 optimized operations."
+      },
+      {
+        "label": "International Export Pivot",
+        "severity": 4,
+        "evidence": "Knowing our strongest international lane would be under pressure. We pivoted the commercial team, and they have done a tremendous job capturing demand out of Southeast Asia and Europe."
+      },
+      {
+        "label": "Health Care Growth",
+        "severity": 4,
+        "evidence": "We grew our U.S. domestic small business revenue by more than 10% year-over-year. This was fueled by focused and targeted sales execution and a close alignment between our sales and our operations teams."
+      },
+      {
+        "label": "Airfreight Performance",
+        "severity": 3,
+        "evidence": "We are a relatively small market share participant from a global airfreight perspective. We are being selective and really focused on premium freight."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Global Trade Headwind",
+        "severity": 5,
+        "evidence": "Significant volatility and uncertainty around the global trade environment. $1 billion headwind due to the global trade environment."
+      },
+      {
+        "label": "U.S. Postal Service Contract Expiration",
+        "severity": 4,
+        "evidence": "The expiration of the Postal Service contract at the end of this month. $160 million headwind to adjusted operating income."
+      },
+      {
+        "label": "Freight Weakness",
+        "severity": 4,
+        "evidence": "Due to the evolving trade environment in the quarter, we experienced a material headwind on our Asia to U.S. lane, largely from China outbound, driving most of the $150 million headwind to adjusted operating income."
+      },
+      {
+        "label": "Industrial Economy Slowdown",
+        "severity": 3,
+        "evidence": "Weakness in the industrial economy and excess capacity in the truckload market continue to pressure our results."
+      },
+      {
+        "label": "De Minis Changes",
+        "severity": 4,
+        "evidence": "With the full removal of the de minimis exemption in the United States late last month, we have been working closely with our customers, helping them maintain effective and efficient access to the vital U.S. market."
+      }
+    ],
+    "themes": [
+      "transformation",
+      "network optimization",
+      "digital strategy",
+      "trade environment",
+      "customer focus"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 0.0,
+    "risks_jaccard": 0.0,
+    "themes_jaccard": 0.0,
+    "guidance_match": 0.0,
+    "sentiment_gap": 0.4,
+    "agreement_score": 0.0,
+    "agreement_confidence": 0.0
+  },
+  "chosen": {
+    "overall_sentiment": 0.65,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Cost Reduction Success",
+        "severity": 5,
+        "evidence": "We achieved our targeted $200 million in transformation-related savings and grew adjusted operating income by 7%."
+      },
+      {
+        "label": "Network Flexibility",
+        "severity": 4,
+        "evidence": "Our Tricolor strategy enabled us to flex the network to adapt to changing demand patterns."
+      },
+      {
+        "label": "Digital Innovation",
+        "severity": 4,
+        "evidence": "FedEx operates an advanced digital twin that goes beyond tracking and provides optimized route information in real time."
+      },
+      {
+        "label": "Strong U.S. Domestic Performance",
+        "severity": 4,
+        "evidence": "U.S. domestic package services drove strength in revenue and yield, with 3% year-over-year revenue growth."
+      },
+      {
+        "label": "Strategic Growth in Europe",
+        "severity": 3,
+        "evidence": "Q1 marked our best new business quarter in Europe in the last 2 years, driven by Express parcel growth."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Global Trade Headwinds",
+        "severity": 5,
+        "evidence": "We are facing a $1 billion headwind due to the trade environment, particularly from reduced demand on the China to U.S. lane."
+      },
+      {
+        "label": "Industrial Economy Weakness",
+        "severity": 4,
+        "evidence": "Weakness in the industrial economy continues to pressure results at FedEx Freight."
+      },
+      {
+        "label": "De Minimis Exemption Impact",
+        "severity": 4,
+        "evidence": "The removal of the de minimis exemption has created significant challenges for small exporters and shippers."
+      },
+      {
+        "label": "International Export Pressure",
+        "severity": 3,
+        "evidence": "International export volumes declined, particularly on the China to U.S. lane, despite efforts to pivot to other regions."
+      },
+      {
+        "label": "Margin Compression",
+        "severity": 3,
+        "evidence": "At FedEx Freight, revenue per shipment declined 1%, driven by lower revenue per hundredweight and lower fuel surcharges."
+      }
+    ],
+    "themes": [
+      "cost_reduction",
+      "digital_transformation",
+      "network_optimization",
+      "global_trade",
+      "peak_season"
+    ]
+  }
+}

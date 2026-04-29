@@ -1,0 +1,74 @@
+```json
+{
+  "overall_sentiment": 0.62,
+  "sentiment_bucket": "bullish",
+  "guidance_direction": "reaffirmed",
+  "guidance_confidence": 0.75,
+  "wins": [
+    {
+      "label": "Strong noninterest income growth",
+      "severity": 1,
+      "evidence": "We grew noninterest income by 12% from a year ago, with growth across most businesses"
+    },
+    {
+      "label": "Improving credit quality",
+      "severity": 2,
+      "evidence": "Net loan charge-offs decreased 8 basis points from the second quarter to 49 basis points of average loans"
+    },
+    {
+      "label": "Robust capital position and shareholder returns",
+      "severity": 1,
+      "evidence": "We repurchased $3.5 billion of common stock in the quarter and $15.6 billion during the first 3 quarters of this year, up over 60% from a year ago"
+    },
+    {
+      "label": "Continued operational efficiency",
+      "severity": 2,
+      "evidence": "Headcount has declined every quarter for 4 years and was down 20% since the third quarter of 2020"
+    },
+    {
+      "label": "Strategic business momentum",
+      "severity": 2,
+      "evidence": "We launched 2 new co-branded credit cards with Expedia and announced a multiyear co-branded agreement with Volkswagen Financial Services"
+    }
+  ],
+  "risks": [
+    {
+      "label": "Net interest income decline",
+      "severity": 3,
+      "evidence": "We currently expect fourth quarter 2024 net interest income to be roughly in line with the third quarter of 2024, which would imply an approximately 9% decline in full year 2024 net interest income compared with 2023"
+    },
+    {
+      "label": "Weak commercial real estate office market",
+      "severity": 4,
+      "evidence": "The office market remains weak, and we continue to expect additional charge-offs in our commercial real estate office portfolio"
+    },
+    {
+      "label": "Weak loan demand",
+      "severity": 3,
+      "evidence": "Commercial loan demand remains weak, reflecting economic uncertainty and the expectation that rates will be lower in the future"
+    },
+    {
+      "label": "Regulatory and compliance costs",
+      "severity": 3,
+      "evidence": "We have outstanding litigation, regulatory and customer remediation matters that could impact operating losses during the remainder of the year"
+    },
+    {
+      "label": "Consumer stress in lower-income segments",
+      "severity": 2,
+      "evidence": "We continue to see more pronounced stress in certain customer segments with lower deposit and asset levels, where inflation has partially offset strong employment and wage growth"
+    }
+  ],
+  "themes": [
+    "fee_income_diversification",
+    "net_interest_income_headwinds",
+    "credit_quality_stabilization",
+    "regulatory_compliance_focus",
+    "capital_management",
+    "operational_efficiency",
+    "commercial_real_estate_weakness",
+    "deposit_pricing_dynamics",
+    "strategic_investments",
+    "shareholder_returns"
+  ]
+}
+```

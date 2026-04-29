@@ -1,0 +1,234 @@
+{
+  "_ticker": "NKE",
+  "_quarter": "Q2-2025",
+  "_call_date": "2024-12-19",
+  "backend": "anthropic",
+  "primary_model": "gemma3:4b",
+  "secondary_model": "gemma3:4b",
+  "single_call_mode": true,
+  "primary": {
+    "overall_sentiment": -0.35,
+    "sentiment_bucket": "bearish",
+    "guidance_direction": "lowered",
+    "guidance_confidence": 0.75,
+    "wins": [
+      {
+        "label": "Strong athlete partnerships and sports marketing momentum",
+        "severity": 2,
+        "evidence": "re-signing of the NBA and the WNBA, the Brazil Football Confederation, FC Barcelona and last week, the NFL"
+      },
+      {
+        "label": "Product innovation pipeline gaining traction",
+        "severity": 2,
+        "evidence": "some of our most sought-after products are franchises that are distinctly NIKE, the Pegasus 41, NIKE Shox and the Kobe lineup"
+      },
+      {
+        "label": "Wholesale partner receptivity to repositioning",
+        "severity": 2,
+        "evidence": "Their confidence is building in our product pipeline, and they welcome the closer collaboration as we invest more in their business"
+      },
+      {
+        "label": "November momentum inflection",
+        "severity": 2,
+        "evidence": "In November, we saw momentum build with digital and physical traffic inflecting positive, especially around the quarter's biggest consumer moments"
+      },
+      {
+        "label": "Leadership clarity and execution focus",
+        "severity": 1,
+        "evidence": "we're really going to narrow down and we'll pace and phase as we go throughout the next 18, 24 months or so"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Significant near-term revenue and margin deterioration",
+        "severity": 5,
+        "evidence": "Q3 revenues to be down low double digits...Q3 gross margins to be down approximately 300 to 350 basis points"
+      },
+      {
+        "label": "Greater China market weakness and competitive pressure",
+        "severity": 4,
+        "evidence": "Q2, we experienced another quarter of retail traffic declines in a difficult macro environment...competitors have both international and local increased"
+      },
+      {
+        "label": "Elevated inventory levels and promotional dependency",
+        "severity": 4,
+        "evidence": "inventory levels are higher than we would like, especially given recent sales trends on NIKE Direct...NIKE Digital has become a platform where we have been capturing demand and competing with our wholesale partners"
+      },
+      {
+        "label": "Extended period of margin pressure and investment drag",
+        "severity": 4,
+        "evidence": "we expect a greater headwind in the fourth quarter as compared to the third...the net effect of these actions will result in lower revenue, additional gross margin pressure and higher demand creation expenses"
+      },
+      {
+        "label": "Uncertain timeline for return to profitable growth",
+        "severity": 3,
+        "evidence": "I expect the impact to be bigger for the balance of this year...it'll take time, but I am confident that we are making the right moves"
+      }
+    ],
+    "themes": [
+      "turnaround_strategy",
+      "brand_repositioning",
+      "inventory_reset",
+      "wholesale_partnership_repair",
+      "sport_focus_realignment",
+      "margin_pressure",
+      "near_term_headwinds",
+      "digital_channel_repricing",
+      "geographic_challenges",
+      "leadership_transition"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": -0.35,
+    "sentiment_bucket": "bearish",
+    "guidance_direction": "lowered",
+    "guidance_confidence": 0.75,
+    "wins": [
+      {
+        "label": "Strong athlete partnerships and sports marketing momentum",
+        "severity": 2,
+        "evidence": "re-signing of the NBA and the WNBA, the Brazil Football Confederation, FC Barcelona and last week, the NFL"
+      },
+      {
+        "label": "Product innovation pipeline gaining traction",
+        "severity": 2,
+        "evidence": "some of our most sought-after products are franchises that are distinctly NIKE, the Pegasus 41, NIKE Shox and the Kobe lineup"
+      },
+      {
+        "label": "Wholesale partner receptivity to repositioning",
+        "severity": 2,
+        "evidence": "Their confidence is building in our product pipeline, and they welcome the closer collaboration as we invest more in their business"
+      },
+      {
+        "label": "November momentum inflection",
+        "severity": 2,
+        "evidence": "In November, we saw momentum build with digital and physical traffic inflecting positive, especially around the quarter's biggest consumer moments"
+      },
+      {
+        "label": "Leadership clarity and execution focus",
+        "severity": 1,
+        "evidence": "we're really going to narrow down and we'll pace and phase as we go throughout the next 18, 24 months or so"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Significant near-term revenue and margin deterioration",
+        "severity": 5,
+        "evidence": "Q3 revenues to be down low double digits...Q3 gross margins to be down approximately 300 to 350 basis points"
+      },
+      {
+        "label": "Greater China market weakness and competitive pressure",
+        "severity": 4,
+        "evidence": "Q2, we experienced another quarter of retail traffic declines in a difficult macro environment...competitors have both international and local increased"
+      },
+      {
+        "label": "Elevated inventory levels and promotional dependency",
+        "severity": 4,
+        "evidence": "inventory levels are higher than we would like, especially given recent sales trends on NIKE Direct...NIKE Digital has become a platform where we have been capturing demand and competing with our wholesale partners"
+      },
+      {
+        "label": "Extended period of margin pressure and investment drag",
+        "severity": 4,
+        "evidence": "we expect a greater headwind in the fourth quarter as compared to the third...the net effect of these actions will result in lower revenue, additional gross margin pressure and higher demand creation expenses"
+      },
+      {
+        "label": "Uncertain timeline for return to profitable growth",
+        "severity": 3,
+        "evidence": "I expect the impact to be bigger for the balance of this year...it'll take time, but I am confident that we are making the right moves"
+      }
+    ],
+    "themes": [
+      "turnaround_strategy",
+      "brand_repositioning",
+      "inventory_reset",
+      "wholesale_partnership_repair",
+      "sport_focus_realignment",
+      "margin_pressure",
+      "near_term_headwinds",
+      "digital_channel_repricing",
+      "geographic_challenges",
+      "leadership_transition"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 1.0,
+    "risks_jaccard": 1.0,
+    "themes_jaccard": 1.0,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.0,
+    "agreement_score": 1.0,
+    "agreement_confidence": 1.0
+  },
+  "chosen": {
+    "overall_sentiment": -0.35,
+    "sentiment_bucket": "bearish",
+    "guidance_direction": "lowered",
+    "guidance_confidence": 0.75,
+    "wins": [
+      {
+        "label": "Strong athlete partnerships and sports marketing momentum",
+        "severity": 2,
+        "evidence": "re-signing of the NBA and the WNBA, the Brazil Football Confederation, FC Barcelona and last week, the NFL"
+      },
+      {
+        "label": "Product innovation pipeline gaining traction",
+        "severity": 2,
+        "evidence": "some of our most sought-after products are franchises that are distinctly NIKE, the Pegasus 41, NIKE Shox and the Kobe lineup"
+      },
+      {
+        "label": "Wholesale partner receptivity to repositioning",
+        "severity": 2,
+        "evidence": "Their confidence is building in our product pipeline, and they welcome the closer collaboration as we invest more in their business"
+      },
+      {
+        "label": "November momentum inflection",
+        "severity": 2,
+        "evidence": "In November, we saw momentum build with digital and physical traffic inflecting positive, especially around the quarter's biggest consumer moments"
+      },
+      {
+        "label": "Leadership clarity and execution focus",
+        "severity": 1,
+        "evidence": "we're really going to narrow down and we'll pace and phase as we go throughout the next 18, 24 months or so"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Significant near-term revenue and margin deterioration",
+        "severity": 5,
+        "evidence": "Q3 revenues to be down low double digits...Q3 gross margins to be down approximately 300 to 350 basis points"
+      },
+      {
+        "label": "Greater China market weakness and competitive pressure",
+        "severity": 4,
+        "evidence": "Q2, we experienced another quarter of retail traffic declines in a difficult macro environment...competitors have both international and local increased"
+      },
+      {
+        "label": "Elevated inventory levels and promotional dependency",
+        "severity": 4,
+        "evidence": "inventory levels are higher than we would like, especially given recent sales trends on NIKE Direct...NIKE Digital has become a platform where we have been capturing demand and competing with our wholesale partners"
+      },
+      {
+        "label": "Extended period of margin pressure and investment drag",
+        "severity": 4,
+        "evidence": "we expect a greater headwind in the fourth quarter as compared to the third...the net effect of these actions will result in lower revenue, additional gross margin pressure and higher demand creation expenses"
+      },
+      {
+        "label": "Uncertain timeline for return to profitable growth",
+        "severity": 3,
+        "evidence": "I expect the impact to be bigger for the balance of this year...it'll take time, but I am confident that we are making the right moves"
+      }
+    ],
+    "themes": [
+      "turnaround_strategy",
+      "brand_repositioning",
+      "inventory_reset",
+      "wholesale_partnership_repair",
+      "sport_focus_realignment",
+      "margin_pressure",
+      "near_term_headwinds",
+      "digital_channel_repricing",
+      "geographic_challenges",
+      "leadership_transition"
+    ]
+  }
+}

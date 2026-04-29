@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.2,
+    "sentiment_bucket": "neutral",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.75,
+    "wins": [
+        {
+            "label": "Dividend Increase",
+            "severity": 3,
+            "evidence": "We raised our quarterly dividend by roughly 10%. If you annualize the dividend we just declared, it's about $1.72."
+        },
+        {
+            "label": "Onsite Growth",
+            "severity": 3,
+            "evidence": "We signed 56 in the quarter. So we finished the year with 2,031 increase of about 12% of what we saw a year ago."
+        },
+        {
+            "label": "Digital Footprint Expansion",
+            "severity": 2,
+            "evidence": "About 62% of our sales, just over 62%, touch our digital footprint."
+        },
+        {
+            "label": "Industrial Services Revenue",
+            "severity": 2,
+            "evidence": "Industrial Services broke $100 million in revenue for the first time in 2024."
+        },
+        {
+            "label": "FMI Technology Adoption",
+            "severity": 3,
+            "evidence": "We broke 100 MAU signings per day for the first time."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Holiday Shutdowns",
+            "severity": 4,
+            "evidence": "In the last 5 days of December, we were probably negative somewhere between 9% and 12%."
+        },
+        {
+            "label": "E-Commerce Struggles",
+            "severity": 3,
+            "evidence": "The e-commerce piece that contains web, we still struggle there."
+        },
+        {
+            "label": "Gross Margin Pressure",
+            "severity": 3,
+            "evidence": "Gross margin was 44.8%, down 70 basis points from the year ago period."
+        },
+        {
+            "label": "Inventory Management",
+            "severity": 2,
+            "evidence": "Inventories were up 8%. We added $30 million to $35 million related to our initiatives to improve product availability."
+        },
+        {
+            "label": "Customer Shutdowns",
+            "severity": 4,
+            "evidence": "This year, it's 17% were shut down. So there were a tremendous number of companies that probably shut down the day after Christmas."
+        }
+    ],
+    "themes": ["dividend", "onsite", "digital", "inventory", "holiday_impact"]
+}

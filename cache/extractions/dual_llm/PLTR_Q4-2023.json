@@ -1,0 +1,234 @@
+{
+  "_ticker": "PLTR",
+  "_quarter": "Q4-2023",
+  "_call_date": "2024-02-05",
+  "backend": "anthropic",
+  "primary_model": "gemma3:4b",
+  "secondary_model": "gemma3:4b",
+  "single_call_mode": true,
+  "primary": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.92,
+    "wins": [
+      {
+        "label": "Exceptional U.S. Commercial Growth",
+        "severity": 5,
+        "evidence": "Fourth quarter U.S. commercial revenue grew 70% year-over-year and 12% sequentially to $131 million"
+      },
+      {
+        "label": "AIP Bootcamp Success & Market Expansion",
+        "severity": 5,
+        "evidence": "We have already blown that goal out of the water, having completed more than 560 bootcamps across 465 organizations to date"
+      },
+      {
+        "label": "Record Commercial TCV Bookings",
+        "severity": 5,
+        "evidence": "Fourth quarter commercial TCV booked was $699 million, our highest commercial TCV quarter in the company's history, representing 156% growth year-over-year"
+      },
+      {
+        "label": "Sustained GAAP Profitability & Margin Expansion",
+        "severity": 5,
+        "evidence": "We delivered our fifth consecutive quarter of GAAP profitability. In 2023, we generated $210 million of GAAP net income, a $584 million increase from 2022"
+      },
+      {
+        "label": "Large Enterprise Deal Wins",
+        "severity": 4,
+        "evidence": "We signed deals over $25 million each with one of the largest car rental companies, one of the largest telecommunication companies and one of the largest pharmaceutical and biotechnology corporations in the world"
+      }
+    ],
+    "risks": [
+      {
+        "label": "U.S. Government Business Muted Near-Term",
+        "severity": 4,
+        "evidence": "The strength of our U.S. government business is not reflected in the fourth quarter results, which remain muted. Some of this is due to the continuing resolution and timing of large potential contract awards"
+      },
+      {
+        "label": "Strategic Commercial Contract Revenue Decline",
+        "severity": 3,
+        "evidence": "We anticipate 2024 revenue from these customers to decline to approximately 2% of full year revenue compared to approximately 4% of revenue in 2023"
+      },
+      {
+        "label": "International Commercial Growth Slower",
+        "severity": 3,
+        "evidence": "Fourth quarter international commercial revenue grew 11% year-over-year and 14% sequentially to $154 million"
+      },
+      {
+        "label": "Internal Scaling Challenges",
+        "severity": 3,
+        "evidence": "We're having to rebuild the whole system, our whole company, to deal with this demand. We have a latent nascent sales force that has put its tiny toe in the water"
+      },
+      {
+        "label": "European Market Headwinds",
+        "severity": 3,
+        "evidence": "Europe has decided that they are not going to engage in this revolution"
+      }
+    ],
+    "themes": [
+      "ai/aip momentum",
+      "u.s. commercial acceleration",
+      "bootcamp go-to-market success",
+      "enterprise software transformation",
+      "government defense applications",
+      "profitability & cash flow strength",
+      "large deal wins",
+      "talent acquisition & retention",
+      "international expansion",
+      "rule of 40 excellence"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.92,
+    "wins": [
+      {
+        "label": "Exceptional U.S. Commercial Growth",
+        "severity": 5,
+        "evidence": "Fourth quarter U.S. commercial revenue grew 70% year-over-year and 12% sequentially to $131 million"
+      },
+      {
+        "label": "AIP Bootcamp Success & Market Expansion",
+        "severity": 5,
+        "evidence": "We have already blown that goal out of the water, having completed more than 560 bootcamps across 465 organizations to date"
+      },
+      {
+        "label": "Record Commercial TCV Bookings",
+        "severity": 5,
+        "evidence": "Fourth quarter commercial TCV booked was $699 million, our highest commercial TCV quarter in the company's history, representing 156% growth year-over-year"
+      },
+      {
+        "label": "Sustained GAAP Profitability & Margin Expansion",
+        "severity": 5,
+        "evidence": "We delivered our fifth consecutive quarter of GAAP profitability. In 2023, we generated $210 million of GAAP net income, a $584 million increase from 2022"
+      },
+      {
+        "label": "Large Enterprise Deal Wins",
+        "severity": 4,
+        "evidence": "We signed deals over $25 million each with one of the largest car rental companies, one of the largest telecommunication companies and one of the largest pharmaceutical and biotechnology corporations in the world"
+      }
+    ],
+    "risks": [
+      {
+        "label": "U.S. Government Business Muted Near-Term",
+        "severity": 4,
+        "evidence": "The strength of our U.S. government business is not reflected in the fourth quarter results, which remain muted. Some of this is due to the continuing resolution and timing of large potential contract awards"
+      },
+      {
+        "label": "Strategic Commercial Contract Revenue Decline",
+        "severity": 3,
+        "evidence": "We anticipate 2024 revenue from these customers to decline to approximately 2% of full year revenue compared to approximately 4% of revenue in 2023"
+      },
+      {
+        "label": "International Commercial Growth Slower",
+        "severity": 3,
+        "evidence": "Fourth quarter international commercial revenue grew 11% year-over-year and 14% sequentially to $154 million"
+      },
+      {
+        "label": "Internal Scaling Challenges",
+        "severity": 3,
+        "evidence": "We're having to rebuild the whole system, our whole company, to deal with this demand. We have a latent nascent sales force that has put its tiny toe in the water"
+      },
+      {
+        "label": "European Market Headwinds",
+        "severity": 3,
+        "evidence": "Europe has decided that they are not going to engage in this revolution"
+      }
+    ],
+    "themes": [
+      "ai/aip momentum",
+      "u.s. commercial acceleration",
+      "bootcamp go-to-market success",
+      "enterprise software transformation",
+      "government defense applications",
+      "profitability & cash flow strength",
+      "large deal wins",
+      "talent acquisition & retention",
+      "international expansion",
+      "rule of 40 excellence"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 1.0,
+    "risks_jaccard": 1.0,
+    "themes_jaccard": 1.0,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.0,
+    "agreement_score": 1.0,
+    "agreement_confidence": 1.0
+  },
+  "chosen": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.92,
+    "wins": [
+      {
+        "label": "Exceptional U.S. Commercial Growth",
+        "severity": 5,
+        "evidence": "Fourth quarter U.S. commercial revenue grew 70% year-over-year and 12% sequentially to $131 million"
+      },
+      {
+        "label": "AIP Bootcamp Success & Market Expansion",
+        "severity": 5,
+        "evidence": "We have already blown that goal out of the water, having completed more than 560 bootcamps across 465 organizations to date"
+      },
+      {
+        "label": "Record Commercial TCV Bookings",
+        "severity": 5,
+        "evidence": "Fourth quarter commercial TCV booked was $699 million, our highest commercial TCV quarter in the company's history, representing 156% growth year-over-year"
+      },
+      {
+        "label": "Sustained GAAP Profitability & Margin Expansion",
+        "severity": 5,
+        "evidence": "We delivered our fifth consecutive quarter of GAAP profitability. In 2023, we generated $210 million of GAAP net income, a $584 million increase from 2022"
+      },
+      {
+        "label": "Large Enterprise Deal Wins",
+        "severity": 4,
+        "evidence": "We signed deals over $25 million each with one of the largest car rental companies, one of the largest telecommunication companies and one of the largest pharmaceutical and biotechnology corporations in the world"
+      }
+    ],
+    "risks": [
+      {
+        "label": "U.S. Government Business Muted Near-Term",
+        "severity": 4,
+        "evidence": "The strength of our U.S. government business is not reflected in the fourth quarter results, which remain muted. Some of this is due to the continuing resolution and timing of large potential contract awards"
+      },
+      {
+        "label": "Strategic Commercial Contract Revenue Decline",
+        "severity": 3,
+        "evidence": "We anticipate 2024 revenue from these customers to decline to approximately 2% of full year revenue compared to approximately 4% of revenue in 2023"
+      },
+      {
+        "label": "International Commercial Growth Slower",
+        "severity": 3,
+        "evidence": "Fourth quarter international commercial revenue grew 11% year-over-year and 14% sequentially to $154 million"
+      },
+      {
+        "label": "Internal Scaling Challenges",
+        "severity": 3,
+        "evidence": "We're having to rebuild the whole system, our whole company, to deal with this demand. We have a latent nascent sales force that has put its tiny toe in the water"
+      },
+      {
+        "label": "European Market Headwinds",
+        "severity": 3,
+        "evidence": "Europe has decided that they are not going to engage in this revolution"
+      }
+    ],
+    "themes": [
+      "ai/aip momentum",
+      "u.s. commercial acceleration",
+      "bootcamp go-to-market success",
+      "enterprise software transformation",
+      "government defense applications",
+      "profitability & cash flow strength",
+      "large deal wins",
+      "talent acquisition & retention",
+      "international expansion",
+      "rule of 40 excellence"
+    ]
+  }
+}

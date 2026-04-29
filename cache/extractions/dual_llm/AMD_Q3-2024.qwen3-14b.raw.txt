@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.95,
+    "wins": [
+        {
+            "label": "Strong Data Center Growth",
+            "severity": 5,
+            "evidence": "Data Center segment revenue increased 122% to a record $3.5 billion."
+        },
+        {
+            "label": "EPYC Adoption Acceleration",
+            "severity": 5,
+            "evidence": "EPYC has become the CPU of choice for the modern data center."
+        },
+        {
+            "label": "AI Software Ecosystem Expansion",
+            "severity": 4,
+            "evidence": "ROCm now provides AI developers with a truly open software alternative that has been deployed and validated at scale."
+        },
+        {
+            "label": "MI300X and MI325X Adoption",
+            "severity": 5,
+            "evidence": "MI300X public cloud instance availability expanded in the quarter with Microsoft, Oracle Cloud and multiple AI specialized cloud providers now offering Instinct instances."
+        },
+        {
+            "label": "Strategic Acquisition of ZT Systems",
+            "severity": 4,
+            "evidence": "We announced a definitive agreement to acquire ZT Systems, one of the leading providers of AI infrastructure."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Gaming Segment Decline",
+            "severity": 3,
+            "evidence": "Gaming segment revenue declined 69% year-over-year to $462 million."
+        },
+        {
+            "label": "Embedded Segment Weakness",
+            "severity": 3,
+            "evidence": "Embedded segment revenue decreased 25% year-over-year to $927 million."
+        },
+        {
+            "label": "Supply Chain Constraints",
+            "severity": 2,
+            "evidence": "The environment will continue to be tight, but we've also planned for significant growth going into 2025."
+        },
+        {
+            "label": "Seasonality in Client Segment",
+            "severity": 2,
+            "evidence": "We would expect some level of seasonality going into the first half of the year."
+        },
+        {
+            "label": "Competitive Pressure",
+            "severity": 2,
+            "evidence": "Our key competitor will take most of the TAM of the AI market."
+        }
+    ],
+    "themes": ["Data Center Growth", "EPYC Adoption", "AI Expansion", "GPU Innovation", "Strategic Acquisitions"]
+}

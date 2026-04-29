@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.9,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.95,
+    "wins": [
+        {
+            "label": "Strong Q3 Performance",
+            "severity": 5,
+            "evidence": "We generated $221 billion of net inflows, our highest net flows quarter ever."
+        },
+        {
+            "label": "Margin Expansion",
+            "severity": 5,
+            "evidence": "We expanded our margin by 350 basis points year-over-year."
+        },
+        {
+            "label": "Private Markets Growth",
+            "severity": 5,
+            "evidence": "Private markets are a strategic priority for BlackRock, delivering world-class private markets capabilities to more deeply serve clients."
+        },
+        {
+            "label": "Technology and Innovation",
+            "severity": 4,
+            "evidence": "Aladdin provides a highly scalable operating backbone to clients that's tailored to meet their needs."
+        },
+        {
+            "label": "Strong Organic Growth",
+            "severity": 5,
+            "evidence": "We delivered record levels of quarterly revenue and operating income."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Regulatory Uncertainty",
+            "severity": 3,
+            "evidence": "There is no question money is in motion. Rob Kapito talks about this a lot."
+        },
+        {
+            "label": "Market Volatility",
+            "severity": 2,
+            "evidence": "As markets improve, we've executed on our financial rubric, aligning controllable expense and organic growth."
+        },
+        {
+            "label": "Integration Risks",
+            "severity": 3,
+            "evidence": "We're very focused on integrating GIP and closing Preqin, and we're focused on delivering a great integration experience for clients and employees."
+        },
+        {
+            "label": "Tax Rate Fluctuations",
+            "severity": 2,
+            "evidence": "The actual effective tax rate may differ because of nonrecurring or discrete items or potential changes in tax legislation."
+        },
+        {
+            "label": "Competition in ETFs",
+            "severity": 2,
+            "evidence": "The relative outperformance of lower fee U.S. equity markets and client preferences for lower fee U.S. exposures and lower securities lending."
+        }
+    ],
+    "themes": ["organic growth", "private markets", "technology", "margin expansion", "ETFs"]
+}

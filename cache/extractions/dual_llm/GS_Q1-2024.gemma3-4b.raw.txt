@@ -1,0 +1,69 @@
+```json
+{
+    "overall_sentiment": 0.35,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+        {
+            "label": "Strong First Quarter Results",
+            "severity": 4,
+            "evidence": "Thank you, operator, and good morning, everyone. Thank you all for joining us. We feel very good about our first quarter results, which reflect the strength of our world-class and interconnected franchises and the earnings power of our firm."
+        },
+        {
+            "label": "Strategic Focus & Core Strengths",
+            "severity": 3,
+            "evidence": "This performance was aided by the swift actions we took last year to narrow our strategic focus and play to our core strengths."
+        },
+        {
+            "label": "Reopening of Capital Markets",
+            "severity": 4,
+            "evidence": "As you can see, we are delivering on our strategy, and we are pleased with the returns we generated this quarter. As laid out in January, we have three strategic objectives: To harness One Goldman Sachs to serve our clients with excellence; to run world-class, differentiated and durable businesses; and to invest to operate at scale."
+        },
+        {
+            "label": "Record Asset Under Supervision",
+            "severity": 5,
+            "evidence": "Across the firm, we are effectively serving clients in what remains a complex operating environment. Looking back on the last year or so, one of the most common questions clients and investors have asked is around the timing of a broader reopening of the capital markets. I've said before that the historically depressed levels of activity wouldn't last forever. CEOs need to make strategic decisions for their firms, companies of all sizes need to raise capital and financial sponsors need to transact to generate returns for their investors."
+        },
+        {
+            "label": "Record FICC Financing Revenues",
+            "severity": 5,
+            "evidence": "Where we stand today, it's clear that we're in the early stages of a reopening of the capital markets with the first few months of 2024 seeing in reinvigoration in new issue market access. For example, there were a number of large IPOs across geographies, and the strong reception across transactions, including the IPOs for Galderma, Reddit and Rank, is the latest sign that investors' risk appetite is growing."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Macroeconomic Uncertainty",
+            "severity": 4,
+            "evidence": "Turning to the macro environment. We continue to be constructive on the health of the U.S. economy. The Fed most recently telegraphed three rate cuts in 2024, but last week's CPI print has lowered market expectations. This will continue to evolve and be highly data-dependent."
+        },
+        {
+            "label": "Potential for Slowing Growth",
+            "severity": 3,
+            "evidence": "I'm also mindful that U.S. equity markets are hovering near record levels at a time when we see -- when we continue to see headwinds, including concerns around inflation, the commercial real estate market and escalating geopolitical tensions around the world. This combination could slow growth."
+        },
+        {
+            "label": "Private Credit Fundraising Challenges",
+            "severity": 4,
+            "evidence": "Alternative assets under supervision totaled $296 billion at the end of the first quarter, driving $486 million in management and other fees. Gross third-party fundraising was $14 billion in the quarter."
+        },
+        {
+            "label": "Basel III Regulatory Uncertainty",
+            "severity": 5,
+            "evidence": "And so I think it's very important to highlight that we have a bunch of private credit assets that we've been focused on, and we've been focused on how we can deploy capital and how we can continue to grow this business."
+        },
+        {
+            "label": "Platform Solutions Losses",
+            "severity": 3,
+            "evidence": "Platform Solutions on Page 8. Overall, segment profitability has improved with a pretax net loss of $117 million for the quarter."
+        }
+    ],
+    "themes": [
+        "Capital Markets Recovery",
+        "Strategic Focus",
+        "Asset Management Growth",
+        "Artificial Intelligence",
+        "Macroeconomic Outlook"
+    ]
+}
+```

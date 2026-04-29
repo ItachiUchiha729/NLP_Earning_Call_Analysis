@@ -1,0 +1,69 @@
+```json
+{
+  "overall_sentiment": 0.25,
+  "sentiment_bucket": "neutral",
+  "guidance_direction": "mixed",
+  "guidance_confidence": 0.7,
+  "wins": [
+    {
+      "label": "Strong Onsite Signing Rate",
+      "severity": 4,
+      "evidence": "We signed 358 Onsites in 2024. We signed 326 last year. So an increase, not at our goal, but a meaningful increase and signings that are consistent with previous peaks in 2019, the year before COVID in 2022, the first year we came out."
+    },
+    {
+      "label": "E-Business Growth",
+      "severity": 3,
+      "evidence": "E-commerce, a good story, not a great story. It grew about 28%. E-procurement, where we have established customer relations continues to grow almost 40%, 37.6%."
+    },
+    {
+      "label": "Industrial Services Revenue Growth",
+      "severity": 4,
+      "evidence": "Industrial Services broke $100 million in revenue for the first time in 2024."
+    },
+    {
+      "label": "Customer Concentration",
+      "severity": 3,
+      "evidence": "We have roughly 2,000 Onsites, which represents about 1% of the total sites we serve. which translates to about 11 customer sites in an average district."
+    },
+    {
+      "label": "Margin Improvement Potential",
+      "severity": 2,
+      "evidence": "We expect operating margin to decline due to the effects of slow growth as we've seen all year, that the deleverage was sharper in the current period than experienced in the first 3 quarters of 2024."
+    }
+  ],
+  "risks": [
+    {
+      "label": "December Sales Collapse",
+      "severity": 5,
+      "evidence": "The first roughly 15 days, so when I think of, say, the Friday before Christmas. We were trending towards sales growth, daily growth. We felt it would be in excess of 3%. And in the last -- that Christmas week and then that New Year's Day week, that collapsed."
+    },
+    {
+      "label": "January Sales Decline",
+      "severity": 4,
+      "evidence": "The week after Christmas, 5% were shut down, 6% were shut down. This year, it's 17% were shut down."
+    },
+    {
+      "label": "Customer Site Shutdowns",
+      "severity": 4,
+      "evidence": "About 25% of the facilities we sell into that have vending, about 25% saw the activity drop more than 75%."
+    },
+    {
+      "label": "Uncertainty in E-Commerce Growth",
+      "severity": 3,
+      "evidence": "E-commerce, a good story, not a great story. It grew about 28%. E-procurement, where we have established customer relations continues to grow almost 40%, 37.6%."
+    },
+    {
+      "label": "Slow Growth Impact on Margins",
+      "severity": 4,
+      "evidence": "Gross margin in the fourth quarter of 2024 was 18.9%, down 120 basis points year-to-year."
+    }
+  ],
+  "themes": [
+    "supply chain disruption",
+    "economic slowdown",
+    "holiday seasonality",
+    "customer engagement",
+    "digital transformation"
+  ]
+}
+```

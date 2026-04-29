@@ -1,0 +1,217 @@
+{
+  "_ticker": "C",
+  "_quarter": "Q4-2024",
+  "_call_date": "2025-01-15",
+  "primary_model": "qwen3:14b",
+  "secondary_model": "gemma3:4b",
+  "primary": {
+    "overall_sentiment": 0.75,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.9,
+    "wins": [
+      {
+        "label": "Strong Revenue Growth",
+        "severity": 5,
+        "evidence": "We exceeded our full year revenue target with revenues up 5% ex divestitures."
+      },
+      {
+        "label": "Fee Revenue Growth",
+        "severity": 4,
+        "evidence": "Fee revenue was up 17%, and we saw a smaller impact from Argentina's currency devaluation."
+      },
+      {
+        "label": "Improved Efficiency",
+        "severity": 4,
+        "evidence": "We improved our efficiency ratio by 340 bps whilst increasing investment in our transformation."
+      },
+      {
+        "label": "Positive Operating Leverage",
+        "severity": 4,
+        "evidence": "Our 5 core businesses each generated positive operating leverage for the full year."
+      },
+      {
+        "label": "Capital Return Commitment",
+        "severity": 4,
+        "evidence": "We returned almost $7 billion in capital to our common shareholders in 2024."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Regulatory Uncertainty",
+        "severity": 3,
+        "evidence": "The future of capital rules and therefore, requirements remain uncertain."
+      },
+      {
+        "label": "Elevated Expenses",
+        "severity": 3,
+        "evidence": "Our expense base remained elevated and we remain very focused on bringing down our expenses each year."
+      },
+      {
+        "label": "Credit Risks",
+        "severity": 2,
+        "evidence": "Cost of credit was $2.6 billion, largely consisting of cards, net credit losses and ACL build."
+      },
+      {
+        "label": "Market Conditions for IPO",
+        "severity": 2,
+        "evidence": "The timing of the IPO is heavily dependent on regulatory approvals and market conditions."
+      },
+      {
+        "label": "Lower Interest Rates",
+        "severity": 2,
+        "evidence": "Lower rates in both U.S. and non-U.S. could impact NII ex Markets."
+      }
+    ],
+    "themes": [
+      "revenue_growth",
+      "efficiency_improvement",
+      "capital_return",
+      "regulatory_compliance",
+      "transformation_investment"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.25,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Strong Q4 Performance",
+        "severity": 4,
+        "evidence": "Finished with a very strong fourth quarter, which Mark will detail shortly."
+      },
+      {
+        "label": "Net Income Up 40%",
+        "severity": 5,
+        "evidence": "Net income was up nearly 40% to $12.7 billion."
+      },
+      {
+        "label": "Revenue Growth Ex-Divestitures",
+        "severity": 4,
+        "evidence": "Revenues up 5% ex divestitures."
+      },
+      {
+        "label": "Fee Revenue Growth",
+        "severity": 4,
+        "evidence": "Fee revenue was up 17%, and we saw a smaller impact from Argentina's currency devaluation."
+      },
+      {
+        "label": "Expense Efficiency Improvement",
+        "severity": 3,
+        "evidence": "Improved our efficiency ratio by 340 bps whilst increasing investment in our transformation."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Macroeconomic Uncertainty",
+        "severity": 4,
+        "evidence": "2025 doesn\u2019t look that different from \u201824. Policies will certainly impact economic activity, whether in the form of tariffs or taxes."
+      },
+      {
+        "label": "China Growth Slowdown",
+        "severity": 3,
+        "evidence": "China\u2019s growth has been slower than expected, but there is still the prospect of further stimulus."
+      },
+      {
+        "label": "Europe Underperformance",
+        "severity": 2,
+        "evidence": "Europe continues to underachieve."
+      },
+      {
+        "label": "Regulatory Scrutiny",
+        "severity": 4,
+        "evidence": "Last summer\u2019s regulatory actions reinforced the need to review the entire data program and increase investment."
+      },
+      {
+        "label": "Uncertainty in Capital Requirements",
+        "severity": 3,
+        "evidence": "The future of capital rules and therefore, requirements remain uncertain."
+      }
+    ],
+    "themes": [
+      "financial performance",
+      "strategic transformation",
+      "risk management",
+      "capital allocation",
+      "regulatory compliance"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 0.1111111111111111,
+    "risks_jaccard": 0.0,
+    "themes_jaccard": 0.0,
+    "guidance_match": 0.0,
+    "sentiment_gap": 0.5,
+    "agreement_score": 0.03333333333333333,
+    "agreement_confidence": 0.016666666666666666
+  },
+  "chosen": {
+    "overall_sentiment": 0.75,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.9,
+    "wins": [
+      {
+        "label": "Strong Revenue Growth",
+        "severity": 5,
+        "evidence": "We exceeded our full year revenue target with revenues up 5% ex divestitures."
+      },
+      {
+        "label": "Fee Revenue Growth",
+        "severity": 4,
+        "evidence": "Fee revenue was up 17%, and we saw a smaller impact from Argentina's currency devaluation."
+      },
+      {
+        "label": "Improved Efficiency",
+        "severity": 4,
+        "evidence": "We improved our efficiency ratio by 340 bps whilst increasing investment in our transformation."
+      },
+      {
+        "label": "Positive Operating Leverage",
+        "severity": 4,
+        "evidence": "Our 5 core businesses each generated positive operating leverage for the full year."
+      },
+      {
+        "label": "Capital Return Commitment",
+        "severity": 4,
+        "evidence": "We returned almost $7 billion in capital to our common shareholders in 2024."
+      }
+    ],
+    "risks": [
+      {
+        "label": "Regulatory Uncertainty",
+        "severity": 3,
+        "evidence": "The future of capital rules and therefore, requirements remain uncertain."
+      },
+      {
+        "label": "Elevated Expenses",
+        "severity": 3,
+        "evidence": "Our expense base remained elevated and we remain very focused on bringing down our expenses each year."
+      },
+      {
+        "label": "Credit Risks",
+        "severity": 2,
+        "evidence": "Cost of credit was $2.6 billion, largely consisting of cards, net credit losses and ACL build."
+      },
+      {
+        "label": "Market Conditions for IPO",
+        "severity": 2,
+        "evidence": "The timing of the IPO is heavily dependent on regulatory approvals and market conditions."
+      },
+      {
+        "label": "Lower Interest Rates",
+        "severity": 2,
+        "evidence": "Lower rates in both U.S. and non-U.S. could impact NII ex Markets."
+      }
+    ],
+    "themes": [
+      "revenue_growth",
+      "efficiency_improvement",
+      "capital_return",
+      "regulatory_compliance",
+      "transformation_investment"
+    ]
+  }
+}

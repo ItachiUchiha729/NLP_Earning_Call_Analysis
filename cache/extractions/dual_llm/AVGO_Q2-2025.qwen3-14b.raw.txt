@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.95,
+    "wins": [
+        {
+            "label": "AI Semiconductor Growth",
+            "severity": 5,
+            "evidence": "AI semiconductor revenue of over $4.4 billion, which is up 46% year-on-year and continues the trajectory of 9 consecutive quarters of strong growth."
+        },
+        {
+            "label": "Tomahawk 6 Switch",
+            "severity": 5,
+            "evidence": "Tomahawk 6 switch just announced this week. This represents the next-generation 102.4 terabits per second switch capacity."
+        },
+        {
+            "label": "Infrastructure Software Growth",
+            "severity": 4,
+            "evidence": "Infrastructure software revenue of $6.6 billion was up 25% year-on-year, above our outlook of $6.5 billion."
+        },
+        {
+            "label": "Strong Guidance for Q3",
+            "severity": 5,
+            "evidence": "We are guiding Q3 consolidated revenue to be approximately $15.8 billion, up 21% year-on-year."
+        },
+        {
+            "label": "XPU Demand Acceleration",
+            "severity": 4,
+            "evidence": "We may actually see an acceleration of XPU demand into the back half of 2026 to meet urgent demand for inference."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Non-AI Semiconductor Weakness",
+            "severity": 3,
+            "evidence": "Non-AI semiconductor revenue of $4 billion was down 5% year-on-year."
+        },
+        {
+            "label": "Gross Margin Pressure",
+            "severity": 3,
+            "evidence": "We expect Q3 consolidated gross margin to be down approximately 130 basis points sequentially."
+        },
+        {
+            "label": "Uncertainty in SAM Growth",
+            "severity": 2,
+            "evidence": "I'm not playing a SAM game here. I'm just giving a trajectory towards where we drew the line on '27 before."
+        },
+        {
+            "label": "Debt Levels",
+            "severity": 2,
+            "evidence": "We ended the second quarter with $69.4 billion of gross principal debt."
+        },
+        {
+            "label": "Export Control Uncertainty",
+            "severity": 1,
+            "evidence": "Nobody can give anybody comfort in this environment, Joe. But rules are changing quite dramatically as trade bilateral trade agreements continue to be negotiated."
+        }
+    ],
+    "themes": ["AI growth", "semiconductor innovation", "infrastructure software", "XPU demand", "networking expansion"]
+}

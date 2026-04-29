@@ -1,0 +1,74 @@
+```json
+{
+  "overall_sentiment": 0.65,
+  "sentiment_bucket": "bullish",
+  "guidance_direction": "reaffirmed",
+  "guidance_confidence": 0.85,
+  "wins": [
+    {
+      "label": "Investment Banking momentum",
+      "severity": 1,
+      "evidence": "IB fees were up 50% year-on-year and 17% quarter-on-quarter"
+    },
+    {
+      "label": "Strong Markets revenue growth",
+      "severity": 1,
+      "evidence": "Markets revenue was up 10% year-on-year, Equity Markets up 21% with record revenue in prime"
+    },
+    {
+      "label": "Robust consumer franchise growth",
+      "severity": 1,
+      "evidence": "record number of first-time investors and strong customer acquisition across checking accounts and Card, continued strong net inflows across AWM"
+    },
+    {
+      "label": "Capital position strengthened",
+      "severity": 2,
+      "evidence": "CET1 ratio of 15.3%, up 30 basis points versus prior quarter, Board intends to increase quarterly dividend from $1.15 to $1.25"
+    },
+    {
+      "label": "Card business performing well",
+      "severity": 1,
+      "evidence": "Card outstandings up 12% due to strong account acquisition, Card NII up on higher revolving balances"
+    }
+  ],
+  "risks": [
+    {
+      "label": "Net interest income normalization pressure",
+      "severity": 4,
+      "evidence": "deposit margin compression, expected higher deposit costs, migration of noninterest-bearing into interest-bearing deposits will continue"
+    },
+    {
+      "label": "Investment Banking pull-forward risk",
+      "severity": 3,
+      "evidence": "pull-forward refinancing activity was meaningful contributor to strong first half, second quarter still reflects pull-forward, reasonably cautious about second half"
+    },
+    {
+      "label": "Muted loan demand outside Card",
+      "severity": 3,
+      "evidence": "loan demand remains quite muted everywhere except Card, middle market and large corporate clients remain somewhat cautious, revolver utilization continues below pre-pandemic levels"
+    },
+    {
+      "label": "Credit normalization in Card",
+      "severity": 3,
+      "evidence": "net charge-offs up $820 million year-on-year predominantly driven by Card, newer vintages seasoning and credit normalization continues"
+    },
+    {
+      "label": "Regulatory capital uncertainty",
+      "severity": 3,
+      "evidence": "preliminary SCB of 3.3% may be higher, Basel III endgame outcomes uncertain, stress capital buffer volatile and untransparent"
+    }
+  ],
+  "themes": [
+    "investment_banking_recovery",
+    "nii_normalization",
+    "deposit_margin_compression",
+    "capital_deployment_challenge",
+    "credit_normalization",
+    "regulatory_uncertainty",
+    "strong_markets_performance",
+    "consumer_strength",
+    "loan_demand_weakness",
+    "over_earning_narrative"
+  ]
+}
+```

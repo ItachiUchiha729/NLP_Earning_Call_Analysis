@@ -1,0 +1,69 @@
+```json
+{
+    "overall_sentiment": 0.65,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+        {
+            "label": "Strong Q2 Results",
+            "severity": 4,
+            "evidence": "Second quarter revenue of $5.4 billion was 13% higher year-over-year, driven by the impact of organic growth and higher markets on average AUM, base fee is consolidated in the GIP transaction and higher technology services and subscription revenue, which includes the onboarding of Preqin."
+        },
+        {
+            "label": "Record AUM & Net Inflows",
+            "severity": 5,
+            "evidence": "Record AUM, record units of trust of $12.5 trillion. Generated 7% organic base fee growth and over $650 billion of net inflows over the last 12 months."
+        },
+        {
+            "label": "GIP V Success",
+            "severity": 4,
+            "evidence": "GIP V closed above its $25 billion target, making it the largest private market fund raise in the histories of BlackRock and GIP."
+        },
+        {
+            "label": "HPS Integration",
+            "severity": 3,
+            "evidence": "Closing of HPS Investment Partners added $165 billion of client AUM and $118 billion of fee-paying AUM on July 1."
+        },
+        {
+            "label": "Technology Revenue Growth",
+            "severity": 4,
+            "evidence": "Quarterly technology services revenue and subscription revenue was up 26% compared to a year ago."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Low Fee Institutional Redemptions",
+            "severity": 4,
+            "evidence": "Second quarter net inflows of $68 billion were impacted by low fee institutional index redemptions, which saw $48 billion of net outflows."
+        },
+        {
+            "label": "Market & FX Movements",
+            "severity": 3,
+            "evidence": "Estimated base fee run rate approximately 5% higher than total base fees for the second quarter."
+        },
+        {
+            "label": "Performance Fees Decline",
+            "severity": 3,
+            "evidence": "Performance fees of $94 million decreased from a year ago, reflecting lower performance revenue from private markets, liquid alternatives and long-only products."
+        },
+        {
+            "label": "Expense Increases",
+            "severity": 4,
+            "evidence": "Total expense increased 14% year-over-year, reflecting higher compensation, sales asset and account expense and higher G&A."
+        },
+        {
+            "label": "Reliance on Organic Growth",
+            "severity": 2,
+            "evidence": "BlackRock assumes no duty and does not undertake to update any forward-looking statements."
+        }
+    ],
+    "themes": [
+        "growth",
+        "innovation",
+        "private markets",
+        "technology",
+        "global expansion"
+    ]
+}
+```

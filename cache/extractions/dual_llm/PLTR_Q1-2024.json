@@ -1,0 +1,219 @@
+{
+  "_ticker": "PLTR",
+  "_quarter": "Q1-2024",
+  "_call_date": "2024-05-06",
+  "backend": "anthropic",
+  "primary_model": "gemma3:4b",
+  "secondary_model": "gemma3:4b",
+  "single_call_mode": true,
+  "primary": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.92,
+    "wins": [
+      {
+        "label": "Strong AIP momentum driving commercial growth",
+        "severity": 5,
+        "evidence": "U.S. commercial revenue grew 68% year-over-year and 22% quarter-over-quarter, with customer count up 69% year-over-year"
+      },
+      {
+        "label": "Record profitability with margin expansion",
+        "severity": 5,
+        "evidence": "Sixth consecutive quarter of GAAP profitability generating record $106 million net income; adjusted operating margin expanded to 36%"
+      },
+      {
+        "label": "Accelerating government business and TITAN contract",
+        "severity": 5,
+        "evidence": "U.S. Army awarded Palantir $178 million as sole prime contractor for TITAN program, first time software company won prime contract for hardware system"
+      },
+      {
+        "label": "Rapid customer expansion and deal compression",
+        "severity": 4,
+        "evidence": "Leading utility company signed 7-figure deal 5 days after boot camp; Fortune 500 industrial company increased annual revenue run rate nearly fivefold"
+      },
+      {
+        "label": "Raised full-year guidance with strong bookings",
+        "severity": 4,
+        "evidence": "Raising 2024 revenue guidance to $2.677-$2.689 billion; U.S. commercial TCV booked $286 million, up 131% year-over-year"
+      }
+    ],
+    "risks": [
+      {
+        "label": "European headwinds and weak growth",
+        "severity": 4,
+        "evidence": "Europe is 16% of business with international commercial revenue declining 3% sequentially; Europe gliding towards 0% GDP growth"
+      },
+      {
+        "label": "Strategic commercial contracts declining",
+        "severity": 3,
+        "evidence": "Q2 2024 revenue from strategic commercial contracts expected to decline to $7-9 million from $19 million in Q2 2023"
+      },
+      {
+        "label": "International government revenue sequential decline",
+        "severity": 3,
+        "evidence": "International government revenue declined 9% sequentially to $79 million due to Q4 revenue catch-up and continued European headwinds"
+      },
+      {
+        "label": "Expense ramp expected in H2 2024",
+        "severity": 2,
+        "evidence": "Expect expenses to ramp starting in Q2 through back half of year, though calibrating growth below revenue growth"
+      }
+    ],
+    "themes": [
+      "aip_momentum",
+      "commercial_acceleration",
+      "government_defense_wins",
+      "profitability_expansion",
+      "guidance_raised",
+      "european_headwinds",
+      "customer_expansion",
+      "rule_of_40_excellence",
+      "market_leadership",
+      "software_infrastructure"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.92,
+    "wins": [
+      {
+        "label": "Strong AIP momentum driving commercial growth",
+        "severity": 5,
+        "evidence": "U.S. commercial revenue grew 68% year-over-year and 22% quarter-over-quarter, with customer count up 69% year-over-year"
+      },
+      {
+        "label": "Record profitability with margin expansion",
+        "severity": 5,
+        "evidence": "Sixth consecutive quarter of GAAP profitability generating record $106 million net income; adjusted operating margin expanded to 36%"
+      },
+      {
+        "label": "Accelerating government business and TITAN contract",
+        "severity": 5,
+        "evidence": "U.S. Army awarded Palantir $178 million as sole prime contractor for TITAN program, first time software company won prime contract for hardware system"
+      },
+      {
+        "label": "Rapid customer expansion and deal compression",
+        "severity": 4,
+        "evidence": "Leading utility company signed 7-figure deal 5 days after boot camp; Fortune 500 industrial company increased annual revenue run rate nearly fivefold"
+      },
+      {
+        "label": "Raised full-year guidance with strong bookings",
+        "severity": 4,
+        "evidence": "Raising 2024 revenue guidance to $2.677-$2.689 billion; U.S. commercial TCV booked $286 million, up 131% year-over-year"
+      }
+    ],
+    "risks": [
+      {
+        "label": "European headwinds and weak growth",
+        "severity": 4,
+        "evidence": "Europe is 16% of business with international commercial revenue declining 3% sequentially; Europe gliding towards 0% GDP growth"
+      },
+      {
+        "label": "Strategic commercial contracts declining",
+        "severity": 3,
+        "evidence": "Q2 2024 revenue from strategic commercial contracts expected to decline to $7-9 million from $19 million in Q2 2023"
+      },
+      {
+        "label": "International government revenue sequential decline",
+        "severity": 3,
+        "evidence": "International government revenue declined 9% sequentially to $79 million due to Q4 revenue catch-up and continued European headwinds"
+      },
+      {
+        "label": "Expense ramp expected in H2 2024",
+        "severity": 2,
+        "evidence": "Expect expenses to ramp starting in Q2 through back half of year, though calibrating growth below revenue growth"
+      }
+    ],
+    "themes": [
+      "aip_momentum",
+      "commercial_acceleration",
+      "government_defense_wins",
+      "profitability_expansion",
+      "guidance_raised",
+      "european_headwinds",
+      "customer_expansion",
+      "rule_of_40_excellence",
+      "market_leadership",
+      "software_infrastructure"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 1.0,
+    "risks_jaccard": 1.0,
+    "themes_jaccard": 1.0,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.0,
+    "agreement_score": 1.0,
+    "agreement_confidence": 1.0
+  },
+  "chosen": {
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.92,
+    "wins": [
+      {
+        "label": "Strong AIP momentum driving commercial growth",
+        "severity": 5,
+        "evidence": "U.S. commercial revenue grew 68% year-over-year and 22% quarter-over-quarter, with customer count up 69% year-over-year"
+      },
+      {
+        "label": "Record profitability with margin expansion",
+        "severity": 5,
+        "evidence": "Sixth consecutive quarter of GAAP profitability generating record $106 million net income; adjusted operating margin expanded to 36%"
+      },
+      {
+        "label": "Accelerating government business and TITAN contract",
+        "severity": 5,
+        "evidence": "U.S. Army awarded Palantir $178 million as sole prime contractor for TITAN program, first time software company won prime contract for hardware system"
+      },
+      {
+        "label": "Rapid customer expansion and deal compression",
+        "severity": 4,
+        "evidence": "Leading utility company signed 7-figure deal 5 days after boot camp; Fortune 500 industrial company increased annual revenue run rate nearly fivefold"
+      },
+      {
+        "label": "Raised full-year guidance with strong bookings",
+        "severity": 4,
+        "evidence": "Raising 2024 revenue guidance to $2.677-$2.689 billion; U.S. commercial TCV booked $286 million, up 131% year-over-year"
+      }
+    ],
+    "risks": [
+      {
+        "label": "European headwinds and weak growth",
+        "severity": 4,
+        "evidence": "Europe is 16% of business with international commercial revenue declining 3% sequentially; Europe gliding towards 0% GDP growth"
+      },
+      {
+        "label": "Strategic commercial contracts declining",
+        "severity": 3,
+        "evidence": "Q2 2024 revenue from strategic commercial contracts expected to decline to $7-9 million from $19 million in Q2 2023"
+      },
+      {
+        "label": "International government revenue sequential decline",
+        "severity": 3,
+        "evidence": "International government revenue declined 9% sequentially to $79 million due to Q4 revenue catch-up and continued European headwinds"
+      },
+      {
+        "label": "Expense ramp expected in H2 2024",
+        "severity": 2,
+        "evidence": "Expect expenses to ramp starting in Q2 through back half of year, though calibrating growth below revenue growth"
+      }
+    ],
+    "themes": [
+      "aip_momentum",
+      "commercial_acceleration",
+      "government_defense_wins",
+      "profitability_expansion",
+      "guidance_raised",
+      "european_headwinds",
+      "customer_expansion",
+      "rule_of_40_excellence",
+      "market_leadership",
+      "software_infrastructure"
+    ]
+  }
+}

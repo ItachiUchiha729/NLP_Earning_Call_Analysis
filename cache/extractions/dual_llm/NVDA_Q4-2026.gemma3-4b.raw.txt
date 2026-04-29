@@ -1,0 +1,79 @@
+```json
+{
+  "overall_sentiment": 0.92,
+  "sentiment_bucket": "very_bullish",
+  "guidance_direction": "raised",
+  "guidance_confidence": 0.88,
+  "wins": [
+    {
+      "label": "Record revenue and cash generation",
+      "severity": 5,
+      "evidence": "Total revenue of $68 billion was up 73% year-over-year, accelerating from Q3...We generated free cash flow of $35 billion in Q4 and $97 billion in fiscal year 2026"
+    },
+    {
+      "label": "Blackwell momentum and deployment scale",
+      "severity": 5,
+      "evidence": "Nearly 9 gigawatts of infrastructure on Blackwell are deployed and consumed by the major cloud service providers, hyperscalers, AI model makers and enterprises"
+    },
+    {
+      "label": "Networking business explosive growth",
+      "severity": 5,
+      "evidence": "Networking...was a standout this quarter, generating $11 billion in revenue, up more than 3.5x year-over-year...For the full year, our networking business exceeded $31 billion in revenue, up more than 10x compared to fiscal 2021"
+    },
+    {
+      "label": "Agentic AI inflection driving demand",
+      "severity": 5,
+      "evidence": "Frontier agentic systems have reached an inflection point. Claude Code, Claude Cowork and OpenAI Codex have achieved useful intelligence. Adoption is skyrocketing and tokens are profitable, driving extreme urgency to scale up compute"
+    },
+    {
+      "label": "Sovereign AI business tripled",
+      "severity": 4,
+      "evidence": "In fiscal year 2026, our sovereign AI business more than tripled year-over-year and over $30 billion, driven primarily by customers based in Canada, France, the Netherlands, Singapore and the U.K."
+    }
+  ],
+  "risks": [
+    {
+      "label": "China market access uncertainty",
+      "severity": 5,
+      "evidence": "While small amounts of H200 products for China-based customers were approved by the U.S. government, we have yet to generate any revenue. And we do not know whether any imports will be allowed into China. Our competitors in China bolstered by recent IPOs are making progress and have the potential to disrupt the structure of the global AI industry over the long term"
+    },
+    {
+      "label": "Gaming supply constraints persisting",
+      "severity": 4,
+      "evidence": "While end demand for our products remain strong and channel inventory levels are healthy, we expect supply constraints to be the headwind to Gaming in Q1 and beyond"
+    },
+    {
+      "label": "Customer CapEx sustainability questions",
+      "severity": 3,
+      "evidence": "Many investors are concerned that it would be harder for this level to grow into next year. And for several of them, their cash flow generation capability is also getting compressed"
+    },
+    {
+      "label": "Gross margin pressure from product transitions",
+      "severity": 3,
+      "evidence": "GAAP and non-GAAP gross margins are expected to be 74.9% and 75%, respectively, plus or minus 50 basis points...We will keep you updated on our progress as we prepare for the Vera Rubin transition"
+    },
+    {
+      "label": "Rubin ramp timing uncertainty",
+      "severity": 3,
+      "evidence": "It's too early yet to determine how much in terms of that Vera Rubin, that beginning ramp will start in the second half, and we'll get through it"
+    }
+  ],
+  "themes": [
+    "AI infrastructure dominance",
+    "Agentic AI inflection",
+    "Token economics and inference monetization",
+    "Networking scale-up/scale-out leadership",
+    "Extreme co-design architecture advantage",
+    "CUDA ecosystem lock-in",
+    "Physical AI and robotics opportunity",
+    "Sovereign AI expansion",
+    "Supply chain strength",
+    "Gross margin sustainability",
+    "China competition threat",
+    "Customer diversification beyond hyperscalers",
+    "Rubin next-generation platform",
+    "Performance per watt leadership",
+    "Strategic ecosystem investments"
+  ]
+}
+```

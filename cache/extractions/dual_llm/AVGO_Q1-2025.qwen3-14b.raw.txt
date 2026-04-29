@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.95,
+    "wins": [
+        {
+            "label": "AI Revenue Growth",
+            "severity": 5,
+            "evidence": "AI revenue of $4.1 billion was up 77% year-on-year."
+        },
+        {
+            "label": "R&D Investment in AI",
+            "severity": 4,
+            "evidence": "We're pushing the envelope of technology in creating the next generation of accelerators."
+        },
+        {
+            "label": "Hyperscaler Partnerships",
+            "severity": 5,
+            "evidence": "We expect these 3 hyperscale customers will generate a serviceable addressable market or SAM in the range of $60 billion to $90 billion in fiscal 2027."
+        },
+        {
+            "label": "Infrastructure Software Growth",
+            "severity": 4,
+            "evidence": "Infrastructure software revenue of $6.7 billion was up 47% year-on-year."
+        },
+        {
+            "label": "Strong Guidance for Q2",
+            "severity": 4,
+            "evidence": "We expect Q2 AI revenue to grow to $4.4 billion, up 44% year-on-year."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Tariff Uncertainty",
+            "severity": 3,
+            "evidence": "The threat, the noise of tariffs especially on chips hasn't materialized yet, nor do we know how it will be structured."
+        },
+        {
+            "label": "Seasonal Decline in Non-AI Semiconductors",
+            "severity": 2,
+            "evidence": "Non-AI semiconductor revenue was down 9% sequentially on a seasonal decline in wireless."
+        },
+        {
+            "label": "R&D Investment Impact",
+            "severity": 3,
+            "evidence": "We are increasing our R&D investment in leading edge AI in Q2, and accordingly, we expect adjusted EBITDA to be approximately 66%."
+        },
+        {
+            "label": "Inventory Management",
+            "severity": 2,
+            "evidence": "We ended the first quarter with inventory of $1.9 billion, up 8% sequentially to support revenue in future quarters."
+        },
+        {
+            "label": "Uncertainty in Second Half AI Ramp",
+            "severity": 2,
+            "evidence": "We only guide Q2, sorry. Let's not speculate on the second half."
+        }
+    ],
+    "themes": ["AI", "Semiconductors", "Infrastructure Software", "R&D Investment", "Hyperscaler Partnerships"]
+}

@@ -1,0 +1,234 @@
+{
+  "_ticker": "JNJ",
+  "_quarter": "Q3-2024",
+  "_call_date": "2024-10-15",
+  "backend": "anthropic",
+  "primary_model": "gemma3:4b",
+  "secondary_model": "gemma3:4b",
+  "single_call_mode": true,
+  "primary": {
+    "overall_sentiment": 0.65,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Strong Q3 operational sales growth",
+        "severity": 1,
+        "evidence": "delivered strong results in the third quarter with 6.3% operational sales growth"
+      },
+      {
+        "label": "Innovative Medicine momentum with 11 brands growing double digits",
+        "severity": 1,
+        "evidence": "reported a second consecutive quarter of sales exceeding $14 billion with 11 key brands growing double digits"
+      },
+      {
+        "label": "DARZALEX milestone achievement",
+        "severity": 2,
+        "evidence": "DARZALEX became the first product in our portfolio to reach $3 billion in sales in a single quarter"
+      },
+      {
+        "label": "Multiple regulatory approvals in quarter",
+        "severity": 2,
+        "evidence": "5 major U.S. and EC approvals in the quarter including FDA approval of RYBREVANT plus LAZCLUZE as first-line treatment for EGFR-mutated advanced lung cancer"
+      },
+      {
+        "label": "Increased EPS guidance for third consecutive quarter",
+        "severity": 2,
+        "evidence": "We have increased adjusted operational EPS guidance pre-M&A for the third quarter in a row"
+      }
+    ],
+    "risks": [
+      {
+        "label": "STELARA biosimilar competition and loss of exclusivity",
+        "severity": 4,
+        "evidence": "biosimilar competition has entered Europe as of July, and we anticipate U.S. biosimilar entry in January 2025"
+      },
+      {
+        "label": "China market headwinds and VBP expansion",
+        "severity": 4,
+        "evidence": "continued headwinds in Asia Pacific, specifically in China; we are taking a responsibly conservative approach by assuming no material improvement in that part of the business for the remainder of this year"
+      },
+      {
+        "label": "Talc litigation uncertainty and costs",
+        "severity": 3,
+        "evidence": "Results in the quarter were impacted by the updated talc litigation settlement proposal; $1.75 billion charge related to the talc litigation settlement proposal"
+      },
+      {
+        "label": "MedTech margin pressure from acquisitions",
+        "severity": 3,
+        "evidence": "we now anticipate our 2024 adjusted pretax operating margin to decline by approximately 200 basis points"
+      },
+      {
+        "label": "Part D redesign negative impact expected",
+        "severity": 3,
+        "evidence": "We continue to expect a negative impact associated with the Part D redesign"
+      }
+    ],
+    "themes": [
+      "strong_pharma_growth",
+      "pipeline_advancement",
+      "m&a_strategy",
+      "biosimilar_competition",
+      "china_headwinds",
+      "guidance_raised",
+      "medtech_integration",
+      "litigation_resolution",
+      "margin_pressure",
+      "innovation_focus"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.65,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Strong Q3 operational sales growth",
+        "severity": 1,
+        "evidence": "delivered strong results in the third quarter with 6.3% operational sales growth"
+      },
+      {
+        "label": "Innovative Medicine momentum with 11 brands growing double digits",
+        "severity": 1,
+        "evidence": "reported a second consecutive quarter of sales exceeding $14 billion with 11 key brands growing double digits"
+      },
+      {
+        "label": "DARZALEX milestone achievement",
+        "severity": 2,
+        "evidence": "DARZALEX became the first product in our portfolio to reach $3 billion in sales in a single quarter"
+      },
+      {
+        "label": "Multiple regulatory approvals in quarter",
+        "severity": 2,
+        "evidence": "5 major U.S. and EC approvals in the quarter including FDA approval of RYBREVANT plus LAZCLUZE as first-line treatment for EGFR-mutated advanced lung cancer"
+      },
+      {
+        "label": "Increased EPS guidance for third consecutive quarter",
+        "severity": 2,
+        "evidence": "We have increased adjusted operational EPS guidance pre-M&A for the third quarter in a row"
+      }
+    ],
+    "risks": [
+      {
+        "label": "STELARA biosimilar competition and loss of exclusivity",
+        "severity": 4,
+        "evidence": "biosimilar competition has entered Europe as of July, and we anticipate U.S. biosimilar entry in January 2025"
+      },
+      {
+        "label": "China market headwinds and VBP expansion",
+        "severity": 4,
+        "evidence": "continued headwinds in Asia Pacific, specifically in China; we are taking a responsibly conservative approach by assuming no material improvement in that part of the business for the remainder of this year"
+      },
+      {
+        "label": "Talc litigation uncertainty and costs",
+        "severity": 3,
+        "evidence": "Results in the quarter were impacted by the updated talc litigation settlement proposal; $1.75 billion charge related to the talc litigation settlement proposal"
+      },
+      {
+        "label": "MedTech margin pressure from acquisitions",
+        "severity": 3,
+        "evidence": "we now anticipate our 2024 adjusted pretax operating margin to decline by approximately 200 basis points"
+      },
+      {
+        "label": "Part D redesign negative impact expected",
+        "severity": 3,
+        "evidence": "We continue to expect a negative impact associated with the Part D redesign"
+      }
+    ],
+    "themes": [
+      "strong_pharma_growth",
+      "pipeline_advancement",
+      "m&a_strategy",
+      "biosimilar_competition",
+      "china_headwinds",
+      "guidance_raised",
+      "medtech_integration",
+      "litigation_resolution",
+      "margin_pressure",
+      "innovation_focus"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 1.0,
+    "risks_jaccard": 1.0,
+    "themes_jaccard": 1.0,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.0,
+    "agreement_score": 1.0,
+    "agreement_confidence": 1.0
+  },
+  "chosen": {
+    "overall_sentiment": 0.65,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+      {
+        "label": "Strong Q3 operational sales growth",
+        "severity": 1,
+        "evidence": "delivered strong results in the third quarter with 6.3% operational sales growth"
+      },
+      {
+        "label": "Innovative Medicine momentum with 11 brands growing double digits",
+        "severity": 1,
+        "evidence": "reported a second consecutive quarter of sales exceeding $14 billion with 11 key brands growing double digits"
+      },
+      {
+        "label": "DARZALEX milestone achievement",
+        "severity": 2,
+        "evidence": "DARZALEX became the first product in our portfolio to reach $3 billion in sales in a single quarter"
+      },
+      {
+        "label": "Multiple regulatory approvals in quarter",
+        "severity": 2,
+        "evidence": "5 major U.S. and EC approvals in the quarter including FDA approval of RYBREVANT plus LAZCLUZE as first-line treatment for EGFR-mutated advanced lung cancer"
+      },
+      {
+        "label": "Increased EPS guidance for third consecutive quarter",
+        "severity": 2,
+        "evidence": "We have increased adjusted operational EPS guidance pre-M&A for the third quarter in a row"
+      }
+    ],
+    "risks": [
+      {
+        "label": "STELARA biosimilar competition and loss of exclusivity",
+        "severity": 4,
+        "evidence": "biosimilar competition has entered Europe as of July, and we anticipate U.S. biosimilar entry in January 2025"
+      },
+      {
+        "label": "China market headwinds and VBP expansion",
+        "severity": 4,
+        "evidence": "continued headwinds in Asia Pacific, specifically in China; we are taking a responsibly conservative approach by assuming no material improvement in that part of the business for the remainder of this year"
+      },
+      {
+        "label": "Talc litigation uncertainty and costs",
+        "severity": 3,
+        "evidence": "Results in the quarter were impacted by the updated talc litigation settlement proposal; $1.75 billion charge related to the talc litigation settlement proposal"
+      },
+      {
+        "label": "MedTech margin pressure from acquisitions",
+        "severity": 3,
+        "evidence": "we now anticipate our 2024 adjusted pretax operating margin to decline by approximately 200 basis points"
+      },
+      {
+        "label": "Part D redesign negative impact expected",
+        "severity": 3,
+        "evidence": "We continue to expect a negative impact associated with the Part D redesign"
+      }
+    ],
+    "themes": [
+      "strong_pharma_growth",
+      "pipeline_advancement",
+      "m&a_strategy",
+      "biosimilar_competition",
+      "china_headwinds",
+      "guidance_raised",
+      "medtech_integration",
+      "litigation_resolution",
+      "margin_pressure",
+      "innovation_focus"
+    ]
+  }
+}

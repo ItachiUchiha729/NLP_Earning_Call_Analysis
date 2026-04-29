@@ -1,0 +1,74 @@
+```json
+{
+  "overall_sentiment": 0.35,
+  "sentiment_bucket": "bullish",
+  "guidance_direction": "lowered",
+  "guidance_confidence": 0.72,
+  "wins": [
+    {
+      "label": "Running business momentum",
+      "severity": 2,
+      "evidence": "Nike Running growing over 20% this quarter"
+    },
+    {
+      "label": "North America wholesale recovery",
+      "severity": 2,
+      "evidence": "Wholesale grew 11% in North America, spring order book is up year-over-year"
+    },
+    {
+      "label": "Marketplace inventory health",
+      "severity": 2,
+      "evidence": "Inventory decreased 2% versus prior year, units down in North America, EMEA and Greater China"
+    },
+    {
+      "label": "Sport Offense organizational restructuring",
+      "severity": 2,
+      "evidence": "Realigned approximately 8,000 teammates to Sport Offense in early September"
+    },
+    {
+      "label": "Digital promotional discipline",
+      "severity": 2,
+      "evidence": "Reduced number of site-wide promotion days by more than 50 and lowering markdown rates"
+    }
+  ],
+  "risks": [
+    {
+      "label": "Tariff headwinds escalating",
+      "severity": 5,
+      "evidence": "Gross incremental cost to NIKE on annualized basis now approximately $1.5 billion, up from $1 billion, increasing gross margin headwind from 75 to 120 basis points"
+    },
+    {
+      "label": "Greater China structural decline",
+      "severity": 5,
+      "evidence": "Greater China revenue declined 10%, NIKE Direct down 12%, NIKE Digital down 27%, EBIT declined 25%"
+    },
+    {
+      "label": "NIKE Digital traffic collapse",
+      "severity": 4,
+      "evidence": "Organic traffic has slowed, NIKE Digital declining 12% in Q1, expected to face more significant headwind in Q2"
+    },
+    {
+      "label": "Sportswear business weakness",
+      "severity": 4,
+      "evidence": "Sportswear business continues to decline, classic footwear franchises managing 30% decline in North America"
+    },
+    {
+      "label": "Cautious consumer environment",
+      "severity": 3,
+      "evidence": "We are turning our business around in the face of a cautious consumer, tariff uncertainty and teams that are still settling into the Sport Offense"
+    }
+  ],
+  "themes": [
+    "sport-centric strategy",
+    "organizational restructuring",
+    "marketplace elevation",
+    "tariff headwinds",
+    "china turnaround",
+    "digital repositioning",
+    "inventory normalization",
+    "wholesale partnership",
+    "brand marketing investment",
+    "margin pressure"
+  ]
+}
+```

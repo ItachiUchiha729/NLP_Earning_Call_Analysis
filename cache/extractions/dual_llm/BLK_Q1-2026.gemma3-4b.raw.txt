@@ -1,0 +1,69 @@
+```json
+{
+    "overall_sentiment": 0.75,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.85,
+    "wins": [
+        {
+            "label": "Strong Q1 2026 Results",
+            "severity": 4,
+            "evidence": "First quarter revenue, operating income and earnings per share grew double digits. Our first quarter revenue of $6.7 billion increased 27% year-over-year, driven by organic growth, the impact of higher markets on average AUM, the acquisitions of HPS and Preqin, and higher technology services and subscription revenue."
+        },
+        {
+            "label": "Record iShares Net Inflows",
+            "severity": 5,
+            "evidence": "BlackRock generated total net inflows of $130 billion in the first quarter, led by strength across ETFs, active and private markets."
+        },
+        {
+            "label": "Margin Expansion",
+            "severity": 4,
+            "evidence": "BlackRock’s as-adjusted operating margin of 44.5% was up 130 basis points from a year ago, reflecting the positive impact of markets on revenue and strong organic base fee growth."
+        },
+        {
+            "label": "High Organic Base Fee Growth",
+            "severity": 5,
+            "evidence": "Organic base fee growth remains well above target and margin expansion continues to reflect the operating leverage built into our model.  We grew revenue and operating income double digits.  Organic base fee growth reached 10% over the last 12 months."
+        },
+        {
+            "label": "Aperio and SpiderRock Performance",
+            "severity": 4,
+            "evidence": "Aperio generated a record $13 billion of net inflows and SpiderRock added over $1 billion in the quarter."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Market Volatility",
+            "severity": 4,
+            "evidence": "The first quarter of 2026 unfolded in a more volatile market environment. Markets showed heightened sensitivity to incremental economic data with volatility rising across rates, equities and currencies. There is real impactful geopolitical uncertainty."
+        },
+        {
+            "label": "Geopolitical Uncertainty",
+            "severity": 3,
+            "evidence": "There's both excitement and anxiety about how artificial intelligence will impact day-to-day lives and business models. As capital reallocates and assumptions are challenged, markets can feel unsettled even when underlying fundamentals are sound."
+        },
+        {
+            "label": "Interest Rate Sensitivity",
+            "severity": 4,
+            "evidence": "Markets showed heightened sensitivity to incremental economic data with volatility rising across rates, equities and currencies."
+        },
+        {
+            "label": "Retail Redemptions",
+            "severity": 3,
+            "evidence": "Institutional index net outflows of $35 billion were concentrated in low-fee index equities."
+        },
+        {
+            "label": "Private Credit Risks",
+            "severity": 4,
+            "evidence": "Private credit has historically offered asset level yields that are approximately 150 basis points higher than comparable rated traditional fixed income."
+        }
+    ],
+    "themes": [
+        "Growth",
+        "Performance",
+        "Innovation",
+        "Diversification",
+        "Retirement"
+    ]
+}
+```

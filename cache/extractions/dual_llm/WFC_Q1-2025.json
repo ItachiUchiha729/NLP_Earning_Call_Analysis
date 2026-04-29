@@ -1,0 +1,234 @@
+{
+  "_ticker": "WFC",
+  "_quarter": "Q1-2025",
+  "_call_date": "2025-04-11",
+  "backend": "anthropic",
+  "primary_model": "gemma3:4b",
+  "secondary_model": "gemma3:4b",
+  "single_call_mode": true,
+  "primary": {
+    "overall_sentiment": 0.55,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.65,
+    "wins": [
+      {
+        "label": "Strong EPS growth and capital returns",
+        "severity": 2,
+        "evidence": "diluted earnings per share up 16% from a year ago...returned $4.8 billion of capital to shareholders through dividends and share repurchases"
+      },
+      {
+        "label": "Consent order progress reducing management burden",
+        "severity": 2,
+        "evidence": "5 consent orders were terminated in the first quarter...11 orders have been terminated since 2019"
+      },
+      {
+        "label": "Fee revenue diversification succeeding",
+        "severity": 2,
+        "evidence": "grew our fee-based revenue across many of our businesses, reflecting the benefit of the investments we've been making to diversify revenues"
+      },
+      {
+        "label": "Credit performance improving",
+        "severity": 2,
+        "evidence": "credit performance improved during the quarter with lower net charge-offs...net loan charge-off ratio down 5 basis points from a year ago"
+      },
+      {
+        "label": "First loan growth in two years",
+        "severity": 2,
+        "evidence": "first time we have seen growth in average loans since first quarter 2023"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Net interest income pressure and uncertainty",
+        "severity": 4,
+        "evidence": "we currently expect our full-year 2025 net interest income to be in the low end of the range...huge unknowns...volatile time"
+      },
+      {
+        "label": "Economic uncertainty and potential slowdown",
+        "severity": 4,
+        "evidence": "we will face continued volatility and uncertainty and are prepared for a slower economic environment in 2025...less affluent customers show more stress"
+      },
+      {
+        "label": "Trade policy and tariff risks",
+        "severity": 3,
+        "evidence": "there are certainly risks associated with such significant actions, and we see concern playing out in the markets and the economic uncertainty that now exists"
+      },
+      {
+        "label": "Asset cap limiting balance sheet growth",
+        "severity": 3,
+        "evidence": "we have limited our ability to grow, the ability to finance customers and our trading businesses and associated inventory"
+      },
+      {
+        "label": "Venture capital portfolio volatility",
+        "severity": 2,
+        "evidence": "impairments in the venture capital portfolio...that number can be a little volatile quarter-to-quarter"
+      }
+    ],
+    "themes": [
+      "risk_and_control_remediation",
+      "fee_revenue_diversification",
+      "credit_discipline",
+      "capital_management",
+      "regulatory_uncertainty",
+      "economic_slowdown_preparation",
+      "asset_cap_constraint",
+      "management_succession",
+      "deposit_cost_management",
+      "investment_banking_growth"
+    ]
+  },
+  "secondary": {
+    "overall_sentiment": 0.55,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.65,
+    "wins": [
+      {
+        "label": "Strong EPS growth and capital returns",
+        "severity": 2,
+        "evidence": "diluted earnings per share up 16% from a year ago...returned $4.8 billion of capital to shareholders through dividends and share repurchases"
+      },
+      {
+        "label": "Consent order progress reducing management burden",
+        "severity": 2,
+        "evidence": "5 consent orders were terminated in the first quarter...11 orders have been terminated since 2019"
+      },
+      {
+        "label": "Fee revenue diversification succeeding",
+        "severity": 2,
+        "evidence": "grew our fee-based revenue across many of our businesses, reflecting the benefit of the investments we've been making to diversify revenues"
+      },
+      {
+        "label": "Credit performance improving",
+        "severity": 2,
+        "evidence": "credit performance improved during the quarter with lower net charge-offs...net loan charge-off ratio down 5 basis points from a year ago"
+      },
+      {
+        "label": "First loan growth in two years",
+        "severity": 2,
+        "evidence": "first time we have seen growth in average loans since first quarter 2023"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Net interest income pressure and uncertainty",
+        "severity": 4,
+        "evidence": "we currently expect our full-year 2025 net interest income to be in the low end of the range...huge unknowns...volatile time"
+      },
+      {
+        "label": "Economic uncertainty and potential slowdown",
+        "severity": 4,
+        "evidence": "we will face continued volatility and uncertainty and are prepared for a slower economic environment in 2025...less affluent customers show more stress"
+      },
+      {
+        "label": "Trade policy and tariff risks",
+        "severity": 3,
+        "evidence": "there are certainly risks associated with such significant actions, and we see concern playing out in the markets and the economic uncertainty that now exists"
+      },
+      {
+        "label": "Asset cap limiting balance sheet growth",
+        "severity": 3,
+        "evidence": "we have limited our ability to grow, the ability to finance customers and our trading businesses and associated inventory"
+      },
+      {
+        "label": "Venture capital portfolio volatility",
+        "severity": 2,
+        "evidence": "impairments in the venture capital portfolio...that number can be a little volatile quarter-to-quarter"
+      }
+    ],
+    "themes": [
+      "risk_and_control_remediation",
+      "fee_revenue_diversification",
+      "credit_discipline",
+      "capital_management",
+      "regulatory_uncertainty",
+      "economic_slowdown_preparation",
+      "asset_cap_constraint",
+      "management_succession",
+      "deposit_cost_management",
+      "investment_banking_growth"
+    ]
+  },
+  "agreement": {
+    "wins_jaccard": 1.0,
+    "risks_jaccard": 1.0,
+    "themes_jaccard": 1.0,
+    "guidance_match": 1.0,
+    "sentiment_gap": 0.0,
+    "agreement_score": 1.0,
+    "agreement_confidence": 1.0
+  },
+  "chosen": {
+    "overall_sentiment": 0.55,
+    "sentiment_bucket": "bullish",
+    "guidance_direction": "reaffirmed",
+    "guidance_confidence": 0.65,
+    "wins": [
+      {
+        "label": "Strong EPS growth and capital returns",
+        "severity": 2,
+        "evidence": "diluted earnings per share up 16% from a year ago...returned $4.8 billion of capital to shareholders through dividends and share repurchases"
+      },
+      {
+        "label": "Consent order progress reducing management burden",
+        "severity": 2,
+        "evidence": "5 consent orders were terminated in the first quarter...11 orders have been terminated since 2019"
+      },
+      {
+        "label": "Fee revenue diversification succeeding",
+        "severity": 2,
+        "evidence": "grew our fee-based revenue across many of our businesses, reflecting the benefit of the investments we've been making to diversify revenues"
+      },
+      {
+        "label": "Credit performance improving",
+        "severity": 2,
+        "evidence": "credit performance improved during the quarter with lower net charge-offs...net loan charge-off ratio down 5 basis points from a year ago"
+      },
+      {
+        "label": "First loan growth in two years",
+        "severity": 2,
+        "evidence": "first time we have seen growth in average loans since first quarter 2023"
+      }
+    ],
+    "risks": [
+      {
+        "label": "Net interest income pressure and uncertainty",
+        "severity": 4,
+        "evidence": "we currently expect our full-year 2025 net interest income to be in the low end of the range...huge unknowns...volatile time"
+      },
+      {
+        "label": "Economic uncertainty and potential slowdown",
+        "severity": 4,
+        "evidence": "we will face continued volatility and uncertainty and are prepared for a slower economic environment in 2025...less affluent customers show more stress"
+      },
+      {
+        "label": "Trade policy and tariff risks",
+        "severity": 3,
+        "evidence": "there are certainly risks associated with such significant actions, and we see concern playing out in the markets and the economic uncertainty that now exists"
+      },
+      {
+        "label": "Asset cap limiting balance sheet growth",
+        "severity": 3,
+        "evidence": "we have limited our ability to grow, the ability to finance customers and our trading businesses and associated inventory"
+      },
+      {
+        "label": "Venture capital portfolio volatility",
+        "severity": 2,
+        "evidence": "impairments in the venture capital portfolio...that number can be a little volatile quarter-to-quarter"
+      }
+    ],
+    "themes": [
+      "risk_and_control_remediation",
+      "fee_revenue_diversification",
+      "credit_discipline",
+      "capital_management",
+      "regulatory_uncertainty",
+      "economic_slowdown_preparation",
+      "asset_cap_constraint",
+      "management_succession",
+      "deposit_cost_management",
+      "investment_banking_growth"
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+    "overall_sentiment": 0.85,
+    "sentiment_bucket": "very_bullish",
+    "guidance_direction": "raised",
+    "guidance_confidence": 0.95,
+    "wins": [
+        {
+            "label": "AI Semiconductor Growth",
+            "severity": 5,
+            "evidence": "AI revenue grew 65% year-over-year to $20 billion, driving the semiconductor revenue for this company to a record $37 billion for the year."
+        },
+        {
+            "label": "Strong Backlog",
+            "severity": 5,
+            "evidence": "We have $73 billion of backlog in place secured of XPUs, switches, DSPs, lasers for AI data centers that we anticipate shipping over the next 18 months."
+        },
+        {
+            "label": "Revenue Guidance Increase",
+            "severity": 4,
+            "evidence": "We expect consolidated revenue of approximately $19.1 billion for Q1, up 28% year-on-year."
+        },
+        {
+            "label": "Dividend Increase",
+            "severity": 3,
+            "evidence": "We are announcing an increase in our quarterly common stock cash dividend in Q1 fiscal 2026 to $0.65 per share, an increase of 10% from the prior quarter."
+        },
+        {
+            "label": "Infrastructure Software Growth",
+            "severity": 4,
+            "evidence": "Infrastructure software revenue was up 19% year-on-year and represented 39% of total revenue."
+        }
+    ],
+    "risks": [
+        {
+            "label": "Non-AI Semiconductor Stagnation",
+            "severity": 3,
+            "evidence": "Non-AI semiconductor revenue is expected to be flat from a year ago, down sequentially due to wireless seasonality."
+        },
+        {
+            "label": "Supply Chain Constraints",
+            "severity": 3,
+            "evidence": "We have to address critical supply chain on silicon and packaging, which is an interesting challenge that we have been addressing constantly."
+        },
+        {
+            "label": "Gross Margin Pressure",
+            "severity": 3,
+            "evidence": "AI revenue has a lower gross margin than the rest of our business, and we expect gross margin to start to deteriorate as AI revenue ramps."
+        },
+        {
+            "label": "Customer Customization",
+            "severity": 2,
+            "evidence": "Some customers prefer to control their own destiny by continuing to drive their multiyear journey to create their own custom AI accelerators."
+        },
+        {
+            "label": "Market Competition",
+            "severity": 2,
+            "evidence": "Competitors are also investing in custom silicon and photonic fabric technology, which could potentially disrupt the market."
+        }
+    ],
+    "themes": ["AI growth", "semiconductor demand", "dividend increase", "infrastructure software", "supply chain challenges"]
+}

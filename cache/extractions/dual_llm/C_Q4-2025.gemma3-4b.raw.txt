@@ -1,0 +1,69 @@
+```json
+{
+  "overall_sentiment": 0.25,
+  "sentiment_bucket": "bullish",
+  "guidance_direction": "raised",
+  "guidance_confidence": 0.85,
+  "wins": [
+    {
+      "label": "Strong Financial Performance",
+      "severity": 4,
+      "evidence": "We reported net income of $2.5 billion, EPS of $1.19 and an RoTCE of 5.1% on $19.9 billion of revenues, generating positive operating leverage for the majority of our 5 businesses."
+    },
+    {
+      "label": "Improved Returns",
+      "severity": 5,
+      "evidence": "Our returns improved to 8.8%, a 180 basis point improvement after adjusting for Banamex and Russia, and adjusted net income surpassed $16 billion."
+    },
+    {
+      "label": "Positive Operating Leverage",
+      "severity": 4,
+      "evidence": "We delivered positive operating leverage in every 1 of our 5 businesses as well as the firm overall for the second straight year."
+    },
+    {
+      "label": "Record Revenues",
+      "severity": 4,
+      "evidence": "Each business had record revenues and improved their returns by between 250 and 800 basis points."
+    },
+    {
+      "label": "Services Performance",
+      "severity": 5,
+      "evidence": "Services continued to deliver with revenues up 8% and an RoTCE of over 28% for the year."
+    }
+  ],
+  "risks": [
+    {
+      "label": "Macroeconomic Uncertainty",
+      "severity": 3,
+      "evidence": "Turning to the macro. The global economy has powered through many shocks over the past few years, creating optimism and confidence that economic growth is poised to continue."
+    },
+    {
+      "label": "Market Volatility",
+      "severity": 4,
+      "evidence": "Fixed income revenues were down 1% despite a challenging year for us in commodities."
+    },
+    {
+      "label": "Competition in Wealth Management",
+      "severity": 3,
+      "evidence": "Net new investment asset flows slowed to $7.2 billion in the quarter, consistent with typical seasonality."
+    },
+    {
+      "label": "Potential for Rate Cuts",
+      "severity": 2,
+      "evidence": "With inflation now at normal levels globally, almost every central bank is becoming more accommodating."
+    },
+    {
+      "label": "China Economic Slowdown",
+      "severity": 3,
+      "evidence": "China's relying on exports to grow and compensate for slower domestic consumer demand."
+    }
+  ],
+  "themes": [
+    "Transformation",
+    "Efficiency",
+    "Growth",
+    "Innovation",
+    "Capital Returns"
+  ]
+}
+```

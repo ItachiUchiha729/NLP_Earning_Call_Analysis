@@ -1,0 +1,68 @@
+```json
+{
+  "overall_sentiment": 0.92,
+  "sentiment_bucket": "very_bullish",
+  "guidance_direction": "raised",
+  "guidance_confidence": 0.95,
+  "wins": [
+    {
+      "label": "Exceptional revenue acceleration",
+      "severity": 5,
+      "evidence": "Revenue grew 36% year-over-year in Q4, exceeding high end of prior guidance by over 900 basis points"
+    },
+    {
+      "label": "Record profitability and cash generation",
+      "severity": 5,
+      "evidence": "Adjusted operating margin expanded to 45%, strongest in company history; adjusted free cash flow margin of 63% in Q4"
+    },
+    {
+      "label": "U.S. commercial momentum",
+      "severity": 5,
+      "evidence": "U.S. commercial revenue grew 64% year-over-year; U.S. commercial TCV booked $803 million, 134% year-over-year growth"
+    },
+    {
+      "label": "Rule of 40 score doubled",
+      "severity": 4,
+      "evidence": "Rule of 40 score increased to 81 in Q4, a 13-point sequential increase from 68 in Q3"
+    },
+    {
+      "label": "Strong customer expansion and retention",
+      "severity": 4,
+      "evidence": "Net dollar retention at 120%, up 200 basis points; customer count grew 43% year-over-year to 711 customers"
+    }
+  ],
+  "risks": [
+    {
+      "label": "International commercial weakness",
+      "severity": 3,
+      "evidence": "International commercial revenue grew only 3% year-over-year in Q4; Europe described as anemic at 4% growth"
+    },
+    {
+      "label": "Strategic commercial contract decline",
+      "severity": 2,
+      "evidence": "Strategic commercial contracts expected to decline from $24 million in Q1 2024 to $4-6 million in Q1 2025"
+    },
+    {
+      "label": "Significant expense increase planned",
+      "severity": 3,
+      "evidence": "Expect more significant increase in expense in 2025 as we invest in technical hires and product pipeline"
+    },
+    {
+      "label": "Geopolitical and regulatory uncertainty",
+      "severity": 2,
+      "evidence": "Operating in complicated environment with references to competition with China and need for reindustrialization"
+    }
+  ],
+  "themes": [
+    "AI_revolution",
+    "ontology_differentiation",
+    "enterprise_autonomy",
+    "U.S._government_strength",
+    "commercial_acceleration",
+    "profitability_expansion",
+    "manufacturing_warp_speed",
+    "international_headwinds",
+    "rule_of_40_excellence"
+  ]
+}
+```

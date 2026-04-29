@@ -1,0 +1,69 @@
+```json
+{
+  "overall_sentiment": 0.35,
+  "sentiment_bucket": "bullish",
+  "guidance_direction": "raised",
+  "guidance_confidence": 0.85,
+  "wins": [
+    {
+      "label": "Consistent Margin Expansion & Operating Income Growth",
+      "severity": 4,
+      "evidence": "“We delivered operating income growth and margin expansion in a declining revenue environment. This is a very positive dynamic and a unique one in our industry.”"
+    },
+    {
+      "label": "Drive Initiatives Delivering Savings",
+      "severity": 5,
+      "evidence": "“We delivered $550 million of benefits from DRIVE, offsetting the impact of revenue declines and cost pressures.”"
+    },
+    {
+      "label": "Ground Segment Performance",
+      "severity": 4,
+      "evidence": "“At Ground, adjusted operating income increased 14% on 1% revenue growth and adjusted operating margin improved to over 11% in the quarter.”"
+    },
+    {
+      "label": "Network 2.0 Implementation Progress",
+      "severity": 3,
+      "evidence": "“We rolled out our new surface operations leadership structure. Under this new structure, leaders and their teams will be responsible for all Express and Ground package operations and facilities in their respective divisions, regions and districts.”"
+    },
+    {
+      "label": "Weather Contingency Playbook Effectiveness",
+      "severity": 4,
+      "evidence": "“By combining the power of digital insights and predictive analytics with our physical network, we effectively mitigated the impact of the January winter storm that hit our Express hub in Memphis, by shifting Memphis down Express volume to ground our freight at the origin location.”"
+    }
+  ],
+  "risks": [
+    {
+      "label": "Declining Revenue",
+      "severity": 5,
+      "evidence": "“revenue declined 2%”"
+    },
+    {
+      "label": "International Export Yield Pressure",
+      "severity": 4,
+      "evidence": "“we assume a low single-digit percentage decline in revenue for the full year.”"
+    },
+    {
+      "label": "Postal Service Contract Uncertainty",
+      "severity": 4,
+      "evidence": "“Our current contract with the United States Postal Service, expires on September 29. We have made significant progress in negotiations for a new contract that aligns with our ongoing network transformation plan while providing the USPS with the operational reliability and outstanding service we have delivered for them for more than 2 decades.”"
+    },
+    {
+      "label": "E-commerce Shift to Deferred Services",
+      "severity": 3,
+      "evidence": "“We’re seeing a clear international market shift towards deferred services.”"
+    },
+    {
+      "label": "Inflationary Pressure",
+      "severity": 4,
+      "evidence": "“experienced over $200 million of inflationary pressure on a year-over-year basis.”"
+    }
+  ],
+  "themes": [
+    "transformation",
+    "cost optimization",
+    "network redesign",
+    "digitalization",
+    "supply chain resilience"
+  ]
+}
+```
