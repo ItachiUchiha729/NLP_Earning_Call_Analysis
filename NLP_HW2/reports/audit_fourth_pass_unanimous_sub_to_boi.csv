@@ -1,0 +1,2 @@
+sentence_id,transcript,sentence,gold_label,vague_hits,sub_hits,boi_hits,oof_xgb,suggested_label
+386028fa5134,NKE_Q1-2026,"We excited sneaker fans with a retro launch of Agassi' Tech Challenge sneakers, and we brought it all together in New York's House of Innovation in an immersive tennis experience.",substantive,2,0,0,,boilerplate

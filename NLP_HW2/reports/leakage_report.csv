@@ -1,0 +1,16 @@
+check,value,status
+sentence_id_overlap_train_val,0,PASS
+sentence_id_overlap_train_test,0,PASS
+sentence_id_overlap_val_test,0,PASS
+exact_text_overlap_train_val,0,PASS
+exact_text_overlap_train_test,0,PASS
+exact_text_overlap_val_test,0,PASS
+normalized_text_overlap_train_val,0,PASS
+normalized_text_overlap_train_test,0,PASS
+normalized_text_overlap_val_test,0,PASS
+near_dup_val_vs_train_ge_0.98,0,PASS
+near_dup_test_vs_train_ge_0.98,0,PASS
+model_oof_test_shape_alignment,0,PASS
+transcript_overlap_train_val_info,126,INFO
+transcript_overlap_train_test_info,128,INFO
+transcript_overlap_val_test_info,123,INFO
